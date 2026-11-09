@@ -1,0 +1,86 @@
+[
+ {
+  "id": 738,
+  "date": "2022-06-01T16:56:22",
+  "date_gmt": "2022-06-01T07:56:22",
+  "guid": {
+   "rendered": "https://rpgmakerofficial.com/?post_type=case_studies&#038;p=738"
+  },
+  "modified": "2022-06-01T16:56:22",
+  "modified_gmt": "2022-06-01T07:56:22",
+  "slug": "%e7%ac%ac%ef%bc%91%e5%9b%9e-%e3%83%bb%e6%9b%b8%e7%b1%8d%e3%80%8e%e8%89%af%e3%81%84%e3%82%b3%e3%83%bc%e3%83%89%ef%bc%8f%e6%82%aa%e3%81%84%e3%82%b3%e3%83%bc%e3%83%89%e3%81%a7%e5%ad%a6%e3%81%b6%e8%a8%ad",
+  "status": "publish",
+  "type": "case_studies",
+  "link": "https://rpgmakerofficial.com/case_studies/738/",
+  "title": {
+   "rendered": "第１回 ・書籍『良いコード／悪いコードで学ぶ設計入門 ―保守しやすい 成長し続けるコードの書き方』"
+  },
+  "content": {
+   "rendered": "<div class=\"common--container\">\r\n  <div class=\"common--line-title\">\r\n    <h2 class=\"common--line-title-text\">バグハンター2 REBOOT【<a href=\"https://rpgmakerofficial.com/product/mv/\" rel=\"noopener\" target=\"_blank\">RPGツクールMV作品</a>】</h2>\r\n    <p class=\"common--line-title-line\">\r\n  </div>\r\n  <div class=\"common--deco-title\">\r\n    <h2 class=\"common--deco-title-text\">制作者：ミノ駆動さん</h2>\r\n  </div>\r\n\r\n  <div class=\"common--container-text\">\r\n    ツクールの活用事例、記念すべき第１回では、ツクールで制作されたゲームがキッカケとなって、プログラムに関する書籍を執筆、出版されることになったミノ駆動さんの『良いコード／悪いコードで学ぶ設計入門 ―保守しやすい 成長し続けるコードの書き方』をご紹介します。</br>\r\n  </div>\r\n\r\n  <ul class=\"common--pict-list\">\r\n    <li class=\"common--pict-list__item\"><img decoding=\"async\" src=\"https://rpgmakerofficial.com/wp-content/uploads/2022/05/examples01_00.png\" alt=\"ScreenShot\"></li>\r\n    <li class=\"common--pict-list__item\"><img decoding=\"async\" src=\"https://rpgmakerofficial.com/wp-content/uploads/2022/05/examples01_03.png\" alt=\"ScreenShot\"></li>\r\n  </ul>\r\n\r\n</br>\r\n\r\n  <h3 class=\"common--container-subtit\">『良いコード／悪いコードで学ぶ設計入門 ―保守しやすい 成長し続けるコードの書き方』ご紹介</h3>\r\n\r\n  <div class=\"common--container-text img-left\">\r\n    <p class=\"common--container-text__img\"><img decoding=\"async\" src=\"https://rpgmakerofficial.com/wp-content/uploads/2022/05/examples01_06.png\" alt=\"ScreenShot\"></p>\r\n   ソフト開発者向けの開発力を高めるための「設計」の入門書。ソースコードとは、実際に記述されるプログラムそのものを指す用語です。</br>\r\n</br>\r\n無計画に組んでしまうと、あとからバグを直しにくくなるなどツクールと同じような ”あるある” がたくさんあります。この書籍では、ゲーム的なアプローチを取り入れつつ、コードの構造について丁寧に解説されています。\r\n    </br>\r\n  </div>\r\n\r\n  <h3 class=\"common--container-subtit\">＜インタビュー：ミノ駆動さん＞</h3>\r\n\r\n  <ol class=\"common--container-numlist\">\r\n    <li><strong>書籍の執筆に至った経緯を教えてください</strong></li>\r\n    <p>\r\n        <em></br>RPGツクールMVで制作した『クソコード動画』が、書籍執筆のきっかけです。</br>\r\n</br>\r\nプログラマは、常にバグとの戦いです。いかにバグを埋め込まずにプログラミングするかが課題です。RPGツクール用のプラグインを開発している方も同じ悩みをお持ちでしょう。</br>\r\n</br>\r\n私はバグを埋め込みにくいプログラム構造を設計する仕事をしています。バグを埋め込みやすいプログラムは、「クソコード」と揶揄されます。クソコードを風刺した『クソコード動画』をRPGツクールで制作しTwitterに投稿したところ、多いものでは1.5万RT、70万回以上再生され、大変な人気となりました。</br>\r\n</br>\r\nそんなクソコード動画が技術評論社の編集者さんの目にとまり、「動画を書籍化してみませんか」とのご提案を受けるに至りました。</br>\r\n</br>\r\n書籍化には、企画を通す必要があります。企画を通せるだけの、売れるに値する十分な内容案を用意してほしいと、編集者さんから相談されました。</br>\r\n</br>\r\n私はかねてからRPGツクールMVで『バグハンター2 REBOOT』を制作していました。このゲームでは、クソコードやバグがモンスターとして登場します。モンスターの一覧と簡単な解説を企画書に載せて提出したところ、即企画が通り、執筆開始となったのです。</br>\r\n</em>\r\n    </br>\r\n    </br>\r\n    </p>\r\n        <li><strong>ツクールを使ってよかったなと思うことをひとつ、教えてください</strong></li>\r\n    <p>\r\n        <em></br>作品制作が、多くの方々や貴重な機会との出会いにつながっていることです。RPGツクールは、私にとって出会いをツクるツールです。</br>\r\n</br>\r\nクソコード動画は、書籍執筆以外にも多くの機会を私にもたらしました。「Object-Oriented Conference 2020」や日本CTO協会主催の「Developer eXperience Day 2021」といった、IT系大型イベントの登壇発表でも私はクソコード動画を活用し、イベント活性化に貢献しました。</br>\r\n</br>\r\n『RPGツクールフェス』のコンテストでは、多くのツクラーとの出会いがありました。彼らの作品は、どれも商用ゲームには見られない奇抜で斬新なものばかりで、大変刺激を受けました。クソコード動画の作風は、彼らから受けた刺激が大きく影響しています。ツクラーの皆さんとの出会いがなければ、クソコード動画を制作することも、大型ITイベントで登壇し発表することも、書籍を執筆することもなかったでしょう。</br>\r\n</br>\r\n思いついたアイデアをサッと制作し、表現の場で踊らせる、そしてそれが多くの方々や貴重な機会との出会いにつながる。そんな大きな可能性を秘めたツールがRPGツクールだと私は思います。</br>\r\n</em>\r\n    </p>\r\n  </ol>\r\n\r\n  <div class=\"common--container-text\">\r\n    <b>ご回答、ありがとうございました。</b></br>\r\n</br>\r\n  </div>\r\n\r\n  <h3 class=\"common--container-subtit\">『バグハンター2 REBOOT』ご紹介</h3>\r\n\r\n  <div class=\"common--container-text img-left\">\r\n    <p class=\"common--container-text__img\"><img decoding=\"async\" src=\"https://rpgmakerofficial.com/wp-content/uploads/2022/05/examples01_01.png\" alt=\"ScreenShot\"></p>\r\n   ニンテンドー3DS版『RPGツクールフェス』作品をリメイクしたRPG。</br>\r\nゲーム研究部に入部した主人公がバグを探知できる「バグサーチャー」を身につけて、ゲームのバグ退治に挑む！　遊んでいるだけで、プログラミング用語に詳しくなることができます。</br>\r\n    </br>\r\n  </div>\r\n\r\n  <ul class=\"common--pict-list\">\r\n    <li class=\"common--pict-list__item\"><img decoding=\"async\" src=\"https://rpgmakerofficial.com/wp-content/uploads/2022/05/examples01_02.png\" alt=\"ScreenShot\"></li>\r\n    <li class=\"common--pict-list__item\"><img decoding=\"async\" src=\"https://rpgmakerofficial.com/wp-content/uploads/2022/05/examples01_04.png\" alt=\"ScreenShot\"></li>\r\n  </ul>\r\n\r\n  <p class=\"common--btn\"><a href=\"https://game.nicovideo.jp/atsumaru/games/gm22047\" target=\"_blank\" rel=\"noopener\">ゲームの配信サイトへ</a></p>\r\n  <br>\r\n  <p class=\"common--btn\"><a href=\"https://gihyo.jp/book/2022/978-4-297-12783-1\" target=\"_blank\" rel=\"noopener\">書籍のサイトへ</a></p>\r\n</div>",
+   "protected": false
+  },
+  "featured_media": 741,
+  "template": "",
+  "display_cat": [
+   10
+  ],
+  "class_list": [
+   "post-738",
+   "case_studies",
+   "type-case_studies",
+   "status-publish",
+   "has-post-thumbnail",
+   "hentry",
+   "display_cat-new"
+  ],
+  "acf": [],
+  "aioseo_notices": [],
+  "_links": {
+   "self": [
+    {
+     "href": "https://rpgmakerofficial.com/wp-json/wp/v2/case_studies/738",
+     "targetHints": {
+      "allow": [
+       "GET"
+      ]
+     }
+    }
+   ],
+   "collection": [
+    {
+     "href": "https://rpgmakerofficial.com/wp-json/wp/v2/case_studies"
+    }
+   ],
+   "about": [
+    {
+     "href": "https://rpgmakerofficial.com/wp-json/wp/v2/types/case_studies"
+    }
+   ],
+   "wp:featuredmedia": [
+    {
+     "embeddable": true,
+     "href": "https://rpgmakerofficial.com/wp-json/wp/v2/media/741"
+    }
+   ],
+   "wp:attachment": [
+    {
+     "href": "https://rpgmakerofficial.com/wp-json/wp/v2/media?parent=738"
+    }
+   ],
+   "wp:term": [
+    {
+     "taxonomy": "display_cat",
+     "embeddable": true,
+     "href": "https://rpgmakerofficial.com/wp-json/wp/v2/display_cat?post=738"
+    }
+   ],
+   "curies": [
+    {
+     "name": "wp",
+     "href": "https://api.w.org/{rel}",
+     "templated": true
+    }
+   ]
+  }
+ }
+]

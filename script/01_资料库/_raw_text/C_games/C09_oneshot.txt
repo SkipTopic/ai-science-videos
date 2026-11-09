@@ -1,0 +1,342 @@
+SOURCE: https://en.wikipedia.org/wiki/OneShot
+TITLE: OneShot（英文维基）
+FETCHED: 2026-10-21 17:20:35
+============================================================
+
+OneShot - Wikipedia
+
+Jump to content
+
+From Wikipedia, the free encyclopedia
+
+2016 video game
+
+For similar terms, see One shot .
+
+2016 video game
+
+OneShot
+
+Developer Future Cat LLC
+
+Publisher KOMODO
+
+Producer Mark Conforti
+
+Programmer
+
+Eliza Velasquez
+
+Michael Shirt
+
+Artists
+
+Nightmargin
+
+Eliza Velasquez
+
+Writers
+
+Nightmargin
+
+Eliza Velasquez
+
+Michael Shirt
+
+Composers
+
+Nightmargin
+
+Eliza Velasquez
+
+Michael Shirt
+
+Engine RPG Maker XP
+
+Platforms Windows
+
+macOS
+
+Linux
+
+Nintendo Switch
+
+PlayStation 4
+
+Xbox One
+
+Release Windows
+
+December 8, 2016
+
+macOS
+
+May 31, 2018
+
+Linux
+
+April 24, 2019
+
+Switch, PS4, Xbox One
+
+September 22, 2022
+
+Genres Adventure , puzzle
+
+Mode Single-player
+
+OneShot is a 2016 puzzle adventure game developed by the indie studio Future Cat and published by KOMODO. Based on a free version made on June 30, 2014, it was released for Windows on December 8, 2016.
+
+OneShot ' s gameplay and plot breaks the fourth wall and involve metafictional elements. Many of the puzzles involve interacting with the computer's operating system outside the game, but the console version, or the World Machine edition, has a fake operating system inside of the game. Narratively, the player is separate from the protagonist, Niko. The latter arrives in a world without sunlight and aims to restore it by replacing its sun, a large lightbulb, at the top of a tower.
+
+OneShot was developed in RPG Maker XP . The game was well-received by critics, who praised the story, art, and metafictional aspects of gameplay, including the relationship between the player and Niko. In 2017, the game was nominated for the "PC Game of the Year" category at the Golden Joystick Awards .
+
+A reworked console adaptation , OneShot: World Machine Edition , was released for Nintendo Switch , PlayStation 4 , and Xbox One in September, 2022, on Windows and Linux in September 2024, and on Mac in April 2025.
+
+Gameplay
+[ edit ]
+Some OneShot puzzles break the fourth wall ; in this example, the player has to drag the game's window off-screen to reveal a code. [ 1 ]
+OneShot is a puzzle adventure game. The player controls Niko, a catlike child who is placed in an unfamiliar sunless world. [ 2 ] The game exclusively shows Niko's viewpoint, employing a top-down perspective , [ 3 ] while the player is separate, referred to by the name provided in their user account. Throughout the game, the player can make Niko sleep, causing the program to close; upon reopening, a short dream sequence is played showing Niko's old life with their mother. [ 2 ] [ 4 ]
+
+The gameplay is composed of puzzles involving items. [ 5 ] The player may use items at specific locations or combine them to create a new item. [ 6 ] The player encounters computers, which signal that the player has to find content outside the game, including in the file system . [ 7 ] These can also lead to interacting with the player's operating system in other ways, which include moving the game window off-screen, mimicking developing film , [ 1 ] or changing the desktop wallpaper . [ 7 ] Due to these concepts, the in-game instructions recommend playing in windowed mode instead of fullscreen. [ 6 ] The version designed for consoles, OneShot: World Machine Edition , uses a simulated operating system that allows players to interact with the game like they would with a computer. [ 8 ]
+
+Plot
+[ edit ]
+
+Niko awakes in a dark and unfamiliar house. [ 9 ] They [ a ] interact with an in-game computer, which addresses the player using the current username taken from their computer. [ 2 ] According to the machine, the world that Niko currently resides in is collapsing, and the player's goal is to guide them back to their homeworld. Niko discovers the world's sun, [ 10 ] a lightbulb, and uses it to exit the house, emerging in a wasteland called the Barrens. There, they encounter a robot known as Prophetbot, which tells them that they are prophesied to save the world. Niko's goal is to carry the sun through the world's three areas [ 10 ] and place it at the apex of a central tower to restore daylight. [ 2 ] The robot teaches Niko to communicate with the player, telling Niko that the player is a god of the game's world whose responsibility is to guide the "Messiah" Niko. Niko meets Silver, a more sentient "tamed" robot, who gives them a piece of amber that Niko uses as a guide to the next area.
+Niko in a Glen puzzle, presenting a dark atmosphere
+Now in the arboreal Glen, Niko converses with the area's residents, including siblings Alula and Calamus, who give Niko a glowing feather. Niko uses it to create a feather pen to get past a guard robot, which lets them enter the urbanized third area, the Refuge, and travel down to the city's surface with the aid of a lamplighter . Arriving at a library, they are directed to George and get her attention with the help of researcher Kip Silverpoint. George translates Niko's book, a journal previously obtained from the Barrens. It states that the tower, which is controlled by an "entity", can be accessed using three phosphoric items: the amber, the feather, and a die given by George.
+
+Arriving at the tower, Niko is unable to speak to the player; the entity informs that both have won and that Niko will return home. The player finds a note as their new desktop wallpaper, telling them how to reconnect with Niko. The player reappears and learns from a mysterious figure, "the Author", that the entity has become out of control and destructive. It explains that they can either break the sun and return Niko home, which would destroy the world, or place the sun at the top of the tower, trapping Niko in this world. Niko leaves the decision up to the player, forming the game's endings. If the player chooses to place the sun, the world becomes brighter, and in the credits, the characters are in awe. If the player chooses to destroy the sun, Niko hears their mother's voice outside the game's window before saying goodbye and walking offscreen.
+
+Solstice path
+[ edit ]
+
+After completing the game, a note appears in the user's Documents folder, allowing the player to continue on the alternate Solstice ending path. [ 11 ] The beginning of Solstice is identical to the main game, but Niko already possesses the Author's journal. When Niko meets Silver in the Barrens and enters the mines, they travel to an observation room and meet Proto, an advanced prototype of the prophet robot. Proto reminds Niko of the events of the original storyline, which took place before this repeat. According to them, the world is a simulation, termed the World Machine; this new run is a reset of the machine.
+
+Niko, Silver, and Proto travel to the Glen, but the latter two are crushed by a rockfall. In the Glen, Niko meets Calamus and Alula again and repairs the local mechanic Cedric's plane. Cedric says that his father was the Author, who created the World Machine to replace the previous world after its destruction. Niko and Cedric take his plane to the Refuge, and Cedric uses a backup memory disk to restore Proto, instructing Niko to find Rue, a sentient fox. Rue reveals that the World Machine is the original game's entity, and Niko's presence in the world corrupted it. Cedric and a restored Proto reappear, who, alongside Niko, enter the machine's inner system, "taming" it and reversing its destructive behavior. Niko places the sun at the tower and restores the world, resurrecting the characters that had died, and Niko returns home.
+
+Development and release
+[ edit ]
+
+The game started as freeware . This initial version was made in a month on RPG Maker 2003 and released online on June 30, 2014, by creators Eliza Velasquez and Nightmargin (Casey Gu). [ 12 ] It was developed as an entry for the engine 's 2014 Indie Game Maker Contest, but it did not receive any accolades. [ 13 ] Velasquez and Nightmargin initially believed their version was final, until Degica Games (later becoming KOMODO HAWAI'I) approached them to publish the game. This allowed for additional production time, enabling them to include everything they originally envisioned. [ 14 ]
+
+The 2016 version of OneShot was developed in RPG Maker XP . [ 14 ] Developer Michael Shirt worked alongside Velasquez and Nightmargin to produce the 2016 version of the game; the three make up the indie studio Future Cat. [ 15 ] [ 16 ] It was also produced by Mark Conforti. [ 16 ] Development of this version took 2 and a half years. [ 17 ] In an interview with PC Gamer , Velasquez said that the fourth-wall -breaking nature of OneShot was inspired by Psycho Mantis from Metal Gear Solid , a character known to have telepathic powers by reading the player's memory card . [ 1 ] In an interview with IGN Brasil , along with Metal Gear Solid , Velasquez and Nightmargin also cited Irisu Syndrome , Imscared , and Eternal Darkness: Sanity's Requiem as initial influences. They said the idea of a game where the player talks to their own character originated around 2011. [ 14 ]
+
+After being featured at the Game Developers Conference in March 2016, [ 7 ] OneShot ' s finalized version was released on Steam on December 8. [ 15 ] On March 28, 2017, a new ending that solved mysteries about the story, Solstice, was released. [ 11 ] The game was shown at IndieCade in October. [ 1 ] [ 18 ] The game's macOS version was launched on May 31, 2018, with gameplay intended to be "as close to the Windows version as possible", [ 19 ] and a Linux version was released on April 24, 2019. [ 20 ] Both the Linux and Windows versions were later released on Itch.io on March 12, 2020. [ 21 ]
+
+On December 8, 2021, the developers announced that they were working on a release for Nintendo Switch , PlayStation 4 , and Xbox One incorporating "new features designed for consoles" [ 22 ] To be ported to consoles, the game was completely rebuilt, using a new engine instead of RPG Maker. [ 23 ] On May 11, the next year, the Switch version was revealed as part of Nintendo's Indie World under the title OneShot: World Machine Edition . [ 24 ] Versions for all three consoles were released on September 22. [ 5 ] [ 8 ] A Windows and Linux version of the World Machine Edition was released as a separate purchase in September 2024, including support for the Steam Deck , which was previously unable to play the game. [ 23 ] [ 25 ] On April 25, 2025, this was released on macOS . [ 26 ]
+
+Reception
+[ edit ]
+
+Reception
+
+Aggregate scores
+Aggregator Score
+
+Metacritic PC: 80/100 [ 27 ]
+
+NS : 92/100 [ 28 ]
+
+OpenCritic 93% recommend [ 29 ]
+
+Review scores
+Publication Score
+
+Adventure Gamers 3.5/5 (PC) [ 30 ]
+
+GamesMaster 91% (PC) [ 31 ]
+
+Hardcore Gamer 4.5/5 (PC) [ 10 ]
+
+MeriStation 7/10 (PC) [ 4 ]
+
+Nintendo Life 9/10 (NS) [ 5 ]
+
+TouchArcade 4.5/5 (NS) [ 32 ]
+
+Vandal 7/10 (PC) [ 13 ]
+
+According to the review aggregator website Metacritic , the original Windows version of OneShot received "generally favorable reviews", with a score of 80 out of 100 based on eight reviews, [ 27 ] while the World Machine Edition released for the Nintendo Switch received "universal acclaim", with a score of 92 out of 100 based on five reviews. [ 28 ] The game has a 93% approval rating on OpenCritic based on 16 reviews. [ 29 ]
+
+The story and characters were praised. Borja Ruete of MeriStation described the script as well-written and captivating for the game's short length. [ 4 ] He found the relationship between the player and Niko interesting, [ 4 ] while Zoe Delahunty-Light of GamesMaster said that it was "lovely" forming a friendship with Niko throughout the game. [ 31 ] Hardcore Gamer reviewer Spencer Rutledge described the story as easily conveying emotion. [ 10 ] Rock Paper Shotgun ' s John Walker and Ramón Nafria of Vandal stated that its cast was of a wholesome, likeable nature. [ 2 ] [ 13 ] Conversely, Adventure Gamers reviewer Pascal Tekaia thought that the "alien feel" of the game made it difficult to relate to. [ 30 ]
+
+Opinions on the art direction were positive. Rutledge commended the art, [ 10 ] while Delahunty-Light described the landscapes as enchanting. [ 31 ] Although he found the thematic coloration interesting, Tekaia claimed the overall direction was too modest, with many of the game's environments being unnecessarily simple. [ 30 ] Ruete praised the character and setting design but criticized that the graphics were repetitive as a result of the game being developed in RPG Maker. [ 4 ] Nafria wrote that the graphics were humble but kept players hooked. [ 13 ]
+
+The gameplay received mostly positive responses, especially for its metafictional elements. Walker felt that his experience with OneShot ' s fourth-wall breaking gameplay was unique, [ 2 ] and Delahunty-Light described it as immersive. [ 31 ] Tekaia praised these interactions but opined that some players might dislike its interference with their computer. [ 30 ] Nafria said that this aspect is one of the game's advantages, but criticized that walking around the game's individual environments felt tedious and unintuitive. [ 13 ]
+
+The soundtrack divided critics. Rutledge stated that the game's soundtrack matched its mood, with each area having an appropriate theme. [ 10 ] Tekaia said that although it was restricted, the sound design paired well with it. [ 30 ] In more negative notes, Ruete described it as monotonous [ 4 ] and Nafria stated that it was generic and "not brilliant". [ 13 ] Delahunty-Light described it as "haunting" and "nightmarish". [ 31 ]
+
+Regarding the Nintendo Switch World Machine edition, which has a simulated operating system, Lowell Bell of Nintendo Life criticized the cursor's controls and the in-game windows' size, adding that the pixelated details in windowed mode were hard to see, especially with a Switch outside its dock . [ 5 ] Shaun Musgrave of TouchArcade stated that the game loses a few aspects in the transition, but praised that a player could still be engaged in the gameplay even after these changes. [ 32 ]
+
+In 2017, OneShot was nominated for the "PC Game of the Year" category at the Golden Joystick Awards , [ 33 ] and received a nomination at IndieCade . [ 18 ]
+
+Notes
+[ edit ]
+
+↑ Niko's gender is ambiguous, and the game's developers have refrained from answering questions on the subject. [ 34 ] [ 35 ] This article uses singular they for consistency.
+
+References
+[ edit ]
+
+1 2 3 4 Winkie, Luke (September 8, 2017). " OneShot is a bizarre adventure game full of fourth-wall-breaking moments" . PC Gamer . Archived from the original on October 9, 2017 . Retrieved September 10, 2017 .
+
+1 2 3 4 5 6 Walker, John (December 12, 2016). "Wot I Think: OneShot " . Rock Paper Shotgun . Archived from the original on September 14, 2017 . Retrieved July 19, 2017 .
+
+↑ Walker, John (December 9, 2016). " OneShot is bursting with nice ideas, and out now" . Rock Paper Shotgun . Archived from the original on October 19, 2018 . Retrieved October 19, 2018 .
+
+1 2 3 4 5 6 Ruete, Borja (December 15, 2017). " OneShot , Análisis" . MeriStation (in Spanish). Archived from the original on September 7, 2023 . Retrieved September 7, 2023 .
+
+1 2 3 4 Bell, Lowell (September 21, 2022). "Mini Review: OneShot: World Machine Edition – A Brilliant And Bittersweet Indie Darling" . Nintendo Life . Archived from the original on November 10, 2022 . Retrieved November 10, 2022 .
+
+1 2 Future Cat (December 8, 2016). OneShot . Degica. Scene: Instructions.
+
+1 2 3 Makedonski, Brett (March 14, 2016). "The key to beating OneShot probably won't be in the game" . Destructoid . Archived from the original on August 13, 2016 . Retrieved July 19, 2017 .
+
+1 2 " OneShot: World Machine Edition launches September 22" . Gematsu . August 17, 2022. Archived from the original on August 20, 2022 . Retrieved August 17, 2022 .
+
+↑ Grayson, Nathan (December 11, 2016). " OneShot Is A Game Where The Main Character Knows Who You Are" . Kotaku . Archived from the original on January 12, 2019 . Retrieved July 19, 2017 .
+
+1 2 3 4 5 6 Rutledge, Spencer (December 7, 2016). "Review: OneShot " . Hardcore Gamer . Archived from the original on August 15, 2017 . Retrieved November 10, 2022 .
+
+1 2 Grayson, Nathan (March 28, 2017). "Months Later, OneShot Gets A New Ending" . Kotaku . Archived from the original on March 28, 2017 . Retrieved July 19, 2017 .
+
+↑ " OneShot " . RPG Maker Network. Archived from the original on July 3, 2017 . Retrieved July 19, 2017 .
+
+1 2 3 4 5 6 Nafria, Ramón (December 15, 2017). "Análisis OneShot – PC" . Vandal (in European Spanish). Archived from the original on September 7, 2023 . Retrieved September 7, 2023 .
+
+1 2 3 Costa, Carol (January 8, 2018). "Game indie OneShot traz conceito único de interação com o jogador" [ Indie game OneShot brings a unique concept of player interaction ] . IGN Brasil (in Brazilian Portuguese). Archived from the original on July 31, 2023 . Retrieved July 31, 2023 .
+
+1 2 " OneShot " . Steam . December 8, 2016. Archived from the original on August 17, 2017 . Retrieved July 19, 2017 .
+
+1 2 Future Cat (December 8, 2016). OneShot . Degica. Scene: Credits.
+
+↑ Gu, Casey (June 13, 2025). "2 and a half years, but not full time" . Bluesky . Retrieved August 16, 2026 .
+
+1 2 McAloon, Alissa (September 5, 2017). " Frog Fractions 2 , A Normal Lost Phone among 2017 IndieCade nominees" . Gamasutra . Archived from the original on January 17, 2024 . Retrieved January 17, 2024 .
+
+↑ Caldwell, Brendan (June 1, 2018). " OneShot is out on Mac and that's nice for you, Dan" . Rock Paper Shotgun . Archived from the original on October 19, 2018 . Retrieved October 19, 2018 .
+
+↑ " OneShot is out for Linux!" . Steam . April 24, 2019. Archived from the original on May 2, 2019 . Retrieved May 11, 2019 .
+
+↑ " OneShot by Future Cat Games" . itch.io . Archived from the original on November 29, 2022 . Retrieved February 19, 2021 .
+
+↑ Romano, Sal (December 8, 2021). "Top-down puzzle adventure game OneShot coming to PS4, Xbox One, and Switch in 2022" . Gematsu . Archived from the original on September 26, 2022 . Retrieved December 9, 2021 .
+
+1 2 Caldwell, Brendan (September 3, 2024). " OneShot: World Machine Edition will bring the quietly beloved RPG to Steam Deck" . Rock, Paper, Shotgun . Retrieved October 1, 2024 .
+
+↑ "Nintendo Switch Indie World Showcase May 2022: Everything Announced" . IGN . May 11, 2022. Archived from the original on June 27, 2022 . Retrieved May 11, 2022 .
+
+↑ Romano, Sal (September 2, 2024). " OneShot: World Machine Edition coming to PC on September 30" . Gematsu . Retrieved October 1, 2024 .
+
+↑ " OneShot: World Machine Edition now available on MacOS + Golden Week Sale!" . Steam . April 24, 2025 . Retrieved April 27, 2025 .
+
+1 2 " OneShot for PC Reviews" . Metacritic . Archived from the original on August 23, 2017 . Retrieved March 1, 2020 .
+
+1 2 " OneShot : Nintendo Switch Critic Reviews" . Metacritic . Archived from the original on September 17, 2023 . Retrieved November 10, 2022 .
+
+1 2 " OneShot Reviews" . OpenCritic . Archived from the original on October 1, 2023 . Retrieved September 17, 2023 .
+
+1 2 3 4 5 Tekaia, Pascal (November 29, 2018). "Review for OneShot " . Adventure Gamers . Archived from the original on November 29, 2022 . Retrieved November 10, 2022 .
+
+1 2 3 4 5 Delahunty-Light, Zoe (February 2017). " OneShot ". GamesMaster . No. 313. p. 80.
+
+1 2 Musgrave, Shaun (September 27, 2022). "SwitchArcade Round-Up: Reviews Featuring 'Penko Park' and 'Beacon Pines', Plus the Latest Releases and Sales" . TouchArcade . Archived from the original on November 10, 2022 . Retrieved November 10, 2022 .
+
+↑ Dwan, Hannah (October 27, 2017). "Public voting and the nominations for the 2017 Golden Joystick Awards are now up" . The Daily Telegraph . Retrieved March 25, 2018 . {{ cite news }} : CS1 maint: deprecated archival service ( link )
+
+Velasquez, Eliza. "In OneShot who does the art of Niko and wat gender is niko?" . Tumblr . Archived from the original on August 2, 2022 . Retrieved September 7, 2023 .
+
+Gu, Casey (March 15, 2015). "What is Niko's gender (if they have one)? I heard..." Tumblr . Archived from the original on May 18, 2018 . Retrieved June 13, 2019 .
+
+External links
+[ edit ]
+
+Listen to this article ( 13 minutes )
+
+This audio file is based on a version from this article dated 7 June 2024 ( 2024-06-07 ) , and does not reflect subsequent edits.
+
+( Audio help · More spoken articles )
+
+Official website
+
+OneShot at MobyGames
+
+Retrieved from " https://en.wikipedia.org/w/index.php?title=OneShot&oldid=1376909272 "
+
+Categories :
+2016 video games
+
+Adventure games
+
+Degica games
+
+Game jam video games
+
+Indie games
+
+Linux games
+
+MacOS games
+
+Metafictional video games
+
+Nintendo Switch games
+
+PlayStation 4 games
+
+Puzzle video games
+
+RPG Maker games
+
+Science fantasy video games
+
+Single-player video games
+
+Video games about cats
+
+Video games developed in the United States
+
+Video Games Scored by Nightmargin
+
+Windows games
+
+Xbox One games
+
+Hidden categories:
+Articles with short description
+
+Short description matches Wikidata
+
+Featured articles
+
+Use mdy dates from April 2019
+
+Articles using Infobox video game using locally defined parameters
+
+Articles using Wikidata infoboxes with locally defined images
+
+Articles using Video game reviews template in single platform mode
+
+CS1: unfit URL
+
+CS1 maint: deprecated archival service
+
+CS1 Brazilian Portuguese-language sources (pt-br)
+
+CS1 Spanish-language sources (es)
+
+CS1 European Spanish-language sources (es-es)
+
+Articles with hAudio microformats
+
+Spoken articles
+
+Official website different in Wikidata and Wikipedia
+
+Search
+
+OneShot
+
+15 languages Add topic

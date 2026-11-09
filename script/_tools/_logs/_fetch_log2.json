@@ -1,0 +1,335 @@
+[
+ {
+  "group": "B_rpgmaker",
+  "slug": "B03_rpgmaker_fandom",
+  "title": "RPG Maker Wiki（Fandom）",
+  "url": "https://rpgmaker.fandom.com/wiki/RPG_Maker",
+  "status": "OK 200 代理",
+  "bytes": 285922,
+  "chars": 3353
+ },
+ {
+  "group": "B_rpgmaker",
+  "slug": "B04_dante98_fandom",
+  "title": "Dante 98 专页（Fandom）",
+  "url": "https://rpgm.fandom.com/wiki/RPG_Tsuk%C5%ABru_Dante_98",
+  "status": "OK 200 代理",
+  "bytes": 315918,
+  "chars": 4326
+ },
+ {
+  "group": "D_articles",
+  "slug": "D04_gamersky_history",
+  "title": "游民星空：RPG 制作大师简史",
+  "url": "https://wap.gamersky.com/gl/Content-1315926.html",
+  "status": "OK 200 直连",
+  "bytes": 23083,
+  "chars": 831
+ },
+ {
+  "group": "D_articles",
+  "slug": "D05_baidu_nishi",
+  "title": "百度百科：西和彦",
+  "url": "https://baike.baidu.com/item/%E8%A5%BF%E5%92%8C%E5%BD%A6/6517770",
+  "status": "FAIL HTTPError: HTTP Error 403: Forbidden",
+  "bytes": 0,
+  "chars": 0
+ },
+ {
+  "group": "D_articles",
+  "slug": "D06_baidu_heian",
+  "title": "百度百科：黑暗圣剑传说",
+  "url": "https://baike.baidu.com/item/%E9%BB%91%E6%9A%97%E5%9C%A3%E5%89%91%E4%BC%A0%E8%AF%B4/8680629",
+  "status": "FAIL HTTPError: HTTP Error 403: Forbidden",
+  "bytes": 0,
+  "chars": 0
+ },
+ {
+  "group": "D_articles",
+  "slug": "D07_baidu_rpgmaker",
+  "title": "百度百科：RPG Maker 版本参数",
+  "url": "https://baike.baidu.com/view/513945.htm",
+  "status": "FAIL HTTPError: HTTP Error 403: Forbidden",
+  "bytes": 0,
+  "chars": 0
+ },
+ {
+  "group": "D_articles",
+  "slug": "D08_sina_heian",
+  "title": "新浪游戏：黑暗圣剑传说发布页（2005）",
+  "url": "https://games.sina.com.cn/downgames/demo/pcgames/2005-09-29/113293752.shtml",
+  "status": "OK 200 直连",
+  "bytes": 39377,
+  "chars": 1855
+ },
+ {
+  "group": "D_articles",
+  "slug": "D10_moegirl_enterbrain",
+  "title": "萌娘百科：Enterbrain 沿革",
+  "url": "https://zh.moegirl.org.cn/zh/Enterbrain",
+  "status": "FAIL HTTPError: HTTP Error 403: Forbidden",
+  "bytes": 0,
+  "chars": 0
+ },
+ {
+  "group": "E_context",
+  "slug": "E01_pc9801_ja",
+  "title": "PC-9801（日文维基）",
+  "url": "https://ja.wikipedia.org/wiki/PC-9801",
+  "status": "OK 200 代理",
+  "bytes": 428557,
+  "chars": 39137
+ },
+ {
+  "group": "E_context",
+  "slug": "E02_pc8801_ja",
+  "title": "PC-8801（日文维基）",
+  "url": "https://ja.wikipedia.org/wiki/PC-8801",
+  "status": "OK 200 代理",
+  "bytes": 388921,
+  "chars": 31047
+ },
+ {
+  "group": "E_context",
+  "slug": "E03_famicom_ja",
+  "title": "ファミリーコンピュータ 红白机（日文维基）",
+  "url": "https://ja.wikipedia.org/wiki/ファミリーコンピュータ",
+  "status": "OK 200 代理",
+  "bytes": 860618,
+  "chars": 57736
+ },
+ {
+  "group": "E_context",
+  "slug": "E04_famicom_en",
+  "title": "Family Computer / NES（英文维基）",
+  "url": "https://en.wikipedia.org/wiki/Nintendo_Entertainment_System",
+  "status": "OK 200 代理",
+  "bytes": 1123883,
+  "chars": 115253
+ },
+ {
+  "group": "E_context",
+  "slug": "E05_dq1_ja",
+  "title": "ドラゴンクエスト（日文维基）",
+  "url": "https://ja.wikipedia.org/wiki/ドラゴンクエスト",
+  "status": "OK 200 代理",
+  "bytes": 440941,
+  "chars": 33299
+ },
+ {
+  "group": "E_context",
+  "slug": "E06_dq3_ja",
+  "title": "ドラゴンクエストIII（日文维基）",
+  "url": "https://ja.wikipedia.org/wiki/ドラゴンクエストIII_そして伝説へ…",
+  "status": "OK 200 代理",
+  "bytes": 706831,
+  "chars": 67104
+ },
+ {
+  "group": "E_context",
+  "slug": "E07_dq_en",
+  "title": "Dragon Quest（英文维基）",
+  "url": "https://en.wikipedia.org/wiki/Dragon_Quest",
+  "status": "OK 200 代理",
+  "bytes": 895161,
+  "chars": 95550
+ },
+ {
+  "group": "E_context",
+  "slug": "E08_login_ja",
+  "title": "LOGIN 杂志（日文维基）",
+  "url": "https://ja.wikipedia.org/wiki/LOGIN_(雑誌)",
+  "status": "FAIL HTTPError: HTTP Error 404: Not Found",
+  "bytes": 0,
+  "chars": 0
+ },
+ {
+  "group": "E_context",
+  "slug": "E09_sfc_ja",
+  "title": "スーパーファミコン（日文维基）",
+  "url": "https://ja.wikipedia.org/wiki/スーパーファミコン",
+  "status": "OK 200 代理",
+  "bytes": 477033,
+  "chars": 28385
+ },
+ {
+  "group": "E_context",
+  "slug": "E10_wizardry_en",
+  "title": "Wizardry（英文维基）",
+  "url": "https://en.wikipedia.org/wiki/Wizardry",
+  "status": "OK 200 代理",
+  "bytes": 60440,
+  "chars": 1077
+ },
+ {
+  "group": "F_more",
+  "slug": "F01_ascii_media_works_en",
+  "title": "ASCII Media Works（英文维基）",
+  "url": "https://en.wikipedia.org/wiki/ASCII_Media_Works",
+  "status": "OK 200 代理",
+  "bytes": 221080,
+  "chars": 18240
+ },
+ {
+  "group": "F_more",
+  "slug": "F02_kadokawa_en",
+  "title": "Kadokawa Corporation（英文维基）",
+  "url": "https://en.wikipedia.org/wiki/Kadokawa_Corporation",
+  "status": "OK 200 代理",
+  "bytes": 308128,
+  "chars": 26122
+ },
+ {
+  "group": "F_more",
+  "slug": "F03_degica_en",
+  "title": "Degica（英文维基，RM 西方发行商）",
+  "url": "https://en.wikipedia.org/wiki/Degica",
+  "status": "FAIL HTTPError: HTTP Error 404: Not Found",
+  "bytes": 0,
+  "chars": 0
+ },
+ {
+  "group": "F_more",
+  "slug": "F04_agetec_en",
+  "title": "Agetec（英文维基）",
+  "url": "https://en.wikipedia.org/wiki/Agetec",
+  "status": "OK 200 代理",
+  "bytes": 116990,
+  "chars": 6514
+ },
+ {
+  "group": "F_more",
+  "slug": "F05_microsoft_japan_en",
+  "title": "Microsoft Japan（英文维基）",
+  "url": "https://en.wikipedia.org/wiki/Microsoft_Japan",
+  "status": "OK 200 代理",
+  "bytes": 185487,
+  "chars": 11263
+ },
+ {
+  "group": "F_more",
+  "slug": "F06_impress_en",
+  "title": "Impress Corporation（英文维基）",
+  "url": "https://en.wikipedia.org/wiki/Impress_Corporation",
+  "status": "OK 200 代理",
+  "bytes": 353518,
+  "chars": 24257
+ },
+ {
+  "group": "F_more",
+  "slug": "F07_bill_gates_en",
+  "title": "Bill Gates（英文维基，1978 会面背景）",
+  "url": "https://en.wikipedia.org/wiki/Bill_Gates",
+  "status": "OK 200 代理",
+  "bytes": 1621441,
+  "chars": 167128
+ },
+ {
+  "group": "G_versions",
+  "slug": "G01_rm2000",
+  "title": "RPG Maker 2000（英文维基）",
+  "url": "https://en.wikipedia.org/wiki/RPG_Maker_2000",
+  "status": "OK 200 代理",
+  "bytes": 332906,
+  "chars": 32976
+ },
+ {
+  "group": "G_versions",
+  "slug": "G02_rm2003",
+  "title": "RPG Maker 2003（英文维基）",
+  "url": "https://en.wikipedia.org/wiki/RPG_Maker_2003",
+  "status": "OK 200 代理",
+  "bytes": 332905,
+  "chars": 32976
+ },
+ {
+  "group": "G_versions",
+  "slug": "G03_rmxp",
+  "title": "RPG Maker XP（英文维基）",
+  "url": "https://en.wikipedia.org/wiki/RPG_Maker_XP",
+  "status": "OK 200 代理",
+  "bytes": 332836,
+  "chars": 32963
+ },
+ {
+  "group": "G_versions",
+  "slug": "G04_rmvx",
+  "title": "RPG Maker VX（英文维基）",
+  "url": "https://en.wikipedia.org/wiki/RPG_Maker_VX",
+  "status": "OK 200 代理",
+  "bytes": 332898,
+  "chars": 32974
+ },
+ {
+  "group": "G_versions",
+  "slug": "G05_rmvxace",
+  "title": "RPG Maker VX Ace（英文维基）",
+  "url": "https://en.wikipedia.org/wiki/RPG_Maker_VX_Ace",
+  "status": "OK 200 代理",
+  "bytes": 332837,
+  "chars": 32967
+ },
+ {
+  "group": "G_versions",
+  "slug": "G06_rmmv",
+  "title": "RPG Maker MV（英文维基）",
+  "url": "https://en.wikipedia.org/wiki/RPG_Maker_MV",
+  "status": "OK 200 代理",
+  "bytes": 332870,
+  "chars": 32970
+ },
+ {
+  "group": "G_versions",
+  "slug": "G07_rmmz",
+  "title": "RPG Maker MZ（英文维基）",
+  "url": "https://en.wikipedia.org/wiki/RPG_Maker_MZ",
+  "status": "OK 200 代理",
+  "bytes": 332821,
+  "chars": 32963
+ },
+ {
+  "group": "G_versions",
+  "slug": "G08_unite_wiki",
+  "title": "RPG Maker Unite（英文维基）",
+  "url": "https://en.wikipedia.org/wiki/RPG_Maker_Unite",
+  "status": "OK 200 代理",
+  "bytes": 332854,
+  "chars": 32969
+ },
+ {
+  "group": "H_china",
+  "slug": "H01_66rpg",
+  "title": "66RPG 百度百科",
+  "url": "https://baike.baidu.com/item/66RPG",
+  "status": "OK 200 直连",
+  "bytes": 186055,
+  "chars": 5132
+ },
+ {
+  "group": "H_china",
+  "slug": "H02_liuliu",
+  "title": "柳柳（柳晓宇）百度百科",
+  "url": "https://baike.baidu.com/item/%E6%9F%B3%E6%9F%B3/19664",
+  "status": "FAIL HTTPError: HTTP Error 403: Forbidden",
+  "bytes": 0,
+  "chars": 0
+ },
+ {
+  "group": "H_china",
+  "slug": "H03_yuxue",
+  "title": "雨血 Rainblood 百度百科",
+  "url": "https://baike.baidu.com/item/%E9%9B%A8%E8%A1%80",
+  "status": "FAIL HTTPError: HTTP Error 403: Forbidden",
+  "bytes": 0,
+  "chars": 0
+ },
+ {
+  "group": "H_china",
+  "slug": "H04_rpgmaker_cn",
+  "title": "RPG制作大师 中文百科",
+  "url": "https://zh.wikipedia.org/wiki/RPG%E5%88%B6%E4%BD%9C%E5%A4%A7%E5%B8%88",
+  "status": "OK 200 代理",
+  "bytes": 216108,
+  "chars": 9206
+ }
+]

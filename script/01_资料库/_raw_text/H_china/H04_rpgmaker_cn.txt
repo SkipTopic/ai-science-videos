@@ -1,0 +1,680 @@
+SOURCE: https://zh.wikipedia.org/wiki/RPG%E5%88%B6%E4%BD%9C%E5%A4%A7%E5%B8%88
+TITLE: RPG制作大师 中文百科
+FETCHED: 2026-10-21 17:26:26
+============================================================
+
+RPG制作大师 - 维基百科，自由的百科全书
+
+跳转到内容
+
+维基百科，自由的百科全书
+
+（重定向自 RPG制作大师 ）
+
+此条目 可能包含 原创研究 。
+
+请协助补充参考资料、添加 相关内联标签 和删除原创研究内容以 改善这篇条目 。详细情况请参见 讨论页 。
+
+RPG制作大师
+开发者 ASCII 、 Enterbrain 、Agetec、Degica、Gotcha Gotcha Games
+
+当前版本 RPG Maker WITH （2024年4月11日）
+
+网站 ツクールweb
+
+“ RPG制作大师系列 ”（日语： RPGツクール ）是款 电子角色扮演游戏 制作软件的系列，宗旨为不懂 程序设计 的一般玩家也能做出电子角色扮演游戏。最先由 日本 的 ASCII 公司于 超级任天堂 主机上开发，后转交 Enterbrain 等公司继承开发。
+
+概要
+[ 编辑 ]
+
+起初最先发行于 日本 ，随后被翻译并发行于 台湾 、 美国 、 韩国 、 中国大陆 等。大部分的版本均包含基于图块元件的地图编辑器，以简单指令取代编程语言的事件编辑器，以及战斗编辑器。所有版本均内置地图元件、角色图片以及事件等可用于制作游戏。
+
+许多游戏中会附有编辑器（如：《 无冬之夜 》、《 魔兽争霸III 》），但不同的是，RPG制作大师可制作独立的游戏，并直接在平台上执行。PC版本还可以让使用者自行新增地图元件与角色图片，并加入想要的任何图形。不须太多专业知识，即可做出如早年版本 勇者斗恶龙 、 最终幻想 类型的游戏。但若要制作 ARPG 、 SLG 等类型则需另外使用难度较高的 脚本 系统（如 RGSS 或 JavaScript ）编辑。
+
+版本历史
+[ 编辑 ]
+
+PC版本
+[ 编辑 ]
+
+RPG Maker Dante98
+[ 编辑 ]
+
+1992年12月发行，RPG Maker系列的第一作，在 PC-9801 上运作。
+
+RPG Maker Dante98 II
+[ 编辑 ]
+
+1996年7月发行，在 PC-9801 上运作，是前作“RPG Maker Dante98”的加强版。地图编辑加入阶层、导入变数。
+
+RPG Maker 95
+[ 编辑 ]
+
+RPG Maker 95 是 RPG制作大师 系列中第一个运行于 Windows 操作系统上之版本。
+
+RPG Maker 95 VALUE!
+[ 编辑 ]
+
+RPG Maker 95的加强版
+
+RPG Maker 2000
+[ 编辑 ]
+
+RPG Maker 2000 （游戏制作大师RPG篇）是第二个运行于 Windows 操作系统上之版本 [ 1 ] 。在 台湾 由 会宇多媒体 代理。
+
+RPG Maker 2000 VALUE!
+[ 编辑 ]
+
+RPG Maker 2000 VALUE! 是RPG Maker 2000的加强版 [ 1 ] ，但台湾并没有代理这款加强版本。
+
+RPG Maker 2003
+[ 编辑 ]
+
+RPG Maker 2003 （RPG制作大师2）较前代改良许多。前代的游戏项目可以转变成此版本的游戏项目，但不可以反向转变。提供了“事件编辑器”、实时战斗系统、属性生克、等特性。 [ 2 ] 与前代不同的是使用了横向战斗系统 [ 1 ] 。在 台湾 由 光谱资讯 代理。 [ 2 ]
+
+RPG Maker XP
+[ 编辑 ]
+
+RPG Maker XP 对于游戏画面的色彩已经没有限制，并加入 RGSS 脚本系统，能够独立编辑游戏系统 [ 1 ] 。RPG Maker XP中文命名为 新RPG制作大师XP ，在 台湾 由 英特卫 代理发行，在 中国大陆 由 娱乐通 代理发行。
+
+RPG Maker VX
+[ 编辑 ]
+
+RPG Maker VX 在2007年12月27日于 日本 发行，并在2008年2月29日于 美国 发行。画面帧率增加到了60帧/秒，使用与前代不同的RGSS2脚本编辑系统，使用新的RTP [ 1 ] 。台湾由 光源媒体 代理，约于2011年推出。
+
+RPG Maker VX Ace
+[ 编辑 ]
+
+RPG Maker VX Ace 基于 RPG Maker VX 的架构衍伸而制作，于2011年12月15日在日本正式发售。使用全新的RGSS3脚本编辑系统，并内置脸图搭配行走图的纸娃娃系统 [ 1 ] 。台湾由 光源媒体 代理，于2013年5月推出。
+
+RPG Maker MV
+[ 编辑 ]
+
+RPG Maker MV 同时发售Windows版与Mac版，游戏作品可支持输出Windows、MacOSX、Android、iOS及浏览器上的HTML5文件格式；游戏操作方面，也支持屏幕触控。并且使用JavaScript为新的开发编程语言。分辨率也扩充成为816x624，并且对地形功能进行改进。并且数据库扩充到2000,战斗模式也首次支持前视图和侧视图进行更改 [ 3 ] [ 4 ] [ 5 ] 。于2015年10月23日发售Steam版、2015年12月17日推出日文版。
+
+RPG Maker MZ
+[ 编辑 ]
+
+RPG Maker MZ 在2020年8月20日发布，Steam版于同年8月21日发布。
+
+RPG Maker Unite
+[ 编辑 ]
+
+RPG Maker Unite 是供 Unity 引擎使用的插件 [ 6 ] ，于2022年宣布开发，2024年5月于Unity商店上架。
+
+主机版本
+[ 编辑 ]
+
+RPG Maker Super Dante
+[ 编辑 ]
+
+以RPG Maker Dante98为基础移植到 SFC 的版本，于1995年3月发行。
+
+RPG Maker 2
+[ 编辑 ]
+
+1996年1月在 SFC 上发行。 [ 7 ]
+
+RPG Maker 3
+[ 编辑 ]
+
+1997年11月系列作初次在 PlayStation 上发行的版本，1998年11月发行加强版“RPG Maker 3 PlayStation the Best”，使用CD-ROM为载体。图像、音乐品质上升，可以使用同捆发行的软件“アニメティカ”制作角色行走图加入游戏中。
+
+北美版命名为 RPG Maker，没有版本编号。
+
+RPG Maker 4
+[ 编辑 ]
+
+1999年12月在 PlayStation 上发行的版本。加入“职业”系统。可以使用同捆发行的软件“キャラクターツクール”制作角色行走图加入游戏中。
+
+RPG Maker 5
+[ 编辑 ]
+
+2002年8月在 PlayStation 2 上发行的版本。首次使用3D图像。
+
+北美版命名为 RPG Maker 2，可以在 PlayStation Network 购买，并在PS3上使用。
+
+RPG Maker
+[ 编辑 ]
+
+2004年12月在 PlayStation 2 上发行的版本。没有版本编号。角色、地图全使用3D图像。
+
+北美版命名为 RPG Maker 3。可以在 PlayStation Network 购买，并在PS3上使用。
+
+RPG Maker MV Trinity
+[ 编辑 ]
+
+2018年11月15日于 PlayStation 4 、 Nintendo Switch 上发行的版本， Xbox One 版则原预定2019年冬季发售，因其他变数而宣布终止发售。首次中文化。
+
+MV的加强版，追加角色配音以及导入歌唱乐曲。另附女歌手 エリアンナ亲自制作的5首歌曲BGM。
+
+制作大师广场(需联机)可上传或下载自己和其他玩家制作的游戏。
+
+RPG Maker WITH
+[ 编辑 ]
+
+2024年4月11日发售。
+
+掌机版本
+[ 编辑 ]
+
+RPG Maker GB
+[ 编辑 ]
+
+2000年3月在 GB 平台上发布。
+
+RPG Maker Advance
+[ 编辑 ]
+
+在 GBA 平台上发布。
+
+RPG Maker DS
+[ 编辑 ]
+
+在 任天堂DS 平台上发布。
+
+RPG Maker DS+
+[ 编辑 ]
+
+在 任天堂DS 平台上发布。 [ 1 ] 是RPG Maker DS的加强版，新增现代、战国、科幻图像素材。
+
+RPG Maker FES
+[ 编辑 ]
+
+于2016年11月24日发布、在 任天堂3DS 平台上执行的版本，能在SD卡中储存最多16个游戏。可自由针对战斗角色们设定及编写个人资料、和6至9种属性。和PC版本不同的是，地图的通行设定是直接在地图编辑画面上执行。
+
+游戏作品
+[ 编辑 ]
+
+主条目： RPG制作大师作品列表
+
+反响和遗产
+[ 编辑 ]
+
+R剧
+[ 编辑 ]
+
+RPG制作大师系列引擎可以制作 machinima ，作为动画和电子游戏媒介的一部分，被称为“R剧”。知名作品包括网络剧《Slimey》（2011 年），以及 Studio Moonchalk 的《Distortion》（2023 年）和《Love and Friendship》（2024 年），所有作品均独家在 YouTube 上发布。
+
+参考来源
+[ 编辑 ]
+
+^ 1.0 1.1 1.2 1.3 1.4 1.5 1.6 その他ツクールの紹介 . ツクールweb. [ 2015-08-17 ] . （ 原始内容 存档于2015-08-12）.
+
+^ 2.0 2.1 《RPG制作大师２》制作心目中的RPG_游戏频道_新浪 . games.sina.com.cn. [ 2025-04-01 ] . （原始内容 存档 于2025-11-03）.
+
+^ RPGツクールMV . [ 2015-08-17 ] . （原始内容 存档 于2015-08-18）.
+
+^ Sam. 《RPG 製作大師 MV》年底登場 支援 MAC 與智慧型手機原生 App 開發《RPG Maker MV》 . 巴哈姆特电玩资讯站. [ 2015-08-17 ] . （原始内容 存档 于2015-08-10）.
+
+^ RPG Maker MV . [ 2015-09-19 ] . （原始内容 存档 于2016-11-09）.
+
+^ Romano, Sal. RPG Maker Unite announced for PC . Gematsu. 15 February 2022 [ 19 September 2022] . （原始内容 存档 于2022-09-21）.
+
+^ 《RPG制作大师２》制作心目中的RPG_游戏频道_新浪 . games.sina.com.cn. [ 2025-04-01 ] . （原始内容 存档 于2025-11-03）.
+
+外部链接
+[ 编辑 ]
+
+Enterbrain . [ 2021-04-26 ] . （原始内容 存档 于2021-04-26） （日语） .
+
+ツクールweb . （原始内容 存档 于2021-04-26） （日语） .
+
+RPG Maker英文官網 . （原始内容 存档 于2016-12-11） （英语） .
+
+RPG Maker 2000介绍页 （日语）
+
+RPG Maker XP介绍页 （日语）
+
+RPG Maker VX介绍页 （日语）
+
+RPG Maker VX Ace介绍页 （日语）
+
+RPG Maker MV介绍页 （ 页面存档备份 ，存于 互联网档案馆 ） （日语）
+
+RPG Maker MV Trinity介绍页 （ 页面存档备份 ，存于 互联网档案馆 ） （日语）
+
+RPG Maker FES介绍页 （ 页面存档备份 ，存于 互联网档案馆 ） （日语）
+
+巴哈姆特RPG制作大师哈拉板 （ 页面存档备份 ，存于 互联网档案馆 ） （繁体中文）
+
+RPG Maker in 制作者们的酒馆 （ 页面存档备份 ，存于 互联网档案馆 ） （繁体中文）
+
+RPG Maker Wiki （ 页面存档备份 ，存于 互联网档案馆 ） （繁体中文）
+
+非官方RPG Maker Wiki （ 页面存档备份 ，存于 互联网档案馆 ） （英文）
+
+查
+
+论
+
+编
+
+RPG制作大师
+
+PC平台
+
+RPG Maker 95
+
+2000
+
+2003
+
+XP
+
+VX
+
+VX Ace
+
+MV
+
+MZ
+
+主机平台
+
+RPG Maker Super Dante
+
+2
+
+3
+
+4
+
+5
+
+RPG Maker
+
+掌机平台
+
+RPG Maker GB
+
+Advance
+
+DS
+
+DS+
+
+FES
+
+衍伸作品
+
+格斗游戏制作大师
+
+模拟RPG制作大师
+
+动作游戏制作大师
+
+关联条目
+
+RPG制作大师作品列表
+
+KADOKAWA
+ASCII
+
+enterbrain
+
+RGSS
+
+查
+
+论
+
+编
+
+游戏引擎 （ 列表 ）
+
+源代码移植 （ 英语 ： Source port ）
+
+第一人称射击游戏引擎
+列表 （ 英语 ： List of first-person shooter engines ）
+
+游戏引擎重制 （ 英语 ： Game engine recreation ）
+列表 （ 英语 ： List of game engine recreations ）
+
+游戏创作系统 （ 英语 ： Game creation system ）
+
+游戏集成开发环境 （ 英语 ： Game integrated development environment ）
+
+视觉小说引擎列表
+
+id Tech
+
+专有
+
+软件
+
+1980年代
+
+Filmation （ 英语 ： Filmation (game engine) ）
+
+Freescape （ 英语 ： Freescape ）
+
+Gold Box （ 英语 ： Gold Box ）
+
+SCUMM
+
+1990年代
+
+3D GameStudio （ 英语 ： 3D GameStudio ）
+
+Clickteam
+
+Dark Engine （ 英语 ： Dark Engine ）
+
+GameMaker
+
+Genie Engine （ 英语 ： Genie Engine ）
+
+GoldSrc
+
+Jedi （ 英语 ： Jedi (game engine) ）
+
+LithTech （ 英语 ： LithTech ）
+
+M.U.G.E.N
+
+Pie in the Sky （ 英语 ： Pie in the Sky (game engine) ）
+
+Reality Lab （ 英语 ： Reality Lab ）
+
+RenderWare
+
+RPG制作大师
+
+Sim RPG Maker （ 英语 ： Sim RPG Maker ）
+
+虚幻引擎
+
+Virtual Theatre （ 英语 ： Virtual Theatre ）
+
+Voxel Space （ 英语 ： Voxel Space ）
+
+Zero （ 英语 ： Zero (game engine) ）
+
+Zillions of Games
+
+2000年代
+
+Anvil
+
+C4 Engine （ 英语 ： C4 Engine ）
+
+Chrome Engine
+
+CryENGINE
+
+水晶工具
+
+Diesel （ 英语 ： Diesel (game engine) ）
+
+Ego （ 英语 ： Ego (game engine) ）
+
+Essence Engine （ 英语 ： Essence Engine ）
+
+Euphoria （ 英语 ： Euphoria (software) ）
+
+Flare3D （ 英语 ： Flare3D ）
+
+寒霜引擎
+
+Gamebryo
+
+GameSalad （ 英语 ： GameSalad ）
+
+HeroEngine （ 英语 ： HeroEngine ）
+
+IW （ 英语 ： IW (game engine) ）
+
+Leadwerks （ 英语 ： Leadwerks ）
+
+Marmalade SDK （ 英语 ： Marmalade (software) ）
+
+MT Framework
+
+PhyreEngine （ 英语 ： PhyreEngine ）
+
+Q （ 英语 ： Q (game engine) ）
+
+RAGE
+
+Retro Engine （ 英语 ： Retro Engine ）
+
+SAGE
+
+Shark 3D （ 英语 ： Shark 3D ）
+
+Silent Storm engine （ 英语 ： Silent Storm engine ）
+
+起源引擎
+
+Titan （ 英语 ： Titan (game engine) ）
+
+Unigine （ 英语 ： Unigine ）
+
+Unity
+
+虚幻引擎3
+
+Vicious Engine （ 英语 ： Vicious Engine ）
+
+Vision
+
+Visual3D Game Engine （ 英语 ： Visual3D Game Engine ）
+
+2010年代
+
+4A Engine （ 英语 ： 4A Engine ）
+
+Amazon Lumberyard
+
+Bitsquid （ 英语 ： Bitsquid ）
+
+Buildbox
+
+Construct
+
+Creation引擎
+
+Decima
+
+Defold
+
+Felgo （ 英语 ： Felgo ）
+
+Fox Engine （ 英语 ： Fox Engine ）
+
+id Tech 5
+
+id Tech 6 （ 英语 ： id Tech 6 ）
+
+Ignite （ 英语 ： Ignite (game engine) ）
+
+Kynapse （ 英语 ： Kynapse ）
+
+夜光引擎
+
+NeoX
+
+Nvidia GameWorks （ 英语 ： Nvidia GameWorks ）
+
+Panta Rhei （ 英语 ： Panta Rhei (game engine) ）
+
+Pixel Game Maker MV （ 英语 ： Pixel Game Maker MV ）
+
+REDengine
+
+RE引擎
+
+Snowdrop引擎
+
+Stencyl （ 英语 ： Stencyl ）
+
+Source 2
+
+UbiArt框架
+
+虚幻引擎4
+
+2020年代
+
+id Tech 7 （ 英语 ： id Tech 7 ）
+
+虚幻引擎5
+
+自由
+
+及
+
+开源
+
+软件
+
+1970年代
+
+Z-machine （ 英语 ： Z-machine ）
+
+1990年代
+
+Adventure Game Studio （ 英语 ： Adventure Game Studio ）
+
+Build （ 英语 ： Build (game engine) ）
+
+Crystal Space
+
+毁灭战士引擎
+
+Game-Maker （ 英语 ： Game-Maker ）
+
+OHRRPGCE （ 英语 ： OHRRPGCE ）
+
+雷神之锤引擎
+
+id Tech 2
+
+Stratagus （ 英语 ： Stratagus ）
+
+NScripter
+
+2000年代
+
+Away3D （ 英语 ： Away3D ）
+
+Blender Game Engine
+
+Bork3D Game Engine （ 英语 ： Bork3D Game Engine ）
+
+Cocos2d
+
+Dim3 （ 英语 ： Dim3 ）
+
+Game Editor （ 英语 ： Game Editor ）
+
+GDevelop （ 英语 ： GDevelop ）
+
+id Tech 3
+
+id Tech 4
+
+Irrlicht Engine （ 英语 ： Irrlicht Engine ）
+
+jMonkeyEngine （ 英语 ： jMonkeyEngine ）
+
+Lightweight Java Game Library （ 英语 ： Lightweight Java Game Library ）
+
+Löve （ 英语 ： Löve (game engine) ）
+
+OGRE
+
+Open Wonderland （ 英语 ： Open Wonderland ）
+
+Panda3D （ 英语 ： Panda3D ）
+
+Papervision3D （ 英语 ： Papervision3D ）
+
+Plasma （ 英语 ： Plasma (game engine) ）
+
+Platinum Arts Sandbox （ 英语 ： Platinum Arts Sandbox ）
+
+Pygame
+
+Ren'Py
+
+Scratch
+
+Solar2D （ 英语 ： Solar2D ）
+
+Spring引擎
+
+Thousand Parsec
+
+Torque （ 英语 ： Torque (game engine) ）
+
+Vassal Engine （ 英语 ： Vassal Engine ）
+
+Wintermute Engine （ 英语 ： Wintermute Engine ）
+
+2010年代
+
+Delta3D （ 英语 ： Delta3D ）
+
+Godot
+
+GPUOpen
+
+Horde3D （ 英语 ： Horde3D ）
+
+吉里吉里
+
+libGDX （ 英语 ： libGDX ）
+
+Moai （ 英语 ： Moai (software) ）
+
+OpenFL （ 英语 ： OpenFL ）
+
+ORX （ 英语 ： ORX ）
+
+PlayCanvas （ 英语 ： PlayCanvas ）
+
+Raylib （ 英语 ： Raylib ）
+
+Snap!
+
+Stencyl （ 英语 ： Stencyl ）
+
+Stride （ 英语 ： Stride (game engine) ）
+
+Phaser
+
+Egret
+
+2020年代
+
+Open 3D Engine
+
+取自“ https://zh.wikipedia.org/w/index.php?title=RPG製作大師&oldid=93640017 ”
+
+分类 ：
+RPG制作大师
+
+游戏引擎
+
+电子游戏研发
+
+电子游戏开发软件
+
+隐藏分类：
+可能带有原创研究的条目
+
+拒绝当选首页新条目推荐栏目的条目
+
+含有日语的条目
+
+CS1日语来源 (ja)
+
+CS1英语来源 (en)
+
+搜索
+
+RPG制作大师
+
+27种语言 添加话题

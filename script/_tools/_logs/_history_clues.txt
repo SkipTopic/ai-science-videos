@@ -1,0 +1,35 @@
+URL: https://rpgmakerofficial.com/contents/history/
+BYTES: 43596
+
+=== CLUES ===
+https://rpgmakerofficial.com/wp-content/plugins/sitepress-multilingual-cms/res/js/cookies/language-cookie.js?ver=497000
+https://rpgmakerofficial.com/wp-content/themes/official/assets/js/swiper-bundle.min.js?v=007bd5c59ac2
+https://rpgmakerofficial.com/wp-content/themes/official/assets/js/project.js?v=3177a376030f
+https://rpgmakerofficial.com/wp-content/themes/official/assets/js/history.js?v=0af852cc444e
+https://rpgmakerofficial.com/wp-includes/js/dist/hooks.min.js?ver=f0f188028580e8dc1255
+https://rpgmakerofficial.com/wp-includes/js/dist/i18n.min.js?ver=1dfe7db3940c23ea9216
+https://rpgmakerofficial.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=6.1.7
+https://rpgmakerofficial.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.1.7
+/wp-json/oembed/1.0/embed?url=https%3A%2F%2Frpgmakerofficial.com%2Fcontents%2Fhistory%2F
+/wp-json/oembed/1.0/embed?url=https%3A%2F%2Frpgmakerofficial.com%2Fcontents%2Fhistory%2F&#038;format=xml
+/wp-json/wp/v2/pages/24
+history.css
+history/
+history\/#breadcrumblist
+history\/#listItem
+history\/#webpage
+history\/
+history%2F
+history%2F&#038;format=xml
+history-list
+history-attention
+history-attention__text
+history.js?v=0af852cc444e
+
+=== has keyword? ===
+Dante: 0
+Mamirin: 0
+1988: 0
+1992: 0
+ツクール95: 0
+product: 5

@@ -1,0 +1,784 @@
+SOURCE: https://en.wikipedia.org/wiki/Corpse_Party
+TITLE: 尸体派对（英文维基）
+FETCHED: 2026-10-21 17:20:30
+============================================================
+
+Corpse Party - Wikipedia
+
+Jump to content
+
+From Wikipedia, the free encyclopedia
+
+Video game series
+
+"GuriGuri" redirects here. For the sherbet, see guri-guri . For the village in Iran, see Gari Guri .
+
+Video game series
+
+Corpse Party
+
+Promotional artwork for Corpse Party . Characters featured (clockwise from the top left): Sachiko Shinozaki, Satoshi Mochida, Yuka Mochida, Naomi Nakashima, Seiko Shinohara.
+
+Developers
+
+Kenix Soft (1996)
+
+Team GrisGris (2008–present)
+
+Mages. (2010–present)
+
+Publishers
+
+Kenix Soft (1996)
+
+Team GrisGris (2006–2011)
+
+Mages. (2010–present)
+
+GrindHouse (2013–present)
+
+Platforms
+
+PC-9801
+
+Mobile
+
+Microsoft Windows
+
+PlayStation Portable
+
+PlayStation Vita
+
+PlayStation 4
+
+iOS
+
+Nintendo 3DS
+
+Android
+
+Nintendo Switch
+
+Xbox One
+
+Xbox Series X/S
+
+First release Corpse-Party
+
+April 22, 1996 (Japan only)
+
+Latest release Corpse Party: Tetralogy Pack
+
+August 7, 2025 (Japan only)
+
+Corpse Party ( Japanese : コープスパーティー , Hepburn : Kōpusu Pātī ) is a horror video game originally created by Makoto Kedōin [ 1 ] and eventually developed by Team GrisGris. [ 2 ] Blending elements and genres of supernatural horror , survival horror , adventure , and doujin soft , the video game often features high school students who attempt to escape after becoming trapped in an abandoned, parallel school, haunted by a vengeful spirit in a red dress.
+
+The video game has spawned several manga , an anime OVA , drama CDs , theme park attractions, and two live action films .
+
+History
+[ edit ]
+
+The first game in the franchise was developed using the RPG Maker software version RPG Tsukūru Dante 98 and released on April 22, 1996, for the PC-9801 . It was followed by three remakes:
+
+Corpse Party: NewChapter , [ a ] which was released incomplete for mobile phones from October 3, 2006, to December 26, 2007
+
+Corpse Party: Blood Covered , [ b ] which was released for Microsoft Windows from December 31, 2007, to July 28, 2011. A re-release was made on PC Steam in 2016, under the title Corpse Party .
+
+Corpse Party: Blood Covered... Repeated Fear , [ c ] which was released for the PlayStation Portable on August 12, 2010, and iOS on February 9, 2012. It was released on PC Steam in 2021, under the title Corpse Party (2021) .
+
+The game was released in North America and Europe by Xseed Games and Marvelous Europe under the title Corpse Party . [ 3 ] Xseed Games planned to release a localized version of Corpse Party: Blood Covered for PC in North America in 2015, [ 4 ] but the title was delayed until 2016. A 3DS version of the game, titled Corpse Party Blood Covered: ...Repeated Fear was released in Japan on July 30, 2015, and contains a new extra chapter not present in the PSP and iOS version. [ 5 ]
+
+The PSP game was followed by a sequel, Corpse Party: Book of Shadows , [ d ] which was released for the PSP on September 1, 2011, in Japan, and on January 15, 2013, in North America. [ 6 ] The game was later released on PC Steam in 2018.
+
+A spin-off game, Corpse Party: Sweet Sachiko's Hysteric Birthday Bash , [ e ] was released for the PSP in Japan on August 2, 2012, [ 7 ] and was released for Windows worldwide on April 10, 2019. It is described as a "midquel to Corpse Party and Corpse Party: Book of Shadows " on Steam.
+
+A direct sequel of Corpse Party: Book of Shadows , called Corpse Party: Blood Drive , [ f ] was released in Japan on July 24, 2014, on PlayStation Vita , [ 8 ] [ 9 ] and was released in North America by XSeed Games on October 13, 2015, and on October 20, 2015, in Europe. [ 10 ] The game is now available on Steam.
+
+Another sequel titled Corpse Party 2: Dead Patient [ g ] was created for the PC by GrindHouse, a dōjin circle founded by members affiliated with Team GrisGris. [ 11 ] It was planned to be released episodically, with the first chapter released on May 29, 2013. It is now available on PC Steam. [ when? ]
+
+In May 2025, Mages announced a bundle of Blood Covered , Book of Shadows , Sweet Sachiko's Hysteric Birthday Bash and Blood Drive called Corpse Party: Tetralogy Pack would be coming to the Nintendo Switch, and it was released on August 7, 2025, in Japan. [ 12 ]
+
+In August 2023, Corpse Party II: Darkness Distortion was announced by MAGES. and Team GrisGris. It is the spiritual sequel to Corpse Party: Blood Drive . [ 13 ] It will launch in 2026 in Japan on PS4, Switch, and PC with Makoto Kedouin returning as scenario writer. [ 14 ]
+
+Plot
+[ edit ]
+
+The plot of the original Corpse Party game concerns a group of Japanese high school students, celebrating their school's culture festival . The group are telling ghost stories when a sudden paranormal " earthquake " transports them to a dilapidated schoolhouse in an alternate dimension . The school is haunted by the ghosts of people who have been trapped there. The main playable character is Satoshi Mochida, a kind-hearted high school student who is teased by his classmates for his cowardly nature. Three of the other characters are students from Satoshi's class: Naomi Nakashima, Satoshi's childhood friend; Yoshiki Kishinuma, an intimidating yet good-natured student; and Ayumi Shinozaki, the class representative . Rounding out the group is Yuka Mochida, Satoshi's younger sister. The game's antagonist is the ghost of a former student, a girl in a red dress who seeks vengeance for her and her mother's deaths at the hands of a teacher many years prior.
+
+Blood Covered and Repeated Fear
+[ edit ]
+
+Main article: Corpse Party (2008 video game)
+
+Corpse Party: NewChapter remake was released for mobile phones in four chapters from October 3, 2006, to December 26, 2007. It was discontinued before Chapter 5 was released. It contained the same plot additions as the later Blood Covered , but had much smaller maps.
+
+Blood Covered , released for PC in five chapters from December 31, 2007, to July 28, 2011, is an enhanced remake and port of the 1996 Corpse Party . It includes more characters, larger maps, updated graphics, and a cast of amateur voice actors. It was followed on August 12, 2010, by another enhanced remake, Blood Covered: Repeated Fear , which was released internationally as Corpse Party , which features updated art and the addition of professional voice actors/actresses .
+
+The remake thoroughly expands the plot and setting of the original game. Here, the haunted schoolhouse is named Heavenly Host Elementary School ( 天神小学校 , Tenjin Shōgakkō ) , a fictional Fujisawa elementary school that was torn down following the murders and disappearances of several of its staff and students. In modern-day Japan, the main characters' high school, Kisaragi Academy ( 如月学園 , Kisaragi Gakuen ) , has been built over the elementary school site. The students are transported to Heavenly Host after performing a charm called " Sachiko Ever After ( 幸せのサチコさん , Shiawase no Sachiko-san ) ", which would supposedly allow them to remain friends for eternity.
+
+In addition to the five protagonists of the original game, Blood Covered introduces four characters to the playable cast: Seiko Shinohara, Naomi's best friend; Mayu Suzumoto, a popular student due to transfer out of Kisaragi; Sakutaro Morishige, Mayu's best friend; and Yui Shishido, the class's homeroom teacher. Blood Covered also includes several characters from other schools who are also trapped inside Heavenly Host and affect the story. Two notable characters are Naho Saenoki, a selfish but helpful paranormalist from Paulownia Academy ( 桐章学園 , Kirishō Gakuen ) who discovered the "Sachiko Ever After" charm and came to investigate Heavenly Host; and Yuuya Kizami, a sadistic student from Byakudan Senior High School ( 白壇高等学校 , Byakudan Kōtōgakkō ) who accompanies Yuka as she is separated from her brother. The red ghost is re-envisioned as a little girl named Sachiko Shinozaki who kills the students of Heavenly Host in anger over her and her mother's murder.
+
+Another Child
+[ edit ]
+
+Corpse Party: Another Child is a spin-off manga that takes place during the events of Corpse Party . With their school, Satsukiyama Academy ( 皐月山学園 , Satsukiyama Gakuen ) , shutting down for good, the students of a small town were heading for different directions in life, not until they decide to perform the "Sachiko Ever After" charm swallowing the entire class to Heavenly Host Elementary, along with a mysterious girl's spirit. In order to get out, they must track and get rid of the spirit.
+
+Book of Shadows
+[ edit ]
+
+Main article: Corpse Party: Book of Shadows
+
+This 2011 sequel to Blood Covered , Book of Shadows features a series of nonlinear chapters that add new twists and backgrounds for various characters and details important to the storyline. The game mostly takes place during the same time the first game did, continuing from one of the "wrong ends" in Corpse Party , where Sachiko sends the Kisaragi Academy students back in time. For this purpose, she erases their memories except for Satoshi's. He fails to dissuade his classmates from performing the charm, but he joins them, not wanting to let them go alone, sending them on alternative course of actions and encountering several supporting victims in Heavenly Host.
+
+The game's epilogue, Blood Drive , serves as the set up to the eponymous sequel . Two weeks after escaping Heavenly Host, Ayumi and Naomi go to investigate the Shinozaki estate, Sachiko's birthplace, believing there is hope in reviving their dead friends since Naho and Kou Kibiki's existences were not erased like the other victims. At the estate, Ayumi discovers that she is of the same lineage as Sachiko. Hearing an eerie voice, Ayumi uncovers a magical tome known as the " Book of Shadows ". Ayumi and Naomi perform a resurrection spell for Mayu, but fail. As compensation for using black magic, the book unleashes its rage upon Ayumi until her older sister Hinoe Shinozaki rushes in and saves Ayumi, at the cost of her own life.
+
+Sweet Sachiko's Hysteric Birthday Bash
+[ edit ]
+
+Main article: Corpse Party: Sweet Sachiko's Hysteric Birthday Bash
+
+On the day of Sachiko's birth and death, the curse on her weakens and she gets 24 hours to celebrate her birthday as someone closer to the girl she was before her death. She uses the time loops as established in Corpse Party: Book of Shadows to force all survivors at that point to participate in activities she has set up. Given it is either that or die horribly again, something all are aware that they have already experienced but cannot remember in full, they go along with her demands. The game features almost all characters from the previous games and some new ones. While a pseudo-horror spin-off at best, it is part of the storyline, setting up a few details to prepare for Corpse Party: Blood Drive .
+
+As with Corpse Party: Book of Shadows , there is only one extra chapter. This extra chapter takes place during the previous game and is more conventional horror. It tells of Yoshiki's and Ayumi's encounter with four students from Sugatani Senior High School, notably Azusa Takai.
+
+Blood Drive
+[ edit ]
+
+Main article: Corpse Party: Blood Drive
+
+Corpse Party: Blood Drive is the direct sequel to Corpse Party: Book of Shadows , and is the first game featuring settings and characters rendered in 3D. The game was released for the Sony PlayStation Vita in Japan in July 2014 by 5pb. The characters are depicted in 3D chibi style, however traditional CG artwork appears during cutscenes, illustrated by Sakuya Kamishiro. [ 15 ]
+
+Continuing from the prologue included in Book of Shadows , Naomi manages to save Ayumi and takes her to a hospital. The Shinozaki estate and tome subsequently vanish without a trace. Ayumi had been severely ill for her misuse of the "Book of Shadows'" black magic. In the hospital, a woman claiming to be a spiritual associate of Hinoe's visits Ayumi. This woman belongs to the " Wiccan Institute", an organization that worships spirits. She tells her Hinoe's last wish, which is to regain the "Book of Shadows" or the world will fall into the abyss. This is partially a lie, as the woman is under threat of other organizations to get Ayumi to find the book, which they wish to use for their own gain.
+
+After being discharged from the hospital two months later, Ayumi returns to Kisaragi Academy where Satoshi and friends give her a warm welcome. However, the absence of their dead friends is a constant reminder of their inevitable reality. A new teacher's assistant, Kuon Niwa, supervises their homeroom. Later, on her way home, a black hooded boy approaches Ayumi and tells her, "If you reclaim the "Book of Shadows" and use it at Heavenly Host, those who have died there will be revived.". Ayumi pledges that she will once more take back the "Book of Shadows". The trail leads into the previous residence of Makina Shinozaki. To make matters worse, Heavenly Host's curse is expanded by the "new Sachiko", later named "Sachi". [ 15 ]
+
+2: Dead Patient
+[ edit ]
+
+The game Corpse Party 2: Dead Patient takes place five years after the events of Corpse Party Heavenly Host Arc, implied to be the consequences of the Book of Shadows' powers starting to bring about the end of the world by allowing the spirit realm and real world to start to converge together. The setting is Amare Patriarcha Crucis Hospital ( 文月大付属・ 慈愛十字 ( パトリアーカル ) 病院 , Fumizuki Daifuzoku Patoriākaru Byōin ; "July University Patriarchal Hospital") fallen into a dark abyss. Patient records and clinical charts are scattered all over the hospital, with zombies and a bizarre SWAT team roaming through the hallways. An amnesiac girl, Ayame Itou, wakes up on an operating table and encounters the dark happenings around her.
+
+II: Darkness Distortion
+[ edit ]
+
+Main article: Corpse Party II: Darkness Distortion
+
+On August 11, 2020, Mages YouTube channel released a " 10 Years of Corpse Party Repeated Fear " video celebrating the Heavenly Host Saga, at the end of the Timeline they show off "202X" with then the words " Darkness Distortion " followed by the last words of "More Corpse...", which seems to tease a direct sequel to Corpse Party: Blood Drive , which was called " The End of the Heavenly Host Saga ".
+
+Development
+[ edit ]
+
+The first game in the series was developed using the RPG Maker version RPG Tsukūru Dante 98 software and released in 1996 for the PC-9801 . [ 3 ]
+
+Dummy head mics were utilized for Blood Covered , Book of Shadows , and Blood Drive to provide perceived three dimensional sound. [ 16 ]
+
+Media listing
+[ edit ]
+
+List of Corpse Party video games
+Title Developer Publisher Platform Release date
+
+Japan North America Europe
+
+Corpse-Party [ h ] Kenix Soft JP: Kenix Soft PC-9801 April 22, 1996 — N/a — N/a
+
+Corpse Party: NewChapter [ a ] Team GrisGris JP: Team GrisGris Mobile October 3, 2006 – December 26, 2007 — N/a — N/a
+
+Corpse Party: Blood Covered [ b ] Team GrisGris JP: Team GrisGris
+
+WW: Xseed Games Windows December 31, 2007 – July 28, 2011 April 25, 2016 April 25, 2016
+
+Corpse Party: Blood Covered ...Repeated Fear [ c ] Team GrisGris, 5pb. JP: 5pb.
+
+NA: Xseed Games
+
+EU: Marvelous Europe PlayStation Portable August 12, 2010 November 22, 2011 December 14, 2011
+
+iOS February 9, 2012 August 14, 2012 August 14, 2012
+
+Nintendo 3DS July 30, 2015 October 25, 2016 October 26, 2016
+
+Nintendo Switch February 18, 2021 [ 17 ] October 20, 2021 [ 18 ] October 20, 2021
+
+PlayStation 4
+
+Xbox One — N/a
+
+Xbox Series X/S — N/a
+
+Windows October 20, 2021
+
+Corpse Party: Book of Shadows [ d ] Team GrisGris, 5pb . JP: 5pb.
+
+NA: Xseed Games
+
+EU: Marvelous Europe PlayStation Portable September 1, 2011 January 15, 2013 January 23, 2013
+
+iOS December 17, 2013 — N/a — N/a
+
+Windows October 29, 2018 October 29, 2018 October 29, 2018
+
+Corpse Party: Sweet Sachiko's Hysteric Birthday Bash [ e ] Team GrisGris, 5pb. JP: 5pb.
+
+WW: Xseed Games PlayStation Portable August 2, 2012 — N/a — N/a
+
+Windows April 10, 2019 April 10, 2019 April 10, 2019
+
+Corpse Party 2: Dead Patient [ g ] GrindHouse JP: GrindHouse Windows May 29, 2013 — N/a — N/a
+
+Corpse Party: Blood Drive [ f ] Team GrisGris, 5pb. JP: 5pb.
+
+NA: Xseed Games
+
+EU: Marvelous Europe PlayStation Vita July 24, 2014 [ 19 ] October 13, 2015 [ 20 ] October 20, 2015 [ 21 ]
+
+Android , iOS January 31, 2017 January 31, 2017 January 31, 2017
+
+Windows October 10, 2019 October 10, 2019 October 10, 2019
+
+Nintendo Switch
+
+Corpse Party 2: Dead Patient Neues [ i ] GrindHouse JP: GrindHouse
+
+WW: Xseed Games Windows October 5, 2017 October 23, 2019 October 23, 2019
+
+Corpse Party: Tetralogy Pack [ j ] Team GrisGris, Mages JP: Mages Nintendo Switch August 7, 2025 — N/a [ k ] — N/a [ k ]
+
+Corpse Party II: Darkness Distortion [ l ] Team GrisGris, Mages JP: Mages
+
+NA: Xseed Games
+
+EU: Marvelous Europe Windows , Nintendo Switch , PlayStation 4 , PlayStation 5 2026 2026 2026
+
+List of Corpse Party manga series
+Title Author Illustrator Publisher Magazine(s) Volumes Original run
+
+Corpse Party: Blood Covered [ b ] Makoto Kedōin Toshimi Shinomiya Square Enix Gangan Powered , Gangan Joker 10 (47 chapters) August 22, 2008 – October 22, 2012
+
+Corpse Party; Musume [ m ] Makoto Kedōin Mika Orii Media Factory Monthly Comic Alive 3 (20 chapters) August 27, 2010 – July 27, 2012
+
+Corpse Party: Another Child [ n ] Makoto Kedōin Shunsuke Ogata Mag Garden Monthly Comic Blade 3 (17 chapters) August 30, 2011 – February 28, 2013
+
+Corpse Party: Book of Shadows [ d ] Makoto Kedōin Mika Orii Media Factory Monthly Comic Alive 3 (24 chapters) August 23, 2012 – March 24, 2014
+
+Corpse Party: Sweet Sachiko's Hysteric Birthday Bash [ e ] Makoto Kedōin Tsubakurou Shibata Enterbrain Famitsu Comic Clear 2 (12 chapters) June 22, 2013 – January 15, 2015
+
+Corpse Party Cemetery 0: Kaibyaku no Ars Moriendi [ o ] Makoto Kedōin Ichihaya Takeshobo Manga Life Win 2 (19 chapters) June 22, 2013 – April 17, 2014
+
+List of Corpse Party anime and live-action film media
+Title Director Producer Run time Release date
+
+Corpse Party: Missing Footage [ p ] Akira Iwanaga Asread 11 minutes August 2, 2012
+
+Corpse Party: Tortured Souls [ q ] Akira Iwanaga Asread 117 minutes (4 episodes) July 24, 2013
+
+Corpse Party [ h ] Masafumi Yamada Kadokawa Daiei 93 minutes August 1, 2015
+
+Corpse Party Book of Shadows [ d ] Masafumi Yamada Kadokawa Daiei 93 minutes July 30, 2016
+
+Critical reception
+[ edit ]
+
+Aggregate review scores
+
+As of December 20, 2019.
+Game GameRankings Metacritic
+
+Corpse Party (PSP) 73% [ 23 ]
+
+(PC) 71% [ 24 ]
+
+(3DS) 81% [ 25 ] (PSP) 71/100 [ 26 ]
+
+(PC) 71/100 [ 27 ]
+
+(3DS) 77/100 [ 28 ]
+
+Corpse Party: Book of Shadows (PSP) 68% [ 29 ] (PSP) 67/100 [ 30 ]
+
+Corpse Party: Blood Drive (VITA) 60% [ 31 ]
+
+(Switch) 50% [ 32 ] (VITA) 60/100 [ 33 ]
+
+(Switch) 54/100 [ 34 ]
+
+Corpse Party 2: Dead Patient - 67/100 [ 35 ]
+
+The first game's 3DS version received "generally favourable" reviews according to the review aggregator Metacritic . Other releases received "mixed or average" reviews.
+
+Adaptations
+[ edit ]
+
+The video game series has been adapted into four manga series: Corpse Party: Blood Covered , published by Square Enix ; Corpse Party: Musume and Corpse Party: Book of Shadows , published by Media Factory ; and Corpse Party: Another Child , published by Mag Garden . The manga has sold over 1 million copies, as of May 2015. [ 36 ]
+
+One original video animation (OVA), Corpse Party: Missing Footage , was released on August 2, 2012. [ 7 ] Another OVA consisting of four episodes titled Corpse Party: Tortured Souls , was released on July 24, 2013, [ 37 ] and later licensed by Section23 Films .
+
+A live action film adaptation was released on August 1, 2015, [ 38 ] while a film adaptation of Corpse Party: Book of Shadows was released on June 30, 2016. [ 39 ]
+
+China ban
+[ edit ]
+
+On June 12, 2015, the Chinese Ministry of Culture listed Corpse Party among 38 anime and manga titles banned in China . [ 40 ]
+
+Notes
+[ edit ]
+
+1 2 Kōpusu Pātī NewChapter ( コープスパーティー NewChapter )
+
+1 2 3 Kōpusu Pātī Buraddo Kabā ( コープスパーティー ブラッドカバー )
+
+1 2 Kōpusu Pātī Buraddo Kabā: Ripītiddo Fiā ( コープスパーティーブラッドカバー リピーティッドフィアー )
+
+1 2 3 4 Kōpusu Pātī Book of Shadows ( コープスパーティー Book of Shadows )
+
+1 2 3 Kōpusu Pātī The Anthology: Sachiko no Ren'ai Yūgi (Hysteric Birthday 2U) ( コープスパーティー -The Anthology- サチコの恋愛遊戯♥Hysteric Birthday 2U ; lit. ' Corpse Party the Anthology: Sachiko's Game of Love (Hysteric Birthday 2U) ' )
+
+1 2 Kōpusu Pātī Buraddo Doraibu ( コープスパーティー ブラッドドライブ )
+
+1 2 ( コープスパーティー2 Dead Patient )
+
+1 2 Kōpusu Pātī ( コープスパーティー )
+
+↑ ( コープスパーティー2 Dead Patient Neues )
+
+↑ ( コープスパーティー Tetralogy Pack )
+
+1 2 Originally planned for an October 28, 2025 release by XSeed Games, but was later cancelled after failing to meet Nintendo of America guidelines. [ 22 ]
+
+↑ ( コープスパーティーII Darkess Disortion )
+
+↑ Kōpusu Pātī; Musume ( コープスパーティー;娘 ; lit. "Corpse Party: The Girl/Daughter")
+
+↑ ( コープスパーティー Another Child )
+
+↑ Kōpusu Pātī Cemetery 0: Kaibyaku no Arusu Moriendi ( コープスパーティーCemetery 0〜開闢のアルス・モリエンディ〜 ; lit. "Corpse Party Cemetery 0: The Genesis of Ars Moriendi")
+
+↑ ( コープスパーティー Missing Footage )
+
+↑ Kōpusu Pātī Tortured Souls – Bōgyakusareta Tamashī no Jukyō ( コープスパーティー Tortured Souls ―暴虐された魂の呪叫― ; lit. "Corpse Party: Tortured Souls – The Curse of Tortured Souls-")
+
+References
+[ edit ]
+
+↑ "Memories of Fear... Corpe Party Rebuilt" . memoriesoffear.com . Archived from the original on July 6, 2014 . Retrieved October 17, 2014 .
+
+↑ "Products" (in Japanese). Team GrisGris. Archived from the original on March 4, 2016 . Retrieved October 24, 2015 .
+
+1 2 Sherman, Jennifer (September 3, 2011). "Marvelous USA Licenses Corpse Party Horror PSP Game" . Anime News Network . Archived from the original on August 26, 2021 . Retrieved September 3, 2011 .
+
+↑ "Xseed Bringing Corpse Party To PC In 2014" . Siliconera . June 5, 2014. Archived from the original on June 8, 2014.
+
+↑ Romano, Sal (April 9, 2015). " Corpse Party 3DS dated in Japan" . Gematsu . Archived from the original on October 13, 2015 . Retrieved October 24, 2015 .
+
+↑ Loveridge, Lynzee (January 9, 2013). " Corpse Party: Book of Shadows 2nd N. American Trailer Posted" . Anime News Network . Archived from the original on January 12, 2013 . Retrieved March 28, 2013 .
+
+1 2 Loo, Egan (April 11, 2012). " Corpse Party Anthology PSP Game to Bundle Video Anime" . Anime News Network . Archived from the original on November 6, 2018 . Retrieved March 28, 2013 .
+
+↑ Ishaan (April 22, 2013). " Corpse Party Continues On PS Vita With Corpse Party: Blood Drive " . Siliconera . Gamurs . Archived from the original on June 27, 2013 . Retrieved July 13, 2013 .
+
+↑ Romano, Sal (October 4, 2013). " Corpse Party: Blood Drive pushed to 2014 in Japan" . Gematsu . Archived from the original on July 2, 2015 . Retrieved October 24, 2015 .
+
+↑ Romano, Sal (September 24, 2015). " Corpse Party: Blood Drive launches October 13 in North America" . Gematsu . Retrieved March 28, 2024 .
+
+↑ Loveridge, Lynzee (August 16, 2012). " Corpse Party 2: Dead Patient PC Game Announced" . Anime News Network . Archived from the original on August 20, 2013 . Retrieved September 3, 2013 .
+
+↑ "Corpse Party Tetralogy Pack announced for Switch" . Gematsu . May 23, 2025 . Retrieved May 27, 2025 .
+
+↑ Mateo, Alex (March 28, 2024). " Corpse Party II: Darkness Distortion Game Launches for Switch, PS4, PC in Fall" . Anime News Network . Retrieved March 28, 2024 .
+
+↑ Mateo, Alex (August 25, 2025). "Corpse Party Tetralogy Pack Heads West; Corpse Party II: Darkness Distortion Game Gets PS5 Version, Delay" . Anime News Network . Retrieved August 26, 2025 .
+
+1 2 "More Details On Corpse Party: Blood Drive' s Story And New Characters" . Siliconera . March 20, 2014. Archived from the original on September 24, 2015 . Retrieved October 24, 2015 .
+
+↑ James, Thomas (March 28, 2014). " Corpse Party: Blood Drive dated in Japan, new details" . Gematsu . Archived from the original on September 23, 2015 . Retrieved January 1, 2023 .
+
+↑ " Corpse Party Blood: Covered Repeated Fear Hits Switch and PS4 Next Month" . Siliconera . Archived from the original on January 20, 2021 . Retrieved January 19, 2021 .
+
+↑ " Corpse Party (2021) coming west on October 20 for PS4, Xbox One, Switch, and PC" . Gematsu . October 8, 2021. Archived from the original on October 8, 2021 . Retrieved October 8, 2021 .
+
+↑ Sato (March 19, 2014). " Corpse Party: Blood Drive Will Be Released This July For PlayStation Vita" . Siliconera . Archived from the original on November 3, 2015 . Retrieved October 24, 2015 .
+
+↑ " Corpse Party: Blood Drive launches October 13 in North America" . Gematsu . September 24, 2015. Archived from the original on September 5, 2016 . Retrieved June 21, 2017 .
+
+↑ " Corpse Party: Blood Drive " . Marvelous USA. October 20, 2015. Archived from the original on April 10, 2016 . Retrieved October 19, 2016 . {{ cite web }} : CS1 maint: bot: original URL status unknown ( link )
+
+↑ Hodgkins, Crystalyn (November 15, 2025). "XSEED Games Cancels Release of Corpse Party Tetralogy Pack" . Anime News Network . Retrieved November 15, 2025 .
+
+↑ " Corpse Party for PSP" . GameRankings . CBS Interactive . Archived from the original on December 8, 2015 . Retrieved November 27, 2015 .
+
+↑ " Corpse Party for PC" . GameRankings . CBS Interactive . Archived from the original on October 17, 2018 . Retrieved October 17, 2018 .
+
+↑ " Corpse Party for 3DS" . GameRankings . CBS Interactive . Archived from the original on October 17, 2018 . Retrieved October 17, 2018 .
+
+↑ " Corpse Party for PSP Reviews" . Metacritic . CBS Interactive . Archived from the original on November 15, 2015 . Retrieved November 27, 2015 .
+
+↑ " Corpse Party for PC Reviews" . Metacritic . CBS Interactive . Archived from the original on May 8, 2018 . Retrieved October 17, 2018 .
+
+↑ " Corpse Party for 3DS Reviews" . Metacritic . CBS Interactive . Archived from the original on December 16, 2017 . Retrieved December 16, 2017 .
+
+↑ " Corpse Party: Book of Shadows for PSP" . GameRankings . CBS Interactive . Archived from the original on December 8, 2015 . Retrieved November 27, 2015 .
+
+↑ " Corpse Party: Book of Shadows for PSP Reviews" . Metacritic . CBS Interactive . Archived from the original on November 28, 2015 . Retrieved November 27, 2015 .
+
+↑ " Corpse Party: Blood Drive for PlayStation Vita" . GameRankings . CBS Interactive . Archived from the original on October 17, 2018 . Retrieved October 17, 2018 .
+
+↑ " Corpse Party: Blood Drive for Switch" . GameRankings . CBS Interactive . Archived from the original on November 9, 2019 . Retrieved October 27, 2019 .
+
+↑ " Corpse Party: Blood Drive for PlayStation Vita Reviews" . Metacritic . CBS Interactive . Archived from the original on October 18, 2018 . Retrieved October 17, 2018 .
+
+↑ " Corpse Party: Blood Drive for Switch Reviews" . Metacritic . CBS Interactive . Archived from the original on July 9, 2020 . Retrieved December 17, 2019 .
+
+↑ " Corpse Party 2: Dead Patient for PC Reviews" . Metacritic . CBS Interactive . Archived from the original on July 20, 2020 . Retrieved December 17, 2019 .
+
+↑ スクウェア・エニックス [ Square Enix ] . Gekkan Gangan Joker [ ja ] (June 2015). Square Enix : 10. 2015.
+
+↑ Loo, Egan (August 2, 2012). " Corpse Party Games Get New Tortured Souls Video Anime" . Anime News Network . Archived from the original on February 13, 2019 . Retrieved August 4, 2012 .
+
+↑ Loo, Egan (August 3, 2015). "Live-Action Corpse Party Film Gets Uncut, 'Unlimited Edition' " . Anime News Network . Archived from the original on October 30, 2018 . Retrieved September 11, 2018 .
+
+↑ Mateo, Alex (June 3, 2016). "Live-Action Corpse Party: Book of Shadows Film's Trailer Reveals Theme Song, July Premiere" . Anime News Network . Archived from the original on September 12, 2018 . Retrieved September 12, 2018 .
+
+↑ "China bans 38 anime & manga titles including Attack on Titan " . Special Broadcasting Service . June 12, 2015. Archived from the original on August 31, 2018 . Retrieved August 31, 2018 .
+
+External links
+[ edit ]
+
+Official website (in Japanese)
+
+Official website
+
+Official website (manga) (in Japanese)
+
+Anime OVA website (in Japanese)
+
+Live action film (in Japanese)
+
+v
+
+t
+
+e
+
+Corpse Party
+
+Video games
+
+Corpse Party (2008)
+
+Book of Shadows (2011)
+
+Sweet Sachiko's Hysteric Birthday Bash (2012)
+
+Blood Drive (2014)
+
+II: Darkness Distortion (2026)
+
+Adaptations
+
+Tortured Souls (2013 OVA)
+
+Corpse Party (2015 film)
+
+Book of Shadows (2016 film)
+
+Category
+
+v
+
+t
+
+e
+
+Gangan Powered series
+
+Kimi to Boku (2003–09)
+
+Superior (2004–09)
+
+KimiKiss: Lyrical Contact (2006–07)
+
+Hero Tales (2006–09)
+
+KimiKiss: After Days (2007–08)
+
+Barakamon (2008–09)
+
+Book Girl and the Suicidal Mime (2008–09)
+
+Corpse Party: Blood Covered (2008–09)
+
+v
+
+t
+
+e
+
+Monthly Gangan Joker series
+
+Current
+
+Kakegurui (2014)
+
+Is It Wrong to Try to Pick Up Girls in a Dungeon? On the Side: Sword Oratoria (2014)
+
+The Case Study of Vanitas (2015)
+
+Ragna Crimson (2017)
+
+The Great Jahy Will Not Be Defeated! (2017)
+
+My Clueless First Friend (2018)
+
+Please Put Them On, Takamine-san (2019)
+
+Sono Ato no Isshūkan Friends (2021)
+
+Dragon and Chameleon (2022)
+
+2009–19
+
+Book Girl and the Suicidal Mime (2009–2010)
+
+Corpse Party: Blood Covered (2009–2012)
+
+Dusk Maiden of Amnesia (2009–2013)
+
+Inu × Boku SS (2009–2014)
+
+Natsu no Arashi! (2009–2010)
+
+Shitsurakuen (2009–2011)
+
+Akame ga Kill! (2010–2016)
+
+My Bride Is a Mermaid (2010)
+
+Umineko When They Cry Episode 5: End of the Golden Witch (2010–2012)
+
+Hanasaku Iroha (2010–2012)
+
+Book Girl and the Famished Spirit (2010–2013)
+
+Oreshura (2011–2014)
+
+Gugure! Kokkuri-san (2011–2016)
+
+One Week Friends (2012–2015)
+
+Umineko When They Cry Episode 8: Twilight of the Golden Witch (2012–2015)
+
+Tari Tari (2012)
+
+The Idolmaster Cinderella Girls New Generations (2012–2013)
+
+TomoMote (2013–2015)
+
+The Magical Girl and the Evil Lieutenant Used to Be Archenemies (2013–2015)
+
+Gugure! Shigaraki-san (2014–2016)
+
+Grimgar of Fantasy and Ash (2015–2016)
+
+Happy Sugar Life (2015–2019)
+
+Kakegurui Twin (2015–2023)
+
+Shibuya Goldfish (2016–2021)
+
+Imōto Sae Ireba Ii. Gaiden: Imōto ni Saenareba Ii! (2016–2018)
+
+Suicide Notes Laid on the Table (2017–2022)
+
+Bottom-tier Character Tomozaki (2017–2021)
+
+A Herbivorous Dragon of 5,000 Years Gets Unfairly Villainized (2018–2019)
+
+The Girl I Like Forgot Her Glasses (2018–2024)
+
+2020s
+
+The Maid I Hired Recently Is Mysterious (2020–2024)
+
+Miss Miyazen Would Love to Get Closer to You (2020–2021)
+
+Witch Life in a Micro Room (2020–2022)
+
+False Child (2022–2024)
+
+Related
+
+My Shady Little Brother, Gyomei (2023–present)
+
+v
+
+t
+
+e
+
+Asread
+
+Television series
+
+Shuffle! (2005–2006)
+
+Shuffle! Memories (2007)
+
+Ga-Rei: Zero (2008)
+
+Minami-ke: Okawari (2008)
+
+Minami-ke: Okaeri (2009)
+
+Future Diary (2011–2012)
+
+I Couldn't Become a Hero, So I Reluctantly Decided to Get a Job (2013)
+
+Big Order (2016)
+
+Lord of Vermilion: The Crimson King (2018)
+
+Arifureta: From Commonplace to World's Strongest (2019)
+
+Mother of the Goddess' Dormitory (2021)
+
+Arifureta: From Commonplace to World's Strongest 2nd Season (2022)
+
+Arifureta: From Commonplace to World's Strongest 3rd Season (2024)
+
+A Misanthrope Teaches a Class for Demi-Humans (2026)
+
+OVA/ONAs
+
+Minami-ke: Betsubara (2009)
+
+Future Diary (2010)
+
+Busō Chūgakusei: Basket Army (2011–2012)
+
+Corpse Party: Missing Footage (2012)
+
+Corpse Party: Tortured Souls (2013)
+
+Future Diary: Redial (2013)
+
+I Couldn't Become a Hero, So I Reluctantly Decided to Get a Job (2014)
+
+Big Order (2015)
+
+Arifureta: From Commonplace to World's Strongest (2019–present)
+
+Category
+
+Portals :
+1990s
+
+Video games
+
+Speculative fiction/Horror
+
+Authority control databases
+
+MusicBrainz work
+
+Retrieved from " https://en.wikipedia.org/w/index.php?title=Corpse_Party&oldid=1380325447 "
+
+Categories :
+Corpse Party
+
+1990s horror video games
+
+2000s horror video games
+
+2008 manga
+
+2010 manga
+
+2010s horror video games
+
+2012 anime OVAs
+
+Adventure games
+
+Android (operating system) games
+
+Asread
+
+Gangan Comics manga
+
+Horror anime and manga
+
+IOS games
+
+Mag Garden manga
+
+Media franchises
+
+Media Factory manga
+
+Mystery video games
+
+Nintendo 3DS eShop games
+
+Nintendo 3DS games
+
+Nintendo Switch games
+
+PlayStation 4 games
+
+PlayStation Portable games
+
+PlayStation Vita games
+
+Seinen manga
+
+Shōnen manga
+
+Video game franchises introduced in 1996
+
+Video game franchises
+
+Video games about birthdays
+
+Video games about death
+
+Video games about ghosts
+
+Video games about mental health
+
+Video games about spirit possession
+
+Video games developed in Japan
+
+Video games featuring female protagonists
+
+Video games set in 2008
+
+Windows games
+
+Works banned in China
+
+Hidden categories:
+Articles with short description
+
+Short description matches Wikidata
+
+Use mdy dates from March 2026
+
+Articles containing Japanese-language text
+
+CS1 Japanese-language sources (ja)
+
+All articles with vague or ambiguous time
+
+Vague or ambiguous time from March 2026
+
+CS1 maint: bot: original URL status unknown
+
+CS1 uses Japanese-language script (ja)
+
+Articles with Japanese-language sources (ja)
+
+Search
+
+Corpse Party
+
+14 languages Add topic

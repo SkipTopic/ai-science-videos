@@ -1,0 +1,4 @@
+OK I10_wp_page_278_en status=200 items=1 bytes=2741
+OK I11_wp_page_278_ja status=200 items=1 bytes=2741
+OK I12_wp_pages_en status=200 items=42 bytes=912418
+OK I13_wp_pages_ja status=200 items=42 bytes=912417

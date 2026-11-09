@@ -1,0 +1,397 @@
+SOURCE: https://en.wikipedia.org/wiki/To_the_Moon_(video_game)
+TITLE: 去月球 To the Moon（英文维基）
+FETCHED: 2026-10-21 17:20:25
+============================================================
+
+To the Moon (video game) - Wikipedia
+
+Jump to content
+
+From Wikipedia, the free encyclopedia
+
+2011 video game
+
+2011 video game
+
+To the Moon
+
+Game cover
+
+Developer Freebird Games
+
+Publisher Freebird Games [ a ]
+
+Designers
+
+Kan Gao
+
+Lannie Neely III
+
+Artists
+
+Alisa Tana
+
+Gabriela Aprile
+
+Kan Gao
+
+Cecilie Posthumus
+
+Writer Kan Gao
+
+Composers
+
+Kan Gao
+
+Laura Shigihara
+
+Engine
+
+RPG Maker XP (Windows)
+
+Unity (Mobile, Console)
+
+Platforms
+
+Windows
+
+Linux
+
+OS X
+
+Android
+
+iOS
+
+Nintendo Switch
+
+PlayStation 5
+
+Xbox Series X/S
+
+Release
+
+November 1, 2011
+
+Windows
+
+November 1, 2011
+
+Linux , OS X
+
+January 7, 2014
+
+Android , iOS
+
+May 12, 2017
+
+Switch
+
+January 16, 2020
+
+PS5 , Xbox Series X/S
+
+October 8, 2024
+
+Genre Adventure
+
+Mode Single-player
+
+To the Moon is a 2011 adventure game developed and published by Freebird Games . It was originally released for Windows and was later ported to Linux , OS X , Android , iOS , and the Nintendo Switch . The story follows two doctors who offer to fulfill a dying man's last wish using artificial memories. The game features relatively few gameplay mechanics, with the player controlling the two doctors, exploring the narrative, and solving puzzles as they try to reconstruct the dying man's memories in order to fulfill his wish.
+
+The game was designed by Kan Gao using the RPG Maker XP toolkit. Development started in 2010, when Gao was struck by questions of mortality following his grandfather's life-threatening condition. To the Moon would become Freebird Games' first commercial product, following smaller, experimental games released for free on the studio website. The game was later updated to include two free downloadable content chapters called "minisodes" to give more context to the main characters. A sequel, Finding Paradise , was released in 2017, and a third entry, Impostor Factory , was released in 2021. The fourth game in the series, Just A To The Moon Series Beach Episode , was released in 2024.
+
+To the Moon received praise for its narrative, music, thematic material, and emotional power. The game was nominated for several awards and considered by many to be a leading example of artistic expression in video games . An animated film adaptation is in development, partially scripted and supervised by Gao. [ 1 ]
+
+Gameplay
+[ edit ]
+
+To the Moon is built on the RPG Maker XP engine, which is used to create 16-bit 2D role-playing games in the style of Suikoden 1 and 2 . However, unlike a typical RPG, To the Moon has no battle system (aside from a joke battle near the beginning), inventory system, or party system. As the game is mostly story-driven, the gameplay focuses on puzzle solving, interpreting information from the subject's (Johnny's) life, and finding ways to get deeper into his memories.
+
+The gameplay mostly consists of exploring Johnny's memories to find significant objects and collect energy from them to strengthen the memory and connect to a more distant one, from Johnny's old age leading back to his childhood. Occasionally, the player will have to explore Johnny's house and the surrounding area for certain clues, if they cannot gather enough energy from a certain memory, or don't know how to proceed to a further one.
+
+Once the items are all gathered and the player has seen every memory, they can connect certain objects that exist across two different memories to move freely between them. At this point, the player can begin manipulating the memories, by changing around characters, objects, and events, to make Johnny believe he had achieved his dream of going to the Moon.
+
+Plot
+[ edit ]
+
+Sigmund Corp. uses a technology that can create artificial memories . Since they conflict with the patient's real memories , the procedure is only legal to do on comatose patients without much time left to live. Thus, they offer this as a "wish fulfillment" service to people on their deathbeds.
+
+Sigmund Corp. employees Dr. Eva Rosalene and Dr. Neil Watts are contracted with fulfilling the wish of the dying Johnny Wyles. Johnny wants to go to the Moon, but is unable to state why. The doctors insert themselves into an interactive compilation of his memories and traverse backwards through his life via "mementos", items of great personal significance to Johnny that act as a link between his various memories.
+
+With each leap to an important moment in Johnny's memories, they learn more about him, largely revolving around his somewhat unhappy marriage to his teenage sweetheart, River. However, Rosalene and Watts are unable to find any kind of explanation for Johnny's wish. The doctors also encounter an unusual gap in Johnny's earliest childhood memories, rendering them inaccessible. Nevertheless, the doctors insert his desire to go to the Moon into his earliest accessible memories of his teenage years. In theory, Johnny's mind would create new memories based on that desire, thus fulfilling his last wish.
+
+Johnny's mind does not create the new memories as planned, prompting the doctors to find a way to access the missing childhood memories. The doctors later uncover medical records explaining that Johnny once received a large dose of beta blockers as a child despite not having a heart condition, causing significant memory loss. The doctors then use a combination of their tech and external stimuli to forcefully restore Johnny's earliest childhood memories, where it is revealed that Johnny and River first met as young children at a carnival. They looked at the night sky together and made up a constellation: a rabbit with the moon as its belly. The two agreed to meet at the same place the following year, with Johnny promising that should he forget or get lost, the two would "regroup on the Moon", finally explaining the motivation behind his last wish.
+
+Sometime later, Johnny's mother accidentally kills his twin brother Joey in a car accident. In her grief, Johnny's mother deliberately gave Johnny the beta blockers [ b ] to erase all memories of Joey. This also causes him to forget his first encounter with River, but Johnny would later meet her again in school and would eventually marry her. River later realized that Johnny had forgotten their meeting at the carnival, greatly upsetting her. River, who is shown diagnosed with Pervasive developmental disorder (PDD), [ c ] would never directly tell Johnny about their first meeting. Instead, unaware of the reasons behind Johnny's memory loss, she would spend the rest of her life trying to no avail to jostle Johnny's memories by cutting her hair [ d ] and crafting numerous paper bunnies, including a dual-colored one representing the constellation they made up during their first encounter. River died without ever explaining her actions to Johnny, leaving him sad and confused. Rosalene then concludes that the only way to fulfill Johnny's wish is if River is removed from Johnny's memories after their first meeting.
+
+Over Watts' protests, Rosalene removes River from Johnny's memories except their first meeting. She then implants a memory sequence in which Joey did not die, thereby averting Johnny's amnesia . As a result, Johnny never meets River in school and would spend his entire youth working on becoming an astronaut to fulfill his promise to her. Johnny would not meet River again until they started working together at NASA . As the comatose real-life Johnny begins to die, he imagines going on a Moon mission with River. As the Space Shuttle leaves Earth, River wordlessly holds out her hand to Johnny. The Moon comes into view, and Johnny takes River's hand just before his heart monitor flatlines . In the epilogue showing Johnny's revised memories, Johnny and River get married like before. They build and retire to the same house as they did in real life. The only difference now is Joey's presence in all of Johnny's major life events, and the friction between Johnny and River caused by his original amnesia is absent. Rosalene and Watts, now back in the real world, look to Johnny's grave, placed adjacent to River's, behind their home. Rosalene receives a phone call, and the doctors move on to their next patient.
+
+Development and release
+[ edit ]
+
+To the Moon was developed and published by Freebird Games, the independent game studio of Canadian designer Kan Gao as their first commercial production. Made using the RPG Maker XP engine, development began in 2010 after Gao's grandfather became seriously ill, an event that made Gao question mortality and death. His thoughts on regret before one's death eventually inspired the concept for the story of the game. [ 2 ]
+
+To the Moon was originally released on the author's website and various digital download portals. Later, it was also made available via major digital distribution sites like Steam in November 2011 and GOG.com in June 2012. [ 3 ] Originally available only for Windows , it was later released for Linux and OS X through Humble Bundle 's "Humble Indie Bundle X" in January 2014. [ 4 ] Amaryllis Kulla ported the game with the open-source and cross-platform RPG Maker XP game engine recreation MKXP . [ 5 ] [ 4 ] Later this engine was also used for ports to other systems like the OpenPandora handheld . [ 6 ] In May 2017, To the Moon was also released on Android and iOS by X.D. Network Inc. with the cross-platform game engine developed by Unity Technologies . [ 7 ] The game was localized in Chinese, German, Italian, Spanish, French, Polish, Russian, Brazilian Portuguese, Vietnamese, Dutch, Korean, and Turkish. [ 8 ] The score of the game was composed by Gao, with a theme song titled "Everything's Alright" being written and performed by Laura Shigihara . The soundtrack was released on Bandcamp on November 4, 2011.
+
+A downloadable minisode was released on December 31, 2013, which centers on Dr. Rosalene and Dr. Watts during a holiday party at their local Sigmund Corp. office. [ 9 ] A second minisode was released on February 18, 2015. [ 10 ]
+
+Reception
+[ edit ]
+
+Reception
+
+Aggregate score
+Aggregator Score
+
+Metacritic PC: 81/100 [ 11 ]
+
+NS: 84/100 [ 12 ]
+
+Review scores
+Publication Score
+
+GamePro 5/5 [ 13 ]
+
+GameSpot 8/10 [ 14 ]
+
+GamesRadar+ 8/10 [ 15 ]
+
+IGN 7.5/10 [ 16 ]
+
+Nintendo World Report NS: 8/10 [ 17 ]
+
+RPGFan 90% [ 18 ]
+
+TouchArcade iOS: 4.5/5 [ 19 ]
+
+Award
+Publication Award
+
+GameSpot Best Story [ 20 ]
+
+To the Moon received generally favorable reviews, according to review aggregator Metacritic . [ 11 ] Critics, while noting that the gameplay itself was lacking, praised the story and music. [ 16 ]
+
+Legacy
+[ edit ]
+
+In August 2016, Gao announced that a mobile remake of the game was being developed by X.D. Network Inc. After about a year, the remake released for Android and iOS on May 12, 2017. The remake features high-definition graphics, as opposed to the 16-bit graphics of the original PC release. [ 21 ] The game released for Nintendo Switch on January 16, 2020, [ 22 ] and released for China Nintendo eShop on February 8, 2021, [ 23 ] [ 24 ] remade using the Unity engine . [ 25 ]
+
+A game set in the same universe, titled A Bird Story , was released in November 2014. While not a direct continuation of the story, it serves as a bridge between To the Moon and Finding Paradise , a sequel which was released in December 2017. [ 26 ] [ 27 ] An animated film adaptation is in development. [ 28 ] The film will be a collaborative project, with it being partially scripted and supervised by Gao with Japanese companies leading production and Chinese company Ultron Event Horizon funding it. [ 29 ] The series received a third entry, Impostor Factory , in September 2021, and a fourth [ 30 ] entry, Just a To the Moon Series Beach Episode , in September 2024. A fifth entry, modeled as a classic RPG, The Last Hour of an Epic TO THE MOON RPG , is in development. [ 31 ]
+
+Awards
+[ edit ]
+
+In GameSpot ' s 2011 Game of the Year awards, To the Moon was given the "Best Story" award, which was won against Catherine , Ghost Trick: Phantom Detective , Portal 2 , and Xenoblade Chronicles , [ 20 ] which were also voted in the same category. The game was also nominated in the categories of "Best Music", [ 32 ] "Most Memorable Moment", [ 33 ] "Best Writing/Dialogue", [ 34 ] "Best Ending", [ 35 ] and "Song of the Year". [ 36 ] In 2015, it was included on GamesRadar ' s top 100 games of all-time list. [ 37 ] In 2018, the mobile version was nominated for the "Game, Original Adventure" and "Original Light Mix Score, New IP" categories at the National Academy of Video Game Trade Reviewers Awards. [ 38 ] [ 39 ]
+
+Notes
+[ edit ]
+
+↑ Mobile and Nintendo Switch versions published by X.D. Network. Released for the PlayStation 5 and Xbox Series X/S by Serenity Forge .
+
+↑ Memory loss is a side effect of beta blockers.
+
+↑ The diagnostician recommends that River and Johnny read a book by Tony Attwood , a real-world specialist on Asperger syndrome . Both PDD and Asperger syndrome were merged into Autism Spectrum Disorder in DSM-5 .
+
+↑ River was short-haired when she and Johnny first met.
+
+References
+[ edit ]
+
+↑ @Reives_Freebird (May 18, 2018). "To the Moon animated feature film = confirmed" ( Tweet ) – via Twitter .
+
+↑ Donovan, Tristan (May 18, 2012). "Kan Gao: To The Moon and Back" . Eurogamer . Archived from the original on March 12, 2018 . Retrieved April 28, 2019 .
+
+↑ "To The Moon" . GOG Ltd . Retrieved April 28, 2019 .
+
+1 2 Larabel, Michael (January 8, 2014). "MKXP: Open-Source, Linux Engine To RPG Maker XP" . Phoronix . Archived from the original on July 21, 2020 . Retrieved April 28, 2019 .
+
+↑ Rudd, Edward (January 7, 2014). "humblebundle.com HIB X is now out.. Featuring a To The Moon port for Linux done by @Ancurio and mac by me" . Twitter . Retrieved April 28, 2019 .
+
+↑ ptitSeb (May 13, 2016). "ptitSeb's Beta Lair" . Pyra and Pandora . Retrieved April 28, 2019 .
+
+↑ Nelson, Jared (April 6, 2017). "Beloved Story Driven Adventure 'To the Moon' Hitting iOS and Android Next Month" . TouchArcade . Archived from the original on December 2, 2018 . Retrieved April 28, 2019 .
+
+↑ "Translation Projects" . Freebird Games . Archived from the original on July 5, 2018 . Retrieved April 28, 2019 .
+
+↑ Gao, Kan (December 31, 2013). "(To the Moon) Holiday Special Minisode" . Freebird Games . Archived from the original on February 22, 2021 . Retrieved April 28, 2019 .
+
+↑ Gao, Kan (February 18, 2015). "Sigmund Minisode 2 released" . Freebird Games . Archived from the original on February 8, 2021 . Retrieved April 28, 2019 .
+
+1 2 "To the Moon for PC Reviews" . Metacritic . Red Ventures . Retrieved March 3, 2012 .
+
+↑ "To the Moon for Switch Reviews" . Metacritic . Red Ventures . Retrieved April 4, 2020 .
+
+↑ Hubert, Olivia (November 7, 2011). "Review: To the Moon (PC)" . GamePro . Archived from the original on December 1, 2011.
+
+↑ VanOrd, Kevin (November 23, 2011). "To the Moon for PC review" . GameSpot . Archived from the original on February 13, 2012 . Retrieved November 29, 2011 .
+
+↑ Tong, Sophie (December 6, 2011). "To the Moon review" . GamesRadar . Future plc . Archived from the original on April 26, 2013 . Retrieved December 31, 2015 .
+
+1 2 Gallegos, Anthony (November 29, 2011). "To the Moon Review" . IGN . Archived from the original on August 27, 2012 . Retrieved April 28, 2019 .
+
+↑ Rudek, Jordan (January 16, 2020). "To The Moon (Switch) Review" . Nintendo World Report . Archived from the original on April 4, 2020 . Retrieved February 6, 2020 .
+
+↑ "To the Moon for PC review" . RPGFan. Archived from the original on December 9, 2011 . Retrieved November 29, 2011 .
+
+↑ Musgrave, Shaun (May 16, 2017). " 'To The Moon' Review – When the Moon Hits Your Eye" . TouchArcade . Archived from the original on May 17, 2017 . Retrieved June 23, 2018 .
+
+1 2 "Best Story - GameSpot's Best of 2011 Special Achievements" . GameSpot . December 19, 2011. Archived from the original on January 22, 2012 . Retrieved December 19, 2011 .
+
+↑ Dr Platplat (August 3, 2016). "TtM mobile version first look!" . Freebird Games . Archived from the original on September 2, 2018 . Retrieved April 28, 2019 .
+
+↑ Dellinger, AJ (February 26, 2019). "Indie favorite 'To the Moon' is coming to Nintendo Switch this summer" . Engadget . Archived from the original on November 8, 2020 . Retrieved April 28, 2019 .
+
+↑ "国行NS新作三连发：《舞力全开》《去月球》《喵斯快跑》上架Nintendo e商店 _ 游民星空 GamerSky.com" . www.gamersky.com . February 8, 2021. Archived from the original on July 8, 2022 . Retrieved February 11, 2021 .
+
+↑ "去月球 - 腾讯Nintendo Switch官网" . www.nintendoswitch.com.cn . Retrieved February 11, 2021 .
+
+↑ Glagowski, Peter (February 26, 2019). "Wonderful journey To The Moon is heading to Switch" . Destructoid . Enthusiast Gaming . Archived from the original on February 27, 2019 . Retrieved February 27, 2019 .
+
+↑ Prescott, Shaun (August 13, 2014). "A Bird Story is a stopgap between To The Moon and its sequel; new trailer and release date announced" . PC Gamer . Future plc . Archived from the original on August 8, 2016 . Retrieved June 13, 2016 .
+
+↑ Chalk, Andy (November 22, 2017). "Finding Paradise has a new release date and an unexpected trailer" . PC Gamer . Future plc . Archived from the original on July 22, 2019 . Retrieved April 28, 2019 .
+
+↑ O'Connor, Alice (May 18, 2018). "To The Moon becoming an animated movie" . Rock Paper Shotgun . Archived from the original on March 4, 2021 . Retrieved April 28, 2019 .
+
+↑ Gao, Kan (May 18, 2018). To the Moon – Animated feature film confirmed . Retrieved April 28, 2019 .
+
+↑ Chalk, Andy (August 16, 2023). "More than 10 years after it began, To the Moon's story is ending with a 'Beach Episode' " . PC Gamer . Retrieved March 15, 2025 .
+
+↑ "The Last Hour of an Epic TO THE MOON RPG on Steam" . store.steampowered.com . Retrieved March 15, 2025 .
+
+↑ "Best Music - GameSpot's Best of 2011 Special Achievements" . GameSpot . December 19, 2011. Archived from the original on February 2, 2012 . Retrieved December 19, 2011 .
+
+↑ "Most Memorable Moment - GameSpot's Best of 2011 Special Achievements" . GameSpot . December 19, 2011. Archived from the original on January 26, 2012 . Retrieved December 19, 2011 .
+
+↑ "Best Writing/Dialogue - GameSpot's Best of 2011 Special Achievements" . GameSpot . December 19, 2011. Archived from the original on January 22, 2012 . Retrieved December 19, 2011 .
+
+↑ "Best Ending - GameSpot's Best of 2011 Special Achievements" . GameSpot . December 19, 2011. Archived from the original on January 16, 2012 . Retrieved December 19, 2011 .
+
+↑ "Song of the Year - GameSpot's Best of 2011 Special Achievements" . GameSpot . December 19, 2011. Archived from the original on January 20, 2012 . Retrieved December 19, 2011 .
+
+↑ "The 100 best games ever" . GamesRadar . Future plc . February 25, 2015. Archived from the original on July 18, 2020 . Retrieved July 17, 2020 .
+
+↑ "Nominee List for 2017" . navgtr.org . February 9, 2018 . Retrieved February 18, 2018 . {{ cite web }} : CS1 maint: deprecated archival service ( link )
+
+↑ "Horizon wins 7; Mario GOTY" . navgtr.org . March 13, 2018 . Retrieved March 15, 2018 . {{ cite web }} : CS1 maint: deprecated archival service ( link )
+
+External links
+[ edit ]
+
+Official website
+
+v
+
+t
+
+e
+
+Freebird Games
+
+To the Moon (2011)
+
+A Bird Story (2014)
+
+Finding Paradise (2017)
+
+Impostor Factory (2021)
+
+Portals :
+Speculative fiction
+
+Video games
+
+Authority control databases
+
+National
+
+France
+
+BnF data
+
+Other
+
+MusicBrainz work
+
+MusicBrainz release group
+
+ELMCIP
+
+Retrieved from " https://en.wikipedia.org/w/index.php?title=To_the_Moon_(video_game)&oldid=1381167540 "
+
+Categories :
+2011 video games
+
+Adventure games
+
+Android (operating system) games
+
+Commercial video games with freely available source code
+
+Freebird Games games
+
+Indie games
+
+IOS games
+
+Linux games
+
+MacOS games
+
+PlayStation 5 games
+
+Xbox Series X and Series S games
+
+Nintendo Switch games
+
+RPG Maker games
+
+Science fiction video games
+
+Single-player video games
+
+Video games about death
+
+Video games about old age
+
+Video games developed in Canada
+
+Video games featuring female protagonists
+
+Video games scored by Laura Shigihara
+
+Windows games
+
+Works about memory
+
+X.D. Network games
+
+Coming-of-age fiction
+
+Unity (game engine) games
+
+Hidden categories:
+Articles with short description
+
+Short description matches Wikidata
+
+Use Australian English from January 2022
+
+All Wikipedia articles written in Australian English
+
+Use mdy dates from December 2017
+
+Articles using Infobox video game using locally defined parameters
+
+Articles using Wikidata infoboxes with locally defined images
+
+Articles using Video game reviews template in single platform mode
+
+CS1 maint: deprecated archival service
+
+Search
+
+To the Moon (video game)
+
+23 languages Add topic

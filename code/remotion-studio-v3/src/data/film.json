@@ -1,0 +1,6521 @@
+{
+  "fps": 30,
+  "chapters": [
+    {
+      "id": "01",
+      "title": "出生 · 300 万日元和一本杂志",
+      "start": 105.0,
+      "duration": 133.606,
+      "frames": 4008,
+      "lines": [
+        {
+          "id": "01-01",
+          "text": "1977 年 5 月，东京。",
+          "file": "film/01-01.mp3",
+          "start": 0.55,
+          "duration": 2.448,
+          "trimStart": 0.171,
+          "trimEnd": 1.953,
+          "block": 0,
+          "end": 2.332
+        },
+        {
+          "id": "01-02",
+          "text": "三个人成立了一家公司，叫 ASCII 出版。",
+          "file": "film/01-02.mp3",
+          "start": 2.672,
+          "duration": 3.768,
+          "trimStart": 0.142,
+          "trimEnd": 3.266,
+          "block": 0,
+          "end": 5.796
+        },
+        {
+          "id": "01-03",
+          "text": "启动资金，300 万日元。",
+          "file": "film/01-03.mp3",
+          "start": 6.796,
+          "duration": 2.52,
+          "trimStart": 0.16,
+          "trimEnd": 2.048,
+          "block": 1,
+          "end": 8.684
+        },
+        {
+          "id": "01-04",
+          "text": "这笔钱，是西和彦从他父亲那里拿的。",
+          "file": "film/01-04.mp3",
+          "start": 9.024,
+          "duration": 3.504,
+          "trimStart": 0.154,
+          "trimEnd": 2.998,
+          "block": 1,
+          "end": 11.868
+        },
+        {
+          "id": "01-05",
+          "text": "他那年 21 岁。早稻田大学理工学部，还没毕业。",
+          "file": "film/01-05.mp3",
+          "start": 14.296,
+          "duration": 5.064,
+          "trimStart": 0.177,
+          "trimEnd": 4.576,
+          "block": 2,
+          "end": 18.695
+        },
+        {
+          "id": "01-06",
+          "text": "他考过两次东京大学。两次都没考上。",
+          "file": "film/01-06.mp3",
+          "start": 19.035,
+          "duration": 4.32,
+          "trimStart": 0.161,
+          "trimEnd": 3.818,
+          "block": 2,
+          "end": 22.692
+        },
+        {
+          "id": "01-07",
+          "text": "第三次，他没考。他去创业了。",
+          "file": "film/01-07.mp3",
+          "start": 23.032,
+          "duration": 3.552,
+          "trimStart": 0.154,
+          "trimEnd": 2.983,
+          "block": 2,
+          "end": 25.861
+        },
+        {
+          "id": "01-08",
+          "text": "一个月后，他们办了一本杂志，叫《月刊 ASCII》。",
+          "file": "film/01-08.mp3",
+          "start": 26.861,
+          "duration": 4.296,
+          "trimStart": 0.156,
+          "trimEnd": 3.826,
+          "block": 3,
+          "end": 30.531
+        },
+        {
+          "id": "01-09",
+          "text": "ASCII。美国信息交换标准代码。",
+          "file": "film/01-09.mp3",
+          "start": 30.871,
+          "duration": 3.768,
+          "trimStart": 0.146,
+          "trimEnd": 3.259,
+          "block": 3,
+          "end": 33.984
+        },
+        {
+          "id": "01-10",
+          "text": "一个听起来跟游戏毫无关系的名字。",
+          "file": "film/01-10.mp3",
+          "start": 34.324,
+          "duration": 3.288,
+          "trimStart": 0.158,
+          "trimEnd": 2.821,
+          "block": 3,
+          "end": 36.987
+        },
+        {
+          "id": "01-11",
+          "text": "因为那时候，他们想做的根本不是游戏。",
+          "file": "film/01-11.mp3",
+          "start": 37.327,
+          "duration": 3.624,
+          "trimStart": 0.175,
+          "trimEnd": 3.137,
+          "block": 3,
+          "end": 40.289
+        },
+        {
+          "id": "01-12",
+          "text": "1978 年 6 月，西和彦飞到美国，见到了一个比他小一岁的年轻人。",
+          "file": "film/01-12.mp3",
+          "start": 41.289,
+          "duration": 5.736,
+          "trimStart": 0.173,
+          "trimEnd": 5.26,
+          "block": 4,
+          "end": 46.376
+        },
+        {
+          "id": "01-13",
+          "text": "比尔·盖茨。",
+          "file": "film/01-13.mp3",
+          "start": 46.716,
+          "duration": 1.752,
+          "trimStart": 0.151,
+          "trimEnd": 1.273,
+          "block": 4,
+          "end": 47.838
+        },
+        {
+          "id": "01-14",
+          "text": "第二年，微软的第一家海外销售办公室，开在了东京。",
+          "file": "film/01-14.mp3",
+          "start": 48.178,
+          "duration": 4.608,
+          "trimStart": 0.177,
+          "trimEnd": 4.108,
+          "block": 4,
+          "end": 52.109
+        },
+        {
+          "id": "01-15",
+          "text": "开在西和彦的公司里。",
+          "file": "film/01-15.mp3",
+          "start": 52.449,
+          "duration": 2.28,
+          "trimStart": 0.152,
+          "trimEnd": 1.8,
+          "block": 4,
+          "end": 54.097
+        },
+        {
+          "id": "01-16",
+          "text": "那家公司叫 ASCII Microsoft。",
+          "file": "film/01-16.mp3",
+          "start": 54.437,
+          "duration": 3.024,
+          "trimStart": 0.149,
+          "trimEnd": 2.532,
+          "block": 4,
+          "end": 56.82
+        },
+        {
+          "id": "01-17",
+          "text": "1983 年，西和彦想做一件更大的事。",
+          "file": "film/01-17.mp3",
+          "start": 57.82,
+          "duration": 3.84,
+          "trimStart": 0.188,
+          "trimEnd": 3.352,
+          "block": 5,
+          "end": 60.984
+        },
+        {
+          "id": "01-18",
+          "text": "他想统一日本的电脑。",
+          "file": "film/01-18.mp3",
+          "start": 61.324,
+          "duration": 2.256,
+          "trimStart": 0.153,
+          "trimEnd": 1.766,
+          "block": 5,
+          "end": 62.937
+        },
+        {
+          "id": "01-19",
+          "text": "那个标准叫 MSX。索尼、NEC、松下，都跟着他做。",
+          "file": "film/01-19.mp3",
+          "start": 63.277,
+          "duration": 6.48,
+          "trimStart": 0.147,
+          "trimEnd": 5.983,
+          "block": 5,
+          "end": 69.113
+        },
+        {
+          "id": "01-20",
+          "text": "一台 MSX 电脑，可以用同一套软件，同一根线，同一个手柄。",
+          "file": "film/01-20.mp3",
+          "start": 69.453,
+          "duration": 5.448,
+          "trimStart": 0.156,
+          "trimEnd": 4.946,
+          "block": 5,
+          "end": 74.243
+        },
+        {
+          "id": "01-21",
+          "text": "他想让全日本的电脑，说同一种语言。",
+          "file": "film/01-21.mp3",
+          "start": 74.583,
+          "duration": 3.552,
+          "trimStart": 0.162,
+          "trimEnd": 3.086,
+          "block": 5,
+          "end": 77.507
+        },
+        {
+          "id": "01-22",
+          "text": "1986 年，微软上市。",
+          "file": "film/01-22.mp3",
+          "start": 78.507,
+          "duration": 2.544,
+          "trimStart": 0.152,
+          "trimEnd": 2.047,
+          "block": 6,
+          "end": 80.402
+        },
+        {
+          "id": "01-23",
+          "text": "同年，盖茨跟他断了。",
+          "file": "film/01-23.mp3",
+          "start": 80.742,
+          "duration": 2.4,
+          "trimStart": 0.166,
+          "trimEnd": 1.925,
+          "block": 6,
+          "end": 82.501
+        },
+        {
+          "id": "01-24",
+          "text": "导火索之一，是西和彦花了 100 万美元，在东京竖了一只巨型机械恐龙，用来做广告。",
+          "file": "film/01-24.mp3",
+          "start": 82.841,
+          "duration": 7.392,
+          "trimStart": 0.157,
+          "trimEnd": 6.888,
+          "block": 6,
+          "end": 89.572
+        },
+        {
+          "id": "01-25",
+          "text": "一个人如果跑得太快，他会把同伴甩下，也会把自己甩出去。",
+          "file": "film/01-25.mp3",
+          "start": 89.912,
+          "duration": 5.208,
+          "trimStart": 0.167,
+          "trimEnd": 4.708,
+          "block": 6,
+          "end": 94.453
+        },
+        {
+          "id": "01-26",
+          "text": "1991 年，另外两个创始人辞职了。",
+          "file": "film/01-26.mp3",
+          "start": 95.453,
+          "duration": 3.48,
+          "trimStart": 0.185,
+          "trimEnd": 2.987,
+          "block": 7,
+          "end": 98.255
+        },
+        {
+          "id": "01-27",
+          "text": "西和彦在记者会上说了一句话。",
+          "file": "film/01-27.mp3",
+          "start": 98.595,
+          "duration": 3.048,
+          "trimStart": 0.143,
+          "trimEnd": 2.516,
+          "block": 7,
+          "end": 100.968
+        },
+        {
+          "id": "01-28",
+          "text": "\"他们跟不上我，因为我加速得太快了。\"",
+          "file": "film/01-28.mp3",
+          "start": 101.308,
+          "duration": 3.528,
+          "trimStart": 0.187,
+          "trimEnd": 3.012,
+          "block": 7,
+          "end": 104.133
+        },
+        {
+          "id": "01-29",
+          "text": "第二年，公司负债，股价崩盘。",
+          "file": "film/01-29.mp3",
+          "start": 104.473,
+          "duration": 3.168,
+          "trimStart": 0.16,
+          "trimEnd": 2.686,
+          "block": 7,
+          "end": 106.999
+        },
+        {
+          "id": "01-30",
+          "text": "但这家公司没有倒。",
+          "file": "film/01-30.mp3",
+          "start": 107.999,
+          "duration": 2.16,
+          "trimStart": 0.162,
+          "trimEnd": 1.644,
+          "block": 8,
+          "end": 109.481
+        },
+        {
+          "id": "01-31",
+          "text": "1997 年 12 月 11 日，它的官网首页，头条是这样的：",
+          "file": "film/01-31.mp3",
+          "start": 109.821,
+          "duration": 4.752,
+          "trimStart": 0.2,
+          "trimEnd": 4.261,
+          "block": 8,
+          "end": 113.882
+        },
+        {
+          "id": "01-32",
+          "text": "\"So-net 获得多媒体大奖\"。\"冲电气开发 ISDN 芯片\"。\"IBM 开年末恳亲会\"。",
+          "file": "film/01-32.mp3",
+          "start": 114.222,
+          "duration": 7.464,
+          "trimStart": 0.138,
+          "trimEnd": 6.944,
+          "block": 8,
+          "end": 121.028
+        },
+        {
+          "id": "01-33",
+          "text": "没有一条，和游戏有关。",
+          "file": "film/01-33.mp3",
+          "start": 121.368,
+          "duration": 2.64,
+          "trimStart": 0.156,
+          "trimEnd": 2.16,
+          "block": 8,
+          "end": 123.372
+        },
+        {
+          "id": "01-34",
+          "text": "要理解它为什么会在 1988 年，往一本杂志里塞一个做游戏的程序——",
+          "file": "film/01-34.mp3",
+          "start": 124.372,
+          "duration": 6.12,
+          "trimStart": 0.169,
+          "trimEnd": 5.627,
+          "block": 8,
+          "end": 129.83
+        },
+        {
+          "id": "01-35",
+          "text": "得先看看，那时候的它，到底在忙什么。",
+          "file": "film/01-35.mp3",
+          "start": 130.17,
+          "duration": 3.624,
+          "trimStart": 0.154,
+          "trimEnd": 3.14,
+          "block": 8,
+          "end": 133.156
+        }
+      ],
+      "blocks": [
+        {
+          "index": 0,
+          "start": 0.0,
+          "end": 6.246,
+          "lineIds": [
+            "01-01",
+            "01-02"
+          ]
+        },
+        {
+          "index": 1,
+          "start": 6.246,
+          "end": 13.746,
+          "lineIds": [
+            "01-03",
+            "01-04"
+          ]
+        },
+        {
+          "index": 2,
+          "start": 13.746,
+          "end": 26.311,
+          "lineIds": [
+            "01-05",
+            "01-06",
+            "01-07"
+          ]
+        },
+        {
+          "index": 3,
+          "start": 26.311,
+          "end": 40.739,
+          "lineIds": [
+            "01-08",
+            "01-09",
+            "01-10",
+            "01-11"
+          ]
+        },
+        {
+          "index": 4,
+          "start": 40.739,
+          "end": 57.27,
+          "lineIds": [
+            "01-12",
+            "01-13",
+            "01-14",
+            "01-15",
+            "01-16"
+          ]
+        },
+        {
+          "index": 5,
+          "start": 57.27,
+          "end": 77.957,
+          "lineIds": [
+            "01-17",
+            "01-18",
+            "01-19",
+            "01-20",
+            "01-21"
+          ]
+        },
+        {
+          "index": 6,
+          "start": 77.957,
+          "end": 94.903,
+          "lineIds": [
+            "01-22",
+            "01-23",
+            "01-24",
+            "01-25"
+          ]
+        },
+        {
+          "index": 7,
+          "start": 94.903,
+          "end": 107.449,
+          "lineIds": [
+            "01-26",
+            "01-27",
+            "01-28",
+            "01-29"
+          ]
+        },
+        {
+          "index": 8,
+          "start": 107.449,
+          "end": 133.606,
+          "lineIds": [
+            "01-30",
+            "01-31",
+            "01-32",
+            "01-33",
+            "01-34",
+            "01-35"
+          ]
+        }
+      ],
+      "cues": [
+        {
+          "lineId": "01-01",
+          "text": "1977 年 5 月",
+          "start": 0.55,
+          "end": 1.835
+        },
+        {
+          "lineId": "01-01",
+          "text": "东京",
+          "start": 1.779,
+          "end": 2.332
+        },
+        {
+          "lineId": "01-02",
+          "text": "三个人成立了一家公司",
+          "start": 2.672,
+          "end": 4.46
+        },
+        {
+          "lineId": "01-02",
+          "text": "叫 ASCII 出版",
+          "start": 4.443,
+          "end": 5.796
+        },
+        {
+          "lineId": "01-03",
+          "text": "启动资金",
+          "start": 6.796,
+          "end": 7.691
+        },
+        {
+          "lineId": "01-03",
+          "text": "300 万日元",
+          "start": 7.624,
+          "end": 8.684
+        },
+        {
+          "lineId": "01-04",
+          "text": "这笔钱",
+          "start": 9.024,
+          "end": 9.737
+        },
+        {
+          "lineId": "01-04",
+          "text": "是西和彦从他父亲那里拿的",
+          "start": 9.657,
+          "end": 11.868
+        },
+        {
+          "lineId": "01-05",
+          "text": "他那年 21 岁",
+          "start": 14.296,
+          "end": 15.737
+        },
+        {
+          "lineId": "01-05",
+          "text": "早稻田大学理工学部",
+          "start": 16.119,
+          "end": 17.861
+        },
+        {
+          "lineId": "01-05",
+          "text": "还没毕业",
+          "start": 17.831,
+          "end": 18.695
+        },
+        {
+          "lineId": "01-06",
+          "text": "他考过两次东京大学",
+          "start": 19.035,
+          "end": 20.967
+        },
+        {
+          "lineId": "01-06",
+          "text": "两次都没考上",
+          "start": 21.361,
+          "end": 22.692
+        },
+        {
+          "lineId": "01-07",
+          "text": "第三次",
+          "start": 23.032,
+          "end": 23.77
+        },
+        {
+          "lineId": "01-07",
+          "text": "他没考",
+          "start": 23.753,
+          "end": 24.533
+        },
+        {
+          "lineId": "01-07",
+          "text": "他去创业了",
+          "start": 24.916,
+          "end": 25.861
+        },
+        {
+          "lineId": "01-08",
+          "text": "一个月后",
+          "start": 26.861,
+          "end": 27.635
+        },
+        {
+          "lineId": "01-08",
+          "text": "他们办了一本杂志",
+          "start": 27.555,
+          "end": 28.961
+        },
+        {
+          "lineId": "01-08",
+          "text": "叫《月刊 ASCII》",
+          "start": 28.955,
+          "end": 30.531
+        },
+        {
+          "lineId": "01-09",
+          "text": "ASCII",
+          "start": 30.871,
+          "end": 31.567
+        },
+        {
+          "lineId": "01-09",
+          "text": "美国信息交换标准代码",
+          "start": 31.95,
+          "end": 33.984
+        },
+        {
+          "lineId": "01-10",
+          "text": "一个听起来跟游戏毫无关系的名字",
+          "start": 34.324,
+          "end": 36.987
+        },
+        {
+          "lineId": "01-11",
+          "text": "因为那时候",
+          "start": 37.327,
+          "end": 38.22
+        },
+        {
+          "lineId": "01-11",
+          "text": "他们想做的根本不是游戏",
+          "start": 38.127,
+          "end": 40.289
+        },
+        {
+          "lineId": "01-12",
+          "text": "1978 年 6 月",
+          "start": 41.289,
+          "end": 42.458
+        },
+        {
+          "lineId": "01-12",
+          "text": "西和彦飞到美国",
+          "start": 42.428,
+          "end": 44.083
+        },
+        {
+          "lineId": "01-12",
+          "text": "见到了一个比他小一岁的年轻人",
+          "start": 44.054,
+          "end": 46.376
+        },
+        {
+          "lineId": "01-13",
+          "text": "比尔·盖茨",
+          "start": 46.716,
+          "end": 47.838
+        },
+        {
+          "lineId": "01-14",
+          "text": "第二年",
+          "start": 48.178,
+          "end": 48.881
+        },
+        {
+          "lineId": "01-14",
+          "text": "微软的第一家海外销售办公室",
+          "start": 48.876,
+          "end": 51.181
+        },
+        {
+          "lineId": "01-14",
+          "text": "开在了东京",
+          "start": 51.139,
+          "end": 52.109
+        },
+        {
+          "lineId": "01-15",
+          "text": "开在西和彦的公司里",
+          "start": 52.449,
+          "end": 54.097
+        },
+        {
+          "lineId": "01-16",
+          "text": "那家公司叫 ASCII Microsoft",
+          "start": 54.437,
+          "end": 56.82
+        },
+        {
+          "lineId": "01-17",
+          "text": "1983 年",
+          "start": 57.82,
+          "end": 58.85
+        },
+        {
+          "lineId": "01-17",
+          "text": "西和彦想做一件更大的事",
+          "start": 58.832,
+          "end": 60.984
+        },
+        {
+          "lineId": "01-18",
+          "text": "他想统一日本的电脑",
+          "start": 61.324,
+          "end": 62.937
+        },
+        {
+          "lineId": "01-19",
+          "text": "那个标准叫 MSX",
+          "start": 63.277,
+          "end": 65.435
+        },
+        {
+          "lineId": "01-19",
+          "text": "索尼",
+          "start": 65.818,
+          "end": 66.548
+        },
+        {
+          "lineId": "01-19",
+          "text": "NEC",
+          "start": 66.543,
+          "end": 67.423
+        },
+        {
+          "lineId": "01-19",
+          "text": "松下",
+          "start": 67.43,
+          "end": 68.185
+        },
+        {
+          "lineId": "01-19",
+          "text": "都跟着他做",
+          "start": 68.167,
+          "end": 69.113
+        },
+        {
+          "lineId": "01-20",
+          "text": "一台 MSX 电脑",
+          "start": 69.453,
+          "end": 71.089
+        },
+        {
+          "lineId": "01-20",
+          "text": "可以用同一套软件",
+          "start": 70.985,
+          "end": 72.489
+        },
+        {
+          "lineId": "01-20",
+          "text": "同一根线",
+          "start": 72.447,
+          "end": 73.402
+        },
+        {
+          "lineId": "01-20",
+          "text": "同一个手柄",
+          "start": 73.359,
+          "end": 74.243
+        },
+        {
+          "lineId": "01-21",
+          "text": "他想让全日本的电脑",
+          "start": 74.583,
+          "end": 76.213
+        },
+        {
+          "lineId": "01-21",
+          "text": "说同一种语言",
+          "start": 76.133,
+          "end": 77.507
+        },
+        {
+          "lineId": "01-22",
+          "text": "1986 年",
+          "start": 78.507,
+          "end": 79.536
+        },
+        {
+          "lineId": "01-22",
+          "text": "微软上市",
+          "start": 79.455,
+          "end": 80.402
+        },
+        {
+          "lineId": "01-23",
+          "text": "同年",
+          "start": 80.742,
+          "end": 81.331
+        },
+        {
+          "lineId": "01-23",
+          "text": "盖茨跟他断了",
+          "start": 81.301,
+          "end": 82.501
+        },
+        {
+          "lineId": "01-24",
+          "text": "导火索之一",
+          "start": 82.841,
+          "end": 83.789
+        },
+        {
+          "lineId": "01-24",
+          "text": "是西和彦花了 100 万美元",
+          "start": 83.759,
+          "end": 85.989
+        },
+        {
+          "lineId": "01-24",
+          "text": "在东京竖了一只巨型机械恐龙",
+          "start": 86.009,
+          "end": 88.627
+        },
+        {
+          "lineId": "01-24",
+          "text": "用来做广告",
+          "start": 88.584,
+          "end": 89.572
+        },
+        {
+          "lineId": "01-25",
+          "text": "一个人如果跑得太快",
+          "start": 89.912,
+          "end": 91.625
+        },
+        {
+          "lineId": "01-25",
+          "text": "他会把同伴甩下",
+          "start": 91.582,
+          "end": 93.025
+        },
+        {
+          "lineId": "01-25",
+          "text": "也会把自己甩出去",
+          "start": 92.995,
+          "end": 94.453
+        },
+        {
+          "lineId": "01-26",
+          "text": "1991 年",
+          "start": 95.453,
+          "end": 96.522
+        },
+        {
+          "lineId": "01-26",
+          "text": "另外两个创始人辞职了",
+          "start": 96.48,
+          "end": 98.255
+        },
+        {
+          "lineId": "01-27",
+          "text": "西和彦在记者会上说了一句话",
+          "start": 98.595,
+          "end": 100.968
+        },
+        {
+          "lineId": "01-28",
+          "text": "\"他们跟不上我",
+          "start": 101.308,
+          "end": 102.826
+        },
+        {
+          "lineId": "01-28",
+          "text": "因为我加速得太快了 \"",
+          "start": 102.383,
+          "end": 104.133
+        },
+        {
+          "lineId": "01-29",
+          "text": "第二年",
+          "start": 104.473,
+          "end": 105.193
+        },
+        {
+          "lineId": "01-29",
+          "text": "公司负债",
+          "start": 105.138,
+          "end": 106.105
+        },
+        {
+          "lineId": "01-29",
+          "text": "股价崩盘",
+          "start": 106.038,
+          "end": 106.999
+        },
+        {
+          "lineId": "01-30",
+          "text": "但这家公司没有倒",
+          "start": 107.999,
+          "end": 109.481
+        },
+        {
+          "lineId": "01-31",
+          "text": "1997 年 12 月 11 日",
+          "start": 109.821,
+          "end": 111.501
+        },
+        {
+          "lineId": "01-31",
+          "text": "它的官网首页",
+          "start": 111.471,
+          "end": 112.701
+        },
+        {
+          "lineId": "01-31",
+          "text": "头条是这样的：",
+          "start": 112.683,
+          "end": 113.882
+        },
+        {
+          "lineId": "01-32",
+          "text": "\"So-net 获得多媒体大奖\"",
+          "start": 114.222,
+          "end": 117.001
+        },
+        {
+          "lineId": "01-32",
+          "text": "\"冲电气开发 ISDN 芯片\"",
+          "start": 116.509,
+          "end": 120.302
+        },
+        {
+          "lineId": "01-32",
+          "text": "\"IBM 开年末恳亲会\"",
+          "start": 119.734,
+          "end": 121.028
+        },
+        {
+          "lineId": "01-33",
+          "text": "没有一条",
+          "start": 121.368,
+          "end": 122.342
+        },
+        {
+          "lineId": "01-33",
+          "text": "和游戏有关",
+          "start": 122.274,
+          "end": 123.372
+        },
+        {
+          "lineId": "01-34",
+          "text": "要理解它为什么会在 1988 年",
+          "start": 124.372,
+          "end": 127.058
+        },
+        {
+          "lineId": "01-34",
+          "text": "往一本杂志里塞一个做游戏的程序",
+          "start": 127.028,
+          "end": 129.83
+        },
+        {
+          "lineId": "01-35",
+          "text": "得先看看",
+          "start": 130.17,
+          "end": 130.996
+        },
+        {
+          "lineId": "01-35",
+          "text": "那时候的它",
+          "start": 131.004,
+          "end": 132.009
+        },
+        {
+          "lineId": "01-35",
+          "text": "到底在忙什么",
+          "start": 131.978,
+          "end": 133.156
+        }
+      ]
+    },
+    {
+      "id": "02",
+      "title": "附录 · 一个没人署名的程序",
+      "start": 238.606,
+      "duration": 164.056,
+      "frames": 4922,
+      "lines": [
+        {
+          "id": "02-01",
+          "text": "但在那之前，1988 年，发生了一件很小的事。",
+          "file": "film/02-01.mp3",
+          "start": 0.55,
+          "duration": 4.224,
+          "trimStart": 0.162,
+          "trimEnd": 3.735,
+          "block": 0,
+          "end": 4.123
+        },
+        {
+          "id": "02-02",
+          "text": "小到当时没有人在意。",
+          "file": "film/02-02.mp3",
+          "start": 4.463,
+          "duration": 2.448,
+          "trimStart": 0.15,
+          "trimEnd": 1.942,
+          "block": 0,
+          "end": 6.255
+        },
+        {
+          "id": "02-03",
+          "text": "ASCII 的杂志，每期都会附一张软盘。",
+          "file": "film/02-03.mp3",
+          "start": 6.595,
+          "duration": 3.648,
+          "trimStart": 0.145,
+          "trimEnd": 3.183,
+          "block": 0,
+          "end": 9.633
+        },
+        {
+          "id": "02-04",
+          "text": "软盘里，是读者投稿的小程序。",
+          "file": "film/02-04.mp3",
+          "start": 9.973,
+          "duration": 3.216,
+          "trimStart": 0.164,
+          "trimEnd": 2.729,
+          "block": 0,
+          "end": 12.538
+        },
+        {
+          "id": "02-05",
+          "text": "那一期，有一个程序，能让人做 RPG。",
+          "file": "film/02-05.mp3",
+          "start": 13.538,
+          "duration": 3.6,
+          "trimStart": 0.174,
+          "trimEnd": 3.144,
+          "block": 1,
+          "end": 16.508
+        },
+        {
+          "id": "02-06",
+          "text": "署名栏是空的。",
+          "file": "film/02-06.mp3",
+          "start": 16.848,
+          "duration": 1.896,
+          "trimStart": 0.147,
+          "trimEnd": 1.386,
+          "block": 1,
+          "end": 18.087
+        },
+        {
+          "id": "02-07",
+          "text": "没有人知道作者是谁。",
+          "file": "film/02-07.mp3",
+          "start": 18.427,
+          "duration": 2.424,
+          "trimStart": 0.176,
+          "trimEnd": 1.937,
+          "block": 1,
+          "end": 20.188
+        },
+        {
+          "id": "02-08",
+          "text": "这个程序，叫 Mamirin。",
+          "file": "film/02-08.mp3",
+          "start": 20.528,
+          "duration": 2.64,
+          "trimStart": 0.153,
+          "trimEnd": 2.14,
+          "block": 1,
+          "end": 22.515
+        },
+        {
+          "id": "02-09",
+          "text": "它是 RPG Maker 真正的祖先。",
+          "file": "film/02-09.mp3",
+          "start": 23.515,
+          "duration": 3.144,
+          "trimStart": 0.151,
+          "trimEnd": 2.647,
+          "block": 1,
+          "end": 26.011
+        },
+        {
+          "id": "02-10",
+          "text": "1990 年，它变成了一个正式的软件，叫 Dante。",
+          "file": "film/02-10.mp3",
+          "start": 28.165,
+          "duration": 4.68,
+          "trimStart": 0.157,
+          "trimEnd": 4.194,
+          "block": 2,
+          "end": 32.202
+        },
+        {
+          "id": "02-11",
+          "text": "1992 年 12 月 17 日，它有了一个新名字。",
+          "file": "film/02-11.mp3",
+          "start": 32.542,
+          "duration": 3.648,
+          "trimStart": 0.172,
+          "trimEnd": 3.183,
+          "block": 2,
+          "end": 35.553
+        },
+        {
+          "id": "02-12",
+          "text": "RPG ツクール Dante 98。",
+          "file": "film/02-12.mp3",
+          "start": 35.893,
+          "duration": 2.208,
+          "trimStart": 0.144,
+          "trimEnd": 1.696,
+          "block": 2,
+          "end": 37.445
+        },
+        {
+          "id": "02-13",
+          "text": "运行在 PC-9801 上。",
+          "file": "film/02-13.mp3",
+          "start": 37.785,
+          "duration": 3.048,
+          "trimStart": 0.156,
+          "trimEnd": 2.547,
+          "block": 2,
+          "end": 40.176
+        },
+        {
+          "id": "02-14",
+          "text": "分辨率 320×240。",
+          "file": "film/02-14.mp3",
+          "start": 40.516,
+          "duration": 3.0,
+          "trimStart": 0.191,
+          "trimEnd": 2.526,
+          "block": 2,
+          "end": 42.851
+        },
+        {
+          "id": "02-15",
+          "text": "官方后来认定，这一天，是 RPG Maker 的生日。",
+          "file": "film/02-15.mp3",
+          "start": 43.191,
+          "duration": 4.464,
+          "trimStart": 0.148,
+          "trimEnd": 3.981,
+          "block": 2,
+          "end": 47.024
+        },
+        {
+          "id": "02-16",
+          "text": "ASCII 办了一本杂志，叫《LOGIN Sofcom》。",
+          "file": "film/02-16.mp3",
+          "start": 48.024,
+          "duration": 3.816,
+          "trimStart": 0.144,
+          "trimEnd": 3.337,
+          "block": 3,
+          "end": 51.217
+        },
+        {
+          "id": "02-17",
+          "text": "专门刊登读者用 Dante 98 做的游戏。",
+          "file": "film/02-17.mp3",
+          "start": 51.557,
+          "duration": 3.648,
+          "trimStart": 0.153,
+          "trimEnd": 3.162,
+          "block": 3,
+          "end": 54.566
+        },
+        {
+          "id": "02-18",
+          "text": "1995 年，日本用它做出了三千多款 RPG。",
+          "file": "film/02-18.mp3",
+          "start": 54.906,
+          "duration": 4.464,
+          "trimStart": 0.141,
+          "trimEnd": 3.994,
+          "block": 3,
+          "end": 58.759
+        },
+        {
+          "id": "02-19",
+          "text": "1996 年春天，一个 22 岁的大学生，在上面连载了一个恐怖游戏。",
+          "file": "film/02-19.mp3",
+          "start": 59.759,
+          "duration": 5.928,
+          "trimStart": 0.201,
+          "trimEnd": 5.428,
+          "block": 3,
+          "end": 64.986
+        },
+        {
+          "id": "02-20",
+          "text": "他叫祁答院慎。",
+          "file": "film/02-20.mp3",
+          "start": 65.326,
+          "duration": 1.92,
+          "trimStart": 0.175,
+          "trimEnd": 1.393,
+          "block": 3,
+          "end": 66.544
+        },
+        {
+          "id": "02-21",
+          "text": "第二年，这个游戏拿了 ASCII 的奖，第二名。",
+          "file": "film/02-21.mp3",
+          "start": 66.884,
+          "duration": 3.936,
+          "trimStart": 0.147,
+          "trimEnd": 3.46,
+          "block": 3,
+          "end": 70.197
+        },
+        {
+          "id": "02-22",
+          "text": "奖金 500 万日元。",
+          "file": "film/02-22.mp3",
+          "start": 70.537,
+          "duration": 1.92,
+          "trimStart": 0.161,
+          "trimEnd": 1.436,
+          "block": 3,
+          "end": 71.812
+        },
+        {
+          "id": "02-23",
+          "text": "那个游戏叫《Corpse Party》。",
+          "file": "film/02-23.mp3",
+          "start": 72.812,
+          "duration": 2.544,
+          "trimStart": 0.159,
+          "trimEnd": 2.061,
+          "block": 4,
+          "end": 74.714
+        },
+        {
+          "id": "02-24",
+          "text": "尸体派对。",
+          "file": "film/02-24.mp3",
+          "start": 75.054,
+          "duration": 1.512,
+          "trimStart": 0.149,
+          "trimEnd": 1.012,
+          "block": 4,
+          "end": 75.917
+        },
+        {
+          "id": "02-25",
+          "text": "一个做游戏的工具，开始造星了。",
+          "file": "film/02-25.mp3",
+          "start": 76.257,
+          "duration": 3.12,
+          "trimStart": 0.169,
+          "trimEnd": 2.612,
+          "block": 4,
+          "end": 78.7
+        },
+        {
+          "id": "02-26",
+          "text": "但它还有一个更大的野心。",
+          "file": "film/02-26.mp3",
+          "start": 80.362,
+          "duration": 2.544,
+          "trimStart": 0.166,
+          "trimEnd": 2.034,
+          "block": 5,
+          "end": 82.23
+        },
+        {
+          "id": "02-27",
+          "text": "PC-9801 是一台电脑。而 1992 年的日本，家里有电脑的，不到三成。",
+          "file": "film/02-27.mp3",
+          "start": 82.57,
+          "duration": 7.296,
+          "trimStart": 0.136,
+          "trimEnd": 6.83,
+          "block": 5,
+          "end": 89.264
+        },
+        {
+          "id": "02-28",
+          "text": "所以 1995 年 3 月 31 日，它上了超级任天堂。",
+          "file": "film/02-28.mp3",
+          "start": 89.604,
+          "duration": 4.632,
+          "trimStart": 0.161,
+          "trimEnd": 4.122,
+          "block": 5,
+          "end": 93.565
+        },
+        {
+          "id": "02-29",
+          "text": "名字叫 Super Dante。Dante 98 的移植版。",
+          "file": "film/02-29.mp3",
+          "start": 94.565,
+          "duration": 4.416,
+          "trimStart": 0.148,
+          "trimEnd": 3.921,
+          "block": 5,
+          "end": 98.338
+        },
+        {
+          "id": "02-30",
+          "text": "插卡带，接电视，一个小孩就能做游戏。",
+          "file": "film/02-30.mp3",
+          "start": 98.678,
+          "duration": 3.792,
+          "trimStart": 0.162,
+          "trimEnd": 3.295,
+          "block": 5,
+          "end": 101.811
+        },
+        {
+          "id": "02-31",
+          "text": "不需要买电脑。",
+          "file": "film/02-31.mp3",
+          "start": 102.151,
+          "duration": 1.68,
+          "trimStart": 0.153,
+          "trimEnd": 1.205,
+          "block": 5,
+          "end": 103.203
+        },
+        {
+          "id": "02-32",
+          "text": "第二年，出了第二代。",
+          "file": "film/02-32.mp3",
+          "start": 103.543,
+          "duration": 2.208,
+          "trimStart": 0.15,
+          "trimEnd": 1.721,
+          "block": 5,
+          "end": 105.114
+        },
+        {
+          "id": "02-33",
+          "text": "再后来是 PlayStation。1997 年的 RPG ツクール 3，2000 年的 4。",
+          "file": "film/02-33.mp3",
+          "start": 105.454,
+          "duration": 5.976,
+          "trimStart": 0.149,
+          "trimEnd": 5.502,
+          "block": 5,
+          "end": 110.807
+        },
+        {
+          "id": "02-34",
+          "text": "在电脑还没有普及的年代，客厅成了这个工具的第一个大众入口。",
+          "file": "film/02-34.mp3",
+          "start": 111.807,
+          "duration": 5.568,
+          "trimStart": 0.153,
+          "trimEnd": 5.044,
+          "block": 5,
+          "end": 116.698
+        },
+        {
+          "id": "02-35",
+          "text": "但它有一个致命的缺陷。",
+          "file": "film/02-35.mp3",
+          "start": 117.698,
+          "duration": 2.472,
+          "trimStart": 0.162,
+          "trimEnd": 1.957,
+          "block": 5,
+          "end": 119.493
+        },
+        {
+          "id": "02-36",
+          "text": "你做完的游戏，传不出去。",
+          "file": "film/02-36.mp3",
+          "start": 119.833,
+          "duration": 2.592,
+          "trimStart": 0.175,
+          "trimEnd": 2.111,
+          "block": 5,
+          "end": 121.769
+        },
+        {
+          "id": "02-37",
+          "text": "主机版尤其明显。卡带里是你的存档，你的进度，你的一切。",
+          "file": "film/02-37.mp3",
+          "start": 122.769,
+          "duration": 5.784,
+          "trimStart": 0.156,
+          "trimEnd": 5.281,
+          "block": 5,
+          "end": 127.894
+        },
+        {
+          "id": "02-38",
+          "text": "想让别人玩，你得把整台机器搬过去。",
+          "file": "film/02-38.mp3",
+          "start": 128.234,
+          "duration": 3.648,
+          "trimStart": 0.161,
+          "trimEnd": 3.169,
+          "block": 5,
+          "end": 131.242
+        },
+        {
+          "id": "02-39",
+          "text": "或者把游戏机借给他，连同存档一起。",
+          "file": "film/02-39.mp3",
+          "start": 131.582,
+          "duration": 4.008,
+          "trimStart": 0.21,
+          "trimEnd": 3.519,
+          "block": 5,
+          "end": 134.891
+        },
+        {
+          "id": "02-40",
+          "text": "如果他家没有这台机器，那就更没办法了。",
+          "file": "film/02-40.mp3",
+          "start": 135.231,
+          "duration": 3.864,
+          "trimStart": 0.206,
+          "trimEnd": 3.375,
+          "block": 5,
+          "end": 138.4
+        },
+        {
+          "id": "02-41",
+          "text": "所以那时候做游戏，基本上是自己做给自己玩。",
+          "file": "film/02-41.mp3",
+          "start": 138.74,
+          "duration": 4.56,
+          "trimStart": 0.167,
+          "trimEnd": 4.069,
+          "block": 5,
+          "end": 142.642
+        },
+        {
+          "id": "02-42",
+          "text": "这个问题，一直等到网络普及，才被真正解决。",
+          "file": "film/02-42.mp3",
+          "start": 143.642,
+          "duration": 4.296,
+          "trimStart": 0.178,
+          "trimEnd": 3.807,
+          "block": 5,
+          "end": 147.271
+        },
+        {
+          "id": "02-43",
+          "text": "到 RPG Maker 2003 的时候，论坛和网络，让分享第一次变得容易。",
+          "file": "film/02-43.mp3",
+          "start": 147.611,
+          "duration": 6.264,
+          "trimStart": 0.153,
+          "trimEnd": 5.787,
+          "block": 5,
+          "end": 153.245
+        },
+        {
+          "id": "02-44",
+          "text": "一个小孩做的东西，可以被另一个城市的人下载、打开、玩完。",
+          "file": "film/02-44.mp3",
+          "start": 153.585,
+          "duration": 5.52,
+          "trimStart": 0.154,
+          "trimEnd": 5.013,
+          "block": 5,
+          "end": 158.444
+        },
+        {
+          "id": "02-45",
+          "text": "而这件东西，到底是怎么做出来的？",
+          "file": "film/02-45.mp3",
+          "start": 159.444,
+          "duration": 3.216,
+          "trimStart": 0.331,
+          "trimEnd": 2.696,
+          "block": 5,
+          "end": 161.809
+        },
+        {
+          "id": "02-46",
+          "text": "秘密，只有两个词。",
+          "file": "film/02-46.mp3",
+          "start": 162.149,
+          "duration": 2.088,
+          "trimStart": 0.163,
+          "trimEnd": 1.62,
+          "block": 5,
+          "end": 163.606
+        }
+      ],
+      "blocks": [
+        {
+          "index": 0,
+          "start": 0.0,
+          "end": 12.988,
+          "lineIds": [
+            "02-01",
+            "02-02",
+            "02-03",
+            "02-04"
+          ]
+        },
+        {
+          "index": 1,
+          "start": 12.988,
+          "end": 27.615,
+          "lineIds": [
+            "02-05",
+            "02-06",
+            "02-07",
+            "02-08",
+            "02-09"
+          ]
+        },
+        {
+          "index": 2,
+          "start": 27.615,
+          "end": 47.474,
+          "lineIds": [
+            "02-10",
+            "02-11",
+            "02-12",
+            "02-13",
+            "02-14",
+            "02-15"
+          ]
+        },
+        {
+          "index": 3,
+          "start": 47.474,
+          "end": 72.262,
+          "lineIds": [
+            "02-16",
+            "02-17",
+            "02-18",
+            "02-19",
+            "02-20",
+            "02-21",
+            "02-22"
+          ]
+        },
+        {
+          "index": 4,
+          "start": 72.262,
+          "end": 79.812,
+          "lineIds": [
+            "02-23",
+            "02-24",
+            "02-25"
+          ]
+        },
+        {
+          "index": 5,
+          "start": 79.812,
+          "end": 164.056,
+          "lineIds": [
+            "02-26",
+            "02-27",
+            "02-28",
+            "02-29",
+            "02-30",
+            "02-31",
+            "02-32",
+            "02-33",
+            "02-34",
+            "02-35",
+            "02-36",
+            "02-37",
+            "02-38",
+            "02-39",
+            "02-40",
+            "02-41",
+            "02-42",
+            "02-43",
+            "02-44",
+            "02-45",
+            "02-46"
+          ]
+        }
+      ],
+      "cues": [
+        {
+          "lineId": "02-01",
+          "text": "但在那之前",
+          "start": 0.55,
+          "end": 1.555
+        },
+        {
+          "lineId": "02-01",
+          "text": "1988 年",
+          "start": 1.513,
+          "end": 2.643
+        },
+        {
+          "lineId": "02-01",
+          "text": "发生了一件很小的事",
+          "start": 2.613,
+          "end": 4.123
+        },
+        {
+          "lineId": "02-02",
+          "text": "小到当时没有人在意",
+          "start": 4.463,
+          "end": 6.255
+        },
+        {
+          "lineId": "02-03",
+          "text": "ASCII 的杂志",
+          "start": 6.595,
+          "end": 7.706
+        },
+        {
+          "lineId": "02-03",
+          "text": "每期都会附一张软盘",
+          "start": 7.675,
+          "end": 9.633
+        },
+        {
+          "lineId": "02-04",
+          "text": "软盘里",
+          "start": 9.973,
+          "end": 10.776
+        },
+        {
+          "lineId": "02-04",
+          "text": "是读者投稿的小程序",
+          "start": 10.696,
+          "end": 12.538
+        },
+        {
+          "lineId": "02-05",
+          "text": "那一期",
+          "start": 13.538,
+          "end": 14.306
+        },
+        {
+          "lineId": "02-05",
+          "text": "有一个程序",
+          "start": 14.227,
+          "end": 15.219
+        },
+        {
+          "lineId": "02-05",
+          "text": "能让人做 RPG",
+          "start": 15.139,
+          "end": 16.508
+        },
+        {
+          "lineId": "02-06",
+          "text": "署名栏是空的",
+          "start": 16.848,
+          "end": 18.087
+        },
+        {
+          "lineId": "02-07",
+          "text": "没有人知道作者是谁",
+          "start": 18.427,
+          "end": 20.188
+        },
+        {
+          "lineId": "02-08",
+          "text": "这个程序",
+          "start": 20.528,
+          "end": 21.38
+        },
+        {
+          "lineId": "02-08",
+          "text": "叫 Mamirin",
+          "start": 21.313,
+          "end": 22.515
+        },
+        {
+          "lineId": "02-09",
+          "text": "它是 RPG Maker 真正的祖先",
+          "start": 23.515,
+          "end": 26.011
+        },
+        {
+          "lineId": "02-10",
+          "text": "1990 年",
+          "start": 28.165,
+          "end": 29.226
+        },
+        {
+          "lineId": "02-10",
+          "text": "它变成了一个正式的软件",
+          "start": 29.183,
+          "end": 31.051
+        },
+        {
+          "lineId": "02-10",
+          "text": "叫 Dante",
+          "start": 31.108,
+          "end": 32.202
+        },
+        {
+          "lineId": "02-11",
+          "text": "1992 年 12 月 17 日",
+          "start": 32.542,
+          "end": 34.263
+        },
+        {
+          "lineId": "02-11",
+          "text": "它有了一个新名字",
+          "start": 34.22,
+          "end": 35.553
+        },
+        {
+          "lineId": "02-12",
+          "text": "RPG ツクール Dante 98",
+          "start": 35.893,
+          "end": 37.445
+        },
+        {
+          "lineId": "02-13",
+          "text": "运行在 PC-9801 上",
+          "start": 37.785,
+          "end": 40.176
+        },
+        {
+          "lineId": "02-14",
+          "text": "分辨率 320×240",
+          "start": 40.516,
+          "end": 42.851
+        },
+        {
+          "lineId": "02-15",
+          "text": "官方后来认定",
+          "start": 43.191,
+          "end": 44.448
+        },
+        {
+          "lineId": "02-15",
+          "text": "这一天",
+          "start": 44.481,
+          "end": 45.261
+        },
+        {
+          "lineId": "02-15",
+          "text": "是 RPG Maker 的生日",
+          "start": 45.181,
+          "end": 47.024
+        },
+        {
+          "lineId": "02-16",
+          "text": "ASCII 办了一本杂志",
+          "start": 48.024,
+          "end": 49.709
+        },
+        {
+          "lineId": "02-16",
+          "text": "叫《LOGIN Sofcom》",
+          "start": 49.68,
+          "end": 51.217
+        },
+        {
+          "lineId": "02-17",
+          "text": "专门刊登读者用 Dante 98 做的游戏",
+          "start": 51.557,
+          "end": 54.566
+        },
+        {
+          "lineId": "02-18",
+          "text": "1995 年",
+          "start": 54.906,
+          "end": 55.945
+        },
+        {
+          "lineId": "02-18",
+          "text": "日本用它做出了三千多款 RPG",
+          "start": 55.878,
+          "end": 58.759
+        },
+        {
+          "lineId": "02-19",
+          "text": "1996 年春天",
+          "start": 59.759,
+          "end": 61.063
+        },
+        {
+          "lineId": "02-19",
+          "text": "一个 22 岁的大学生",
+          "start": 61.008,
+          "end": 62.726
+        },
+        {
+          "lineId": "02-19",
+          "text": "在上面连载了一个恐怖游戏",
+          "start": 62.696,
+          "end": 64.986
+        },
+        {
+          "lineId": "02-20",
+          "text": "他叫祁答院慎",
+          "start": 65.326,
+          "end": 66.544
+        },
+        {
+          "lineId": "02-21",
+          "text": "第二年",
+          "start": 66.884,
+          "end": 67.642
+        },
+        {
+          "lineId": "02-21",
+          "text": "这个游戏拿了 ASCII 的奖",
+          "start": 67.587,
+          "end": 69.53
+        },
+        {
+          "lineId": "02-21",
+          "text": "第二名",
+          "start": 69.525,
+          "end": 70.197
+        },
+        {
+          "lineId": "02-22",
+          "text": "奖金 500 万日元",
+          "start": 70.537,
+          "end": 71.812
+        },
+        {
+          "lineId": "02-23",
+          "text": "那个游戏叫《Corpse Party》",
+          "start": 72.812,
+          "end": 74.714
+        },
+        {
+          "lineId": "02-24",
+          "text": "尸体派对",
+          "start": 75.054,
+          "end": 75.917
+        },
+        {
+          "lineId": "02-25",
+          "text": "一个做游戏的工具",
+          "start": 76.257,
+          "end": 77.743
+        },
+        {
+          "lineId": "02-25",
+          "text": "开始造星了",
+          "start": 77.675,
+          "end": 78.7
+        },
+        {
+          "lineId": "02-26",
+          "text": "但它还有一个更大的野心",
+          "start": 80.362,
+          "end": 82.23
+        },
+        {
+          "lineId": "02-27",
+          "text": "PC-9801 是一台电脑",
+          "start": 82.57,
+          "end": 86.051
+        },
+        {
+          "lineId": "02-27",
+          "text": "而 1992 年的日本",
+          "start": 85.896,
+          "end": 87.726
+        },
+        {
+          "lineId": "02-27",
+          "text": "家里有电脑的",
+          "start": 87.234,
+          "end": 88.714
+        },
+        {
+          "lineId": "02-27",
+          "text": "不到三成",
+          "start": 88.534,
+          "end": 89.264
+        },
+        {
+          "lineId": "02-28",
+          "text": "所以 1995 年 3 月 31 日",
+          "start": 89.604,
+          "end": 91.972
+        },
+        {
+          "lineId": "02-28",
+          "text": "它上了超级任天堂",
+          "start": 91.956,
+          "end": 93.565
+        },
+        {
+          "lineId": "02-29",
+          "text": "名字叫 Super Dante",
+          "start": 94.565,
+          "end": 96.284
+        },
+        {
+          "lineId": "02-29",
+          "text": "Dante 98 的移植版",
+          "start": 96.68,
+          "end": 98.338
+        },
+        {
+          "lineId": "02-30",
+          "text": "插卡带",
+          "start": 98.678,
+          "end": 99.421
+        },
+        {
+          "lineId": "02-30",
+          "text": "接电视",
+          "start": 99.403,
+          "end": 100.158
+        },
+        {
+          "lineId": "02-30",
+          "text": "一个小孩就能做游戏",
+          "start": 100.141,
+          "end": 101.811
+        },
+        {
+          "lineId": "02-31",
+          "text": "不需要买电脑",
+          "start": 102.151,
+          "end": 103.203
+        },
+        {
+          "lineId": "02-32",
+          "text": "第二年",
+          "start": 103.543,
+          "end": 104.26
+        },
+        {
+          "lineId": "02-32",
+          "text": "出了第二代",
+          "start": 104.193,
+          "end": 105.114
+        },
+        {
+          "lineId": "02-33",
+          "text": "再后来是 PlayStation",
+          "start": 105.454,
+          "end": 107.26
+        },
+        {
+          "lineId": "02-33",
+          "text": "1997 年的 RPG ツクール 3",
+          "start": 107.655,
+          "end": 110.373
+        },
+        {
+          "lineId": "02-33",
+          "text": "2000 年的 4",
+          "start": 110.193,
+          "end": 110.807
+        },
+        {
+          "lineId": "02-34",
+          "text": "在电脑还没有普及的年代",
+          "start": 111.807,
+          "end": 113.846
+        },
+        {
+          "lineId": "02-34",
+          "text": "客厅成了这个工具的第一个大众入口",
+          "start": 113.904,
+          "end": 116.698
+        },
+        {
+          "lineId": "02-35",
+          "text": "但它有一个致命的缺陷",
+          "start": 117.698,
+          "end": 119.493
+        },
+        {
+          "lineId": "02-36",
+          "text": "你做完的游戏",
+          "start": 119.833,
+          "end": 120.938
+        },
+        {
+          "lineId": "02-36",
+          "text": "传不出去",
+          "start": 120.833,
+          "end": 121.769
+        },
+        {
+          "lineId": "02-37",
+          "text": "主机版尤其明显",
+          "start": 122.769,
+          "end": 124.368
+        },
+        {
+          "lineId": "02-37",
+          "text": "卡带里是你的存档",
+          "start": 124.763,
+          "end": 126.318
+        },
+        {
+          "lineId": "02-37",
+          "text": "你的进度",
+          "start": 126.276,
+          "end": 127.131
+        },
+        {
+          "lineId": "02-37",
+          "text": "你的一切",
+          "start": 127.113,
+          "end": 127.894
+        },
+        {
+          "lineId": "02-38",
+          "text": "想让别人玩",
+          "start": 128.234,
+          "end": 129.241
+        },
+        {
+          "lineId": "02-38",
+          "text": "你得把整台机器搬过去",
+          "start": 129.223,
+          "end": 131.242
+        },
+        {
+          "lineId": "02-39",
+          "text": "或者把游戏机借给他",
+          "start": 131.582,
+          "end": 133.452
+        },
+        {
+          "lineId": "02-39",
+          "text": "连同存档一起",
+          "start": 133.434,
+          "end": 134.891
+        },
+        {
+          "lineId": "02-40",
+          "text": "如果他家没有这台机器",
+          "start": 135.231,
+          "end": 137.042
+        },
+        {
+          "lineId": "02-40",
+          "text": "那就更没办法了",
+          "start": 137.025,
+          "end": 138.4
+        },
+        {
+          "lineId": "02-41",
+          "text": "所以那时候做游戏",
+          "start": 138.74,
+          "end": 140.541
+        },
+        {
+          "lineId": "02-41",
+          "text": "基本上是自己做给自己玩",
+          "start": 140.523,
+          "end": 142.642
+        },
+        {
+          "lineId": "02-42",
+          "text": "这个问题",
+          "start": 143.642,
+          "end": 144.444
+        },
+        {
+          "lineId": "02-42",
+          "text": "一直等到网络普及",
+          "start": 144.364,
+          "end": 146.032
+        },
+        {
+          "lineId": "02-42",
+          "text": "才被真正解决",
+          "start": 145.926,
+          "end": 147.271
+        },
+        {
+          "lineId": "02-43",
+          "text": "到 RPG Maker 2003 的时候",
+          "start": 147.611,
+          "end": 150.125
+        },
+        {
+          "lineId": "02-43",
+          "text": "论坛和网络",
+          "start": 150.133,
+          "end": 151.338
+        },
+        {
+          "lineId": "02-43",
+          "text": "让分享第一次变得容易",
+          "start": 151.308,
+          "end": 153.245
+        },
+        {
+          "lineId": "02-44",
+          "text": "一个小孩做的东西",
+          "start": 153.585,
+          "end": 154.949
+        },
+        {
+          "lineId": "02-44",
+          "text": "可以被另一个城市的人下载",
+          "start": 154.919,
+          "end": 157.074
+        },
+        {
+          "lineId": "02-44",
+          "text": "打开",
+          "start": 157.069,
+          "end": 157.824
+        },
+        {
+          "lineId": "02-44",
+          "text": "玩完",
+          "start": 157.793,
+          "end": 158.444
+        },
+        {
+          "lineId": "02-45",
+          "text": "而这件东西",
+          "start": 159.444,
+          "end": 160.48
+        },
+        {
+          "lineId": "02-45",
+          "text": "到底是怎么做出来的",
+          "start": 160.488,
+          "end": 161.809
+        },
+        {
+          "lineId": "02-46",
+          "text": "秘密",
+          "start": 162.149,
+          "end": 162.716
+        },
+        {
+          "lineId": "02-46",
+          "text": "只有两个词",
+          "start": 162.661,
+          "end": 163.606
+        }
+      ]
+    },
+    {
+      "id": "03",
+      "title": "工具 · 一台只会说\"是\"和\"不是\"的机器",
+      "start": 402.662,
+      "duration": 93.791,
+      "frames": 2814,
+      "lines": [
+        {
+          "id": "03-01",
+          "text": "那么，这个东西，到底是怎么运作的？",
+          "file": "film/03-01.mp3",
+          "start": 0.55,
+          "duration": 3.264,
+          "trimStart": 0.18,
+          "trimEnd": 2.758,
+          "block": 0,
+          "end": 3.128
+        },
+        {
+          "id": "03-02",
+          "text": "它只有三个东西。",
+          "file": "film/03-02.mp3",
+          "start": 3.468,
+          "duration": 1.872,
+          "trimStart": 0.163,
+          "trimEnd": 1.394,
+          "block": 0,
+          "end": 4.699
+        },
+        {
+          "id": "03-03",
+          "text": "一张格子纸。一堆事件。一个数据库。",
+          "file": "film/03-03.mp3",
+          "start": 5.039,
+          "duration": 4.536,
+          "trimStart": 0.158,
+          "trimEnd": 4.045,
+          "block": 0,
+          "end": 8.926
+        },
+        {
+          "id": "03-04",
+          "text": "格子纸，叫地图编辑器。",
+          "file": "film/03-04.mp3",
+          "start": 9.926,
+          "duration": 2.592,
+          "trimStart": 0.172,
+          "trimEnd": 2.106,
+          "block": 1,
+          "end": 11.86
+        },
+        {
+          "id": "03-05",
+          "text": "每一个格子，叫一个图块。",
+          "file": "film/03-05.mp3",
+          "start": 12.2,
+          "duration": 2.712,
+          "trimStart": 0.162,
+          "trimEnd": 2.185,
+          "block": 1,
+          "end": 14.223
+        },
+        {
+          "id": "03-06",
+          "text": "RPG Maker 2000 的图块，是 16×16 像素。",
+          "file": "film/03-06.mp3",
+          "start": 14.563,
+          "duration": 4.584,
+          "trimStart": 0.146,
+          "trimEnd": 4.094,
+          "block": 1,
+          "end": 18.511
+        },
+        {
+          "id": "03-07",
+          "text": "你的整个游戏世界，就是这些 16×16 的小方块拼出来的。",
+          "file": "film/03-07.mp3",
+          "start": 18.851,
+          "duration": 5.04,
+          "trimStart": 0.172,
+          "trimEnd": 4.533,
+          "block": 1,
+          "end": 23.212
+        },
+        {
+          "id": "03-08",
+          "text": "事件，是地图上的一个点。",
+          "file": "film/03-08.mp3",
+          "start": 24.212,
+          "duration": 2.712,
+          "trimStart": 0.158,
+          "trimEnd": 2.196,
+          "block": 2,
+          "end": 26.25
+        },
+        {
+          "id": "03-09",
+          "text": "它可以是一扇门，一个宝箱，一个 NPC，一段剧情。",
+          "file": "film/03-09.mp3",
+          "start": 26.59,
+          "duration": 4.704,
+          "trimStart": 0.141,
+          "trimEnd": 4.208,
+          "block": 2,
+          "end": 30.657
+        },
+        {
+          "id": "03-10",
+          "text": "数据库，是这个世界所有的规则。",
+          "file": "film/03-10.mp3",
+          "start": 30.997,
+          "duration": 3.168,
+          "trimStart": 0.157,
+          "trimEnd": 2.671,
+          "block": 2,
+          "end": 33.511
+        },
+        {
+          "id": "03-11",
+          "text": "角色有多少血，怪物有多强，武器加多少攻击。",
+          "file": "film/03-11.mp3",
+          "start": 33.851,
+          "duration": 4.632,
+          "trimStart": 0.192,
+          "trimEnd": 4.137,
+          "block": 2,
+          "end": 37.796
+        },
+        {
+          "id": "03-12",
+          "text": "但真正让这个东西成立的，是两个词。",
+          "file": "film/03-12.mp3",
+          "start": 38.796,
+          "duration": 3.528,
+          "trimStart": 0.187,
+          "trimEnd": 3.062,
+          "block": 3,
+          "end": 41.671
+        },
+        {
+          "id": "03-13",
+          "text": "开关。和变量。",
+          "file": "film/03-13.mp3",
+          "start": 42.011,
+          "duration": 2.568,
+          "trimStart": 0.152,
+          "trimEnd": 2.06,
+          "block": 3,
+          "end": 43.919
+        },
+        {
+          "id": "03-14",
+          "text": "我做给你看。",
+          "file": "film/03-14.mp3",
+          "start": 44.259,
+          "duration": 1.512,
+          "trimStart": 0.167,
+          "trimEnd": 1.013,
+          "block": 3,
+          "end": 45.105
+        },
+        {
+          "id": "03-15",
+          "text": "放一扇门。新建一个事件。",
+          "file": "film/03-15.mp3",
+          "start": 46.296,
+          "duration": 3.336,
+          "trimStart": 0.217,
+          "trimEnd": 2.813,
+          "block": 4,
+          "end": 48.892
+        },
+        {
+          "id": "03-16",
+          "text": "插入指令。条件分支。",
+          "file": "film/03-16.mp3",
+          "start": 49.232,
+          "duration": 2.88,
+          "trimStart": 0.145,
+          "trimEnd": 2.401,
+          "block": 4,
+          "end": 51.488
+        },
+        {
+          "id": "03-17",
+          "text": "如果，\"钥匙\"这个开关，是 ON。",
+          "file": "film/03-17.mp3",
+          "start": 51.828,
+          "duration": 3.024,
+          "trimStart": 0.168,
+          "trimEnd": 2.56,
+          "block": 4,
+          "end": 54.22
+        },
+        {
+          "id": "03-18",
+          "text": "那么，播放开门音效，然后，暂时消除这个事件。",
+          "file": "film/03-18.mp3",
+          "start": 54.56,
+          "duration": 4.68,
+          "trimStart": 0.165,
+          "trimEnd": 4.195,
+          "block": 4,
+          "end": 58.59
+        },
+        {
+          "id": "03-19",
+          "text": "否则，显示文字：\"门锁着。\"",
+          "file": "film/03-19.mp3",
+          "start": 58.93,
+          "duration": 2.904,
+          "trimStart": 0.22,
+          "trimEnd": 2.399,
+          "block": 4,
+          "end": 61.109
+        },
+        {
+          "id": "03-20",
+          "text": "再放一把钥匙。",
+          "file": "film/03-20.mp3",
+          "start": 61.449,
+          "duration": 1.824,
+          "trimStart": 0.154,
+          "trimEnd": 1.362,
+          "block": 4,
+          "end": 62.657
+        },
+        {
+          "id": "03-21",
+          "text": "玩家碰到它，\"钥匙\"这个开关，设为 ON。然后钥匙消失。",
+          "file": "film/03-21.mp3",
+          "start": 62.997,
+          "duration": 5.376,
+          "trimStart": 0.151,
+          "trimEnd": 4.889,
+          "block": 4,
+          "end": 67.735
+        },
+        {
+          "id": "03-22",
+          "text": "现在试一下。",
+          "file": "film/03-22.mp3",
+          "start": 68.735,
+          "duration": 1.608,
+          "trimStart": 0.15,
+          "trimEnd": 1.084,
+          "block": 5,
+          "end": 69.669
+        },
+        {
+          "id": "03-23",
+          "text": "门锁着。",
+          "file": "film/03-23.mp3",
+          "start": 70.009,
+          "duration": 1.344,
+          "trimStart": 0.162,
+          "trimEnd": 0.843,
+          "block": 5,
+          "end": 70.69
+        },
+        {
+          "id": "03-24",
+          "text": "门开了。",
+          "file": "film/03-24.mp3",
+          "start": 71.03,
+          "duration": 1.296,
+          "trimStart": 0.149,
+          "trimEnd": 0.799,
+          "block": 5,
+          "end": 71.68
+        },
+        {
+          "id": "03-25",
+          "text": "一扇门，就是一个开关。",
+          "file": "film/03-25.mp3",
+          "start": 72.02,
+          "duration": 2.376,
+          "trimStart": 0.183,
+          "trimEnd": 1.894,
+          "block": 5,
+          "end": 73.731
+        },
+        {
+          "id": "03-26",
+          "text": "门开没开，就是 ON，还是 OFF。",
+          "file": "film/03-26.mp3",
+          "start": 74.071,
+          "duration": 3.168,
+          "trimStart": 0.145,
+          "trimEnd": 2.59,
+          "block": 5,
+          "end": 76.516
+        },
+        {
+          "id": "03-27",
+          "text": "一个人死没死，也是 ON 还是 OFF。",
+          "file": "film/03-27.mp3",
+          "start": 81.235,
+          "duration": 3.264,
+          "trimStart": 0.151,
+          "trimEnd": 2.697,
+          "block": 6,
+          "end": 83.781
+        },
+        {
+          "id": "03-28",
+          "text": "一个世界存不存在，也是 ON 还是 OFF。",
+          "file": "film/03-28.mp3",
+          "start": 84.121,
+          "duration": 3.696,
+          "trimStart": 0.154,
+          "trimEnd": 3.098,
+          "block": 6,
+          "end": 87.065
+        },
+        {
+          "id": "03-29",
+          "text": "RPG Maker 没有让你写代码。",
+          "file": "film/03-29.mp3",
+          "start": 87.405,
+          "duration": 2.856,
+          "trimStart": 0.146,
+          "trimEnd": 2.33,
+          "block": 6,
+          "end": 89.589
+        },
+        {
+          "id": "03-30",
+          "text": "它让你用\"是\"和\"不是\"，去描述一整个世界。",
+          "file": "film/03-30.mp3",
+          "start": 89.929,
+          "duration": 4.08,
+          "trimStart": 0.166,
+          "trimEnd": 3.578,
+          "block": 6,
+          "end": 93.341
+        }
+      ],
+      "blocks": [
+        {
+          "index": 0,
+          "start": 0.0,
+          "end": 9.376,
+          "lineIds": [
+            "03-01",
+            "03-02",
+            "03-03"
+          ]
+        },
+        {
+          "index": 1,
+          "start": 9.376,
+          "end": 23.662,
+          "lineIds": [
+            "03-04",
+            "03-05",
+            "03-06",
+            "03-07"
+          ]
+        },
+        {
+          "index": 2,
+          "start": 23.662,
+          "end": 38.246,
+          "lineIds": [
+            "03-08",
+            "03-09",
+            "03-10",
+            "03-11"
+          ]
+        },
+        {
+          "index": 3,
+          "start": 38.246,
+          "end": 45.746,
+          "lineIds": [
+            "03-12",
+            "03-13",
+            "03-14"
+          ]
+        },
+        {
+          "index": 4,
+          "start": 45.746,
+          "end": 68.185,
+          "lineIds": [
+            "03-15",
+            "03-16",
+            "03-17",
+            "03-18",
+            "03-19",
+            "03-20",
+            "03-21"
+          ]
+        },
+        {
+          "index": 5,
+          "start": 68.185,
+          "end": 80.685,
+          "lineIds": [
+            "03-22",
+            "03-23",
+            "03-24",
+            "03-25",
+            "03-26"
+          ]
+        },
+        {
+          "index": 6,
+          "start": 80.685,
+          "end": 93.791,
+          "lineIds": [
+            "03-27",
+            "03-28",
+            "03-29",
+            "03-30"
+          ]
+        }
+      ],
+      "cues": [
+        {
+          "lineId": "03-01",
+          "text": "那么",
+          "start": 0.55,
+          "end": 0.975
+        },
+        {
+          "lineId": "03-01",
+          "text": "这个东西",
+          "start": 0.958,
+          "end": 1.825
+        },
+        {
+          "lineId": "03-01",
+          "text": "到底是怎么运作的",
+          "start": 1.808,
+          "end": 3.128
+        },
+        {
+          "lineId": "03-02",
+          "text": "它只有三个东西",
+          "start": 3.468,
+          "end": 4.699
+        },
+        {
+          "lineId": "03-03",
+          "text": "一张格子纸",
+          "start": 5.039,
+          "end": 6.161
+        },
+        {
+          "lineId": "03-03",
+          "text": "一堆事件",
+          "start": 6.556,
+          "end": 7.56
+        },
+        {
+          "lineId": "03-03",
+          "text": "一个数据库",
+          "start": 7.943,
+          "end": 8.926
+        },
+        {
+          "lineId": "03-04",
+          "text": "格子纸",
+          "start": 9.926,
+          "end": 10.634
+        },
+        {
+          "lineId": "03-04",
+          "text": "叫地图编辑器",
+          "start": 10.566,
+          "end": 11.86
+        },
+        {
+          "lineId": "03-05",
+          "text": "每一个格子",
+          "start": 12.2,
+          "end": 13.218
+        },
+        {
+          "lineId": "03-05",
+          "text": "叫一个图块",
+          "start": 13.188,
+          "end": 14.223
+        },
+        {
+          "lineId": "03-06",
+          "text": "RPG Maker 2000 的图块",
+          "start": 14.563,
+          "end": 16.735
+        },
+        {
+          "lineId": "03-06",
+          "text": "是 16×16 像素",
+          "start": 16.692,
+          "end": 18.511
+        },
+        {
+          "lineId": "03-07",
+          "text": "你的整个游戏世界",
+          "start": 18.851,
+          "end": 20.221
+        },
+        {
+          "lineId": "03-07",
+          "text": "就是这些 16×16 的小方块拼出来的",
+          "start": 20.204,
+          "end": 23.212
+        },
+        {
+          "lineId": "03-08",
+          "text": "事件",
+          "start": 24.212,
+          "end": 24.821
+        },
+        {
+          "lineId": "03-08",
+          "text": "是地图上的一个点",
+          "start": 24.767,
+          "end": 26.25
+        },
+        {
+          "lineId": "03-09",
+          "text": "它可以是一扇门",
+          "start": 26.59,
+          "end": 27.854
+        },
+        {
+          "lineId": "03-09",
+          "text": "一个宝箱",
+          "start": 27.799,
+          "end": 28.716
+        },
+        {
+          "lineId": "03-09",
+          "text": "一个 NPC",
+          "start": 28.712,
+          "end": 29.755
+        },
+        {
+          "lineId": "03-09",
+          "text": "一段剧情",
+          "start": 29.761,
+          "end": 30.657
+        },
+        {
+          "lineId": "03-10",
+          "text": "数据库",
+          "start": 30.997,
+          "end": 31.782
+        },
+        {
+          "lineId": "03-10",
+          "text": "是这个世界所有的规则",
+          "start": 31.74,
+          "end": 33.511
+        },
+        {
+          "lineId": "03-11",
+          "text": "角色有多少血",
+          "start": 33.851,
+          "end": 35.077
+        },
+        {
+          "lineId": "03-11",
+          "text": "怪物有多强",
+          "start": 35.009,
+          "end": 36.239
+        },
+        {
+          "lineId": "03-11",
+          "text": "武器加多少攻击",
+          "start": 36.159,
+          "end": 37.796
+        },
+        {
+          "lineId": "03-12",
+          "text": "但真正让这个东西成立的",
+          "start": 38.796,
+          "end": 40.776
+        },
+        {
+          "lineId": "03-12",
+          "text": "是两个词",
+          "start": 40.696,
+          "end": 41.671
+        },
+        {
+          "lineId": "03-13",
+          "text": "开关",
+          "start": 42.011,
+          "end": 42.714
+        },
+        {
+          "lineId": "03-13",
+          "text": "和变量",
+          "start": 43.084,
+          "end": 43.919
+        },
+        {
+          "lineId": "03-14",
+          "text": "我做给你看",
+          "start": 44.259,
+          "end": 45.105
+        },
+        {
+          "lineId": "03-15",
+          "text": "放一扇门",
+          "start": 46.296,
+          "end": 47.322
+        },
+        {
+          "lineId": "03-15",
+          "text": "新建一个事件",
+          "start": 47.692,
+          "end": 48.892
+        },
+        {
+          "lineId": "03-16",
+          "text": "插入指令",
+          "start": 49.232,
+          "end": 50.167
+        },
+        {
+          "lineId": "03-16",
+          "text": "条件分支",
+          "start": 50.549,
+          "end": 51.488
+        },
+        {
+          "lineId": "03-17",
+          "text": "如果",
+          "start": 51.828,
+          "end": 52.44
+        },
+        {
+          "lineId": "03-17",
+          "text": "\"钥匙\"这个开关 是 ON",
+          "start": 52.36,
+          "end": 54.22
+        },
+        {
+          "lineId": "03-18",
+          "text": "那么",
+          "start": 54.56,
+          "end": 55.0
+        },
+        {
+          "lineId": "03-18",
+          "text": "播放开门音效",
+          "start": 54.983,
+          "end": 56.424
+        },
+        {
+          "lineId": "03-18",
+          "text": "然后",
+          "start": 56.383,
+          "end": 57.038
+        },
+        {
+          "lineId": "03-18",
+          "text": "暂时消除这个事件",
+          "start": 56.995,
+          "end": 58.59
+        },
+        {
+          "lineId": "03-19",
+          "text": "否则",
+          "start": 58.93,
+          "end": 59.502
+        },
+        {
+          "lineId": "03-19",
+          "text": "显示文字：\"门锁着 \"",
+          "start": 59.485,
+          "end": 61.109
+        },
+        {
+          "lineId": "03-20",
+          "text": "再放一把钥匙",
+          "start": 61.449,
+          "end": 62.657
+        },
+        {
+          "lineId": "03-21",
+          "text": "玩家碰到它",
+          "start": 62.997,
+          "end": 64.063
+        },
+        {
+          "lineId": "03-21",
+          "text": "\"钥匙\"这个开关",
+          "start": 64.009,
+          "end": 65.676
+        },
+        {
+          "lineId": "03-21",
+          "text": "设为 ON",
+          "start": 65.496,
+          "end": 67.026
+        },
+        {
+          "lineId": "03-21",
+          "text": "然后钥匙消失",
+          "start": 66.871,
+          "end": 67.735
+        },
+        {
+          "lineId": "03-22",
+          "text": "现在试一下",
+          "start": 68.735,
+          "end": 69.669
+        },
+        {
+          "lineId": "03-23",
+          "text": "门锁着",
+          "start": 70.009,
+          "end": 70.69
+        },
+        {
+          "lineId": "03-24",
+          "text": "门开了",
+          "start": 71.03,
+          "end": 71.68
+        },
+        {
+          "lineId": "03-25",
+          "text": "一扇门",
+          "start": 72.02,
+          "end": 72.743
+        },
+        {
+          "lineId": "03-25",
+          "text": "就是一个开关",
+          "start": 72.649,
+          "end": 73.731
+        },
+        {
+          "lineId": "03-26",
+          "text": "门开没开",
+          "start": 74.071,
+          "end": 75.019
+        },
+        {
+          "lineId": "03-26",
+          "text": "就是 ON",
+          "start": 75.001,
+          "end": 75.756
+        },
+        {
+          "lineId": "03-26",
+          "text": "还是 OFF",
+          "start": 75.726,
+          "end": 76.516
+        },
+        {
+          "lineId": "03-27",
+          "text": "一个人死没死",
+          "start": 81.235,
+          "end": 82.452
+        },
+        {
+          "lineId": "03-27",
+          "text": "也是 ON 还是 OFF",
+          "start": 82.434,
+          "end": 83.781
+        },
+        {
+          "lineId": "03-28",
+          "text": "一个世界存不存在",
+          "start": 84.121,
+          "end": 85.735
+        },
+        {
+          "lineId": "03-28",
+          "text": "也是 ON 还是 OFF",
+          "start": 85.692,
+          "end": 87.065
+        },
+        {
+          "lineId": "03-29",
+          "text": "RPG Maker 没有让你写代码",
+          "start": 87.405,
+          "end": 89.589
+        },
+        {
+          "lineId": "03-30",
+          "text": "它让你用\"是\"和\"不是\"",
+          "start": 89.929,
+          "end": 92.706
+        },
+        {
+          "lineId": "03-30",
+          "text": "去描述一整个世界",
+          "start": 92.526,
+          "end": 93.341
+        }
+      ]
+    },
+    {
+      "id": "04",
+      "title": "口音",
+      "start": 496.453,
+      "duration": 32.579,
+      "frames": 977,
+      "lines": [
+        {
+          "id": "04-01",
+          "text": "1992 年，它的画面是 320×240。",
+          "file": "film/04-01.mp3",
+          "start": 0.55,
+          "duration": 4.872,
+          "trimStart": 0.186,
+          "trimEnd": 4.374,
+          "block": 0,
+          "end": 4.738
+        },
+        {
+          "id": "04-02",
+          "text": "2004 年，XP，640×480。",
+          "file": "film/04-02.mp3",
+          "start": 5.078,
+          "duration": 4.392,
+          "trimStart": 0.144,
+          "trimEnd": 3.891,
+          "block": 0,
+          "end": 8.825
+        },
+        {
+          "id": "04-03",
+          "text": "2015 年，MV，816×624。",
+          "file": "film/04-03.mp3",
+          "start": 9.165,
+          "duration": 4.536,
+          "trimStart": 0.157,
+          "trimEnd": 4.054,
+          "block": 0,
+          "end": 13.062
+        },
+        {
+          "id": "04-04",
+          "text": "但大部分人记得的，还是 320×240。",
+          "file": "film/04-04.mp3",
+          "start": 13.402,
+          "duration": 4.224,
+          "trimStart": 0.167,
+          "trimEnd": 3.74,
+          "block": 0,
+          "end": 16.975
+        },
+        {
+          "id": "04-05",
+          "text": "那个蓝头发的骑士。那片草地。那个蓝底白字的对话框。",
+          "file": "film/04-05.mp3",
+          "start": 17.975,
+          "duration": 5.784,
+          "trimStart": 0.205,
+          "trimEnd": 5.253,
+          "block": 1,
+          "end": 23.023
+        },
+        {
+          "id": "04-06",
+          "text": "后来有人管这个叫\"RM 味\"。",
+          "file": "film/04-06.mp3",
+          "start": 23.363,
+          "duration": 2.88,
+          "trimStart": 0.149,
+          "trimEnd": 2.364,
+          "block": 1,
+          "end": 25.578
+        },
+        {
+          "id": "04-07",
+          "text": "它不是一种风格。",
+          "file": "film/04-07.mp3",
+          "start": 25.918,
+          "duration": 1.968,
+          "trimStart": 0.164,
+          "trimEnd": 1.475,
+          "block": 1,
+          "end": 27.229
+        },
+        {
+          "id": "04-08",
+          "text": "它是一种口音。",
+          "file": "film/04-08.mp3",
+          "start": 28.229,
+          "duration": 1.728,
+          "trimStart": 0.164,
+          "trimEnd": 1.231,
+          "block": 1,
+          "end": 29.296
+        }
+      ],
+      "blocks": [
+        {
+          "index": 0,
+          "start": 0.0,
+          "end": 17.425,
+          "lineIds": [
+            "04-01",
+            "04-02",
+            "04-03",
+            "04-04"
+          ]
+        },
+        {
+          "index": 1,
+          "start": 17.425,
+          "end": 32.579,
+          "lineIds": [
+            "04-05",
+            "04-06",
+            "04-07",
+            "04-08"
+          ]
+        }
+      ],
+      "cues": [
+        {
+          "lineId": "04-01",
+          "text": "1992 年",
+          "start": 0.55,
+          "end": 1.582
+        },
+        {
+          "lineId": "04-01",
+          "text": "它的画面是 320×240",
+          "start": 1.564,
+          "end": 4.738
+        },
+        {
+          "lineId": "04-02",
+          "text": "2004 年",
+          "start": 5.078,
+          "end": 6.088
+        },
+        {
+          "lineId": "04-02",
+          "text": "XP",
+          "start": 6.071,
+          "end": 6.901
+        },
+        {
+          "lineId": "04-02",
+          "text": "640×480",
+          "start": 6.896,
+          "end": 8.825
+        },
+        {
+          "lineId": "04-03",
+          "text": "2015 年",
+          "start": 9.165,
+          "end": 10.138
+        },
+        {
+          "lineId": "04-03",
+          "text": "MV",
+          "start": 10.121,
+          "end": 10.876
+        },
+        {
+          "lineId": "04-03",
+          "text": "816×624",
+          "start": 10.858,
+          "end": 13.062
+        },
+        {
+          "lineId": "04-04",
+          "text": "但大部分人记得的",
+          "start": 13.402,
+          "end": 14.766
+        },
+        {
+          "lineId": "04-04",
+          "text": "还是 320×240",
+          "start": 14.747,
+          "end": 16.975
+        },
+        {
+          "lineId": "04-05",
+          "text": "那个蓝头发的骑士",
+          "start": 17.975,
+          "end": 19.413
+        },
+        {
+          "lineId": "04-05",
+          "text": "那片草地",
+          "start": 19.808,
+          "end": 20.826
+        },
+        {
+          "lineId": "04-05",
+          "text": "那个蓝底白字的对话框",
+          "start": 21.22,
+          "end": 23.023
+        },
+        {
+          "lineId": "04-06",
+          "text": "后来有人管这个叫\"RM 味\"",
+          "start": 23.363,
+          "end": 25.578
+        },
+        {
+          "lineId": "04-07",
+          "text": "它不是一种风格",
+          "start": 25.918,
+          "end": 27.229
+        },
+        {
+          "lineId": "04-08",
+          "text": "它是一种口音",
+          "start": 28.229,
+          "end": 29.296
+        }
+      ]
+    },
+    {
+      "id": "05",
+      "title": "溢出 · 当它被用来做不该做的事",
+      "start": 529.032,
+      "duration": 181.199,
+      "frames": 5436,
+      "lines": [
+        {
+          "id": "05-01",
+          "text": "2000 年，有两件事同时发生。",
+          "file": "film/05-01.mp3",
+          "start": 0.55,
+          "duration": 3.12,
+          "trimStart": 0.163,
+          "trimEnd": 2.625,
+          "block": 0,
+          "end": 3.012
+        },
+        {
+          "id": "05-02",
+          "text": "第一件：RPG Maker 2000 在日本发售。",
+          "file": "film/05-02.mp3",
+          "start": 3.352,
+          "duration": 3.648,
+          "trimStart": 0.139,
+          "trimEnd": 3.159,
+          "block": 0,
+          "end": 6.372
+        },
+        {
+          "id": "05-03",
+          "text": "一个俄罗斯学生，把它翻译成英文，免费传到网上。",
+          "file": "film/05-03.mp3",
+          "start": 6.712,
+          "duration": 4.632,
+          "trimStart": 0.175,
+          "trimEnd": 4.115,
+          "block": 0,
+          "end": 10.652
+        },
+        {
+          "id": "05-04",
+          "text": "他叫 Don Miguel。他没有得到授权。",
+          "file": "film/05-04.mp3",
+          "start": 11.652,
+          "duration": 3.696,
+          "trimStart": 0.15,
+          "trimEnd": 3.196,
+          "block": 0,
+          "end": 14.698
+        },
+        {
+          "id": "05-05",
+          "text": "ASCII 给他发了律师函。他关了网站。",
+          "file": "film/05-05.mp3",
+          "start": 15.038,
+          "duration": 3.888,
+          "trimStart": 0.145,
+          "trimEnd": 3.381,
+          "block": 0,
+          "end": 18.274
+        },
+        {
+          "id": "05-06",
+          "text": "但文件已经传出去了。",
+          "file": "film/05-06.mp3",
+          "start": 18.614,
+          "duration": 2.328,
+          "trimStart": 0.175,
+          "trimEnd": 1.845,
+          "block": 0,
+          "end": 20.284
+        },
+        {
+          "id": "05-07",
+          "text": "第二件：同一年 10 月，一家叫 Agetec 的公司，在北美发行了 PlayStation 版的 RPG Maker。",
+          "file": "film/05-07.mp3",
+          "start": 21.284,
+          "duration": 7.392,
+          "trimStart": 0.139,
+          "trimEnd": 6.899,
+          "block": 0,
+          "end": 28.044
+        },
+        {
+          "id": "05-08",
+          "text": "那是这个系列，第一个官方英文版。",
+          "file": "film/05-08.mp3",
+          "start": 28.384,
+          "duration": 3.264,
+          "trimStart": 0.199,
+          "trimEnd": 2.75,
+          "block": 0,
+          "end": 30.935
+        },
+        {
+          "id": "05-09",
+          "text": "比电脑版的官方英文版，早了五年。",
+          "file": "film/05-09.mp3",
+          "start": 31.275,
+          "duration": 3.408,
+          "trimStart": 0.165,
+          "trimEnd": 2.919,
+          "block": 0,
+          "end": 34.029
+        },
+        {
+          "id": "05-10",
+          "text": "一个盗版，一个正版。",
+          "file": "film/05-10.mp3",
+          "start": 35.029,
+          "duration": 2.352,
+          "trimStart": 0.158,
+          "trimEnd": 1.842,
+          "block": 0,
+          "end": 36.713
+        },
+        {
+          "id": "05-11",
+          "text": "一个在电脑上，一个在电视上。",
+          "file": "film/05-11.mp3",
+          "start": 37.053,
+          "duration": 3.048,
+          "trimStart": 0.161,
+          "trimEnd": 2.532,
+          "block": 0,
+          "end": 39.424
+        },
+        {
+          "id": "05-12",
+          "text": "西方人第一次玩到它，是从这两个口子同时进来的。",
+          "file": "film/05-12.mp3",
+          "start": 39.764,
+          "duration": 4.44,
+          "trimStart": 0.144,
+          "trimEnd": 3.949,
+          "block": 0,
+          "end": 43.569
+        },
+        {
+          "id": "05-13",
+          "text": "接下来的十五年，电脑上那一个，赢了。",
+          "file": "film/05-13.mp3",
+          "start": 44.569,
+          "duration": 3.576,
+          "trimStart": 0.151,
+          "trimEnd": 3.092,
+          "block": 0,
+          "end": 47.51
+        },
+        {
+          "id": "05-14",
+          "text": "赢的方式，不太光彩。",
+          "file": "film/05-14.mp3",
+          "start": 47.85,
+          "duration": 2.304,
+          "trimStart": 0.158,
+          "trimEnd": 1.818,
+          "block": 0,
+          "end": 49.51
+        },
+        {
+          "id": "05-15",
+          "text": "RPG Maker 在西方的前十五年，是一个不存在版权的人类共同体。",
+          "file": "film/05-15.mp3",
+          "start": 49.85,
+          "duration": 5.808,
+          "trimStart": 0.146,
+          "trimEnd": 5.32,
+          "block": 0,
+          "end": 55.024
+        },
+        {
+          "id": "05-16",
+          "text": "2004 年 6 月 26 日。",
+          "file": "film/05-16.mp3",
+          "start": 56.024,
+          "duration": 2.424,
+          "trimStart": 0.167,
+          "trimEnd": 1.91,
+          "block": 1,
+          "end": 57.767
+        },
+        {
+          "id": "05-17",
+          "text": "日本的一个论坛上，有人上传了一个压缩包。",
+          "file": "film/05-17.mp3",
+          "start": 58.107,
+          "duration": 3.768,
+          "trimStart": 0.171,
+          "trimEnd": 3.276,
+          "block": 1,
+          "end": 61.212
+        },
+        {
+          "id": "05-18",
+          "text": "二十多 MB。",
+          "file": "film/05-18.mp3",
+          "start": 61.552,
+          "duration": 1.752,
+          "trimStart": 0.16,
+          "trimEnd": 1.282,
+          "block": 1,
+          "end": 62.674
+        },
+        {
+          "id": "05-19",
+          "text": "打开以后，是一个女孩的房间。",
+          "file": "film/05-19.mp3",
+          "start": 63.674,
+          "duration": 2.832,
+          "trimStart": 0.17,
+          "trimEnd": 2.353,
+          "block": 1,
+          "end": 65.857
+        },
+        {
+          "id": "05-20",
+          "text": "她不能出门。",
+          "file": "film/05-20.mp3",
+          "start": 66.197,
+          "duration": 1.704,
+          "trimStart": 0.187,
+          "trimEnd": 1.208,
+          "block": 1,
+          "end": 67.218
+        },
+        {
+          "id": "05-21",
+          "text": "只能睡觉。",
+          "file": "film/05-21.mp3",
+          "start": 67.558,
+          "duration": 1.512,
+          "trimStart": 0.166,
+          "trimEnd": 0.997,
+          "block": 1,
+          "end": 68.389
+        },
+        {
+          "id": "05-22",
+          "text": "睡着以后，她会进入一个走廊。",
+          "file": "film/05-22.mp3",
+          "start": 69.389,
+          "duration": 2.856,
+          "trimStart": 0.147,
+          "trimEnd": 2.365,
+          "block": 1,
+          "end": 71.607
+        },
+        {
+          "id": "05-23",
+          "text": "走廊里有十二扇门。",
+          "file": "film/05-23.mp3",
+          "start": 71.947,
+          "duration": 2.304,
+          "trimStart": 0.191,
+          "trimEnd": 1.795,
+          "block": 1,
+          "end": 73.551
+        },
+        {
+          "id": "05-24",
+          "text": "每扇门后面，是一个梦。",
+          "file": "film/05-24.mp3",
+          "start": 73.891,
+          "duration": 2.352,
+          "trimStart": 0.16,
+          "trimEnd": 1.876,
+          "block": 1,
+          "end": 75.607
+        },
+        {
+          "id": "05-25",
+          "text": "没有战斗。没有对话。没有目标。",
+          "file": "film/05-25.mp3",
+          "start": 76.607,
+          "duration": 4.104,
+          "trimStart": 0.165,
+          "trimEnd": 3.62,
+          "block": 1,
+          "end": 80.062
+        },
+        {
+          "id": "05-26",
+          "text": "甚至没有 Game Over。",
+          "file": "film/05-26.mp3",
+          "start": 80.402,
+          "duration": 2.016,
+          "trimStart": 0.133,
+          "trimEnd": 1.496,
+          "block": 1,
+          "end": 81.765
+        },
+        {
+          "id": "05-27",
+          "text": "你要做的，只是走。",
+          "file": "film/05-27.mp3",
+          "start": 82.105,
+          "duration": 2.136,
+          "trimStart": 0.149,
+          "trimEnd": 1.651,
+          "block": 1,
+          "end": 83.607
+        },
+        {
+          "id": "05-28",
+          "text": "收集二十四个\"效果\"。",
+          "file": "film/05-28.mp3",
+          "start": 84.607,
+          "duration": 2.16,
+          "trimStart": 0.154,
+          "trimEnd": 1.673,
+          "block": 1,
+          "end": 86.126
+        },
+        {
+          "id": "05-29",
+          "text": "然后，走到阳台。",
+          "file": "film/05-29.mp3",
+          "start": 86.466,
+          "duration": 2.04,
+          "trimStart": 0.171,
+          "trimEnd": 1.561,
+          "block": 1,
+          "end": 87.856
+        },
+        {
+          "id": "05-30",
+          "text": "这个游戏叫《梦日记》。",
+          "file": "film/05-30.mp3",
+          "start": 88.856,
+          "duration": 2.256,
+          "trimStart": 0.166,
+          "trimEnd": 1.766,
+          "block": 2,
+          "end": 90.456
+        },
+        {
+          "id": "05-31",
+          "text": "作者叫 Kikiyama。",
+          "file": "film/05-31.mp3",
+          "start": 90.796,
+          "duration": 2.184,
+          "trimStart": 0.151,
+          "trimEnd": 1.684,
+          "block": 2,
+          "end": 92.329
+        },
+        {
+          "id": "05-32",
+          "text": "没有人知道他是谁。",
+          "file": "film/05-32.mp3",
+          "start": 92.669,
+          "duration": 2.208,
+          "trimStart": 0.178,
+          "trimEnd": 1.711,
+          "block": 2,
+          "end": 94.202
+        },
+        {
+          "id": "05-33",
+          "text": "他做完这个游戏，就消失了。",
+          "file": "film/05-33.mp3",
+          "start": 94.542,
+          "duration": 2.76,
+          "trimStart": 0.2,
+          "trimEnd": 2.25,
+          "block": 2,
+          "end": 96.592
+        },
+        {
+          "id": "05-34",
+          "text": "2011 到 2018 年，他没有任何回应。",
+          "file": "film/05-34.mp3",
+          "start": 96.932,
+          "duration": 3.48,
+          "trimStart": 0.18,
+          "trimEnd": 2.986,
+          "block": 2,
+          "end": 99.738
+        },
+        {
+          "id": "05-35",
+          "text": "有人猜他死在了地震里。",
+          "file": "film/05-35.mp3",
+          "start": 100.078,
+          "duration": 2.568,
+          "trimStart": 0.176,
+          "trimEnd": 2.072,
+          "block": 2,
+          "end": 101.974
+        },
+        {
+          "id": "05-36",
+          "text": "后来角川确认，他还活着。",
+          "file": "film/05-36.mp3",
+          "start": 102.314,
+          "duration": 2.664,
+          "trimStart": 0.178,
+          "trimEnd": 2.188,
+          "block": 2,
+          "end": 104.324
+        },
+        {
+          "id": "05-37",
+          "text": "但他没有出来说过一句话。",
+          "file": "film/05-37.mp3",
+          "start": 104.664,
+          "duration": 2.688,
+          "trimStart": 0.187,
+          "trimEnd": 2.171,
+          "block": 2,
+          "end": 106.648
+        },
+        {
+          "id": "05-38",
+          "text": "它把 RPG 的三个字母，一个一个拆掉了。",
+          "file": "film/05-38.mp3",
+          "start": 107.648,
+          "duration": 3.768,
+          "trimStart": 0.15,
+          "trimEnd": 3.277,
+          "block": 3,
+          "end": 110.775
+        },
+        {
+          "id": "05-39",
+          "text": "没有 Role。没有 Playing。",
+          "file": "film/05-39.mp3",
+          "start": 111.115,
+          "duration": 2.88,
+          "trimStart": 0.149,
+          "trimEnd": 2.401,
+          "block": 3,
+          "end": 113.367
+        },
+        {
+          "id": "05-40",
+          "text": "最后，连 Game 都不太算。",
+          "file": "film/05-40.mp3",
+          "start": 113.707,
+          "duration": 2.448,
+          "trimStart": 0.142,
+          "trimEnd": 1.958,
+          "block": 3,
+          "end": 115.523
+        },
+        {
+          "id": "05-41",
+          "text": "2011 年，加拿大。",
+          "file": "film/05-41.mp3",
+          "start": 122.273,
+          "duration": 2.256,
+          "trimStart": 0.195,
+          "trimEnd": 1.75,
+          "block": 4,
+          "end": 123.828
+        },
+        {
+          "id": "05-42",
+          "text": "一个人，做了一个游戏，叫《去月球》。",
+          "file": "film/05-42.mp3",
+          "start": 124.168,
+          "duration": 3.408,
+          "trimStart": 0.181,
+          "trimEnd": 2.916,
+          "block": 4,
+          "end": 126.903
+        },
+        {
+          "id": "05-43",
+          "text": "没有战斗系统。",
+          "file": "film/05-43.mp3",
+          "start": 127.243,
+          "duration": 1.752,
+          "trimStart": 0.148,
+          "trimEnd": 1.281,
+          "block": 4,
+          "end": 128.376
+        },
+        {
+          "id": "05-44",
+          "text": "没有装备。没有升级。",
+          "file": "film/05-44.mp3",
+          "start": 128.716,
+          "duration": 2.88,
+          "trimStart": 0.165,
+          "trimEnd": 2.395,
+          "block": 4,
+          "end": 130.946
+        },
+        {
+          "id": "05-45",
+          "text": "只有两个医生，走进一个将死的人的记忆里，帮他完成最后一个愿望。",
+          "file": "film/05-45.mp3",
+          "start": 131.286,
+          "duration": 5.712,
+          "trimStart": 0.166,
+          "trimEnd": 5.151,
+          "block": 4,
+          "end": 136.271
+        },
+        {
+          "id": "05-46",
+          "text": "它卖的不是玩法。",
+          "file": "film/05-46.mp3",
+          "start": 136.611,
+          "duration": 1.92,
+          "trimStart": 0.165,
+          "trimEnd": 1.381,
+          "block": 4,
+          "end": 137.827
+        },
+        {
+          "id": "05-47",
+          "text": "它卖的是一段你没法跳过的人生。",
+          "file": "film/05-47.mp3",
+          "start": 138.167,
+          "duration": 3.072,
+          "trimStart": 0.164,
+          "trimEnd": 2.594,
+          "block": 4,
+          "end": 140.597
+        },
+        {
+          "id": "05-48",
+          "text": "2012 年，日本。",
+          "file": "film/05-48.mp3",
+          "start": 141.597,
+          "duration": 2.088,
+          "trimStart": 0.195,
+          "trimEnd": 1.621,
+          "block": 5,
+          "end": 143.023
+        },
+        {
+          "id": "05-49",
+          "text": "两个恐怖游戏，同年出现。",
+          "file": "film/05-49.mp3",
+          "start": 143.363,
+          "duration": 2.736,
+          "trimStart": 0.16,
+          "trimEnd": 2.218,
+          "block": 5,
+          "end": 145.421
+        },
+        {
+          "id": "05-50",
+          "text": "一个叫《Ib》，一个叫《魔女之家》。",
+          "file": "film/05-50.mp3",
+          "start": 145.761,
+          "duration": 3.144,
+          "trimStart": 0.149,
+          "trimEnd": 2.659,
+          "block": 5,
+          "end": 148.271
+        },
+        {
+          "id": "05-51",
+          "text": "它们都没有战斗。",
+          "file": "film/05-51.mp3",
+          "start": 148.611,
+          "duration": 1.968,
+          "trimStart": 0.19,
+          "trimEnd": 1.446,
+          "block": 5,
+          "end": 149.867
+        },
+        {
+          "id": "05-52",
+          "text": "你能做的，只有跑，和躲。",
+          "file": "film/05-52.mp3",
+          "start": 150.207,
+          "duration": 2.928,
+          "trimStart": 0.151,
+          "trimEnd": 2.418,
+          "block": 5,
+          "end": 152.474
+        },
+        {
+          "id": "05-53",
+          "text": "当引擎给不了你光影，你只能靠\"不给你看\"来吓人。",
+          "file": "film/05-53.mp3",
+          "start": 152.814,
+          "duration": 4.152,
+          "trimStart": 0.17,
+          "trimEnd": 3.659,
+          "block": 5,
+          "end": 156.303
+        },
+        {
+          "id": "05-54",
+          "text": "2020 年 12 月 25 日。",
+          "file": "film/05-54.mp3",
+          "start": 157.303,
+          "duration": 2.472,
+          "trimStart": 0.195,
+          "trimEnd": 1.966,
+          "block": 6,
+          "end": 159.074
+        },
+        {
+          "id": "05-55",
+          "text": "《OMORI》发售。",
+          "file": "film/05-55.mp3",
+          "start": 159.414,
+          "duration": 1.632,
+          "trimStart": 0.16,
+          "trimEnd": 1.134,
+          "block": 6,
+          "end": 160.388
+        },
+        {
+          "id": "05-56",
+          "text": "它用的是 RPG Maker MV。",
+          "file": "film/05-56.mp3",
+          "start": 160.728,
+          "duration": 2.928,
+          "trimStart": 0.15,
+          "trimEnd": 2.438,
+          "block": 6,
+          "end": 163.016
+        },
+        {
+          "id": "05-57",
+          "text": "一个可以在浏览器里跑的引擎。",
+          "file": "film/05-57.mp3",
+          "start": 163.356,
+          "duration": 2.832,
+          "trimStart": 0.158,
+          "trimEnd": 2.332,
+          "block": 6,
+          "end": 165.53
+        },
+        {
+          "id": "05-58",
+          "text": "两年后，它卖出了一百万份。",
+          "file": "film/05-58.mp3",
+          "start": 165.87,
+          "duration": 2.832,
+          "trimStart": 0.175,
+          "trimEnd": 2.334,
+          "block": 6,
+          "end": 168.029
+        },
+        {
+          "id": "05-59",
+          "text": "它做出来的东西，让一百万人不敢关灯。",
+          "file": "film/05-59.mp3",
+          "start": 168.369,
+          "duration": 3.816,
+          "trimStart": 0.162,
+          "trimEnd": 3.329,
+          "block": 6,
+          "end": 171.536
+        },
+        {
+          "id": "05-60",
+          "text": "这些游戏有一个共同点。",
+          "file": "film/05-60.mp3",
+          "start": 171.876,
+          "duration": 2.616,
+          "trimStart": 0.187,
+          "trimEnd": 2.06,
+          "block": 6,
+          "end": 173.749
+        },
+        {
+          "id": "05-61",
+          "text": "它们都不是 RPG。",
+          "file": "film/05-61.mp3",
+          "start": 174.749,
+          "duration": 2.328,
+          "trimStart": 0.162,
+          "trimEnd": 1.857,
+          "block": 6,
+          "end": 176.444
+        },
+        {
+          "id": "05-62",
+          "text": "它们只是借了 RPG 的壳，装了自己的东西。",
+          "file": "film/05-62.mp3",
+          "start": 176.784,
+          "duration": 4.032,
+          "trimStart": 0.162,
+          "trimEnd": 3.544,
+          "block": 6,
+          "end": 180.166
+        }
+      ],
+      "blocks": [
+        {
+          "index": 0,
+          "start": 0.0,
+          "end": 55.474,
+          "lineIds": [
+            "05-01",
+            "05-02",
+            "05-03",
+            "05-04",
+            "05-05",
+            "05-06",
+            "05-07",
+            "05-08",
+            "05-09",
+            "05-10",
+            "05-11",
+            "05-12",
+            "05-13",
+            "05-14",
+            "05-15"
+          ]
+        },
+        {
+          "index": 1,
+          "start": 55.474,
+          "end": 88.306,
+          "lineIds": [
+            "05-16",
+            "05-17",
+            "05-18",
+            "05-19",
+            "05-20",
+            "05-21",
+            "05-22",
+            "05-23",
+            "05-24",
+            "05-25",
+            "05-26",
+            "05-27",
+            "05-28",
+            "05-29"
+          ]
+        },
+        {
+          "index": 2,
+          "start": 88.306,
+          "end": 107.098,
+          "lineIds": [
+            "05-30",
+            "05-31",
+            "05-32",
+            "05-33",
+            "05-34",
+            "05-35",
+            "05-36",
+            "05-37"
+          ]
+        },
+        {
+          "index": 3,
+          "start": 107.098,
+          "end": 121.723,
+          "lineIds": [
+            "05-38",
+            "05-39",
+            "05-40"
+          ]
+        },
+        {
+          "index": 4,
+          "start": 121.723,
+          "end": 141.047,
+          "lineIds": [
+            "05-41",
+            "05-42",
+            "05-43",
+            "05-44",
+            "05-45",
+            "05-46",
+            "05-47"
+          ]
+        },
+        {
+          "index": 5,
+          "start": 141.047,
+          "end": 156.753,
+          "lineIds": [
+            "05-48",
+            "05-49",
+            "05-50",
+            "05-51",
+            "05-52",
+            "05-53"
+          ]
+        },
+        {
+          "index": 6,
+          "start": 156.753,
+          "end": 181.199,
+          "lineIds": [
+            "05-54",
+            "05-55",
+            "05-56",
+            "05-57",
+            "05-58",
+            "05-59",
+            "05-60",
+            "05-61",
+            "05-62"
+          ]
+        }
+      ],
+      "cues": [
+        {
+          "lineId": "05-01",
+          "text": "2000 年",
+          "start": 0.55,
+          "end": 1.317
+        },
+        {
+          "lineId": "05-01",
+          "text": "有两件事同时发生",
+          "start": 1.274,
+          "end": 3.012
+        },
+        {
+          "lineId": "05-02",
+          "text": "第一件：RPG Maker 2000 在",
+          "start": 3.352,
+          "end": 6.056
+        },
+        {
+          "lineId": "05-02",
+          "text": "日本发售",
+          "start": 5.651,
+          "end": 6.372
+        },
+        {
+          "lineId": "05-03",
+          "text": "一个俄罗斯学生",
+          "start": 6.712,
+          "end": 7.941
+        },
+        {
+          "lineId": "05-03",
+          "text": "把它翻译成英文",
+          "start": 7.862,
+          "end": 9.367
+        },
+        {
+          "lineId": "05-03",
+          "text": "免费传到网上",
+          "start": 9.325,
+          "end": 10.652
+        },
+        {
+          "lineId": "05-04",
+          "text": "他叫 Don Miguel",
+          "start": 11.652,
+          "end": 12.907
+        },
+        {
+          "lineId": "05-04",
+          "text": "他没有得到授权",
+          "start": 13.302,
+          "end": 14.698
+        },
+        {
+          "lineId": "05-05",
+          "text": "ASCII 给他发了律师函",
+          "start": 15.038,
+          "end": 16.86
+        },
+        {
+          "lineId": "05-05",
+          "text": "他关了网站",
+          "start": 17.255,
+          "end": 18.274
+        },
+        {
+          "lineId": "05-06",
+          "text": "但文件已经传出去了",
+          "start": 18.614,
+          "end": 20.284
+        },
+        {
+          "lineId": "05-07",
+          "text": "第二件：同一年 10 月",
+          "start": 21.284,
+          "end": 23.413
+        },
+        {
+          "lineId": "05-07",
+          "text": "一家叫 Agetec 的公司",
+          "start": 22.895,
+          "end": 25.125
+        },
+        {
+          "lineId": "05-07",
+          "text": "在北美发行了 PlayStation 版",
+          "start": 24.957,
+          "end": 27.026
+        },
+        {
+          "lineId": "05-07",
+          "text": "的 RPG Maker",
+          "start": 26.932,
+          "end": 28.044
+        },
+        {
+          "lineId": "05-08",
+          "text": "那是这个系列",
+          "start": 28.384,
+          "end": 29.478
+        },
+        {
+          "lineId": "05-08",
+          "text": "第一个官方英文版",
+          "start": 29.46,
+          "end": 30.935
+        },
+        {
+          "lineId": "05-09",
+          "text": "比电脑版的官方英文版",
+          "start": 31.275,
+          "end": 33.152
+        },
+        {
+          "lineId": "05-09",
+          "text": "早了五年",
+          "start": 33.123,
+          "end": 34.029
+        },
+        {
+          "lineId": "05-10",
+          "text": "一个盗版",
+          "start": 35.029,
+          "end": 35.938
+        },
+        {
+          "lineId": "05-10",
+          "text": "一个正版",
+          "start": 35.909,
+          "end": 36.713
+        },
+        {
+          "lineId": "05-11",
+          "text": "一个在电脑上",
+          "start": 37.053,
+          "end": 38.272
+        },
+        {
+          "lineId": "05-11",
+          "text": "一个在电视上",
+          "start": 38.229,
+          "end": 39.424
+        },
+        {
+          "lineId": "05-12",
+          "text": "西方人第一次玩到它",
+          "start": 39.764,
+          "end": 41.426
+        },
+        {
+          "lineId": "05-12",
+          "text": "是从这两个口子同时进来的",
+          "start": 41.395,
+          "end": 43.569
+        },
+        {
+          "lineId": "05-13",
+          "text": "接下来的十五年",
+          "start": 44.569,
+          "end": 45.848
+        },
+        {
+          "lineId": "05-13",
+          "text": "电脑上那一个 赢了",
+          "start": 45.831,
+          "end": 47.51
+        },
+        {
+          "lineId": "05-14",
+          "text": "赢的方式",
+          "start": 47.85,
+          "end": 48.722
+        },
+        {
+          "lineId": "05-14",
+          "text": "不太光彩",
+          "start": 48.642,
+          "end": 49.51
+        },
+        {
+          "lineId": "05-15",
+          "text": "RPG Maker 在西方的前十五年",
+          "start": 49.85,
+          "end": 52.609
+        },
+        {
+          "lineId": "05-15",
+          "text": "是一个不存在版权的人类共同体",
+          "start": 52.554,
+          "end": 55.024
+        },
+        {
+          "lineId": "05-16",
+          "text": "2004 年 6 月 26 日",
+          "start": 56.024,
+          "end": 57.767
+        },
+        {
+          "lineId": "05-17",
+          "text": "日本的一个论坛上",
+          "start": 58.107,
+          "end": 59.466
+        },
+        {
+          "lineId": "05-17",
+          "text": "有人上传了一个压缩包",
+          "start": 59.436,
+          "end": 61.212
+        },
+        {
+          "lineId": "05-18",
+          "text": "二十多 MB",
+          "start": 61.552,
+          "end": 62.674
+        },
+        {
+          "lineId": "05-19",
+          "text": "打开以后",
+          "start": 63.674,
+          "end": 64.535
+        },
+        {
+          "lineId": "05-19",
+          "text": "是一个女孩的房间",
+          "start": 64.479,
+          "end": 65.857
+        },
+        {
+          "lineId": "05-20",
+          "text": "她不能出门",
+          "start": 66.197,
+          "end": 67.218
+        },
+        {
+          "lineId": "05-21",
+          "text": "只能睡觉",
+          "start": 67.558,
+          "end": 68.389
+        },
+        {
+          "lineId": "05-22",
+          "text": "睡着以后",
+          "start": 69.389,
+          "end": 70.259
+        },
+        {
+          "lineId": "05-22",
+          "text": "她会进入一个走廊",
+          "start": 70.18,
+          "end": 71.607
+        },
+        {
+          "lineId": "05-23",
+          "text": "走廊里有十二扇门",
+          "start": 71.947,
+          "end": 73.551
+        },
+        {
+          "lineId": "05-24",
+          "text": "每扇门后面",
+          "start": 73.891,
+          "end": 74.948
+        },
+        {
+          "lineId": "05-24",
+          "text": "是一个梦",
+          "start": 74.881,
+          "end": 75.607
+        },
+        {
+          "lineId": "05-25",
+          "text": "没有战斗",
+          "start": 76.607,
+          "end": 77.498
+        },
+        {
+          "lineId": "05-25",
+          "text": "没有对话",
+          "start": 77.892,
+          "end": 78.822
+        },
+        {
+          "lineId": "05-25",
+          "text": "没有目标",
+          "start": 79.217,
+          "end": 80.062
+        },
+        {
+          "lineId": "05-26",
+          "text": "甚至没有 Game Over",
+          "start": 80.402,
+          "end": 81.765
+        },
+        {
+          "lineId": "05-27",
+          "text": "你要做的",
+          "start": 82.105,
+          "end": 82.912
+        },
+        {
+          "lineId": "05-27",
+          "text": "只是走",
+          "start": 82.868,
+          "end": 83.607
+        },
+        {
+          "lineId": "05-28",
+          "text": "收集二十四个\"效果\"",
+          "start": 84.607,
+          "end": 86.126
+        },
+        {
+          "lineId": "05-29",
+          "text": "然后",
+          "start": 86.466,
+          "end": 87.0
+        },
+        {
+          "lineId": "05-29",
+          "text": "走到阳台",
+          "start": 86.932,
+          "end": 87.856
+        },
+        {
+          "lineId": "05-30",
+          "text": "这个游戏叫《梦日记》",
+          "start": 88.856,
+          "end": 90.456
+        },
+        {
+          "lineId": "05-31",
+          "text": "作者叫 Kikiyama",
+          "start": 90.796,
+          "end": 92.329
+        },
+        {
+          "lineId": "05-32",
+          "text": "没有人知道他是谁",
+          "start": 92.669,
+          "end": 94.202
+        },
+        {
+          "lineId": "05-33",
+          "text": "他做完这个游戏",
+          "start": 94.542,
+          "end": 95.772
+        },
+        {
+          "lineId": "05-33",
+          "text": "就消失了",
+          "start": 95.705,
+          "end": 96.592
+        },
+        {
+          "lineId": "05-34",
+          "text": "2011 到 2018 年",
+          "start": 96.932,
+          "end": 98.569
+        },
+        {
+          "lineId": "05-34",
+          "text": "他没有任何回应",
+          "start": 98.527,
+          "end": 99.738
+        },
+        {
+          "lineId": "05-35",
+          "text": "有人猜他死在了地震里",
+          "start": 100.078,
+          "end": 101.974
+        },
+        {
+          "lineId": "05-36",
+          "text": "后来角川确认",
+          "start": 102.314,
+          "end": 103.565
+        },
+        {
+          "lineId": "05-36",
+          "text": "他还活着",
+          "start": 103.536,
+          "end": 104.324
+        },
+        {
+          "lineId": "05-37",
+          "text": "但他没有出来说过一句话",
+          "start": 104.664,
+          "end": 106.648
+        },
+        {
+          "lineId": "05-38",
+          "text": "它把 RPG 的三个字母",
+          "start": 107.648,
+          "end": 109.603
+        },
+        {
+          "lineId": "05-38",
+          "text": "一个一个拆掉了",
+          "start": 109.573,
+          "end": 110.775
+        },
+        {
+          "lineId": "05-39",
+          "text": "没有 Role",
+          "start": 111.115,
+          "end": 111.921
+        },
+        {
+          "lineId": "05-39",
+          "text": "没有 Playing",
+          "start": 112.303,
+          "end": 113.367
+        },
+        {
+          "lineId": "05-40",
+          "text": "最后",
+          "start": 113.707,
+          "end": 114.27
+        },
+        {
+          "lineId": "05-40",
+          "text": "连 Game 都不太算",
+          "start": 114.165,
+          "end": 115.523
+        },
+        {
+          "lineId": "05-41",
+          "text": "2011 年",
+          "start": 122.273,
+          "end": 123.258
+        },
+        {
+          "lineId": "05-41",
+          "text": "加拿大",
+          "start": 123.228,
+          "end": 123.828
+        },
+        {
+          "lineId": "05-42",
+          "text": "一个人",
+          "start": 124.168,
+          "end": 124.829
+        },
+        {
+          "lineId": "05-42",
+          "text": "做了一个游戏",
+          "start": 124.787,
+          "end": 125.892
+        },
+        {
+          "lineId": "05-42",
+          "text": "叫《去月球》",
+          "start": 125.862,
+          "end": 126.903
+        },
+        {
+          "lineId": "05-43",
+          "text": "没有战斗系统",
+          "start": 127.243,
+          "end": 128.376
+        },
+        {
+          "lineId": "05-44",
+          "text": "没有装备",
+          "start": 128.716,
+          "end": 129.607
+        },
+        {
+          "lineId": "05-44",
+          "text": "没有升级",
+          "start": 130.001,
+          "end": 130.946
+        },
+        {
+          "lineId": "05-45",
+          "text": "只有两个医生",
+          "start": 131.286,
+          "end": 132.412
+        },
+        {
+          "lineId": "05-45",
+          "text": "走进一个将死的人的记忆里",
+          "start": 132.42,
+          "end": 134.45
+        },
+        {
+          "lineId": "05-45",
+          "text": "帮他完成最后一个愿望",
+          "start": 134.408,
+          "end": 136.271
+        },
+        {
+          "lineId": "05-46",
+          "text": "它卖的不是玩法",
+          "start": 136.611,
+          "end": 137.827
+        },
+        {
+          "lineId": "05-47",
+          "text": "它卖的是一段你没法跳过的人生",
+          "start": 138.167,
+          "end": 140.597
+        },
+        {
+          "lineId": "05-48",
+          "text": "2012 年 日本",
+          "start": 141.597,
+          "end": 143.023
+        },
+        {
+          "lineId": "05-49",
+          "text": "两个恐怖游戏",
+          "start": 143.363,
+          "end": 144.583
+        },
+        {
+          "lineId": "05-49",
+          "text": "同年出现",
+          "start": 144.503,
+          "end": 145.421
+        },
+        {
+          "lineId": "05-50",
+          "text": "一个叫《Ib》",
+          "start": 145.761,
+          "end": 147.305
+        },
+        {
+          "lineId": "05-50",
+          "text": "一个叫《魔女之家》",
+          "start": 147.137,
+          "end": 148.271
+        },
+        {
+          "lineId": "05-51",
+          "text": "它们都没有战斗",
+          "start": 148.611,
+          "end": 149.867
+        },
+        {
+          "lineId": "05-52",
+          "text": "你能做的",
+          "start": 150.207,
+          "end": 151.011
+        },
+        {
+          "lineId": "05-52",
+          "text": "只有跑",
+          "start": 150.981,
+          "end": 151.886
+        },
+        {
+          "lineId": "05-52",
+          "text": "和躲",
+          "start": 151.868,
+          "end": 152.474
+        },
+        {
+          "lineId": "05-53",
+          "text": "当引擎给不了你光影",
+          "start": 152.814,
+          "end": 154.499
+        },
+        {
+          "lineId": "05-53",
+          "text": "你只能靠\"不给你看\"来吓人",
+          "start": 154.469,
+          "end": 156.303
+        },
+        {
+          "lineId": "05-54",
+          "text": "2020 年 12 月 25 日",
+          "start": 157.303,
+          "end": 159.074
+        },
+        {
+          "lineId": "05-55",
+          "text": "《OMORI》发售",
+          "start": 159.414,
+          "end": 160.388
+        },
+        {
+          "lineId": "05-56",
+          "text": "它用的是 RPG Maker MV",
+          "start": 160.728,
+          "end": 163.016
+        },
+        {
+          "lineId": "05-57",
+          "text": "一个可以在浏览器里跑的引擎",
+          "start": 163.356,
+          "end": 165.53
+        },
+        {
+          "lineId": "05-58",
+          "text": "两年后",
+          "start": 165.87,
+          "end": 166.587
+        },
+        {
+          "lineId": "05-58",
+          "text": "它卖出了一百万份",
+          "start": 166.52,
+          "end": 168.029
+        },
+        {
+          "lineId": "05-59",
+          "text": "它做出来的东西",
+          "start": 168.369,
+          "end": 169.6
+        },
+        {
+          "lineId": "05-59",
+          "text": "让一百万人不敢关灯",
+          "start": 169.557,
+          "end": 171.536
+        },
+        {
+          "lineId": "05-60",
+          "text": "这些游戏有一个共同点",
+          "start": 171.876,
+          "end": 173.749
+        },
+        {
+          "lineId": "05-61",
+          "text": "它们都不是 RPG",
+          "start": 174.749,
+          "end": 176.444
+        },
+        {
+          "lineId": "05-62",
+          "text": "它们只是借了 RPG 的壳",
+          "start": 176.784,
+          "end": 179.014
+        },
+        {
+          "lineId": "05-62",
+          "text": "装了自己的东西",
+          "start": 178.934,
+          "end": 180.166
+        }
+      ]
+    },
+    {
+      "id": "06",
+      "title": "中国 · 一个论坛和一款游戏",
+      "start": 710.231,
+      "duration": 49.82,
+      "frames": 1495,
+      "lines": [
+        {
+          "id": "06-01",
+          "text": "2005 年，中国。",
+          "file": "film/06-01.mp3",
+          "start": 0.55,
+          "duration": 2.232,
+          "trimStart": 0.205,
+          "trimEnd": 1.74,
+          "block": 0,
+          "end": 2.085
+        },
+        {
+          "id": "06-02",
+          "text": "一个玩家，做了一个游戏，叫《黑暗圣剑传说》。",
+          "file": "film/06-02.mp3",
+          "start": 2.425,
+          "duration": 4.224,
+          "trimStart": 0.157,
+          "trimEnd": 3.733,
+          "block": 0,
+          "end": 6.001
+        },
+        {
+          "id": "06-03",
+          "text": "他叫柳柳。",
+          "file": "film/06-03.mp3",
+          "start": 6.341,
+          "duration": 1.512,
+          "trimStart": 0.175,
+          "trimEnd": 1.043,
+          "block": 0,
+          "end": 7.209
+        },
+        {
+          "id": "06-04",
+          "text": "这个游戏有十个小时的剧情。",
+          "file": "film/06-04.mp3",
+          "start": 8.209,
+          "duration": 2.88,
+          "trimStart": 0.178,
+          "trimEnd": 2.397,
+          "block": 0,
+          "end": 10.428
+        },
+        {
+          "id": "06-05",
+          "text": "它把 RPG Maker XP 的底层，全部改了一遍。",
+          "file": "film/06-05.mp3",
+          "start": 10.768,
+          "duration": 4.056,
+          "trimStart": 0.149,
+          "trimEnd": 3.55,
+          "block": 0,
+          "end": 14.169
+        },
+        {
+          "id": "06-06",
+          "text": "但它最厉害的地方，不是它做得多好。",
+          "file": "film/06-06.mp3",
+          "start": 16.959,
+          "duration": 3.48,
+          "trimStart": 0.162,
+          "trimEnd": 2.973,
+          "block": 1,
+          "end": 19.77
+        },
+        {
+          "id": "06-07",
+          "text": "是它在第二年，把整个工程文件，公开了。",
+          "file": "film/06-07.mp3",
+          "start": 20.11,
+          "duration": 3.936,
+          "trimStart": 0.16,
+          "trimEnd": 3.449,
+          "block": 1,
+          "end": 23.399
+        },
+        {
+          "id": "06-08",
+          "text": "那不是盗版资源。",
+          "file": "film/06-08.mp3",
+          "start": 26.959,
+          "duration": 2.088,
+          "trimStart": 0.164,
+          "trimEnd": 1.607,
+          "block": 2,
+          "end": 28.402
+        },
+        {
+          "id": "06-09",
+          "text": "那是一本教材。",
+          "file": "film/06-09.mp3",
+          "start": 28.742,
+          "duration": 1.872,
+          "trimStart": 0.177,
+          "trimEnd": 1.386,
+          "block": 2,
+          "end": 29.951
+        },
+        {
+          "id": "06-10",
+          "text": "一个中学生，下载它，打开它。",
+          "file": "film/06-10.mp3",
+          "start": 30.291,
+          "duration": 3.12,
+          "trimStart": 0.159,
+          "trimEnd": 2.613,
+          "block": 2,
+          "end": 32.745
+        },
+        {
+          "id": "06-11",
+          "text": "第一次看见——",
+          "file": "film/06-11.mp3",
+          "start": 33.085,
+          "duration": 1.464,
+          "trimStart": 0.15,
+          "trimEnd": 0.985,
+          "block": 2,
+          "end": 33.92
+        },
+        {
+          "id": "06-12",
+          "text": "原来门是这么做出来的。",
+          "file": "film/06-12.mp3",
+          "start": 34.26,
+          "duration": 2.232,
+          "trimStart": 0.173,
+          "trimEnd": 1.715,
+          "block": 2,
+          "end": 35.802
+        },
+        {
+          "id": "06-13",
+          "text": "同年，柳柳办了一个网站，叫 66RPG。",
+          "file": "film/06-13.mp3",
+          "start": 36.802,
+          "duration": 3.912,
+          "trimStart": 0.15,
+          "trimEnd": 3.444,
+          "block": 3,
+          "end": 40.096
+        },
+        {
+          "id": "06-14",
+          "text": "中国第一批用 RPG Maker 做游戏的人，都在那里。",
+          "file": "film/06-14.mp3",
+          "start": 40.436,
+          "duration": 4.392,
+          "trimStart": 0.152,
+          "trimEnd": 3.881,
+          "block": 3,
+          "end": 44.165
+        },
+        {
+          "id": "06-15",
+          "text": "在中国，RPG Maker 从来不是开发工具。",
+          "file": "film/06-15.mp3",
+          "start": 44.505,
+          "duration": 4.008,
+          "trimStart": 0.136,
+          "trimEnd": 3.523,
+          "block": 3,
+          "end": 47.892
+        },
+        {
+          "id": "06-16",
+          "text": "它是表达工具。",
+          "file": "film/06-16.mp3",
+          "start": 48.232,
+          "duration": 1.8,
+          "trimStart": 0.173,
+          "trimEnd": 1.311,
+          "block": 3,
+          "end": 49.37
+        }
+      ],
+      "blocks": [
+        {
+          "index": 0,
+          "start": 0.0,
+          "end": 16.409,
+          "lineIds": [
+            "06-01",
+            "06-02",
+            "06-03",
+            "06-04",
+            "06-05"
+          ]
+        },
+        {
+          "index": 1,
+          "start": 16.409,
+          "end": 26.409,
+          "lineIds": [
+            "06-06",
+            "06-07"
+          ]
+        },
+        {
+          "index": 2,
+          "start": 26.409,
+          "end": 36.252,
+          "lineIds": [
+            "06-08",
+            "06-09",
+            "06-10",
+            "06-11",
+            "06-12"
+          ]
+        },
+        {
+          "index": 3,
+          "start": 36.252,
+          "end": 49.82,
+          "lineIds": [
+            "06-13",
+            "06-14",
+            "06-15",
+            "06-16"
+          ]
+        }
+      ],
+      "cues": [
+        {
+          "lineId": "06-01",
+          "text": "2005 年",
+          "start": 0.55,
+          "end": 1.5
+        },
+        {
+          "lineId": "06-01",
+          "text": "中国",
+          "start": 1.47,
+          "end": 2.085
+        },
+        {
+          "lineId": "06-02",
+          "text": "一个玩家",
+          "start": 2.425,
+          "end": 3.261
+        },
+        {
+          "lineId": "06-02",
+          "text": "做了一个游戏",
+          "start": 3.193,
+          "end": 4.299
+        },
+        {
+          "lineId": "06-02",
+          "text": "叫《黑暗圣剑传说》",
+          "start": 4.281,
+          "end": 6.001
+        },
+        {
+          "lineId": "06-03",
+          "text": "他叫柳柳",
+          "start": 6.341,
+          "end": 7.209
+        },
+        {
+          "lineId": "06-04",
+          "text": "这个游戏有十个小时的剧情",
+          "start": 8.209,
+          "end": 10.428
+        },
+        {
+          "lineId": "06-05",
+          "text": "它把 RPG Maker XP 的底层",
+          "start": 10.768,
+          "end": 13.149
+        },
+        {
+          "lineId": "06-05",
+          "text": "全部改了一遍",
+          "start": 13.069,
+          "end": 14.169
+        },
+        {
+          "lineId": "06-06",
+          "text": "但它最厉害的地方",
+          "start": 16.959,
+          "end": 18.502
+        },
+        {
+          "lineId": "06-06",
+          "text": "不是它做得多好",
+          "start": 18.434,
+          "end": 19.77
+        },
+        {
+          "lineId": "06-07",
+          "text": "是它在第二年",
+          "start": 20.11,
+          "end": 21.317
+        },
+        {
+          "lineId": "06-07",
+          "text": "把整个工程文件",
+          "start": 21.275,
+          "end": 22.706
+        },
+        {
+          "lineId": "06-07",
+          "text": "公开了",
+          "start": 22.687,
+          "end": 23.399
+        },
+        {
+          "lineId": "06-08",
+          "text": "那不是盗版资源",
+          "start": 26.959,
+          "end": 28.402
+        },
+        {
+          "lineId": "06-09",
+          "text": "那是一本教材",
+          "start": 28.742,
+          "end": 29.951
+        },
+        {
+          "lineId": "06-10",
+          "text": "一个中学生",
+          "start": 30.291,
+          "end": 31.224
+        },
+        {
+          "lineId": "06-10",
+          "text": "下载它",
+          "start": 31.219,
+          "end": 32.049
+        },
+        {
+          "lineId": "06-10",
+          "text": "打开它",
+          "start": 32.032,
+          "end": 32.745
+        },
+        {
+          "lineId": "06-11",
+          "text": "第一次看见",
+          "start": 33.085,
+          "end": 33.92
+        },
+        {
+          "lineId": "06-12",
+          "text": "原来门是这么做出来的",
+          "start": 34.26,
+          "end": 35.802
+        },
+        {
+          "lineId": "06-13",
+          "text": "同年",
+          "start": 36.802,
+          "end": 37.457
+        },
+        {
+          "lineId": "06-13",
+          "text": "柳柳办了一个网站",
+          "start": 37.402,
+          "end": 38.757
+        },
+        {
+          "lineId": "06-13",
+          "text": "叫 66RPG",
+          "start": 38.739,
+          "end": 40.096
+        },
+        {
+          "lineId": "06-14",
+          "text": "中国第一批用 RPG Maker 做游戏的人",
+          "start": 40.436,
+          "end": 43.476
+        },
+        {
+          "lineId": "06-14",
+          "text": "都在那里",
+          "start": 43.447,
+          "end": 44.165
+        },
+        {
+          "lineId": "06-15",
+          "text": "在中国",
+          "start": 44.505,
+          "end": 45.349
+        },
+        {
+          "lineId": "06-15",
+          "text": "RPG Maker 从来不是开发工具",
+          "start": 45.307,
+          "end": 47.892
+        },
+        {
+          "lineId": "06-16",
+          "text": "它是表达工具",
+          "start": 48.232,
+          "end": 49.37
+        }
+      ]
+    },
+    {
+      "id": "07",
+      "title": "转手 · 三个人走散了，公司换了四次主人",
+      "start": 760.051,
+      "duration": 121.937,
+      "frames": 3658,
+      "lines": [
+        {
+          "id": "07-01",
+          "text": "在看这家公司怎么散架之前，先看一张 2001 年的网页。",
+          "file": "film/07-01.mp3",
+          "start": 0.55,
+          "duration": 4.896,
+          "trimStart": 0.161,
+          "trimEnd": 4.392,
+          "block": 0,
+          "end": 4.781
+        },
+        {
+          "id": "07-02",
+          "text": "那是 enterbrain 的首页。",
+          "file": "film/07-02.mp3",
+          "start": 5.121,
+          "duration": 2.208,
+          "trimStart": 0.148,
+          "trimEnd": 1.719,
+          "block": 0,
+          "end": 6.692
+        },
+        {
+          "id": "07-03",
+          "text": "排在最前面的，是两个游戏制作软件：《2D 格斗ツクール》和《恋爱模拟ツクール》。",
+          "file": "film/07-03.mp3",
+          "start": 7.032,
+          "duration": 5.568,
+          "trimStart": 0.173,
+          "trimEnd": 5.077,
+          "block": 0,
+          "end": 11.936
+        },
+        {
+          "id": "07-04",
+          "text": "再往下，是《周刊 Fami 通》，350 日元。",
+          "file": "film/07-04.mp3",
+          "start": 12.276,
+          "duration": 3.888,
+          "trimStart": 0.146,
+          "trimEnd": 3.412,
+          "block": 0,
+          "end": 15.542
+        },
+        {
+          "id": "07-05",
+          "text": "《新世纪福音战士》绫波丽的养成攻略本。",
+          "file": "film/07-05.mp3",
+          "start": 15.882,
+          "duration": 3.744,
+          "trimStart": 0.146,
+          "trimEnd": 3.222,
+          "block": 0,
+          "end": 18.958
+        },
+        {
+          "id": "07-06",
+          "text": "Fami 通文库。一个叫\"えんため大赏\"的选秀比赛。",
+          "file": "film/07-06.mp3",
+          "start": 19.298,
+          "duration": 4.176,
+          "trimStart": 0.179,
+          "trimEnd": 3.667,
+          "block": 0,
+          "end": 22.786
+        },
+        {
+          "id": "07-07",
+          "text": "还有六款 3800 日元的廉价版，叫\"ツクールVALUE\"。",
+          "file": "film/07-07.mp3",
+          "start": 23.126,
+          "duration": 4.056,
+          "trimStart": 0.143,
+          "trimEnd": 3.537,
+          "block": 0,
+          "end": 26.52
+        },
+        {
+          "id": "07-08",
+          "text": "RPG Maker 只是货架上的一格。",
+          "file": "film/07-08.mp3",
+          "start": 26.86,
+          "duration": 3.12,
+          "trimStart": 0.142,
+          "trimEnd": 2.611,
+          "block": 0,
+          "end": 29.329
+        },
+        {
+          "id": "07-09",
+          "text": "这家公司，从来就不是\"做游戏工具的\"。",
+          "file": "film/07-09.mp3",
+          "start": 29.669,
+          "duration": 3.504,
+          "trimStart": 0.178,
+          "trimEnd": 2.982,
+          "block": 0,
+          "end": 32.473
+        },
+        {
+          "id": "07-10",
+          "text": "它是一个媒体集团。",
+          "file": "film/07-10.mp3",
+          "start": 32.813,
+          "duration": 2.088,
+          "trimStart": 0.163,
+          "trimEnd": 1.597,
+          "block": 0,
+          "end": 34.247
+        },
+        {
+          "id": "07-11",
+          "text": "而一个媒体集团，是很容易被卖掉的。",
+          "file": "film/07-11.mp3",
+          "start": 35.247,
+          "duration": 3.552,
+          "trimStart": 0.274,
+          "trimEnd": 3.048,
+          "block": 1,
+          "end": 38.021
+        },
+        {
+          "id": "07-12",
+          "text": "1991 年，两个创始人走了。",
+          "file": "film/07-12.mp3",
+          "start": 38.361,
+          "duration": 3.048,
+          "trimStart": 0.203,
+          "trimEnd": 2.549,
+          "block": 1,
+          "end": 40.707
+        },
+        {
+          "id": "07-13",
+          "text": "1992 年，负债，股价崩盘。",
+          "file": "film/07-13.mp3",
+          "start": 41.047,
+          "duration": 3.192,
+          "trimStart": 0.172,
+          "trimEnd": 2.71,
+          "block": 1,
+          "end": 43.585
+        },
+        {
+          "id": "07-14",
+          "text": "1997 年，卖给世嘉的母公司 CSK。",
+          "file": "film/07-14.mp3",
+          "start": 43.925,
+          "duration": 3.96,
+          "trimStart": 0.152,
+          "trimEnd": 3.488,
+          "block": 1,
+          "end": 47.261
+        },
+        {
+          "id": "07-15",
+          "text": "2000 年，拆出 enterbrain。",
+          "file": "film/07-15.mp3",
+          "start": 47.601,
+          "duration": 2.592,
+          "trimStart": 0.154,
+          "trimEnd": 2.114,
+          "block": 1,
+          "end": 49.561
+        },
+        {
+          "id": "07-16",
+          "text": "2002 年，ASCII 改名 MediaLeaves。",
+          "file": "film/07-16.mp3",
+          "start": 49.901,
+          "duration": 3.096,
+          "trimStart": 0.142,
+          "trimEnd": 2.633,
+          "block": 1,
+          "end": 52.392
+        },
+        {
+          "id": "07-17",
+          "text": "2004 年，进角川。",
+          "file": "film/07-17.mp3",
+          "start": 52.732,
+          "duration": 2.4,
+          "trimStart": 0.206,
+          "trimEnd": 1.9,
+          "block": 1,
+          "end": 54.426
+        },
+        {
+          "id": "07-18",
+          "text": "2013 年 10 月 1 日，enterbrain 并入 KADOKAWA。",
+          "file": "film/07-18.mp3",
+          "start": 54.766,
+          "duration": 4.224,
+          "trimStart": 0.144,
+          "trimEnd": 3.753,
+          "block": 1,
+          "end": 58.375
+        },
+        {
+          "id": "07-19",
+          "text": "法人注销。",
+          "file": "film/07-19.mp3",
+          "start": 58.715,
+          "duration": 1.488,
+          "trimStart": 0.2,
+          "trimEnd": 1.016,
+          "block": 1,
+          "end": 59.531
+        },
+        {
+          "id": "07-20",
+          "text": "1977 年那家公司，没有了。",
+          "file": "film/07-20.mp3",
+          "start": 59.871,
+          "duration": 2.832,
+          "trimStart": 0.16,
+          "trimEnd": 2.351,
+          "block": 1,
+          "end": 62.062
+        },
+        {
+          "id": "07-21",
+          "text": "但是软件还在。",
+          "file": "film/07-21.mp3",
+          "start": 62.402,
+          "duration": 2.016,
+          "trimStart": 0.179,
+          "trimEnd": 1.513,
+          "block": 1,
+          "end": 63.736
+        },
+        {
+          "id": "07-22",
+          "text": "2020 年 9 月，角川成立了一家新公司，叫 Gotcha Gotcha Games。",
+          "file": "film/07-22.mp3",
+          "start": 64.736,
+          "duration": 5.424,
+          "trimStart": 0.146,
+          "trimEnd": 4.956,
+          "block": 2,
+          "end": 69.546
+        },
+        {
+          "id": "07-23",
+          "text": "它接手了 RPG Maker。",
+          "file": "film/07-23.mp3",
+          "start": 70.546,
+          "duration": 2.496,
+          "trimStart": 0.14,
+          "trimEnd": 1.984,
+          "block": 2,
+          "end": 72.39
+        },
+        {
+          "id": "07-24",
+          "text": "2023 年，他们做了一个决定。",
+          "file": "film/07-24.mp3",
+          "start": 72.73,
+          "duration": 3.048,
+          "trimStart": 0.305,
+          "trimEnd": 2.572,
+          "block": 2,
+          "end": 74.997
+        },
+        {
+          "id": "07-25",
+          "text": "把 RPG Maker 搬进 Unity。",
+          "file": "film/07-25.mp3",
+          "start": 75.337,
+          "duration": 2.832,
+          "trimStart": 0.15,
+          "trimEnd": 2.337,
+          "block": 2,
+          "end": 77.524
+        },
+        {
+          "id": "07-26",
+          "text": "那个产品叫 RPG Maker Unite。",
+          "file": "film/07-26.mp3",
+          "start": 77.864,
+          "duration": 3.192,
+          "trimStart": 0.151,
+          "trimEnd": 2.719,
+          "block": 2,
+          "end": 80.432
+        },
+        {
+          "id": "07-27",
+          "text": "99.99 美元。",
+          "file": "film/07-27.mp3",
+          "start": 80.772,
+          "duration": 2.208,
+          "trimStart": 0.162,
+          "trimEnd": 1.732,
+          "block": 2,
+          "end": 82.342
+        },
+        {
+          "id": "07-28",
+          "text": "上架之后，玩家骂它又卡又难用。到了年底，Steam 版还被 Valve 拒了。",
+          "file": "film/07-28.mp3",
+          "start": 82.682,
+          "duration": 6.768,
+          "trimStart": 0.16,
+          "trimEnd": 6.237,
+          "block": 2,
+          "end": 88.759
+        },
+        {
+          "id": "07-29",
+          "text": "它想长大。",
+          "file": "film/07-29.mp3",
+          "start": 89.099,
+          "duration": 1.512,
+          "trimStart": 0.166,
+          "trimEnd": 1.0,
+          "block": 2,
+          "end": 89.933
+        },
+        {
+          "id": "07-30",
+          "text": "但它长大的方式，是把自己拆了。",
+          "file": "film/07-30.mp3",
+          "start": 90.273,
+          "duration": 3.168,
+          "trimStart": 0.175,
+          "trimEnd": 2.666,
+          "block": 2,
+          "end": 92.764
+        },
+        {
+          "id": "07-31",
+          "text": "不过，在另一个战场上，它一直没停。",
+          "file": "film/07-31.mp3",
+          "start": 93.764,
+          "duration": 3.552,
+          "trimStart": 0.16,
+          "trimEnd": 3.074,
+          "block": 2,
+          "end": 96.678
+        },
+        {
+          "id": "07-32",
+          "text": "2010 年，任天堂 DS。2016 年，3DS 上的 RPG Maker Fes。",
+          "file": "film/07-32.mp3",
+          "start": 97.018,
+          "duration": 7.104,
+          "trimStart": 0.146,
+          "trimEnd": 6.631,
+          "block": 2,
+          "end": 103.503
+        },
+        {
+          "id": "07-33",
+          "text": "Fes 有一个新东西：你把游戏做完了，可以上传，让别人下载来玩。",
+          "file": "film/07-33.mp3",
+          "start": 103.843,
+          "duration": 5.688,
+          "trimStart": 0.145,
+          "trimEnd": 5.219,
+          "block": 2,
+          "end": 108.917
+        },
+        {
+          "id": "07-34",
+          "text": "2024 年，Switch。2025 年，PS4 和 PS5。",
+          "file": "film/07-34.mp3",
+          "start": 109.257,
+          "duration": 5.616,
+          "trimStart": 0.157,
+          "trimEnd": 5.141,
+          "block": 2,
+          "end": 114.241
+        },
+        {
+          "id": "07-35",
+          "text": "新作叫 RPG Maker With。",
+          "file": "film/07-35.mp3",
+          "start": 114.581,
+          "duration": 2.736,
+          "trimStart": 0.138,
+          "trimEnd": 2.239,
+          "block": 2,
+          "end": 116.682
+        },
+        {
+          "id": "07-36",
+          "text": "WITH，是\"和\"的意思。",
+          "file": "film/07-36.mp3",
+          "start": 117.022,
+          "duration": 2.088,
+          "trimStart": 0.148,
+          "trimEnd": 1.611,
+          "block": 2,
+          "end": 118.485
+        },
+        {
+          "id": "07-37",
+          "text": "因为这一次，它想让你和别人一起做。",
+          "file": "film/07-37.mp3",
+          "start": 118.825,
+          "duration": 3.336,
+          "trimStart": 0.173,
+          "trimEnd": 2.835,
+          "block": 2,
+          "end": 121.487
+        }
+      ],
+      "blocks": [
+        {
+          "index": 0,
+          "start": 0.0,
+          "end": 34.697,
+          "lineIds": [
+            "07-01",
+            "07-02",
+            "07-03",
+            "07-04",
+            "07-05",
+            "07-06",
+            "07-07",
+            "07-08",
+            "07-09",
+            "07-10"
+          ]
+        },
+        {
+          "index": 1,
+          "start": 34.697,
+          "end": 64.186,
+          "lineIds": [
+            "07-11",
+            "07-12",
+            "07-13",
+            "07-14",
+            "07-15",
+            "07-16",
+            "07-17",
+            "07-18",
+            "07-19",
+            "07-20",
+            "07-21"
+          ]
+        },
+        {
+          "index": 2,
+          "start": 64.186,
+          "end": 121.937,
+          "lineIds": [
+            "07-22",
+            "07-23",
+            "07-24",
+            "07-25",
+            "07-26",
+            "07-27",
+            "07-28",
+            "07-29",
+            "07-30",
+            "07-31",
+            "07-32",
+            "07-33",
+            "07-34",
+            "07-35",
+            "07-36",
+            "07-37"
+          ]
+        }
+      ],
+      "cues": [
+        {
+          "lineId": "07-01",
+          "text": "在看这家公司怎么散架之前",
+          "start": 0.55,
+          "end": 2.781
+        },
+        {
+          "lineId": "07-01",
+          "text": "先看一张 2001 年的网页",
+          "start": 2.739,
+          "end": 4.781
+        },
+        {
+          "lineId": "07-02",
+          "text": "那是 enterbrain 的首页",
+          "start": 5.121,
+          "end": 6.692
+        },
+        {
+          "lineId": "07-03",
+          "text": "排在最前面的",
+          "start": 7.032,
+          "end": 8.24
+        },
+        {
+          "lineId": "07-03",
+          "text": "是两个游戏制作软件：《2D 格斗ツクール",
+          "start": 8.259,
+          "end": 11.936
+        },
+        {
+          "lineId": "07-03",
+          "text": "》和《恋爱模拟ツクール》",
+          "start": 11.834,
+          "end": 11.954
+        },
+        {
+          "lineId": "07-04",
+          "text": "再往下",
+          "start": 12.276,
+          "end": 13.085
+        },
+        {
+          "lineId": "07-04",
+          "text": "是《周刊 Fami 通》",
+          "start": 13.005,
+          "end": 15.542
+        },
+        {
+          "lineId": "07-04",
+          "text": "350 日元",
+          "start": 14.38,
+          "end": 15.542
+        },
+        {
+          "lineId": "07-05",
+          "text": "《新世纪福音战士》绫波丽的养成攻略本",
+          "start": 15.882,
+          "end": 18.958
+        },
+        {
+          "lineId": "07-06",
+          "text": "Fami 通文库",
+          "start": 19.298,
+          "end": 20.436
+        },
+        {
+          "lineId": "07-06",
+          "text": "一个叫\"えんため大赏\"的选秀比赛",
+          "start": 20.831,
+          "end": 22.786
+        },
+        {
+          "lineId": "07-07",
+          "text": "还有六款 3800 日元的廉价版",
+          "start": 23.126,
+          "end": 25.701
+        },
+        {
+          "lineId": "07-07",
+          "text": "叫\"ツクールVALUE\"",
+          "start": 25.683,
+          "end": 26.52
+        },
+        {
+          "lineId": "07-08",
+          "text": "RPG Maker 只是货架上的一格",
+          "start": 26.86,
+          "end": 29.329
+        },
+        {
+          "lineId": "07-09",
+          "text": "这家公司",
+          "start": 29.669,
+          "end": 30.546
+        },
+        {
+          "lineId": "07-09",
+          "text": "从来就不是\"做游戏工具的\"",
+          "start": 30.454,
+          "end": 32.473
+        },
+        {
+          "lineId": "07-10",
+          "text": "它是一个媒体集团",
+          "start": 32.813,
+          "end": 34.247
+        },
+        {
+          "lineId": "07-11",
+          "text": "而一个媒体集团",
+          "start": 35.247,
+          "end": 36.566
+        },
+        {
+          "lineId": "07-11",
+          "text": "是很容易被卖掉的",
+          "start": 36.485,
+          "end": 38.021
+        },
+        {
+          "lineId": "07-12",
+          "text": "1991 年",
+          "start": 38.361,
+          "end": 39.475
+        },
+        {
+          "lineId": "07-12",
+          "text": "两个创始人走了",
+          "start": 39.446,
+          "end": 40.707
+        },
+        {
+          "lineId": "07-13",
+          "text": "1992 年",
+          "start": 41.047,
+          "end": 42.055
+        },
+        {
+          "lineId": "07-13",
+          "text": "负债",
+          "start": 42.012,
+          "end": 42.667
+        },
+        {
+          "lineId": "07-13",
+          "text": "股价崩盘",
+          "start": 42.6,
+          "end": 43.585
+        },
+        {
+          "lineId": "07-14",
+          "text": "1997 年",
+          "start": 43.925,
+          "end": 44.978
+        },
+        {
+          "lineId": "07-14",
+          "text": "卖给世嘉的母公司 CSK",
+          "start": 44.898,
+          "end": 47.261
+        },
+        {
+          "lineId": "07-15",
+          "text": "2000 年",
+          "start": 47.601,
+          "end": 48.426
+        },
+        {
+          "lineId": "07-15",
+          "text": "拆出 enterbrain",
+          "start": 48.359,
+          "end": 49.561
+        },
+        {
+          "lineId": "07-16",
+          "text": "2002 年",
+          "start": 49.901,
+          "end": 50.839
+        },
+        {
+          "lineId": "07-16",
+          "text": "ASCII 改名 MediaLeaves",
+          "start": 50.809,
+          "end": 52.392
+        },
+        {
+          "lineId": "07-17",
+          "text": "2004 年",
+          "start": 52.732,
+          "end": 53.694
+        },
+        {
+          "lineId": "07-17",
+          "text": "进角川",
+          "start": 53.639,
+          "end": 54.426
+        },
+        {
+          "lineId": "07-18",
+          "text": "2013 年 10 月 1 日",
+          "start": 54.766,
+          "end": 56.315
+        },
+        {
+          "lineId": "07-18",
+          "text": "enterbrain 并入 KADOKAWA",
+          "start": 56.322,
+          "end": 58.375
+        },
+        {
+          "lineId": "07-19",
+          "text": "法人注销",
+          "start": 58.715,
+          "end": 59.531
+        },
+        {
+          "lineId": "07-20",
+          "text": "1977 年那家公司",
+          "start": 59.871,
+          "end": 61.479
+        },
+        {
+          "lineId": "07-20",
+          "text": "没有了",
+          "start": 61.411,
+          "end": 62.062
+        },
+        {
+          "lineId": "07-21",
+          "text": "但是软件还在",
+          "start": 62.402,
+          "end": 63.736
+        },
+        {
+          "lineId": "07-22",
+          "text": "2020 年 9 月",
+          "start": 64.736,
+          "end": 65.92
+        },
+        {
+          "lineId": "07-22",
+          "text": "角川成立了一家新公司",
+          "start": 65.89,
+          "end": 67.846
+        },
+        {
+          "lineId": "07-22",
+          "text": "叫 Gotcha Gotcha Games",
+          "start": 67.827,
+          "end": 69.546
+        },
+        {
+          "lineId": "07-23",
+          "text": "它接手了 RPG Maker",
+          "start": 70.546,
+          "end": 72.39
+        },
+        {
+          "lineId": "07-24",
+          "text": "2023 年",
+          "start": 72.73,
+          "end": 73.73
+        },
+        {
+          "lineId": "07-24",
+          "text": "他们做了一个决定",
+          "start": 73.7,
+          "end": 74.997
+        },
+        {
+          "lineId": "07-25",
+          "text": "把 RPG Maker 搬进 Unity",
+          "start": 75.337,
+          "end": 77.524
+        },
+        {
+          "lineId": "07-26",
+          "text": "那个产品叫 RPG Maker Unite",
+          "start": 77.864,
+          "end": 80.432
+        },
+        {
+          "lineId": "07-27",
+          "text": "99.99 美元",
+          "start": 80.772,
+          "end": 82.342
+        },
+        {
+          "lineId": "07-28",
+          "text": "上架第一天",
+          "start": 82.682,
+          "end": 83.792
+        },
+        {
+          "lineId": "07-28",
+          "text": "零个五星评价",
+          "start": 83.749,
+          "end": 84.958
+        },
+        {
+          "lineId": "07-29",
+          "text": "它想长大",
+          "start": 89.099,
+          "end": 89.933
+        },
+        {
+          "lineId": "07-30",
+          "text": "但它长大的方式",
+          "start": 90.273,
+          "end": 91.628
+        },
+        {
+          "lineId": "07-30",
+          "text": "是把自己拆了",
+          "start": 91.586,
+          "end": 92.764
+        },
+        {
+          "lineId": "07-31",
+          "text": "不过",
+          "start": 93.764,
+          "end": 94.259
+        },
+        {
+          "lineId": "07-31",
+          "text": "在另一个战场上",
+          "start": 94.217,
+          "end": 95.634
+        },
+        {
+          "lineId": "07-31",
+          "text": "它一直没停",
+          "start": 95.554,
+          "end": 96.678
+        },
+        {
+          "lineId": "07-32",
+          "text": "2010 年",
+          "start": 97.018,
+          "end": 98.014
+        },
+        {
+          "lineId": "07-32",
+          "text": "任天堂 DS",
+          "start": 97.959,
+          "end": 99.415
+        },
+        {
+          "lineId": "07-32",
+          "text": "2016 年",
+          "start": 99.797,
+          "end": 100.827
+        },
+        {
+          "lineId": "07-32",
+          "text": "3DS 上的 RPG Maker Fes",
+          "start": 100.81,
+          "end": 103.503
+        },
+        {
+          "lineId": "07-33",
+          "text": "Fes 有一个新东西：你把游戏做完了",
+          "start": 103.843,
+          "end": 107.165
+        },
+        {
+          "lineId": "07-33",
+          "text": "可以上传",
+          "start": 106.785,
+          "end": 108.041
+        },
+        {
+          "lineId": "07-33",
+          "text": "让别人下载来玩",
+          "start": 107.873,
+          "end": 108.917
+        },
+        {
+          "lineId": "07-34",
+          "text": "2024 年",
+          "start": 109.257,
+          "end": 110.267
+        },
+        {
+          "lineId": "07-34",
+          "text": "Switch",
+          "start": 110.2,
+          "end": 110.98
+        },
+        {
+          "lineId": "07-34",
+          "text": "2025 年",
+          "start": 111.35,
+          "end": 112.392
+        },
+        {
+          "lineId": "07-34",
+          "text": "PS4 和 PS5",
+          "start": 112.35,
+          "end": 114.241
+        },
+        {
+          "lineId": "07-35",
+          "text": "新作叫 RPG Maker With",
+          "start": 114.581,
+          "end": 116.682
+        },
+        {
+          "lineId": "07-36",
+          "text": "WITH",
+          "start": 117.022,
+          "end": 117.542
+        },
+        {
+          "lineId": "07-36",
+          "text": "是\"和\"的意思",
+          "start": 117.511,
+          "end": 118.485
+        },
+        {
+          "lineId": "07-37",
+          "text": "因为这一次",
+          "start": 118.825,
+          "end": 119.681
+        },
+        {
+          "lineId": "07-37",
+          "text": "它想让你和别人一起做",
+          "start": 119.652,
+          "end": 121.487
+        }
+      ]
+    },
+    {
+      "id": "08",
+      "title": "未来 · 一句话",
+      "start": 881.988,
+      "duration": 34.074,
+      "frames": 1022,
+      "lines": [
+        {
+          "id": "08-01",
+          "text": "现在，你可以对一个 AI 说：",
+          "file": "film/08-01.mp3",
+          "start": 0.55,
+          "duration": 2.568,
+          "trimStart": 0.153,
+          "trimEnd": 2.236,
+          "block": 0,
+          "end": 2.633
+        },
+        {
+          "id": "08-02",
+          "text": "\"做一个 RPG。主角是一个女孩。她住在一间不能出门的房间里，只能睡觉。\"",
+          "file": "film/08-02.mp3",
+          "start": 2.973,
+          "duration": 7.512,
+          "trimStart": 0.147,
+          "trimEnd": 7.002,
+          "block": 0,
+          "end": 9.828
+        },
+        {
+          "id": "08-03",
+          "text": "几分钟后，它给你一个能玩的东西。",
+          "file": "film/08-03.mp3",
+          "start": 10.828,
+          "duration": 3.048,
+          "trimStart": 0.166,
+          "trimEnd": 2.574,
+          "block": 1,
+          "end": 13.236
+        },
+        {
+          "id": "08-04",
+          "text": "你也没有写一行代码。",
+          "file": "film/08-04.mp3",
+          "start": 13.576,
+          "duration": 2.136,
+          "trimStart": 0.148,
+          "trimEnd": 1.61,
+          "block": 1,
+          "end": 15.038
+        },
+        {
+          "id": "08-05",
+          "text": "这个承诺，1992 年就有人许下。",
+          "file": "film/08-05.mp3",
+          "start": 16.628,
+          "duration": 3.432,
+          "trimStart": 0.177,
+          "trimEnd": 2.936,
+          "block": 2,
+          "end": 19.387
+        },
+        {
+          "id": "08-06",
+          "text": "不用编程，也能做游戏。",
+          "file": "film/08-06.mp3",
+          "start": 19.727,
+          "duration": 2.544,
+          "trimStart": 0.182,
+          "trimEnd": 2.057,
+          "block": 2,
+          "end": 21.602
+        },
+        {
+          "id": "08-07",
+          "text": "三十四年过去，工具从软盘，变成了对话框。",
+          "file": "film/08-07.mp3",
+          "start": 22.602,
+          "duration": 4.296,
+          "trimStart": 0.15,
+          "trimEnd": 3.737,
+          "block": 3,
+          "end": 26.189
+        },
+        {
+          "id": "08-08",
+          "text": "变的只是工具。",
+          "file": "film/08-08.mp3",
+          "start": 26.529,
+          "duration": 1.848,
+          "trimStart": 0.167,
+          "trimEnd": 1.382,
+          "block": 3,
+          "end": 27.744
+        },
+        {
+          "id": "08-09",
+          "text": "AI 可以生成一万个世界。",
+          "file": "film/08-09.mp3",
+          "start": 28.084,
+          "duration": 2.592,
+          "trimStart": 0.148,
+          "trimEnd": 2.097,
+          "block": 3,
+          "end": 30.033
+        },
+        {
+          "id": "08-10",
+          "text": "但总有人，会为其中一个，熬到凌晨三点。",
+          "file": "film/08-10.mp3",
+          "start": 30.373,
+          "duration": 3.984,
+          "trimStart": 0.187,
+          "trimEnd": 3.438,
+          "block": 3,
+          "end": 33.624
+        }
+      ],
+      "blocks": [
+        {
+          "index": 0,
+          "start": 0.0,
+          "end": 10.278,
+          "lineIds": [
+            "08-01",
+            "08-02"
+          ]
+        },
+        {
+          "index": 1,
+          "start": 10.278,
+          "end": 16.078,
+          "lineIds": [
+            "08-03",
+            "08-04"
+          ]
+        },
+        {
+          "index": 2,
+          "start": 16.078,
+          "end": 22.052,
+          "lineIds": [
+            "08-05",
+            "08-06"
+          ]
+        },
+        {
+          "index": 3,
+          "start": 22.052,
+          "end": 34.074,
+          "lineIds": [
+            "08-07",
+            "08-08",
+            "08-09",
+            "08-10"
+          ]
+        }
+      ],
+      "cues": [
+        {
+          "lineId": "08-01",
+          "text": "现在",
+          "start": 0.55,
+          "end": 1.152
+        },
+        {
+          "lineId": "08-01",
+          "text": "你可以对一个 AI 说：",
+          "start": 1.085,
+          "end": 2.633
+        },
+        {
+          "lineId": "08-02",
+          "text": "\"做一个 RPG",
+          "start": 2.973,
+          "end": 5.468
+        },
+        {
+          "lineId": "08-02",
+          "text": "主角是一个女孩",
+          "start": 4.801,
+          "end": 7.043
+        },
+        {
+          "lineId": "08-02",
+          "text": "她住在一间不能出门的房间里",
+          "start": 6.863,
+          "end": 9.469
+        },
+        {
+          "lineId": "08-02",
+          "text": "只能睡觉 \"",
+          "start": 8.914,
+          "end": 9.828
+        },
+        {
+          "lineId": "08-03",
+          "text": "几分钟后",
+          "start": 10.828,
+          "end": 11.667
+        },
+        {
+          "lineId": "08-03",
+          "text": "它给你一个能玩的东西",
+          "start": 11.6,
+          "end": 13.236
+        },
+        {
+          "lineId": "08-04",
+          "text": "你也没有写一行代码",
+          "start": 13.576,
+          "end": 15.038
+        },
+        {
+          "lineId": "08-05",
+          "text": "这个承诺",
+          "start": 16.628,
+          "end": 17.381
+        },
+        {
+          "lineId": "08-05",
+          "text": "1992 年就有人许下",
+          "start": 17.314,
+          "end": 19.387
+        },
+        {
+          "lineId": "08-06",
+          "text": "不用编程",
+          "start": 19.727,
+          "end": 20.688
+        },
+        {
+          "lineId": "08-06",
+          "text": "也能做游戏",
+          "start": 20.62,
+          "end": 21.602
+        },
+        {
+          "lineId": "08-07",
+          "text": "三十四年过去",
+          "start": 22.602,
+          "end": 23.783
+        },
+        {
+          "lineId": "08-07",
+          "text": "工具从软盘",
+          "start": 23.714,
+          "end": 25.12
+        },
+        {
+          "lineId": "08-07",
+          "text": "变成了对话框",
+          "start": 25.077,
+          "end": 26.189
+        },
+        {
+          "lineId": "08-08",
+          "text": "变的只是工具",
+          "start": 26.529,
+          "end": 27.744
+        },
+        {
+          "lineId": "08-09",
+          "text": "AI 可以生成一万个世界",
+          "start": 28.084,
+          "end": 30.033
+        },
+        {
+          "lineId": "08-10",
+          "text": "但总有人",
+          "start": 30.373,
+          "end": 31.303
+        },
+        {
+          "lineId": "08-10",
+          "text": "会为其中一个",
+          "start": 31.211,
+          "end": 32.392
+        },
+        {
+          "lineId": "08-10",
+          "text": "熬到凌晨三点",
+          "start": 32.336,
+          "end": 33.624
+        }
+      ]
+    },
+    {
+      "id": "09",
+      "title": "尾声 · 小鲸鱼",
+      "start": 916.062,
+      "duration": 36.055,
+      "frames": 1082,
+      "lines": [
+        {
+          "id": "09-01",
+          "text": "回到我的那个游戏。",
+          "file": "film/09-01.mp3",
+          "start": 0.55,
+          "duration": 1.92,
+          "trimStart": 0.222,
+          "trimEnd": 1.422,
+          "block": 0,
+          "end": 1.75
+        },
+        {
+          "id": "09-02",
+          "text": "小鲸鱼还在那里。",
+          "file": "film/09-02.mp3",
+          "start": 2.09,
+          "duration": 2.04,
+          "trimStart": 0.144,
+          "trimEnd": 1.527,
+          "block": 0,
+          "end": 3.473
+        },
+        {
+          "id": "09-03",
+          "text": "它一拳打了我 999 点伤害。",
+          "file": "film/09-03.mp3",
+          "start": 3.813,
+          "duration": 3.12,
+          "trimStart": 0.162,
+          "trimEnd": 2.618,
+          "block": 0,
+          "end": 6.269
+        },
+        {
+          "id": "09-04",
+          "text": "我到现在也没打赢它。",
+          "file": "film/09-04.mp3",
+          "start": 6.609,
+          "duration": 2.208,
+          "trimStart": 0.191,
+          "trimEnd": 1.684,
+          "block": 0,
+          "end": 8.102
+        },
+        {
+          "id": "09-05",
+          "text": "1977 年，一个 21 岁的年轻人，从父亲那里拿到 300 万日元。",
+          "file": "film/09-05.mp3",
+          "start": 9.25,
+          "duration": 5.736,
+          "trimStart": 0.184,
+          "trimEnd": 5.261,
+          "block": 1,
+          "end": 14.327
+        },
+        {
+          "id": "09-06",
+          "text": "他想做的是日本的电脑标准。",
+          "file": "film/09-06.mp3",
+          "start": 14.667,
+          "duration": 3.024,
+          "trimStart": 0.162,
+          "trimEnd": 2.526,
+          "block": 1,
+          "end": 17.031
+        },
+        {
+          "id": "09-07",
+          "text": "他失败了。",
+          "file": "film/09-07.mp3",
+          "start": 17.371,
+          "duration": 1.464,
+          "trimStart": 0.176,
+          "trimEnd": 0.923,
+          "block": 1,
+          "end": 18.118
+        },
+        {
+          "id": "09-08",
+          "text": "公司没了，标准没了。",
+          "file": "film/09-08.mp3",
+          "start": 18.458,
+          "duration": 2.304,
+          "trimStart": 0.172,
+          "trimEnd": 1.814,
+          "block": 1,
+          "end": 20.1
+        },
+        {
+          "id": "09-09",
+          "text": "连他自己，2023 年都在走破产程序。",
+          "file": "film/09-09.mp3",
+          "start": 20.44,
+          "duration": 4.08,
+          "trimStart": 0.195,
+          "trimEnd": 3.593,
+          "block": 1,
+          "end": 23.838
+        },
+        {
+          "id": "09-10",
+          "text": "但他留下的那个东西还在。",
+          "file": "film/09-10.mp3",
+          "start": 24.838,
+          "duration": 2.688,
+          "trimStart": 0.173,
+          "trimEnd": 2.186,
+          "block": 2,
+          "end": 26.851
+        },
+        {
+          "id": "09-11",
+          "text": "它让本来没有资格做游戏的人，可以做一个自己的世界。",
+          "file": "film/09-11.mp3",
+          "start": 27.191,
+          "duration": 4.536,
+          "trimStart": 0.162,
+          "trimEnd": 4.025,
+          "block": 2,
+          "end": 31.054
+        },
+        {
+          "id": "09-12",
+          "text": "哪怕那个世界里，只有一只小鲸鱼。",
+          "file": "film/09-12.mp3",
+          "start": 31.394,
+          "duration": 3.36,
+          "trimStart": 0.207,
+          "trimEnd": 2.849,
+          "block": 2,
+          "end": 34.036
+        },
+        {
+          "id": "09-13",
+          "text": "哪怕你打不过它。",
+          "file": "film/09-13.mp3",
+          "start": 34.376,
+          "duration": 1.896,
+          "trimStart": 0.177,
+          "trimEnd": 1.406,
+          "block": 2,
+          "end": 35.605
+        }
+      ],
+      "blocks": [
+        {
+          "index": 0,
+          "start": 0.0,
+          "end": 8.7,
+          "lineIds": [
+            "09-01",
+            "09-02",
+            "09-03",
+            "09-04"
+          ]
+        },
+        {
+          "index": 1,
+          "start": 8.7,
+          "end": 24.288,
+          "lineIds": [
+            "09-05",
+            "09-06",
+            "09-07",
+            "09-08",
+            "09-09"
+          ]
+        },
+        {
+          "index": 2,
+          "start": 24.288,
+          "end": 36.055,
+          "lineIds": [
+            "09-10",
+            "09-11",
+            "09-12",
+            "09-13"
+          ]
+        }
+      ],
+      "cues": [
+        {
+          "lineId": "09-01",
+          "text": "回到我的那个游戏",
+          "start": 0.55,
+          "end": 1.75
+        },
+        {
+          "lineId": "09-02",
+          "text": "小鲸鱼还在那里",
+          "start": 2.09,
+          "end": 3.473
+        },
+        {
+          "lineId": "09-03",
+          "text": "它一拳打了我 999 点伤害",
+          "start": 3.813,
+          "end": 6.269
+        },
+        {
+          "lineId": "09-04",
+          "text": "我到现在也没打赢它",
+          "start": 6.609,
+          "end": 8.102
+        },
+        {
+          "lineId": "09-05",
+          "text": "1977 年",
+          "start": 9.25,
+          "end": 10.308
+        },
+        {
+          "lineId": "09-05",
+          "text": "一个 21 岁的年轻人",
+          "start": 10.254,
+          "end": 11.958
+        },
+        {
+          "lineId": "09-05",
+          "text": "从父亲那里拿到 300 万日元",
+          "start": 11.916,
+          "end": 14.327
+        },
+        {
+          "lineId": "09-06",
+          "text": "他想做的是日本的电脑标准",
+          "start": 14.667,
+          "end": 17.031
+        },
+        {
+          "lineId": "09-07",
+          "text": "他失败了",
+          "start": 17.371,
+          "end": 18.118
+        },
+        {
+          "lineId": "09-08",
+          "text": "公司没了",
+          "start": 18.458,
+          "end": 19.341
+        },
+        {
+          "lineId": "09-08",
+          "text": "标准没了",
+          "start": 19.298,
+          "end": 20.1
+        },
+        {
+          "lineId": "09-09",
+          "text": "连他自己",
+          "start": 20.44,
+          "end": 21.375
+        },
+        {
+          "lineId": "09-09",
+          "text": "2023 年都在走破产程序",
+          "start": 21.345,
+          "end": 23.838
+        },
+        {
+          "lineId": "09-10",
+          "text": "但他留下的那个东西还在",
+          "start": 24.838,
+          "end": 26.851
+        },
+        {
+          "lineId": "09-11",
+          "text": "它让本来没有资格做游戏的人",
+          "start": 27.191,
+          "end": 29.472
+        },
+        {
+          "lineId": "09-11",
+          "text": "可以做一个自己的世界",
+          "start": 29.442,
+          "end": 31.054
+        },
+        {
+          "lineId": "09-12",
+          "text": "哪怕那个世界里",
+          "start": 31.394,
+          "end": 32.604
+        },
+        {
+          "lineId": "09-12",
+          "text": "只有一只小鲸鱼",
+          "start": 32.562,
+          "end": 34.036
+        },
+        {
+          "lineId": "09-13",
+          "text": "哪怕你打不过它",
+          "start": 34.376,
+          "end": 35.605
+        }
+      ]
+    }
+  ]
+}

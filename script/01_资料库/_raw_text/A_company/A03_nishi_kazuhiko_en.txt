@@ -1,0 +1,223 @@
+SOURCE: https://en.wikipedia.org/wiki/Kazuhiko_Nishi
+TITLE: 西和彦 生平（英文维基）
+FETCHED: 2026-10-21 17:19:05
+============================================================
+
+Kazuhiko Nishi - Wikipedia
+
+Jump to content
+
+From Wikipedia, the free encyclopedia
+
+Japanese businessman
+
+This article has multiple issues. Please help improve it or discuss these issues on the talk page . ( Learn how and when to remove these messages )
+
+This biography of a living person needs additional citations for verification . Please help by adding reliable sources . Contentious material about living persons that is unsourced or poorly sourced must be removed immediately , especially if potentially libelous or harmful.
+
+Find sources: "Kazuhiko Nishi" – news · newspapers · books · scholar · JSTOR ( February 2017 ) ( Learn how and when to remove this message )
+
+You can help expand this article with text translated from the corresponding article in Japanese . (December 2021) Click [show] for important translation instructions.
+
+View a machine-translated version of the Japanese article.
+
+Machine translation, like DeepL or Google Translate , is a useful starting point for translations, but translators must follow the LLM translation guideline , revise errors as necessary and confirm that the translation is accurate, rather than simply copy-pasting machine-translated text into the English Wikipedia.
+
+Do not translate text that appears unreliable or low-quality. If possible, verify the text with references provided in the foreign-language article.
+
+You must provide copyright attribution in the edit summary accompanying your translation by providing an interlanguage link to the source of your translation. A model attribution edit summary is Content in this edit is translated from the existing Japanese Wikipedia article at [[:ja:西和彦]]; see its history for attribution.
+
+You may also add the template {{Translated|ja|西和彦}} to the talk page .
+
+For more guidance, see Wikipedia:Translation .
+
+( Learn how and when to remove this message )
+
+Kazuhiko Nishi
+
+Born ( 1956-02-10 ) February 10, 1956 (age 70)
+
+Kobe , Japan
+
+Education Kogakuin University
+
+Occupations
+
+Businessman
+
+educator
+
+engineer
+
+researcher
+
+Years active 1977–present
+
+Known for Co-founder of ASCII Corporation and MSX developer
+
+CEO of MSX Licensing Corporation
+
+Kazuhiko "Kay" [ 1 ] Nishi ( 西 和彦 , Nishi Kazuhiko ; born February 10, 1956 in Kobe , Japan ) is a Japanese businessman and personal computer pioneer.
+
+Early life
+[ edit ]
+
+Nishi's father ran a private school. Nishi attended Waseda University but dropped out to help found the first Japanese computer magazine, I/O .
+
+Shortly thereafter he launched ASCII magazine (a Japanese equivalent of Byte or Creative Computing ) and, in 1978, ASCII Corporation , which began by making a rough translation from English to Japanese of the game Wizardry .
+
+ASCII Corporation
+[ edit ]
+
+He wanted to lead the personal computer market, but ASCII Corporation didn't have enough capital to develop personal computers. He knew Microsoft BASIC was becoming the industry standard in North America, and conceived selling it to Japanese companies. [ 2 ] At the 1978 National Computer Conference , he met and got along with Microsoft founder Bill Gates . [ 1 ] [ 3 ]
+
+In Japan, Nishi worked with NEC on developing the PC-8001 , an early consumer-ready personal computer not requiring assembly, which became a standard in Japan, and was involved in the design of the Kyotronic 85 which, sold to Radio Shack , became the TRS-80 Model 100 , an early laptop computer. [ 1 ]
+
+Nishi's relationship with Bill Gates helped ASCII Corporation to grow. MSX , a new personal computer format, was jointly developed by Microsoft and ASCII Corporation for the Japanese market. But Nishi and Gates fell out, [ 4 ] and Microsoft in 1986 disclosed the end of the partnership. Stating that Nishi owed the company more than $500,000, which it did not expect him to repay, Microsoft set up its own Japanese subsidiary. [ 5 ] [ 6 ] But ASCII Corporation continued to thrive. [ 1 ]
+
+Nishi was also inclined to make important decisions on impulse and to spend without restraint, which led Microsoft to break with ASCII in 1986. One of the final incidents was when Nishi spent $1 million to get a huge mechanical dinosaur to build in Tokyo as an advertising device. [ 7 ] The break between Gates and Nishi was bitter, though (as of 1992) the two speak periodically. [ 8 ]
+
+ASCII even launched itself into the helicopter rental sector and, like many other companies, invested in art and real estate, which seemed to be great investments in a period of rising prices . Nishi was planning to build an industrial park for software companies in northern Japan, equipped with modern electronic technologies and its own airport. The project was then shelved. [ 8 ] According to The New York Times , Nishi "flaunted his wealth with a flamboyant style that has included dashing from meeting to meeting by helicopter". In that same article Nishi is also called "more a visionary and charismatic salesman than an engineer". [ 8 ]
+
+The ASCII breakup
+[ edit ]
+
+In 1991, the other two co-founders of ASCII, Akio Gunji, president, and Keiichiro Tsukamoto, vice president, resigned abruptly, ostensibly in protest against rapid expansion. “They couldn't keep up with me because I was accelerating too much,” Nishi said at a press conference at the time. [ 8 ]
+
+Under Nishi's direction, ASCII Corporation invested heavily in American startups in the electronics industry . By 1992 ASCII Corporation was heavily in debt and its stock price collapsed. At the direction of the Ministry of International Trade and Industry , the Industrial Bank of Japan and other banks bailed out the company, which rebounded. [ 1 ]
+
+Kadokawa acquisition
+[ edit ]
+
+ASCII Corporation became a subsidiary of Kadokawa Group Holdings in 2004, and merged with another Kadokawa subsidiary MediaWorks on April 1, 2008, and became ASCII Media Works . [ citation needed ]
+
+Later career
+[ edit ]
+
+After 1986, Nishi wrote for newspapers and authored a number of books. [ vague ] He sat in several committees on behalf of the Ministry of Posts and Telecommunications and of the Ministry of International Trade and Industry , and he was a member of the Committee for World Economy in the 21st Century . Nishi is the president of MSX Association, a private organization originating from an assembly of people with affinity with the MSX standard, and the president of Digital do MaiN , audio engineering company. [ 9 ]
+
+Since 2002, Nishi has been the principal of a combined junior and senior high school, Suma Gakuen, in Kobe . As with many other schools in Japan, the principal has little to do with the day-to-day running of the school. In reality, the school is run by his sister, in the role of vice-principal. The school has a long connection to the Nishi family. [ citation needed ]
+
+In 2005, Nishi ran unsuccessfully for president of a small university in rural Japan. [ citation needed ]
+
+Meijyo Gakuin incident
+[ edit ]
+
+On June 22, 2019, Nishi was appointed chairman of the board of directors of Meijo Gakuin School Corporation. [ 10 ] Decision on the new board of directors structure and changes to directors in charge. Nishi, who was the successor to the former chairperson (female, 61 years old at the time) who resigned due to the problem of misappropriating 100 million yen of Myojo Gakuin's funds into virtual currency, was fired. After that, it was discovered that the deposit of 2.1 billion yen for the sale of land for Meijo Gakuin High School was unaccounted for, and Nishi was considering filing criminal charges against the former chairperson for breach of trust.
+
+The Meijo Gakuin Board of Directors dismissed Nishi from his position as chairperson on August 24, 2019.
+
+In December 2019, the former chairperson was arrested on charges of embezzlement. [ 11 ] Nishi, who held a press conference in Osaka City on December 6, pointed out that the current situation where the former president still remains in the school corporation Myojo Gakuin. [ 12 ]
+
+Bankruptcy proceedings
+[ edit ]
+
+In March 2023, Nishi was going through bankruptcy proceedings in Japan — a situation that reportedly arose from bad debts he inherited from his departure from ASCII. At April 23, 2025 Nishi claims on his X/Twitter account that his decision was also to sign on as a guarantor for a friend's business loan. Nishi offered an update on the situation, stating that these proceedings had now ended and that his debt (believed to total 11.5 billion yen) has now been discharged. [ 13 ] [ 14 ]
+
+Criticism of Wikipedia
+[ edit ]
+
+In 2006, Nishi had a heated argument with other users over the contents of this article about himself, and in an interview with J-CAST , Nishi said, "It was so far from the truth, so messed up, it was beyond my capacity to bear," "It was edited at the discretion of the editor ( Wikipedian ), and it was just being played around with among friends," " 2channel and Wikipedia are the same," and "Wikipedia just cut and copy paste . It's like they're just coating lies with lies." [ 15 ]
+
+Furthermore, about three years later, he also criticized Wikipedia, saying that "the problem with Wikipedia and the Japanese Wikipedia is that Wiki uses the suffix Pedia and pretends to be an encyclopedia," "It's like a cesspit on the Internet , a mixture of truth, lies, ignorance, prejudice, jealousy, and vanity," and "Anyone can edit Wikipedia if they don't like the content of an article. This is why Wikipedia editing battles can occur, but the editors of the Japanese Wikipedia are in charge, and because they are arbitrary and prejudiced, it is power, not truth, that wins out. In the end, because of the 'infinite power' of anonymous people, anyone who wants to write the truth has to give up halfway through". [ 16 ] [ 17 ]
+
+References
+[ edit ]
+
+1 2 3 4 5 Bob Johnstone (May 1, 1993). "The Comeback of Japanese Software Entrepreneur Kay Nishi" . Wired . Retrieved February 21, 2017 .
+
+↑ Tomita, Michio (1995). パソコン創世記 (in Japanese). ボイジャー . Retrieved 2021-02-25 – via Aozora Bunko .
+
+↑ Jimmy Maher (June 25, 2014). "Of Wizards and Bards" . The Digital Antiquarian . Retrieved February 23, 2017 .
+
+↑ Michael W. Miller (August 27, 1986). "High-Tech Saga: How Two Computer Nuts Transformed Industry Before Messy Breakup" . Wall Street Journal . Retrieved February 21, 2017 .
+
+↑ Forbes, Jim (1986-02-10). "Microsoft Files With SEC for Spring Stock Offering" . InfoWorld . Vol. 8, no. 6. p. 6. Archived from the original on 2022-03-20 . Retrieved 2021-10-29 .
+
+↑ Bender, Eric (1986-02-10). "Microsoft stock goes public; sale marks firm's maturity" . Computerworld . Vol. XX, no. 6. pp. 170, 168 . Retrieved 2025-06-08 .
+
+↑ "Microsoft's million dollar marketing stunt Bill Gates did not appreciate | MSX Resource Center" . www.msx.org . Retrieved 2026-09-04 .
+
+1 2 3 4 Pollack, Andrew (24 August 1992). "Computer Pioneer's Moment of Truth" . The New York Times .
+
+↑ "Company information" . Digital do Main (in Japanese) . Retrieved March 11, 2017 .
+
+↑ "学校法人明浄学院 新理事会体制と担当理事の変更の決定について | 大阪観光大学" . 大阪観光大学 . 28 June 2019.
+
+↑ "Former chairperson of Myojo Gakuin and five others arrested on suspicion of embezzlement in the course of business, Osaka District Public Prosecutors Office" . Kobe Shimbun . 2019-12-05.
+
+↑ "明浄元理事長、経営関与前に１８億円借り入れ 横領金で返済か" . 6 December 2019.
+
+↑ "MSX Co-Creator Aims to Devote Life to Education, Following End of Bankruptcy Proceedings" . 25 April 2025.
+
+↑ https://x.com/nishikazuhiko/status/1914997003958022553
+
+↑ Wikipedia Editing Policy Nishi Kazuhiko Criticizes J-CAST, November 30, 2006
+
+↑ "Wikipediaはネットの肥溜 - 西和彦" . 6 October 2009.
+
+↑ "「ウィキペディアはネットの肥溜」 西和彦の過激批判の「真意」" . 22 October 2009.
+
+Authority control databases
+
+International
+
+ISNI
+
+VIAF
+
+National
+
+Japan
+
+Korea
+
+Academics
+
+CiNii
+
+Retrieved from " https://en.wikipedia.org/w/index.php?title=Kazuhiko_Nishi&oldid=1373172045 "
+
+Categories :
+1956 births
+
+Living people
+
+21st-century Japanese businesspeople
+
+People from Kobe
+
+Hidden categories:
+Articles with short description
+
+Short description matches Wikidata
+
+BLP articles lacking sources from February 2017
+
+All BLP articles lacking sources
+
+Biography articles needing translation from Japanese Wikipedia
+
+Articles with multiple maintenance issues
+
+Articles with hCards
+
+Articles containing Japanese-language text
+
+CS1 Japanese-language sources (ja)
+
+All articles with unsourced statements
+
+Articles with unsourced statements from February 2017
+
+All Wikipedia articles needing clarification
+
+Wikipedia articles needing clarification from February 2017
+
+Articles with unsourced statements from January 2017
+
+Search
+
+Kazuhiko Nishi
+
+12 languages Add topic

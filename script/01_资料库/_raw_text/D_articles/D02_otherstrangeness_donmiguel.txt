@@ -1,0 +1,28 @@
+SOURCE: https://www.otherstrangeness.com/2024/07/09/rpgmaker-2000
+TITLE: Other Strangeness：Don Miguel 与西方传播
+FETCHED: 2026-10-21 17:20:42
+============================================================
+
+How One Man Brought RPGMaker 2000 to the West - Other Strangeness — merritt k Skip to content
+
+How One Man Brought RPGMaker 2000 to the West
+
+When I was younger, the RPG Maker series didn’t have nearly the same western presence as it did today. I don’t even remember how I initially heard of the software, but it was probably through some forgotten anime forum. Back then, the RPG Maker series wasn’t being published outside of Japan, except for a few translated releases in Taiwan and South Korea. The only way western audiences got to play around with these early RPG creation tools was through unauthorized releases, such as the English translation of RPG Maker 2000 done by Don Miguel.
+
+I didn’t know who Don Miguel was back then, and I didn’t even really grasp that the version of RPG Maker 2000 I was messing with was unofficially translated and illegally shared. There were hints that something was off, like some odd phrasings (“YOU WON A COMBAT!”) and the strange sample project, but mostly I just had a great time learning the basics of game development and design. Like many users of the software, I had grand ideas to riff on the huge RPGs I’d encountered as a child, games like Breath of Fire and Chrono Trigger . As a result of these overly-ambitious goals, I never finished a project. But I did have a lot of fun designing monsters, creating characters, and laying out fantasy shops and homes like little virtual dollhouses.
+
+None of this would have been possible were it not for the efforts of Don Miguel, a Russian student who had also translated the prior RPG Maker 95 into English. When publisher ASCII learned about this, they threatened to sue and he took the files down from his site. At that point, however, it was too late to stem the spread of the English translation — the software was out there, being shared on the forums like the one I discovered it on, spreading by word of mouth. The dream of creating your own RPG was too powerful to be contained.
+
+Don Miguel backed out of the RPG Maker community after his run-in with ASCII, but his mantle was taken up by other translators and distributors who released later versions of the software in English. The first official English release in the series was technically RPG Maker for the PlayStation in 2000, but the first such release on a full scale was RPG Maker XP in 2005. Subsequent RPG Maker titles like RPG Maker VX and RPG Maker MV were also given retail releases in the west, with the software available for purchase on Steam. However, RPG Maker 2000 wasn’t officially available in English until 2015, when it was a part of a Humble Bundle.
+
+As for Don Miguel himself, he took up game development and coding outside of RPG Maker . He’s currently working on a 2D brawler titled Zabu . It’s impossible to know for sure, but the boom of acclaimed RPG Maker titles throughout the last couple of decades like OFF , Lisa: The Painful , and Omori might not have happened without his early efforts to bring the software to a wider audience.
+
+July 9, 2024
+
+merritt k
+
+Games
+
+RPGMaker
+
+Leave a Reply Cancel reply

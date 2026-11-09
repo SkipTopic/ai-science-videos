@@ -1,0 +1,19 @@
+# 依赖与可重建产物
+node_modules/
+.npm-cache/
+.venv/
+__pycache__/
+*.pyc
+
+# 渲染中间产物（需要时自己生成）
+out/
+*.tar.gz
+*.blend1
+
+# 系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 本次上传用的临时 API 响应，不进仓库
+.gh_*.json

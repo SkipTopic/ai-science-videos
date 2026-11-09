@@ -1,0 +1,204 @@
+SOURCE: https://www.rpgmakerweb.com/
+TITLE: RPG Maker 官方站（全球）
+FETCHED: 2026-10-21 17:20:06
+============================================================
+
+Make Your Own Game with RPG Maker
+
+日本語
+
+Choose a region
+
+US & International
+
+Europe
+
+Japan
+
+Looking for your purchases made before 20th August 2020?
+Click this link to access them!
+
+Visit the Degica Shop
+
+Tell us Your
+
+RPG Story
+
+Games are hard to make, right? Not with RPG Maker! It’s as simple as starting a New Project. We provide the tools and assets so you can start making your dream game in seconds!
+
+Featured Titles
+
+RPG Maker MZ
+
+The latest version from the RPG Maker series that allows anyone to make an RPG with ease!
+
+See Whats New
+
+See Whats New
+
+Latest Edition
+
+How does it Work?
+
+Simple enough for a child
+
+Map Editor
+
+Design environments for your player to explore with the simple and versatile Map Editor. Pick from a large collection of new graphics to build towns, dungeons, and worlds. The return of the much requested Layering function gives you even more control!
+
+Character Generator
+
+Create original characters for your world using the Character Generator. Select the hair, eyes, clothes, and accessories of your heroes and NPCs. Customize color palettes and offset components to personalize your characters even further!
+
+Database & Events
+
+The Database is the core of your RPG! Do everything from setting your character name, stats, appearance, and skills, to defining equipment, enemies, and battle states. Change game settings, too, such as swapping between turn-based and time progress battle systems, to match your vision!
+
+Test Play
+
+Testplay your project from the editor without having to wait for your game to slowly compile. Toggle switches and variables to test events.
+
+Powerful Enough for a developer
+
+Events
+
+Events drive your game! Using a simple menu interface, select commands to display messages, control game progression, trigger battles, and much more! The possibilities with events are near endless, and don’t require a single line of code.
+
+Plugins
+
+Plugins allow you to go beyond what is possible with events alone. Use plugins from the scripting community, or code your own, to customize your game even further! Revamped plugin commands now also allow you to easily add parameters with a simple menu system.
+
+Licenses
+
+Thinking of selling your game? You can publish games made in RPG Maker, with the assets included, as freeware or commercial titles. No additional commercial license required!
+
+Animations
+
+RPG Maker now supports Effekseer, a powerful particle effect creation tool. Easily create flashy attacks without the use of spritesheets to make your combat feel even more dynamic!
+
+Product Line
+
+Make your own Game
+
+with the RPG Maker series.
+
+RPG Maker MZ
+
+Our most powerful engine to date! RPG Maker MZ has all the tools and assets you need to create your game. Enhancements to the map editor, character generator, database, animations, and plug-ins allow for more customization than ever before!
+
+RPG Maker MV
+
+RPG Maker MV opens your game up to more platforms, including MacOSX, Android, and iOS! Improvements to the map editor, a higher resolution, and easy-to-use plug-ins bring RPG Maker into the modern era.
+
+RPG Maker VX Ace
+
+RPG Maker VX Ace is one of our most popular engines and for good reason. It’s intuitive and easy to pick up, and has one of the largest libraries of assets and scripts available! A great starter engine for beginners and still powerful enough for developers.
+
+RPG Maker DLCs
+
+Looking to expand your library of assets? We have hundreds of graphic and audio packs from talented creators to fit your needs. Everything you could ever want to create your vision; whether it be a galaxy trotting sci-fi epic or a survival horror zombiefest!
+
+Check out the Market Place
+
+Latest News
+
+Announcements
+
+Events
+
+“RPG Maker Special Sale 2026” Is Here!
+
+RPG Maker MZ at a New Record Discount of 61% OFF!
+
+by
+
+by RPGMakerWeb
+
+on
+
+August 28, 2026
+
+August 28, 2026
+
+Announcements
+
+Resources
+
+New Releases: Winlu Fantasy Tileset - Ship
+
+Ahoy! It's time to hit the 7 seas with the Winlu Fantasy Tileset - Ship!
+
+by
+
+RPGMakerWeb
+
+on
+
+May 21, 2026
+
+May 21, 2026
+
+Announcements
+
+Resources
+
+New Release: KR Mars Colony Tileset
+
+Take your players to the red planet with the KR Mars Colony Tileset by Kokoro Reflections.
+
+by
+
+RPGMakerWeb
+
+on
+
+April 9, 2026
+
+April 9, 2026
+
+Join the Forum!
+
+Join our passionate dev community on the official RPG Maker forums. Share your project and get feedback, while also playing others' projects for ideas and inspiration. Make connections with other creatives, find free resources, get support, keep up on the latest RPG Maker news, and much more!
+
+Check out the Forum
+
+Products
+
+Downloads
+
+Blog
+
+Forum
+
+Company
+
+Privacy policy
+
+Terms & conditions
+
+EULA
+
+Support
+
+Product support
+
+Contact us
+
+In the news
+
+Tutorials
+
+FAQ
+
+Run Time Package
+
+RPG Maker MZ available on
+
+Official Store
+
+Check it out!
+
+This site obtains and uses access data, using cookies, In order to recognize the state of use and distribute advertisements. If you continue to the next page, you shall be deemed to have agreed to the settings and use of cookies. Please refer to the details for more information about the settings and use of cookies and opt-out.
+
+I AGREE
+Privacy Policy

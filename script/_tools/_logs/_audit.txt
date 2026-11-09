@@ -1,0 +1,71 @@
+共 59 个文本文件
+
+=== 按字数排序 ===
+ 167,128  F_more         F07_bill_gates_en.txt              Bill Gates - Wikipedia
+ 115,253  E_context      E04_famicom_en.txt                 Nintendo Entertainment System - Wikipedia
+  95,550  E_context      E07_dq_en.txt                      Dragon Quest - Wikipedia
+  71,970  A_company      A07_kadokawa_ja.txt                KADOKAWA - Wikipedia
+  67,104  E_context      E06_dq3_ja.txt                     ドラゴンクエストIII そして伝説へ… - Wikipedia
+  58,926  A_company      A08_msx_ja.txt                     MSX - Wikipedia
+  57,736  E_context      E03_famicom_ja.txt                 ファミリーコンピュータ - Wikipedia
+  48,001  A_company      A09_msx_en.txt                     MSX - Wikipedia
+  39,137  E_context      E01_pc9801_ja.txt                  PC-9801シリーズ - Wikipedia
+  33,844  C_games        C06_omori.txt                      Omori (video game) - Wikipedia
+  33,299  E_context      E05_dq1_ja.txt                     ドラゴンクエスト - Wikipedia
+  32,976  G_versions     G01_rm2000.txt                     RPG Maker - Wikipedia
+  32,976  G_versions     G02_rm2003.txt                     RPG Maker - Wikipedia
+  32,974  G_versions     G04_rmvx.txt                       RPG Maker - Wikipedia
+  32,970  G_versions     G06_rmmv.txt                       RPG Maker - Wikipedia
+  32,969  G_versions     G08_unite_wiki.txt                 RPG Maker - Wikipedia
+  32,967  G_versions     G05_rmvxace.txt                    RPG Maker - Wikipedia
+  32,963  G_versions     G03_rmxp.txt                       RPG Maker - Wikipedia
+  32,963  G_versions     G07_rmmz.txt                       RPG Maker - Wikipedia
+  32,917  B_rpgmaker     B01_rpgmaker_en.txt                RPG Maker - Wikipedia
+  32,835  C_games        C07_corpse_party.txt               Corpse Party - Wikipedia
+  31,047  E_context      E02_pc8801_ja.txt                  PC-8800シリーズ - Wikipedia
+  30,046  B_rpgmaker     B02_rpgmaker_ja.txt                RPGツクール - Wikipedia
+  28,385  E_context      E09_sfc_ja.txt                     スーパーファミコン - Wikipedia
+  26,122  F_more         F02_kadokawa_en.txt                Kadokawa Corporation - Wikipedia
+  24,303  C_games        C08_lisa.txt                       Lisa: The Painful - Wikipedia
+  24,257  F_more         F06_impress_en.txt                 Impress Holdings - Wikipedia
+  21,485  C_games        C09_oneshot.txt                    OneShot - Wikipedia
+  20,613  C_games        C05_to_the_moon.txt                To the Moon (video game) - Wikipedia
+  18,907  C_games        C04_ao_oni.txt                     Ao Oni - Wikipedia
+  18,240  F_more         F01_ascii_media_works_en.txt       ASCII Media Works - Wikipedia
+  16,744  C_games        C01_yume_nikki.txt                 Yume Nikki - Wikipedia
+  14,320  D_articles     D01_pcgamer_secret_history.txt     Join the community
+  14,063  A_company      A10_ascii_microsoft.txt            ASCII Corporation - Wikipedia
+  14,027  A_company      A01_ascii_corp_en.txt              ASCII Corporation - Wikipedia
+  13,668  C_games        C10_off.txt                        Off (video game) - Wikipedia
+  12,886  A_company      A02_ascii_corp_ja.txt              アスキー (企業) - Wikipedia
+  12,711  A_company      A04_nishi_kazuhiko_ja.txt          西和彦 - Wikipedia
+  12,556  A_company      A03_nishi_kazuhiko_en.txt          Kazuhiko Nishi - Wikipedia
+  12,324  C_games        C02_ib.txt                         Ib (video game) - Wikipedia
+  11,714  C_games        C03_witch_house.txt                The Witch's House - Wikipedia
+  11,398  A_company      A06_enterbrain_ja.txt              エンターブレイン - Wikipedia
+  11,263  F_more         F05_microsoft_japan_en.txt         Microsoft Japan - Wikipedia
+   9,565  A_company      A05_enterbrain_en.txt              Enterbrain - Wikipedia
+   9,206  H_china        H04_rpgmaker_cn.txt                RPG制作大师 - 维基百科，自由的百科全书
+   6,813  D_articles     D03_gematsu_ggg_interview.txt      Gotcha Gotcha Games interview with producer Yusuke Morino - Gematsu
+   6,514  F_more         F04_agetec_en.txt                  Agetec - Wikipedia
+   5,151  B_rpgmaker     B05_official_en.txt                Make Your Own Game with RPG Maker
+   5,132  H_china        H01_66rpg.txt                      66rpg_百度百科
+   4,326  B_rpgmaker     B04_dante98_fandom.txt             RPG Tsukūru Dante 98 | RPG Maker Wiki | Fandom
+   3,794  B_rpgmaker     B07_unite.txt                      RPG MAKER UNITE Official
+   3,353  B_rpgmaker     B03_rpgmaker_fandom.txt            RPG Maker | RPG Maker Wiki | Fandom
+   3,088  D_articles     D02_otherstrangeness_donmiguel.txt How One Man Brought RPGMaker 2000 to the West
+   2,264  B_rpgmaker     B08_ggg.txt                        Gotcha Gotcha Gamesコーポレートサイト
+   1,855  D_articles     D08_sina_heian.txt                 《黑暗圣剑传说》完整原创免费版_游戏试玩_下载中心_单机游戏_新浪游戏_新浪网
+   1,077  E_context      E10_wizardry_en.txt                Wizardry - Wikipedia
+   1,038  B_rpgmaker     B06_official_ja.txt                RPG Maker Official | Gotcha Gotcha Games
+     831  D_articles     D04_gamersky_history.txt           RPG制作大师：古老的游戏开发入门工具|游民星空
+      24  D_articles     D09_square_enix_dq.txt             勇者鬥惡龍 系列指南 | SQUARE ENIX
+
+=== 重复组（内容指纹相同） ===
+无
+
+=== 疑似空壳（<1500 字） ===
+ 1,038  B_rpgmaker     B06_official_ja.txt                RPG Maker Official | Gotcha Gotcha Games
+   831  D_articles     D04_gamersky_history.txt           RPG制作大师：古老的游戏开发入门工具|游民星空
+    24  D_articles     D09_square_enix_dq.txt             勇者鬥惡龍 系列指南 | SQUARE ENIX
+ 1,077  E_context      E10_wizardry_en.txt                Wizardry - Wikipedia

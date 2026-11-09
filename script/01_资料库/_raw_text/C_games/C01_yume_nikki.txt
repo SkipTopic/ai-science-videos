@@ -1,0 +1,279 @@
+SOURCE: https://en.wikipedia.org/wiki/Yume_Nikki
+TITLE: 梦日记 Yume Nikki（英文维基）
+FETCHED: 2026-10-21 17:20:13
+============================================================
+
+Yume Nikki - Wikipedia
+
+Jump to content
+
+From Wikipedia, the free encyclopedia
+
+2004 video game
+
+This article is about the 2004 video game. For its 2018 reboot, see Yume Nikki: Dream Diary .
+
+2004 video game
+
+Yume Nikki
+
+Steam artwork
+
+Developer Kikiyama
+
+Publishers
+
+Kikiyama [ a ]
+
+Playism (2018 Steam release)
+
+Engine RPG Maker 2003
+
+Platform Microsoft Windows
+
+Release June 26, 2004
+
+Genres Adventure , walking simulator , art game
+
+Mode Single-player
+
+Yume Nikki [ b ] is a 2004 surrealist adventure game created by the pseudonymous Japanese developer Kikiyama. The player controls Madotsuki, the protagonist and player character of the game, and explores her dreams . Various collectible "effects" are scattered around Madotsuki's dream world , which, when equipped, changes her appearance, equipment , or both. Random events occur throughout the game in the form of cutscenes and unique gameplay sequences. The game was developed using RPG Maker 2003 without a traditional plot or battle system . Gameplay instead focuses on the exploration of the dream world.
+
+Yume Nikki was distributed as freeware on Kikiyama's personal website in June 2004, and received updates until October 2007. The game received a cult following globally following an English fan translation . [ when? ] Its emphasis on open-ended exploration and lack of combat is described as a precursor to the walking simulator genre, while its visual style and horror elements has inspired numerous other indie games . Yume Nikki was published on Steam by Playism in 2018 in promotion of a reboot , Yume Nikki: Dream Diary , which was released the same year.
+
+Gameplay
+[ edit ]
+Madotsuki on a staircase with the bicycle effect equipped, which increases her movement speed [ 1 ]
+Yume Nikki is an exploration-based adventure game with no dialogue, combat, or plot; there is also no way to reach a game over . [ 2 ] The player controls a girl named Madotsuki who lives alone. The game begins inside her apartment, which the player is initially unable to leave. [ 3 ] The player can save their progress by sitting at Madotsuki's desk and writing in her dream diary . Sleeping in her bed causes Madotsuki to start dreaming. [ 2 ]
+
+Her dream begins in a room closely resembling her apartment. Upon leaving the room, Madotsuki enters a hub area commonly referred to as the Nexus, which contains a series of styled doors. Each door leads to a different area in the dream world, with areas having distinct environments and designs. [ 3 ] The player's objective is to explore these areas and collect 24 different Effects, items that change Madotsuki's appearance or equipment when used. [ 1 ] [ 4 ] Effects can be collected by interacting with certain objects and non-player characters (NPCs). Other objects can send Madotsuki to different areas. Throughout the game, random events occur, which can be cutscenes or have interactive elements. [ 2 ] [ 3 ] The game's ending, unlocked after the player collects all 24 Effects, [ 1 ] shows Madotsuki jumping off of the balcony of her apartment .
+
+Development and release
+[ edit ]
+
+Yume Nikki was developed and self-published by Kikiyama, a pseudonymous Japanese developer about whom very little is known. [ 2 ] They created the game using the RPG Maker 2003 engine. [ 1 ] [ 5 ] Kikiyama first shared a build of the game on June 26, 2004, on the Japanese textboard 2channel . They continued to update the game until 2007, stopping at version 0.10. [ 1 ] After its initial release, it received a fan-made English translation. [ 2 ] From 2011 to 2018, Kikiyama's status was unknown as they were unresponsive to all contact. A popular theory was that they could have died, possibly in the 2011 Tōhoku earthquake . [ 2 ] Yume Nikki was officially distributed by publisher Playism via their Online Store in February 2012, under version name 0.10a, and went on to receive an English localization in June of the same year. [ 6 ] In 2018, the game was released on Steam on January 10th, [ 7 ] and on the Google Play Store and Apple App Store on August 30th. [ 8 ] [ 9 ] Kadokawa Games , the developer of the RPG Maker software, confirmed that Kikiyama was still alive and involved with the project. [ 2 ] [ 10 ] In 2023, Kikiyama was interviewed by Toby Fox in Famitsu . [ 11 ]
+
+Reception
+[ edit ]
+
+Yume Nikki received positive critical reception for its unique, surrealist visual style. [ 2 ] [ 3 ] [ 12 ] Its visual style has been compared to the 16-bit graphics of EarthBound . [ 3 ] Ryan McSwain, writing for Hardcore Gaming 101 , remarked that the game created surprisingly good visuals by using layering effects and "eye-catching animations". He also praised the game's music and sound design. [ 3 ] Giada Zavarise of Rock Paper Shotgun said that the game's pixel-art style influenced a movement of indie horror games like Ao Oni and Ib . She also attributed some of the game's popularity to the fact that its "dreamy" imagery invites speculation about its meaning. [ 12 ] Wired ' s Julie Muncy also pointed to the game's surreal imagery and said that it appeals to those interested in dream interpretation . [ 2 ]
+
+The gameplay and atmosphere were also well-received by critics, who identified the game's emphasis on exploration as a major appeal. [ 2 ] [ 3 ] [ 12 ] Some critics called it an early example of a walking simulator . [ 1 ] [ 12 ] Muncy described it as being "rich in atmospheric dream worlds" and said its surreal world-building logic creates uneasiness in players. [ 2 ] McSwain and Zavarise agreed that the game's world was enjoyable to explore and had distinct and interesting locations. They both criticized the lack of any guides or maps, which made it too easy for the player to get stuck. [ 3 ] [ 12 ] McSwain also criticized the game's random events for being too difficult to encounter due to their rarity. [ 3 ] Zavarise specifically said the early parts of the game, before the player is able to memorize paths and landmarks, were the most likely to drive new players away. [ 12 ]
+
+Legacy
+[ edit ]
+
+Originally receiving a limited Japanese-only release, Yume Nikki later gained a larger cult following in the West, due in part to its fan-made English translation. [ 2 ] [ 12 ] Gita Jackson of Kotaku also attributed this following to the game's "unusual visual style and oppressive tone". [ 13 ] Caty McCarthy of USgamer compared its proliferation across the internet in the mid-2000s to that of Cave Story . [ 4 ] Due to the game's open-ended nature and the accessibility offered by the RPG Maker software, Yume Nikki has inspired the creation of a number of fangames , some of which have attempted to explore theories about the original game; [ 1 ] notable fangames include Yume 2kki [ c ] and .flow . [ 1 ] [ 3 ] [ 14 ] It has also influenced other indie games , such as Omori , Lisa: The First , Doki Doki Literature Club! , and Undertale . [ 15 ] [ 12 ] [ 13 ] [ 16 ] [ 14 ] In January 2018, games journalist Lewis Denby started a podcast , Dream Diary , which explores the history and theories surrounding the game's origins and its rise in popularity. [ 4 ] [ 14 ]
+
+The musical project Uboa , created by Australian musician Xandra Metcalfe, derives its name from the in-game character. [ 17 ]
+
+Related media
+[ edit ]
+
+Print adaptations
+[ edit ]
+
+Yume Nikki has seen semi-official adaptations into a manga and light novel . [ 2 ] [ 1 ] The manga was illustrated by Hitoshi Tomizawa based on an original story by Machigerita, and was serialized in Takeshobo 's web magazine Manga Life Win+ from May 20, 2013, to March 13, 2014. [ 18 ] [ 19 ] [ 20 ] Its chapters were compiled in a single volume, released on May 22, 2014. [ 21 ] The light novel is titled Yume Nikki: I Am Not in Your Dream, [ d ] and was written by Akira and illustrated by Aco Arisaka. [ 19 ] It was released on August 27, 2013, [ 22 ] and was licensed for digital distribution in English by J-Novel Club . [ 14 ] PC Gamer reported that the manga and light novel were criticized for providing explanations for things the game had left open to interpretation, and the Yume Nikki merchandise distributor stated that the adaptations were not created as canonical extensions of Kikiyama's original ideas. [ 1 ]
+
+Yume Nikki: Dream Diary
+[ edit ]
+
+Main article: Yume Nikki: Dream Diary
+
+Along with the release of Yume Nikki on Steam, a two-week countdown appeared on the Kadokawa Games website. [ 2 ] [ 10 ] At the end of the countdown, a reboot called Yume Nikki: Dream Diary was announced. The game, which is rendered in 3D , [ 23 ] was developed by Kadokawa under the supervision of Kikiyama, and features some design concepts and characters left unused in the original game. [ 23 ] [ 24 ] Many of the characters and locations from the original returned in the reboot, and puzzle and platforming elements were added. [ 25 ] It was released on Steam on February 23, 2018 [ 24 ] and for the Nintendo Switch on February 21, 2019. [ 25 ]
+
+Dream Diary received "mixed or average reviews" according to review aggregator Metacritic . [ 26 ] Critics comparing the two games generally felt that Dream Diary was not as good as the original. [ 27 ] [ 28 ] Adam Smith of Rock Paper Shotgun said that it had lost the "mysterious horror and charm" of the original. [ 27 ] Kevin Lynn of Adventure Gamers felt that Dream Diary ' s visuals were a "solid translation" of the original's into 3D, but said Yume Nikki ' s defining open-ended gameplay had been sacrificed in favor of adventure game tropes. [ 28 ]
+
+Notes
+[ edit ]
+
+↑ Self-published on Kikiyama's website prior to its 2018 Steam release
+
+↑ Japanese : ゆめにっき ; lit. "Dream Diary"
+
+↑ Japanese : ゆめ2っき
+
+↑ Japanese : ゆめにっき —あなたの夢に私はいない— , Hepburn : Yume Nikki: Anata no Yume ni Watashi wa Inai
+
+References
+[ edit ]
+
+1 2 3 4 5 6 7 8 9 10 Zavarise, Giada (October 28, 2017). "The horrifying legacy of Yume Nikki, the homebrew game that became a phenomenon" . PC Gamer . Archived from the original on January 13, 2018 . Retrieved August 7, 2019 .
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 Muncy, Julie (January 23, 2018). "The Mysterious Japanese Game That Took 14 Years To Officially Come Out" . Wired . Archived from the original on January 25, 2018 . Retrieved August 7, 2019 .
+
+1 2 3 4 5 6 7 8 9 10 McSwain, Ryan (May 4, 2017). "Yume Nikki" . Hardcore Gaming 101 . Archived from the original on March 2, 2022 . Retrieved May 21, 2022 .
+
+1 2 3 McCarthy, Caty (January 10, 2018). "Over a Decade Later, Yume Nikki Wakes Up on Steam" . USgamer . Archived from the original on July 30, 2022 . Retrieved September 17, 2022 .
+
+↑ Reynolds, Matthew (January 10, 2018). "Surreal cult classic Yume Nikki now available on Steam" . Eurogamer . Archived from the original on May 21, 2022 . Retrieved May 21, 2022 .
+
+↑ "Yume Nikki on the Playism Store | Bringing a different breed of indie game to the world" . Playism Store . Archived from the original on November 16, 2019 . Retrieved May 5, 2026 .
+
+↑ "Yume Nikki on Steam" . Steam . Archived from the original on May 13, 2022 . Retrieved May 21, 2022 .
+
+↑ "Yume Nikki - Apps on Google Play" . play.google.com . Retrieved May 5, 2026 .
+
+↑ "Yume Nikki App" . App Store . December 6, 2022 . Retrieved May 5, 2026 .
+
+1 2 Frank, Allegra (January 10, 2018). "A disturbing cult classic finally hits Steam, with a follow-up on the way" . Polygon . Archived from the original on January 10, 2018 . Retrieved January 10, 2018 .
+
+↑ Diaz, Ana (February 3, 2023). "Undertale's creator conducted an interview with a cult-hit RPG dev, and it's bizarre" . Polygon . Retrieved February 23, 2023 .
+
+1 2 3 4 5 6 7 8 Zavarise, Giada (January 15, 2018). "Yume Nikki's legacy: an invitation to dream" . Rock, Paper, Shotgun . Archived from the original on May 22, 2022 . Retrieved May 22, 2022 .
+
+1 2 Jackson, Gita (January 16, 2018). "The Horror Game Developer Who Disappeared For A Decade" . Kotaku . Archived from the original on October 22, 2018 . Retrieved August 7, 2019 .
+
+1 2 3 4 Rad, Chloi (January 10, 2018). "Cult Horror Game Yume Nikki Hits Steam, New Project Teased" . IGN . Archived from the original on August 5, 2019 . Retrieved August 7, 2019 .
+
+↑ Lada, Jenni (July 21, 2021). "Doki Doki Literature Club Creator Listed Yume Nikki as an Inspiration, Joked About Monika in SSBU" . Siliconera . Archived from the original on October 3, 2022 . Retrieved June 9, 2023 .
+
+↑ Watts, Rachel (January 13, 2021). "Omori review" . PC Gamer . Archived from the original on January 14, 2021 . Retrieved June 7, 2025 . Throughout my time playing Omori , I couldn't help thinking of it as the spiritual successor to Yume Nikki .
+
+↑ "Interview: Xandra Metcalfe of Uboa Talks 'Impossible Light' " . New Noise Magazine . Retrieved May 25, 2026 .
+
+↑ 再現度高いぞ!? 「ゆめにっき」Web漫画連載がついにスタート . ねとらぼ (in Japanese). May 20, 2013. Archived from the original on May 22, 2022 . Retrieved May 22, 2022 .
+
+1 2 Nelkin, Sarah (January 3, 2013). "Yume Nikki Surreal Horror Game Gets Novel, Manga Adaptations" . Anime News Network . Archived from the original on March 3, 2013 . Retrieved August 7, 2019 .
+
+↑ まんがライフWIN (in Japanese). Takeshobo . Archived from the original on March 28, 2014 . Retrieved May 10, 2026 . 3/13 Dai 10-wa kōkai!! 3/13 第10話公開!! [ 3/13 Episode 10 released!! ]
+
+↑ ゆめにっき (in Japanese). Takeshobo . Archived from the original on July 6, 2014 . Retrieved May 10, 2026 . 5-tsuki 22-nichi komikkusu hatsubai kettei!! 5月22日コミックス発売決定!! [ The comic book will be released on May 22nd!! ]
+
+↑ ゆめにっき あなたの夢に私はいない (FreeGameNovel) . Amazon (in Japanese). PHP Institute. ASIN 4569813054 . Retrieved May 10, 2026 .
+
+1 2 Romano, Sal (January 25, 2018). "Yume Nikki: Dream Diary is a 3D reboot, launches for PC on February 23" . Gematsu . Archived from the original on February 3, 2018 . Retrieved January 25, 2018 .
+
+1 2 Rad, Chloi (February 27, 2019). "Yume Nikki: Dream Diary Revealed, a 'Reboot' of 2004 Cult Horror Game" . IGN (published January 24, 2018). Archived from the original on January 30, 2018 . Retrieved January 29, 2018 .
+
+1 2 Rad, Chloi (February 27, 2019). "Yume Nikki: Dream Diary Launching on Nintendo Switch" . IGN (published February 15, 2019). Archived from the original on February 18, 2019 . Retrieved February 17, 2019 .
+
+↑ "YUMENIKKI -DREAM DIARY- for PC Reviews" . Metacritic . CBS Interactive . Archived from the original on November 10, 2021 . Retrieved May 25, 2022 .
+
+1 2 Smith, Adam (February 26, 2018). "Wot I Think: Yume Nikki - Dream Diary" . Rock, Paper, Shotgun . Archived from the original on April 21, 2021 . Retrieved May 21, 2022 .
+
+1 2 Lynn, Kevin (August 12, 2019). "Yume Nikki – Dream Diary review" . Adventure Gamers . Archived from the original on November 24, 2021 . Retrieved September 17, 2022 .
+
+External links
+[ edit ]
+
+Listen to this article ( 13 minutes )
+
+This audio file is based on a version from this article dated 23 February 2025 ( 2025-02-23 ) , and does not reflect subsequent edits.
+
+( Audio help · More spoken articles )
+
+Kikiyama's website (in Japanese)
+
+"Project YUMENIKKI" . Archived from the original on August 17, 2019 . Retrieved May 14, 2013 . (in Japanese)
+
+Yume Nikki: Dream Diary official website Archived February 8, 2019, at the Wayback Machine
+
+Portals :
+Japan
+
+Video games
+
+Retrieved from " https://en.wikipedia.org/w/index.php?title=Yume_Nikki&oldid=1380575212 "
+
+Categories :
+2000s horror video games
+
+2004 video games
+
+2013 manga
+
+2013 Japanese novels
+
+Adventure games
+
+Freeware games
+
+Indie games
+
+J-Novel Club books
+
+Light novels
+
+Manga based on video games
+
+Manga Life Win manga
+
+Playism games
+
+Retro-style video games
+
+RPG Maker games
+
+Single-player video games
+
+Surrealist video games
+
+Video games about dreams
+
+Video games about nightmares
+
+Video games developed in Japan
+
+Video games featuring female protagonists
+
+Walking simulators
+
+Windows games
+
+Windows-only games
+
+Video games adapted into comics
+
+Video games adapted into novels
+
+Video games about suicide
+
+Works about depression
+
+Works about suicide
+
+Hidden categories:
+Articles with short description
+
+Short description is different from Wikidata
+
+Good articles
+
+Use mdy dates from January 2025
+
+Use American English from May 2026
+
+All Wikipedia articles written in American English
+
+Articles using Infobox video game using locally defined parameters
+
+Articles using Wikidata infoboxes with locally defined images
+
+Articles containing Japanese-language text
+
+All articles with vague or ambiguous time
+
+Vague or ambiguous time from August 2026
+
+CS1 uses Japanese-language script (ja)
+
+CS1 Japanese-language sources (ja)
+
+Articles using Template:ASIN with an all-numeric value
+
+CS1: unfit URL
+
+Articles with hAudio microformats
+
+Spoken articles
+
+Articles with Japanese-language sources (ja)
+
+Webarchive template wayback links
+
+Search
+
+Yume Nikki
+
+21 languages Add topic

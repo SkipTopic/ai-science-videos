@@ -1,0 +1,225 @@
+# RPG Maker：梦想与世界 · AI 生成科普视频全流程工程
+
+一支 15 分 52 秒的科普解说片，从文案、事实核查、配音、时间轴、2D 画面、Blender 3D 到拼接、QA、交付，全部由 AI 分工协作完成。
+
+本仓库是「AI 科普视频」系列的第 1 个主题，收录**最终版（v3）的完整工程 + 全过程的开发记录**：源码、素材、脚本、逐版进度文档、考据资料、验收数据都在这里。目标不是"放个成片"，而是任何人（或任何 AI）拿到这个仓库，都能看懂"它怎么被做出来的"，并且能重新渲染。
+
+---
+
+## 1. 成片
+
+| 项 | 值 |
+|---|---|
+| 片名 | 《RPG Maker：梦想与世界》 |
+| 时长 | 15:52.21（952.21 秒 / 28,566 帧 @30fps） |
+| 规格 | 1920×1080 / 30fps / H.264 High + AAC 192k 48kHz 立体声 |
+| 大小 | 516,351,141 B（约 492 MiB） |
+| MD5 | `c225235575d6d8c682d3624e6040a3f8` |
+| 字幕 | 烧录（数据在 `code/remotion-studio-v3/src/data/film.json` 的 `cues`） |
+| 样片 | `preview/20261021_RPGMaker_序章.mp4`（序章 1:45，24 MB，可直接在 GitHub 预览） |
+
+**为什么仓库里没有全片**：GitHub 单文件上限 100 MB，全片 492 MiB 传不上去。三种正确做法见 [`docs/链接与依赖说明.md`](docs/链接与依赖说明.md) 最后一节（GitHub Releases / Git LFS / 网盘+README 外链）。
+
+---
+
+## 2. 结构
+
+```
+.
+├─ README.md                  ← 你在这里
+├─ CREDITS.md                 ← 素材来源与版权
+├─ docs/                      ← 开发过程：交接报告 + v1/v2/v3 逐版进度 + 快照时间线 + 链接与依赖
+│  └─ v3工程文档/             ← 时间轴数据（beats/narration）、重定时报告、截图来源
+├─ script/                    ← 上游资料：解说文案 v1–v5、考据资料库（64 条原始网页+正文）、技术栈要求
+├─ code/
+│  └─ remotion-studio-v3/     ← 最终版 Remotion 工程（src / scripts / public / 配置）
+├─ tools/
+│  ├─ voice/                  ← edge-tts 配音、时间轴排期、音效合成脚本 + 时间轴 JSON
+│  ├─ pipeline/               ← v2 的节拍重排、重定时写回、截图抓取、QA 脚本
+│  ├─ qa/                     ← v3 的全片 QA / 静止检测 / 接缝抽帧
+│  └─ blender/                ← 两个 3D 镜头的 .blend + 生成脚本 + 贴图 + Kenney CC0 模型
+└─ preview/                   ← 序章样片
+```
+
+各目录的作用、每个脚本原来在本地工程的哪个位置，见 [`docs/链接与依赖说明.md`](docs/链接与依赖说明.md)。
+
+---
+
+## 3. 片子怎么搭的
+
+10 个章节，一段一个 Composition，最后按顺序拼接：
+
+| # | Composition | 章节 | 时长(s) | 整片起点(s) |
+|---|---|---|---:|---:|
+| 0 | `RPGMaker00` | 序章 | 105.00 | 0.000 |
+| 1 | `Ch01` | 01 出生 | 133.61 | 105.000 |
+| 2 | `Ch02` | 02 附录 | 164.08 | 238.606 |
+| 3 | `Ch03` | 03 工具 | 93.80 | 402.662 |
+| 4 | `Ch04` | 04 口音 | 32.58 | 496.453 |
+| 5 | `Ch05` | 05 溢出 | 181.21 | 529.032 |
+| 6 | `Ch06` | 06 中国 | 49.84 | 710.231 |
+| 7 | `Ch07` | 07 转手 | 121.94 | 760.051 |
+| 8 | `Ch08` | 08 未来 | 34.07 | 881.988 |
+| 9 | `Ch09` | 09 尾声·小鲸鱼 | 36.08 | 916.062 |
+| | | **合计** | **952.21** | |
+
+流水线（每一环都有对应脚本）：
+
+```
+文案 v5 ── 事实核查 ── edge-tts 逐句配音 + 词边界时间戳
+                          │
+                    build_timeline.py（按语音实际长度排节拍）
+                          │
+                    retime_chapters.py（把时间写回 10 个章节的 <Beat>）
+                          │
+      Remotion 渲染（Drift 全局运镜 + 场景时钟 + 烧录字幕）
+                          │
+        Blender Cycles 3D 两镜（CRT 卧室 / 1986 机械恐龙）
+                          │
+              分段 concat（-c:v copy + AAC 重编码）
+                          │
+                  QA（时长/流/接缝/静止/静音/MD5）
+```
+
+---
+
+## 4. 三版迭代（v3 是怎么来的）
+
+| 版本 | 时长 | 改了什么 |
+|---|---|---|
+| v1 | 19:25 | 全流程第一次跑通。问题：旁白之间空转 330 秒（占 31%），画面常像按了暂停 |
+| v2 | 15:52 | ① 按语音实际长度重排时间轴，任何场景最多 2 倍速；② 全局极慢运镜（`drift.tsx`）；③ 加两处 Blender 3D；④ 插 6 张 Steam 官方实机截图；⑤ 把一句查无实据的文案换掉并重新配音 |
+| **v3** | **15:52** | 只动两处画面：序章**完全回到 v1**（含用户点名保留的 2.5 秒 GAME OVER 黑场）；3D 从序章挪到 Ch09 尾声，拉伸到 8.7 秒。其余 8 段直接复用 v2 成片 |
+
+**本仓库只放 v3。** v1 / v2 的工程与成片仍完整保存在原作者本地，未上传；它们的改动细节写在 `docs/00_渲染进度_先读我.md`、`docs/00_第二版进度_先读我.md` 里。
+
+已知取舍（不是 bug，别"顺手修"）也写在 `docs/00_第三版进度_先读我.md` 第 0.0 节：序章 28.5–32.7 秒的黑场是故意保留的；若干 1 秒级"缓漂"是 Drift 过正弦拐点造成的。
+
+---
+
+## 5. 怎么重新渲染
+
+### 5.1 环境
+
+| 依赖 | 版本 / 说明 |
+|---|---|
+| Node.js | 24.x（工程用 24.21.0 验证） |
+| npm | 随 Node；`package-lock.json` 已锁版本 |
+| Remotion | 4.0.537（`remotion` + `@remotion/cli`） |
+| React / TS | React 19 / TypeScript 5.7 |
+| ffmpeg | **不用系统 ffmpeg**，用 Remotion 自带的 `node_modules/@remotion/compositor-*/ffmpeg.exe`（精简版，缺 `setpts`/`fps`/`tile`/`freezedetect`/`volumedetect`，坑见 docs） |
+| Python | 3.12（只 `tools/` 里的脚本需要：edge-tts、numpy、opencv-python、Pillow） |
+| Blender | 5.2.2 LTS，**只能 Cycles CPU**（EEVEE/Workbench 在无 GPU 机器上直接崩）；720p 渲完 lanczos 上采样 |
+| 硬件参考 | 2 核 4 线程 / 无独显：一章 3–25 分钟，全片 1.5–2 小时；Cycles 720p/8 采样 ≈ 16.8 秒/帧 |
+
+### 5.2 步骤
+
+```bash
+cd code/remotion-studio-v3
+
+# 1) 装依赖（约 560 MB，只需一次）
+npm ci
+
+# 2) 字体：仓库里 public/fonts 是空的，必须先生成（脚本从 3 个 npm 包里抽 woff2 + 生成 fonts.css）
+npm pack @fontsource/noto-sans-sc@5.3.1
+npm pack @fontsource/noto-serif-sc@5.3.1
+npm pack @fontsource/press-start-2p@5.3.0
+mkdir -p out && mv fontsource-*.tgz out/
+python scripts/prepare_fonts.py          # 产出 public/fonts/fonts.css + 约 13 MB woff2
+
+# 3) 音效：仓库里已带（public/audio/sfx，22 个 wav / 11.6 MB）
+#    如需重新合成（固定随机种子，结果一致）：
+#    python ../../tools/voice/build_sfx.py
+
+# 4) 类型检查 / 抽单帧目检
+node_modules/.bin/tsc --noEmit
+npx remotion still Ch09 out/check/ch09.png --frame=180 --log=error
+
+# 5) 渲染单章（--concurrency=1，2 核机器上并发只会更慢）
+npx remotion render Ch05 out/chapters/Ch05.mp4 --concurrency=1
+
+# 6) 拼接（参数不能省，裸 -c copy 每个接缝都会报 Non-monotonic DTS）
+#    脚本里的 ROOT / 输出目录改好后再跑：
+bash scripts/concat_film_v3.sh
+```
+
+> `scripts/*.sh` 里的 `ROOT` 是原作者机器的绝对路径（`/c/Users/admin/Desktop/...`），
+> 换机器必须先改脚本顶部那一行；`out/`、`输出文件夹/` 也要自己建。清单见 `docs/链接与依赖说明.md`。
+
+### 5.3 工程里有什么
+
+- `src/film/drift.tsx` — 全局极慢推拉/漂移，治"画面冻住"
+- `src/film/sceneClock.tsx` — 节拍级场景时钟，压缩时间不丢镜头编排
+- `src/film/ChapterBase.tsx` — `Beat` / `ChapterFrame` / 烧录字幕 / 音轨装配
+- `src/film/realShots.tsx` — 全屏实机截图与 3D 视频插镜
+- `src/film/chapters/Ch0*.tsx` — 10 个章节的镜头编排
+- `src/data/film.json` — 全片时间轴 + 字幕 cues（由 `tools/pipeline/build_timeline.py` 生成）
+- `public/audio/film/` — 257 条逐句旁白 mp3（edge-tts，`zh-CN-YunyangNeural`）
+- `public/audio/rpg00/` — 序章另外 17 条旁白
+- `public/images/v2/` — 6 张 Steam 商店截图（来源见 `CREDITS.md`）
+- `public/video/` — 3 段 3D 成片（CRT 拉远 v2/v3、机械恐龙）
+
+---
+
+## 6. 验收数据（v3，2026-10-22 16:10）
+
+- 10 段时长与 `film.json` 全部吻合，最大误差 0.01 秒；全片 952.21 秒。
+- 9 个章节接缝逐帧抽查：全部落在正确画面上；Ch08→Ch09 准确切到鲸鱼 CRT。
+- 静止检测：Ch09 0 个冻帧；序章只有预期的 v1 黑场（29.5–32.0 秒，约 2.5 秒）与标题卡 94–95 秒 1 秒缓漂；其余章节的 1 秒级缓漂与 v2 相同。
+- 音频：全片 952.21 秒，最长静音 9 秒（<10 秒）。
+- 交付件 MD5 与工程原件一致。
+
+QA 脚本：`tools/qa/qa_v3.py`（全片）、`tools/qa/check_static.py`（单段静止）、`tools/qa/check_joins_v3.py`（接缝抽帧）。
+
+---
+
+## 7. 这个仓库里没有的东西
+
+| 没放 | 原因 |
+|---|---|
+| `node_modules/`（约 782 MB） | `npm ci` 可完整重建，已锁版本 |
+| `out/` 渲染中间产物（约 1.6 GB） | 分段 mp4 / 抽帧，可重渲 |
+| `_备份/*.tar.gz`（21 个快照，1.57 GB） | 开发快照，时间线已整理成 `docs/快照时间线.md` |
+| v1 / v2 工程 | 按要求只放最新版 v3；改动记录在 docs 里 |
+| 全片 3 个版本（190 / 518 / 516 MB） | 超过 GitHub 单文件 100 MB；只放 24 MB 的序章样片 |
+
+原始本地工程**一个文件都没删、没移动**，本目录是纯复制出来的发布副本。
+
+---
+
+## 8. 上传到 GitHub
+
+**别用网页拖拽**：GitHub 网页上传一次最多 100 个文件、单文件 25 MB。这个目录有 900 多个文件（含 23 MB 样片），网页上传会失败或漏文件。
+
+推荐命令行：
+
+```bash
+cd "上传到github上面的"
+git init
+git add .
+git commit -m "RPG Maker 科普视频 v3：完整工程与开发过程"
+git branch -M main
+git remote add origin https://github.com/<你的用户名>/<仓库名>.git
+git push -u origin main
+```
+
+或者用 GitHub Desktop：`Add local repository` → 选中本目录 → `Publish repository`。
+
+仓库体积约 **101 MB / 925 个文件**，最大单文件 23 MB（序章样片），全部在 GitHub 限制之内。
+
+---
+
+## 9. 版权
+
+代码、文案、剪辑与工程文件：项目作者所有（如需开源协议请自行添加 `LICENSE`）。
+游戏截图、字体、3D 模型为第三方素材，来源与许可见 [`CREDITS.md`](CREDITS.md)。
+
+---
+
+## 10. 相关文档
+
+- [`docs/00_交接报告_先读我.md`](docs/00_交接报告_先读我.md) — 三版总览、本机踩坑、常用命令（**最该先读的一份**）
+- [`docs/00_第三版进度_先读我.md`](docs/00_第三版进度_先读我.md) — v3 逐条改动、QA、回滚方法
+- [`docs/00_科普视频交接文档_先读我.md`](docs/00_科普视频交接文档_先读我.md) — 换一个科普主题怎么复用这套流水线
+- [`docs/链接与依赖说明.md`](docs/链接与依赖说明.md) — 目录联接、绝对路径、外部依赖、缺文件怎么办
+- [`docs/快照时间线.md`](docs/快照时间线.md) — 21 个开发快照对应的时间线

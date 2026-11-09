@@ -1,0 +1,1236 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head prefix="og: http://ogp.me/ns#">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=768">
+  <meta name="description"
+    content="Gotcha Gotcha Gamesのコーポレートサイト。KADOKAWAグループのゲーム会社です。ゲーム制作用ソフト「RPGツクール」をはじめとしたツクールシリーズ、UGC、インディゲーム情報のほか、企業情報をご紹介しています。">
+  <meta name="keywords"
+    content="GotchaGotchaGames,Gotcha Gotcha Games,Gotcha Gotcha Games,GGG,KADOKAWA,ツクール,tkool,RPGMaker,ゲーム製作,UGC,インディゲーム" />
+  <meta property="og:url" content="https://www.gotchagotcha.jp" />
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="Gotcha Gotcha Gamesコーポレートサイト" />
+  <meta property="og:description"
+    content="Gotcha Gotcha Gamesのコーポレートサイト。KADOKAWAグループのゲーム会社です。ゲーム制作用ソフト「RPGツクール」をはじめとしたツクールシリーズ、UGC、インディゲーム情報のほか、企業情報をご紹介しています。" />
+  <meta property="og:site_name" content="Gotcha Gotcha Gamesコーポレートサイト" />
+  <meta property="og:image" content="https://www.gotchagotcha.jp/assets/images/ogp.png" />
+  <title>Gotcha Gotcha Gamesコーポレートサイト</title>
+  <link rel="stylesheet" href="https://use.typekit.net/jrm4ceu.css">
+  <link rel="stylesheet" href="./assets/css/reset.css">
+  <link rel="stylesheet" href="./assets/css/shared.css">
+  <link rel="icon" href="./assets/images/shared/favicon.ico">
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100;300;400;500;700;900&display=swap"
+    rel="stylesheet">
+  <link rel="apple-touch-icon" sizes="180x180" href="./assets/images/shared/favicon.ico">
+  <script src="./assets/js/gsap.min.js"></script>
+  <script src="./assets/js/rellax.min.js"></script>
+  <script src="./assets/js/shared.js"></script>
+  <script src="./assets/js/animation.js"></script>
+  <script src="https://rpgmakerofficial.com/_shared/cookie/cookie.js" data-cookie-lang="ja"></script>
+  <script>
+    document.addEventListener("DOMContentLoaded", function () {
+      // 1回目のアクセス
+      var language = (window.navigator.languages && window.navigator.languages[0]) ||
+        window.navigator.language ||
+        window.navigator.userLanguage ||
+        window.navigator.browserLanguage
+      if (!document.cookie.split(';').some(cookie => cookie.trim().startsWith('access='))) {
+        // cookie追加
+        document.cookie = 'access=on'
+        // メッセージの表示
+        // 2回目以降のアクセス
+        if (language.substr(0, 2) != 'ja') {
+          window.location.href = "./en/"
+        }
+      }
+      // cookieの削除
+      document.addEventListener('click', function (event) {
+        if (!event.target.closest('#del')) return;
+        document.cookie = 'access=; Max-Age=0'
+      })
+    })
+  </script>
+  <!-- adove fonts -->
+  <script>
+      (function (d) {
+        var config = {
+          kitId: 'jrm4ceu',
+          scriptTimeout: 3000,
+          async: true
+        },
+          h = d.documentElement,
+          t = setTimeout(function () {
+            h.className = h.className.replace(/\bwf-loading\b/g, "") + " wf-inactive"
+          }, config.scriptTimeout),
+          tk = d.createElement("script"),
+          f = false,
+          s = d.getElementsByTagName("script")[0],
+          a
+        h.className += " wf-loading"
+        tk.src = 'https://use.typekit.net/' + config.kitId + '.js'
+        tk.async = true
+        tk.onload = tk.onreadystatechange = function () {
+          a = this.readyState
+          if (f || a && a != "complete" && a != "loaded") return
+          f = true
+          clearTimeout(t)
+          try {
+            Typekit.load(config)
+          } catch (e) { }
+        }
+        s.parentNode.insertBefore(tk, s)
+      })(document);
+  </script>
+</head>
+
+<body>
+  <!-- / header -->
+  <header class="header">
+    <h1 class="header--logo"><a href="#"><img src="./assets/images/shared/logo.png" alt="Gotcha Gotcha Games"></a></h1>
+    <nav class="header--nav">
+      <ul class="header--nav__list">
+        <li class="header--nav__item"><a href="#news" class="header--nav__link">
+            <p class="header--nav__text">News</p>
+          </a></li>
+        <li class="header--nav__item"><a href="#message" class="header--nav__link">
+            <p class="header--nav__text">Message</p>
+          </a></li>
+        <li class="header--nav__item"><a href="#service" class="header--nav__link">
+            <p class="header--nav__text">Service</p>
+          </a></li>
+        <li class="header--nav__item"><a href="https://rpgmakerofficial.com/application/official_dlc/" target="_blank"
+            class="header--nav__link">
+            <p class="header--nav__text">DLC</p>
+          </a></li>
+        <li class="header--nav__item"><a href="#company" class="header--nav__link">
+            <p class="header--nav__text">Company</p>
+          </a></li>
+        <li class="header--nav__item"><a href="#recruit" class="header--nav__link">
+            <p class="header--nav__text">Recruit</p>
+        <li class="header--nav__item"><a href="#contact" class="header--nav__link">
+            <p class="header--nav__text">Contact</p>
+          </a></li>
+        <li class="header--nav__item"><a href="https://store.rpgmakerofficial.com/ja/" title="RPG Maker Official Store"
+            target="_blank" class="header--nav__link">
+            <p class="header--nav__text">Store</p>
+          </a></li>
+        <li class="header--lang">
+          <div class="header--lang__link">
+            <p class='header--lang__text'><a href="#" class="now">JP</a> / <a href="./en/index.html">EN</a></p>
+          </div>
+        </li>
+        <li class="header--btn">
+          <div class="header--btn__wrapper">
+            <span class="header--btn__bar"></span>
+            <span class="header--btn__bar"></span>
+          </div>
+        </li>
+      </ul>
+    </nav>
+    <div class="header--sp">
+      <ul class="header--sp__list">
+        <li class="header--sp__item"><a href="#news" class="header--sp__link">
+            <p class="header--sp__text">News</p>
+          </a></li>
+        <li class="header--sp__item"><a href="#message" class="header--sp__link">
+            <p class="header--sp__text">Message</p>
+          </a></li>
+        <li class="header--sp__item"><a href="#service" class="header--sp__link">
+            <p class="header--sp__text">Service</p>
+          </a></li>
+        <li class="header--sp__item"><a href="https://rpgmakerofficial.com/application/official_dlc/" target="_blank"
+            class="header--sp__link">
+            <p class="header--sp__text">DLC</p>
+          </a></li>
+        <li class="header--sp__item"><a href="#company" class="header--sp__link">
+            <p class="header--sp__text">Company</p>
+          </a></li>
+        <li class="header--sp__item"><a href="#recruit" class="header--sp__link">
+            <p class="header--sp__text">Recruit</p>
+          </a></li>
+        <li class="header--sp__item"><a href="#contact" class="header--sp__link">
+            <p class="header--sp__text">Contact</p>
+          </a></li>
+        <li class="header--sp__item"><a href="https://store.rpgmakerofficial.com/ja/" title="RPG Maker Official Store"
+            target="_blank" class="header--sp__link">
+            <p class="header--sp__text">Store</p>
+          </a></li>
+      </ul>
+    </div>
+  </header>
+  <!-- header / -->
+  <!-- / KV -->
+  <div class="kv wrapper rellax" data-rellax-speed="-8">
+    <p class="kv--text">誰もがゲームクリエイターになれる<br>
+      ワクワクを届ける</p>
+    <div class="kv--g1 anim">
+      <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+        width="195px" height="305px" viewBox="0 0 19.7 30.9" style="enable-background:new 0 0 19.7 30.9;"
+        xml:space="preserve">
+        <path d="M18,11.2v-1.1c0-4.5-2.9-8.4-8.2-8.4c-5.2,0-8.2,3.9-8.2,8.4v10.7c0,4.5,2.9,8.4,8.2,8.4s8.2-3.9,8.2-8.4v-6.4H9.9V19h3.3
+       v1.7c0,1.8-1.2,3.4-3.3,3.4s-3.3-1.6-3.3-3.4V10.2c0-1.8,1.2-3.4,3.3-3.4s3.3,1.6,3.3,3.4v1H18z" />
+      </svg>
+    </div>
+    <div class="kv--o1 anim">
+      <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+        width="120px" height="139px" viewBox="0 0 17.9 20.8" style="enable-background:new 0 0 17.9 20.8;"
+        xml:space="preserve">
+        <path d="M8.9,1.2c-4.7,0-7.4,3-7.4,7v4.3c0,4.1,2.6,7,7.4,7s7.4-2.9,7.4-7V8.3C16.3,4.2,13.7,1.2,8.9,1.2z M11.6,12.4
+	c0,1.5-1,2.8-2.7,2.8s-2.7-1.4-2.7-2.8v-4c0-1.5,1-2.8,2.7-2.8s2.7,1.3,2.7,2.8V12.4z" />
+      </svg>
+    </div>
+    <div class="kv--t1 anim">
+      <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+        width="115px" height="177px" viewBox="0 0 17.5 27" style="enable-background:new 0 0 17.5 27;"
+        xml:space="preserve">
+        <polygon
+          points="14.2,6.6 11.1,6.6 11.1,2.5 6.4,2.5 6.4,6.6 3.3,6.6 3.3,10.7 6.4,10.7 6.4,24.5 11.1,24.5 11.1,10.7 14.2,10.7 " />
+      </svg>
+    </div>
+    <div class="kv--c1 anim">
+      <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+        width="70px" height="81px" viewBox="0 0 17.9 20.9" style="enable-background:new 0 0 17.9 20.9;"
+        xml:space="preserve">
+        <path d="M11.6,12v0.4c0,1.5-1,2.8-2.7,2.8s-2.7-1.4-2.7-2.8v-4c0-1.5,1-2.8,2.7-2.8s2.7,1.3,2.7,2.8v0.4h4.7V8.3c0-4.1-2.6-7-7.4-7
+	s-7.4,3-7.4,7v4.3c0,4.1,2.6,7,7.4,7s7.4-2.9,7.4-7V12H11.6z" />
+      </svg>
+    </div>
+    <div class="kv--h1 anim">
+      <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+        width="150px" height="215px" viewBox="0 0 21 30.2" style="enable-background:new 0 0 21 30.2;"
+        xml:space="preserve">
+        <path d="M11.9,10.5c-2.5,0-3.8,1.1-4.1,1.4V1.6H3.1v27h4.7V17.5c0-1.5,1-2.6,2.7-2.6c1.7,0,2.7,1.2,2.7,2.7v11h4.7V16.9
+	C17.9,12.9,15.7,10.5,11.9,10.5z" />
+      </svg>
+    </div>
+    <div class="kv--a1 anim">
+      <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+        width="150px" height="169px" viewBox="0 0 21.2 24" style="enable-background:new 0 0 21.2 24;"
+        xml:space="preserve">
+        <path
+          d="M13.9,3.1v1.3c-0.2-0.3-1.5-1.5-4.2-1.5C6,2.8,3.2,5.7,3.2,9.8v4.5c0,4,2.7,6.9,6.3,6.9c2.7,0,4.1-1.2,4.4-1.5v1.3h4V3.1
+	H13.9z M13.3,14c0,1.5-1,2.8-2.7,2.8S7.9,15.5,7.9,14v-4c0-1.5,1-2.8,2.7-2.8s2.7,1.3,2.7,2.8C13.3,10,13.3,14,13.3,14z" />
+      </svg>
+    </div>
+    <div class="kv--g2 anim">
+      <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+        width="195px" height="305px" viewBox="0 0 19.7 30.9" style="enable-background:new 0 0 19.7 30.9;"
+        xml:space="preserve">
+        <path d="M18,11.2v-1.1c0-4.5-2.9-8.4-8.2-8.4c-5.2,0-8.2,3.9-8.2,8.4v10.7c0,4.5,2.9,8.4,8.2,8.4s8.2-3.9,8.2-8.4v-6.4H9.9V19h3.3
+       v1.7c0,1.8-1.2,3.4-3.3,3.4s-3.3-1.6-3.3-3.4V10.2c0-1.8,1.2-3.4,3.3-3.4s3.3,1.6,3.3,3.4v1H18z" />
+      </svg>
+    </div>
+    <div class="kv--o2 anim">
+      <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+        width="120px" height="139px" viewBox="0 0 17.9 20.8" style="enable-background:new 0 0 17.9 20.8;"
+        xml:space="preserve">
+        <path d="M8.9,1.2c-4.7,0-7.4,3-7.4,7v4.3c0,4.1,2.6,7,7.4,7s7.4-2.9,7.4-7V8.3C16.3,4.2,13.7,1.2,8.9,1.2z M11.6,12.4
+	c0,1.5-1,2.8-2.7,2.8s-2.7-1.4-2.7-2.8v-4c0-1.5,1-2.8,2.7-2.8s2.7,1.3,2.7,2.8V12.4z" />
+      </svg>
+    </div>
+    <div class="kv--t2 anim">
+      <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+        width="125px" height="192px" viewBox="0 0 17.5 27" style="enable-background:new 0 0 17.5 27;"
+        xml:space="preserve">
+        <polygon
+          points="14.2,6.6 11.1,6.6 11.1,2.5 6.4,2.5 6.4,6.6 3.3,6.6 3.3,10.7 6.4,10.7 6.4,24.5 11.1,24.5 11.1,10.7 14.2,10.7 " />
+      </svg>
+    </div>
+    <div class="kv--c2 anim">
+      <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+        width="100px" height="116px" viewBox="0 0 17.9 20.9" style="enable-background:new 0 0 17.9 20.9;"
+        xml:space="preserve">
+        <path d="M11.6,12v0.4c0,1.5-1,2.8-2.7,2.8s-2.7-1.4-2.7-2.8v-4c0-1.5,1-2.8,2.7-2.8s2.7,1.3,2.7,2.8v0.4h4.7V8.3c0-4.1-2.6-7-7.4-7
+	s-7.4,3-7.4,7v4.3c0,4.1,2.6,7,7.4,7s7.4-2.9,7.4-7V12H11.6z" />
+      </svg>
+    </div>
+    <div class="kv--h2 anim">
+      <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+        width="120px" height="139px" viewBox="0 0 21 30.2" style="enable-background:new 0 0 21 30.2;"
+        xml:space="preserve">
+        <path d="M11.9,10.5c-2.5,0-3.8,1.1-4.1,1.4V1.6H3.1v27h4.7V17.5c0-1.5,1-2.6,2.7-2.6c1.7,0,2.7,1.2,2.7,2.7v11h4.7V16.9
+	C17.9,12.9,15.7,10.5,11.9,10.5z" />
+      </svg>
+    </div>
+    <div class="kv--a2 anim">
+      <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+        width="120px" height="172px" viewBox="0 0 21.2 24" style="enable-background:new 0 0 21.2 24;"
+        xml:space="preserve">
+        <path
+          d="M13.9,3.1v1.3c-0.2-0.3-1.5-1.5-4.2-1.5C6,2.8,3.2,5.7,3.2,9.8v4.5c0,4,2.7,6.9,6.3,6.9c2.7,0,4.1-1.2,4.4-1.5v1.3h4V3.1
+	H13.9z M13.3,14c0,1.5-1,2.8-2.7,2.8S7.9,15.5,7.9,14v-4c0-1.5,1-2.8,2.7-2.8s2.7,1.3,2.7,2.8C13.3,10,13.3,14,13.3,14z" />
+      </svg>
+    </div>
+    <div class="kv--g3 anim">
+      <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+        width="195px" height="305px" viewBox="0 0 19.7 30.9" style="enable-background:new 0 0 19.7 30.9;"
+        xml:space="preserve">
+        <path d="M18,11.2v-1.1c0-4.5-2.9-8.4-8.2-8.4c-5.2,0-8.2,3.9-8.2,8.4v10.7c0,4.5,2.9,8.4,8.2,8.4s8.2-3.9,8.2-8.4v-6.4H9.9V19h3.3
+       v1.7c0,1.8-1.2,3.4-3.3,3.4s-3.3-1.6-3.3-3.4V10.2c0-1.8,1.2-3.4,3.3-3.4s3.3,1.6,3.3,3.4v1H18z" />
+      </svg>
+    </div>
+    <div class="kv--o3 anim">
+      <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+        width="200px" height="232px" viewBox="0 0 17.9 20.8" style="enable-background:new 0 0 17.9 20.8;"
+        xml:space="preserve">
+        <path d="M8.9,1.2c-4.7,0-7.4,3-7.4,7v4.3c0,4.1,2.6,7,7.4,7s7.4-2.9,7.4-7V8.3C16.3,4.2,13.7,1.2,8.9,1.2z M11.6,12.4
+	c0,1.5-1,2.8-2.7,2.8s-2.7-1.4-2.7-2.8v-4c0-1.5,1-2.8,2.7-2.8s2.7,1.3,2.7,2.8V12.4z" />
+      </svg>
+    </div>
+    <div class="kv--t3 anim">
+      <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+        width="160px" height="246px" viewBox="0 0 17.5 27" style="enable-background:new 0 0 17.5 27;"
+        xml:space="preserve">
+        <polygon
+          points="14.2,6.6 11.1,6.6 11.1,2.5 6.4,2.5 6.4,6.6 3.3,6.6 3.3,10.7 6.4,10.7 6.4,24.5 11.1,24.5 11.1,10.7 14.2,10.7 " />
+      </svg>
+    </div>
+    <div class="kv--c3 anim">
+      <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+        width="110px" height="128px" viewBox="0 0 17.9 20.9" style="enable-background:new 0 0 17.9 20.9;"
+        xml:space="preserve">
+        <path d="M11.6,12v0.4c0,1.5-1,2.8-2.7,2.8s-2.7-1.4-2.7-2.8v-4c0-1.5,1-2.8,2.7-2.8s2.7,1.3,2.7,2.8v0.4h4.7V8.3c0-4.1-2.6-7-7.4-7
+	s-7.4,3-7.4,7v4.3c0,4.1,2.6,7,7.4,7s7.4-2.9,7.4-7V12H11.6z" />
+      </svg>
+    </div>
+    <div class="kv--h3 anim">
+      <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+        width="180px" height="258px" viewBox="0 0 21 30.2" style="enable-background:new 0 0 21 30.2;"
+        xml:space="preserve">
+        <path d="M11.9,10.5c-2.5,0-3.8,1.1-4.1,1.4V1.6H3.1v27h4.7V17.5c0-1.5,1-2.6,2.7-2.6c1.7,0,2.7,1.2,2.7,2.7v11h4.7V16.9
+	C17.9,12.9,15.7,10.5,11.9,10.5z" />
+      </svg>
+    </div>
+    <div class="kv--a3 anim">
+      <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+        width="110px" height="124px" viewBox="0 0 21.2 24" style="enable-background:new 0 0 21.2 24;"
+        xml:space="preserve">
+        <path
+          d="M13.9,3.1v1.3c-0.2-0.3-1.5-1.5-4.2-1.5C6,2.8,3.2,5.7,3.2,9.8v4.5c0,4,2.7,6.9,6.3,6.9c2.7,0,4.1-1.2,4.4-1.5v1.3h4V3.1
+	H13.9z M13.3,14c0,1.5-1,2.8-2.7,2.8S7.9,15.5,7.9,14v-4c0-1.5,1-2.8,2.7-2.8s2.7,1.3,2.7,2.8C13.3,10,13.3,14,13.3,14z" />
+      </svg>
+    </div>
+    <div class="kv--pink1 pink">
+      <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+        width="15px" height="45px" viewBox="0 0 5.6 16.9" style="enable-background:new 0 0 5.6 16.9;"
+        xml:space="preserve">
+        <style type="text/css">
+          .st0 {
+            fill: #E62D8C;
+          }
+        </style>
+        <path class="st0" d="M5.6,3c0-1.6-1-3-2.8-3C1,0,0,1.4,0,3v10.9c0,1.6,1,3,2.8,3c1.8,0,2.8-1.4,2.8-3V3z" />
+      </svg>
+    </div>
+    <div class="kv--pink2 pink">
+      <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+        width="7px" height="21px" viewBox="0 0 5.6 16.9" style="enable-background:new 0 0 5.6 16.9;"
+        xml:space="preserve">
+        <style type="text/css">
+          .st0 {
+            fill: #E62D8C;
+          }
+        </style>
+        <path class="st0" d="M5.6,3c0-1.6-1-3-2.8-3C1,0,0,1.4,0,3v10.9c0,1.6,1,3,2.8,3c1.8,0,2.8-1.4,2.8-3V3z" />
+      </svg>
+    </div>
+    <div class="kv--pink3 pink">
+      <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+        width="15px" height="45px" viewBox="0 0 5.6 16.9" style="enable-background:new 0 0 5.6 16.9;"
+        xml:space="preserve">
+        <style type="text/css">
+          .st0 {
+            fill: #E62D8C;
+          }
+        </style>
+        <path class="st0" d="M5.6,3c0-1.6-1-3-2.8-3C1,0,0,1.4,0,3v10.9c0,1.6,1,3,2.8,3c1.8,0,2.8-1.4,2.8-3V3z" />
+      </svg>
+    </div>
+    <div class="kv--pink4 pink">
+      <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+        width="15px" height="45px" viewBox="0 0 5.6 16.9" style="enable-background:new 0 0 5.6 16.9;"
+        xml:space="preserve">
+        <style type="text/css">
+          .st0 {
+            fill: #E62D8C;
+          }
+        </style>
+        <path class="st0" d="M5.6,3c0-1.6-1-3-2.8-3C1,0,0,1.4,0,3v10.9c0,1.6,1,3,2.8,3c1.8,0,2.8-1.4,2.8-3V3z" />
+      </svg>
+    </div>
+    <div class="kv--pink5 pink">
+      <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+        width="15px" height="45px" viewBox="0 0 5.6 16.9" style="enable-background:new 0 0 5.6 16.9;"
+        xml:space="preserve">
+        <style type="text/css">
+          .st0 {
+            fill: #E62D8C;
+          }
+        </style>
+        <path class="st0" d="M5.6,3c0-1.6-1-3-2.8-3C1,0,0,1.4,0,3v10.9c0,1.6,1,3,2.8,3c1.8,0,2.8-1.4,2.8-3V3z" />
+      </svg>
+    </div>
+    <div class="kv--pink6 pink">
+      <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+        width="15px" height="45px" viewBox="0 0 5.6 16.9" style="enable-background:new 0 0 5.6 16.9;"
+        xml:space="preserve">
+        <style type="text/css">
+          .st0 {
+            fill: #E62D8C;
+          }
+        </style>
+        <path class="st0" d="M5.6,3c0-1.6-1-3-2.8-3C1,0,0,1.4,0,3v10.9c0,1.6,1,3,2.8,3c1.8,0,2.8-1.4,2.8-3V3z" />
+      </svg>
+    </div>
+  </div>
+  <!-- KV / -->
+  <!-- / MAIN -->
+  <main class="main">
+    <!-- / news -->
+    <div class="news" id="news">
+      <div class="news--bg rellax" data-rellax-speed="-0.5">
+        <div class="news--bg__n bgAnim">
+          <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+            y="0px" width="320px" height="397px" viewBox="0 0 181.21 225.29"
+            style="enable-background:new 0 0 181.21 225.29;" xml:space="preserve">
+            <style type="text/css">
+              .st2 {
+                font-family: Roboto;
+                font-weight: bold;
+              }
+
+              .st3 {
+                font-size: 200px;
+              }
+            </style>
+            <text transform="matrix(1 0 0 1 20 171.0938)" class="st2 st3">N</text>
+          </svg>
+        </div>
+        <div class="news--bg__e bgAnim">
+          <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+            y="0px" width="320px" height="397px" viewBox="0 0 181.21 225.29"
+            style="enable-background:new 0 0 181.21 225.29;" xml:space="preserve">
+            <style type="text/css">
+              .st2 {
+                font-family: Roboto;
+                font-weight: bold;
+              }
+
+              .st3 {
+                font-size: 200px;
+              }
+            </style>
+            <text transform="matrix(1 0 0 1 36.5527 171.0938)" class="st2 st3">e</text>
+          </svg>
+        </div>
+        <div class="news--bg__w bgAnim">
+          <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+            y="0px" width="320px" height="397px" viewBox="0 0 181.21 225.29"
+            style="enable-background:new 0 0 181.21 225.29;" xml:space="preserve">
+            <style type="text/css">
+              .st2 {
+                font-family: Roboto;
+                font-weight: bold;
+              }
+
+              .st3 {
+                font-size: 200px;
+              }
+            </style>
+            <text transform="matrix(1 0 0 1 17.1191 171.0938)" class="st2 st3">w</text>
+          </svg>
+        </div>
+        <div class="news--bg__s bgAnim">
+          <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+            width="530px" height="658px" y="0px" viewBox="0 0 181.21 225.29"
+            style="enable-background:new 0 0 181.21 225.29;" xml:space="preserve">
+            <style type="text/css">
+              .st2 {
+                font-family: Roboto;
+                font-weight: bold;
+              }
+
+              .st3 {
+                font-size: 200px;
+              }
+            </style>
+            <text transform="matrix(1 0 0 1 39.1895 171.0938)" class="st2 st3">s</text>
+          </svg>
+
+        </div>
+      </div>
+      <div class="wrapper">
+        <h2 class="news--header headAnim">
+          <span class="line"></span>
+          <span class="text">News</span>
+        </h2>
+        <div class="news--inner">
+          <div class="news--box">
+            <time datetime="2026-10-20" class="news--time">2026.10.20</time>
+            <p class="news--text"><a href="https://prtimes.jp/main/html/rd/p/000020403.000007006.html"
+                target="_blank">マップエディター体験版公開＆マップ募集企画スタート！</a></p>
+          </div>
+          <div class="news--box">
+            <time datetime="2026-08-27" class="news--time">2026.08.27</time>
+            <p class="news--text"><a href="https://store.steampowered.com/app/4856440/"
+                target="_blank">『RPGツクールU2U』Steamストアページ</a>を公開！ウィッシュリスト登録受付を開始！</p>
+          </div>
+          <div class="news--box">
+            <time datetime="2026-05-21" class="news--time">2026.05.21</time>
+            <p class="news--text"><a href="https://prtimes.jp/main/html/rd/p/000019374.000007006.html"
+                target="_blank">シリーズ最新作『RPGツクールU2U』発表！直感的に奥行きのあるマップをツクる新機能を公開</a></p>
+          </div>
+          <div class="news--box">
+            <time datetime="2026-03-25" class="news--time">2026.03.25</time>
+            <p class="news--text"><a href="https://prtimes.jp/main/html/rd/p/000019094.000007006.html"
+                target="_blank">新たな表現の扉を開くRPGツクール新プロジェクトのティザー映像が解禁</a></p>
+          </div>
+          <div class="news--box">
+            <time datetime="2026-02-09" class="news--time">2026.02.09</time>
+            <p class="news--text"><a href="https://rpgmakerofficial.com/award2026/" target="_blank">「RPG Maker Award
+                2026」の受賞作品を発表しました。</a></p>
+          </div>
+          <div class="news--box">
+            <time datetime="2026-01-01" class="news--time">2026.01.01</time>
+            <p class="news--text"><a href="https://www.gotchagotcha.jp/newyearcard2026.html"
+                target="_blank">年賀ページ</a>を公開しました。本年もよろしくお願いいたします。</p>
+          </div>
+          <div class="news--box">
+            <time datetime="2025-08-22" class="news--time">2025.08.22</time>
+            <p class="news--text"><a href="https://prtimes.jp/main/html/rd/p/000017564.000007006.html"
+                target="_blank">『RPG MAKER UNITE』ゲームジャム受賞作品発表！ Mac版配信開始・75%OFFセール実施</a></p>
+          </div>
+          <div class="news--box">
+            <time datetime="2025-03-06" class="news--time">2025.03.06</time>
+            <p class="news--text"><a
+                href="https://www.gotchagotcha.jp/assets/pdf/rpg_maker_unite_gamejam_ja_20250306.pdf"
+                target="_blank">『RPG MAKER UNITE』公式ゲームジャムによる作品募集＆アセットコンテストを開催！2回目となる本体70％OFFセールもスタート</a></p>
+          </div>
+          <div class="news--box">
+            <time datetime="2025-01-16" class="news--time">2025.01.16</time>
+            <p class="news--text"><a
+                href="https://www.gotchagotcha.jp/assets/pdf/rpg_maker_unite_gamejam_ja_20250116.pdf"
+                target="_blank">『RPG MAKER UNITE』ゲームジャム開催決定！70% OFFの記念セールやメジャーアップデートも実施！</a></p>
+          </div>
+          <div class="news--box">
+            <time datetime="2024-07-18" class="news--time">2024.07.18</time>
+            <p class="news--text"><a href="https://store.rpgmakerofficial.com/ja/" target="_blank">RPG Maker Official
+                Store を日本国内向けにオープンしました。</a></p>
+          </div>
+          <div class="news--box">
+            <time datetime="2024-07-12" class="news--time">2024.07.12</time>
+            <p class="news--text"><a href="https://store.steampowered.com/app/2987180/ACTION_GAME_MAKER/">『ACTION GAME
+                MAKER』ストアページを公開しました。</a></p>
+          </div>
+          <div class="news--box">
+            <time datetime="2024-04-11" class="news--time">2024.04.11</time>
+            <p class="news--text">『<a href="https://with.rpgmakerofficial.com/" target="_blank">RPG MAKER
+                WITH</a>』Nintendo Switch版を発売いたしました。</p>
+          </div>
+          <div class="news--box">
+            <time datetime="2024-01-01" class="news--time">2024.01.01</time>
+            <p class="news--text"><a href="
+              https://www.gotchagotcha.jp/newyearcard2024.html" target="_blank">年賀ページ
+              </a>を公開しました。本年もよろしくお願いいたします。</p>
+          </div>
+          <div class="news--box">
+            <time datetime="2023-10-19" class="news--time">2023.10.19</time>
+            <p class="news--text">RPG Makerシリーズの最新作『<a href="https://with.rpgmakerofficial.com/" target="_blank">RPG
+                MAKER WITH</a>』を発表しました。</p>
+          </div>
+
+          <div class="news--box">
+            <time datetime="2023-05-08" class="news--time">2023.05.08</time>
+            <p class="news--text">『<a href="./assets/pdf/RPG_Maker_Unite_PR_0508.pdf" target="_blank">RPG
+                MAKER UNITE</a>』発売のお知らせ</p>
+          </div>
+
+          <div class="news--box">
+            <time datetime="2023-03-01" class="news--time">2023.03.01</time>
+            <p class="news--text"><a href="https://support.rpgmakerunite.com/hc/ja/articles/16071561100057--RPG-Maker-Unite-Unity-As[…]B2%E6%97%A5%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B
+              " target="_blank">『RPG Maker Unite』 Unity Asset Store発売日のお知らせ
+              </a></p>
+          </div>
+
+          <div class="news--box">
+            <time datetime="2023-01-01" class="news--time">2023.01.01</time>
+            <p class="news--text"><a href="
+              https://www.gotchagotcha.jp/newyearcard2023.html" target="_blank">年賀ページ
+              </a>を公開しました。本年もよろしくお願いいたします。</p>
+          </div>
+          <div class="news--box">
+            <time datetime="2022-11-30" class="news--time">2022.11.30</time>
+            <p class="news--text">「<a href="
+https://store.steampowered.com/news/app/1650950/view/3637249351069150796" target="_blank">RPG Maker Unite
+              </a>」発売時期変更のお知らせ</p>
+          </div>
+          <div class="news--box">
+            <time datetime="2022-11-29" class="news--time">2022.11.29</time>
+            <p class="news--text">冒険企画局とゲームオンの共同プロジェクト「<a
+                href="https://prtimes.jp/main/html/rd/p/000011669.000007006.html" target="_blank">TRPGリプレイコンテスト
+              </a>」に参加します。</p>
+          </div>
+          <div class="news--box">
+            <time datetime="2022-02-25" class="news--time">2022.2.25</time>
+            <p class="news--text">RPG Makerシリーズの最新作 『<a href="./assets/pdf/RPG_Maker_Unite_PR.pdf" target="_blank">RPG
+                Maker Unite</a>』を発表しました。</p>
+          </div>
+          <div class="news--box">
+            <time datetime="2021-10-29" class="news--time">2021.10.29</time>
+            <p class="news--text">ツクール公式DLC募集ページを追加しました。</p>
+          </div>
+          <div class="news--box">
+            <time datetime="2021-06-24" class="news--time">2021.6.24</time>
+            <p class="news--text">特定個人情報の適正な取扱いに関する基本方針を追加しました。</p>
+          </div>
+          <div class="news--box">
+            <time datetime="2021-05-21" class="news--time">2021.5.21</time>
+            <p class="news--text">動画、静止画等の投稿ガイドラインを追加しました。</p>
+          </div>
+          <div class="news--box">
+            <time datetime="2020-10-29" class="news--time">2020.11.6</time>
+            <p class="news--text">EEA域内のお客様向けプライバシーポリシーを追加しました。</p>
+          </div>
+          <div class="news--box">
+            <time datetime="2020-09-01" class="news--time">2020.9.1</time>
+            <p class="news--text">株式会社Gotcha Gotcha Games を設立しました。</p>
+          </div>
+          <div class="news--box">
+            <time datetime="2020-01-01" class="news--time">2020.8.20 </time>
+            <p class="news--text">RPGツクールMZ を発売しました。</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- news / -->
+    <!-- / message -->
+    <div class="message" id="message">
+      <div class="message--bg rellax" data-rellax-speed="-1.5">
+        <div class="message--bg__m bgAnim">
+          <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+            width="240px" height="298px" y="0px" viewBox="0 0 181.21 225.29"
+            style="enable-background:new 0 0 181.21 225.29;" xml:space="preserve">
+            <style type="text/css">
+              .st2 {
+                font-family: Roboto;
+                font-weight: bold;
+              }
+
+              .st3 {
+                font-size: 200px;
+              }
+            </style>
+            <text transform="matrix(1 0 0 1 3.0078 171.0938)" class="st2 st3">M</text>
+          </svg>
+        </div>
+        <div class="message--bg__e bgAnim">
+          <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+            width="240px" height="298px" y="0px" viewBox="0 0 181.21 225.29"
+            style="enable-background:new 0 0 181.21 225.29;" xml:space="preserve">
+            <style type="text/css">
+              .st2 {
+                font-family: Roboto;
+                font-weight: bold;
+              }
+
+              .st3 {
+                font-size: 200px;
+              }
+            </style>
+            <text transform="matrix(1 0 0 1 36.5527 171.0938)" class="st2 st3">e</text>
+          </svg>
+        </div>
+        <div class="message--bg__s1 bgAnim">
+          <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+            width="270px" height="335px" y="0px" viewBox="0 0 181.21 225.29"
+            style="enable-background:new 0 0 181.21 225.29;" xml:space="preserve">
+            <style type="text/css">
+              .st1 {
+                font-family: Roboto;
+                font-weight: bold;
+              }
+
+              .st2 {
+                font-size: 200px;
+              }
+            </style>
+            <text transform="matrix(1 0 0 1 39.1895 171.0938)" class="st1 st2">s</text>
+          </svg>
+        </div>
+        <div class="message--bg__s2 bgAnim">
+          <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+            width="480px" height="596px" y="0px" viewBox="0 0 181.21 225.29"
+            style="enable-background:new 0 0 181.21 225.29;" xml:space="preserve">
+            <style type="text/css">
+              .st1 {
+                font-family: Roboto;
+                font-weight: bold;
+              }
+
+              .st2 {
+                font-size: 200px;
+              }
+            </style>
+            <text transform="matrix(1 0 0 1 39.1895 171.0938)" class="st1 st2">s</text>
+          </svg>
+        </div>
+        <div class="message--bg__a bgAnim">
+          <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+            width="330px" height="410px" y="0px" viewBox="0 0 181.21 225.29"
+            style="enable-background:new 0 0 181.21 225.29;" xml:space="preserve">
+            <style type="text/css">
+              .st2 {
+                font-family: Roboto;
+                font-weight: bold;
+              }
+
+              .st3 {
+                font-size: 200px;
+              }
+            </style>
+            <text transform="matrix(1 0 0 1 36.9922 171.0938)" class="st2 st3">a</text>
+          </svg>
+        </div>
+        <div class="message--bg__g bgAnim">
+          <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+            width="620px" height="770px" y="0px" viewBox="0 0 181.21 225.29"
+            style="enable-background:new 0 0 181.21 225.29;" xml:space="preserve">
+            <style type="text/css">
+              .st2 {
+                font-family: Roboto;
+                font-weight: bold;
+              }
+
+              .st3 {
+                font-size: 200px;
+              }
+            </style>
+            <text transform="matrix(1 0 0 1 33.5254 171.0938)" class="st2 st3">g</text>
+          </svg>
+        </div>
+        <div class="message--bg__e2 bgAnim">
+          <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+            width="280px" height="348px" y="0px" viewBox="0 0 181.21 225.29"
+            style="enable-background:new 0 0 181.21 225.29;" xml:space="preserve">
+            <style type="text/css">
+              .st2 {
+                font-family: Roboto;
+                font-weight: bold;
+              }
+
+              .st3 {
+                font-size: 200px;
+              }
+            </style>
+            <text transform="matrix(1 0 0 1 36.5527 171.0938)" class="st2 st3">e</text>
+          </svg>
+        </div>
+      </div>
+      <div class="wrapper">
+        <h2 class="message--header headAnim">
+          <span class="text">Message</span>
+          <span class="line"></span>
+        </h2>
+        <p class="message--text textAnim">
+          誰もがゲームクリエイターになれるワクワクする体験を届ける、私達が掲げたミッションです。<br>
+          ゲームを作りたいという多くの人の想いを叶えるため、約30年に渡り『ツクール』を作り続けてきました。<br>
+          その想いを、次のステージにつなげていきます。<br>
+          はじめてPCに向かい合った人でさえ、ゲームを作ることができる体験を提供すること。<br>
+          個人クリエイターや少人数のチーム/スタジオが世界に羽ばたけるサポートをすること。<br>
+          光るアイデアや心ときめくストーリーなど、強い想いのこもった作品が集まり、輝ける場所を提供すること。<br>
+          どんなワクワクが出てくるのか、私達の新たなチャレンジにご期待ください。
+          そして、一緒に楽しみましょう！<br>
+        </p>
+      </div>
+    </div>
+    <!-- message / -->
+    <!-- / service -->
+    <div class=" service" id="service">
+      <div class="service--bg rellax" data-rellax-speed="-2">
+        <div class="service--bg__s bgAnim">
+          <svg version="1.1" id="レイヤー_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+            x="0px" y="0px" width="500px" height="621px" viewBox="0 0 181.2 225.3"
+            style="enable-background:new 0 0 181.2 225.3;" xml:space="preserve">
+            <style type="text/css">
+              .st2 {
+                font-family: Roboto;
+                font-weight: bold;
+              }
+
+              .st3 {
+                font-size: 200px;
+              }
+            </style>
+            <text transform="matrix(1 0 0 1 29.1895 171.0938)" class="st2 st3">S</text>
+          </svg>
+        </div>
+        <div class="service--bg__e bgAnim">
+          <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+            width="270px" height="335px" y="0px" viewBox="0 0 181.21 225.29"
+            style="enable-background:new 0 0 181.21 225.29;" xml:space="preserve">
+            <style type="text/css">
+              .st2 {
+                font-family: Roboto;
+                font-weight: bold;
+              }
+
+              .st3 {
+                font-size: 200px;
+              }
+            </style>
+            <text transform="matrix(1 0 0 1 36.5527 171.0938)" class="st2 st3">e</text>
+          </svg>
+        </div>
+        <div class="service--bg__r bgAnim">
+          <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+            width="290px" height="360px" y="0px" viewBox="0 0 181.21 225.29"
+            style="enable-background:new 0 0 181.21 225.29;" xml:space="preserve">
+            <style type="text/css">
+              .st2 {
+                font-family: Roboto;
+                font-weight: bold;
+              }
+
+              .st3 {
+                font-size: 200px;
+              }
+            </style>
+            <text transform="matrix(1 0 0 1 54.1309 171.0938)" class="st2 st3">r</text>
+          </svg>
+        </div>
+        <div class="service--bg__v bgAnim">
+          <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+            width="410px" height="509px" y="0px" viewBox="0 0 181.21 225.29"
+            style="enable-background:new 0 0 181.21 225.29;" xml:space="preserve">
+            <style type="text/css">
+              .st0 {
+                font-family: 'Roboto-Bold';
+              }
+
+              .st1 {
+                font-size: 200px;
+              }
+            </style>
+            <text transform="matrix(1 0 0 1 40.0684 171.0938)" class="st2 st3">v</text>
+          </svg>
+        </div>
+        <div class="service--bg__i bgAnim">
+          <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+            width="310px" height="385px" y="0px" viewBox="0 0 181.21 225.29"
+            style="enable-background:new 0 0 181.21 225.29;" xml:space="preserve">
+            <style type="text/css">
+              .st0 {
+                font-family: 'Roboto-Bold';
+              }
+
+              .st1 {
+                font-size: 200px;
+              }
+            </style>
+            <text transform="matrix(1 0 0 1 64.0918 171.0938)" class="st2 st3">i</text>
+          </svg>
+        </div>
+        <div class="service--bg__c bgAnim">
+          <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+            width="310px" height="385px" y="0px" viewBox="0 0 181.21 225.29"
+            style="enable-background:new 0 0 181.21 225.29;" xml:space="preserve">
+            <style type="text/css">
+              .st0 {
+                font-family: 'Roboto-Bold';
+              }
+
+              .st1 {
+                font-size: 200px;
+              }
+            </style>
+            <text transform="matrix(1 0 0 1 38.457 171.0938)" class="st2 st3">c</text>
+          </svg>
+        </div>
+        <div class="service--bg__e2 bgAnim">
+          <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+            width="210px" height="261px" y="0px" viewBox="0 0 181.21 225.29"
+            style="enable-background:new 0 0 181.21 225.29;" xml:space="preserve">
+            <style type="text/css">
+              .st2 {
+                font-family: Roboto;
+                font-weight: bold;
+              }
+
+              .st3 {
+                font-size: 200px;
+              }
+            </style>
+            <text transform="matrix(1 0 0 1 36.5527 171.0938)" class="st2 st3">e</text>
+          </svg>
+        </div>
+      </div>
+      <div class="wrapper">
+        <h2 class="service--header headAnim">
+          <span class="line"></span>
+          <span class="text">Service</span>
+        </h2>
+        <div class="service--inner">
+          <div class="service--box off">
+            <div class="service--orange"></div>
+            <img src="./assets/images/top/service_img3.jpg" alt="" class="service--img">
+            <div class="service--black"></div>
+          </div>
+          <div class="service--box off">
+            <div class="service--orange"></div>
+            <img src="./assets/images/top/service_img2.jpg" alt="" class="service--img">
+            <div class="service--black"></div>
+          </div>
+          <div class="service--box off">
+            <div class="service--orange"></div>
+            <img src="./assets/images/top/service_img1.jpg" alt="" class="service--img">
+            <div class="service--black"></div>
+          </div>
+        </div>
+        <p class="service--text textAnim">
+          ゲームが好きな人なら「自分もゲームを作ってみたい」と一度は考えたことがあるのではないでしょうか？<br>
+          そこに立ちはだかるのは“プログラムの壁”。<br>
+          これにぶつかり、ほとんどの人は「難しいからヤメタ！」とあきらめていたことだと思います。<br>
+          これは、ゲーム業界全体にとっても、もったいないことです。<br>
+          そのあきらめてしまったアイデアから、世界を揺るがす大ヒットが生まれるかもしれないのですから。<br>
+          「プログラムを覚えないでゲームを作りたい」「誰もが簡単にゲームを作ることはできないか」<br>
+          そうしたいろんな人の想いをかなえるために『Maker (ツクール)』シリーズはあるのです。</p>
+        <a href="https://rpgmakerofficial.com/" class="service--link" target="_blank">
+          <p class="service--link__text">
+            READ MORE
+          </p>
+        </a>
+        <a href="https://rpgmakerofficial.com/application/official_dlc/" class="dlc--link" target="_blank">
+          <img src="./assets/images/top/dlc.png" alt="" class="service--img">
+        </a>
+      </div>
+    </div>
+    <!-- service / -->
+    <!-- / company -->
+    <div class="company" id="company">
+      <div class="company--bg rellax" data-rellax-speed='-1'>
+        <div class="company--bg__c bgAnim">
+          <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+            width="520px" height="646px" y="0px" viewBox="0 0 181.2 225.3"
+            style="enable-background:new 0 0 181.2 225.3;" xml:space="preserve">
+            <style type="text/css">
+              .st0 {
+                font-family: 'Roboto-Black';
+              }
+
+              .st1 {
+                font-size: 200px;
+              }
+            </style>
+            <text transform="matrix(1 0 0 1 25.1758 171.0938)" class="st2 st3">C</text>
+          </svg>
+        </div>
+        <div class="company--bg__o bgAnim">
+          <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+            width="320px" height="397px" y="0px" viewBox="0 0 181.21 225.29"
+            style="enable-background:new 0 0 181.21 225.29;" xml:space="preserve">
+            <style type="text/css">
+              .st0 {
+                font-family: 'Roboto-Bold';
+              }
+
+              .st1 {
+                font-size: 200px;
+              }
+            </style>
+            <text transform="matrix(1 0 0 1 34.0625 171.0938)" class="st2 st3">o</text>
+          </svg>
+        </div>
+        <div class="company--bg__m bgAnim">
+          <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+            width="320px" height="397px" y="0px" viewBox="0 0 181.21 225.29"
+            style="enable-background:new 0 0 181.21 225.29;" xml:space="preserve">
+            <style type="text/css">
+              .st0 {
+                font-family: 'Roboto-Bold';
+              }
+
+              .st1 {
+                font-size: 200px;
+              }
+            </style>
+            <text transform="matrix(1 0 0 1 4.0332 171.0938)" class="st2 st3">m</text>
+          </svg>
+        </div>
+        <div class="company--bg__p bgAnim">
+          <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+            width="320px" height="397px" y="0px" viewBox="0 0 181.21 225.29"
+            style="enable-background:new 0 0 181.21 225.29;" xml:space="preserve">
+            <style type="text/css">
+              .st0 {
+                font-family: 'Roboto-Bold';
+              }
+
+              .st1 {
+                font-size: 200px;
+              }
+            </style>
+            <text transform="matrix(1 0 0 1 34.3066 171.0938)" class="st2 st3">p</text>
+          </svg>
+        </div>
+        <div class="company--bg__n bgAnim">
+          <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+            width="320px" height="397px" y="0px" viewBox="0 0 181.21 225.29"
+            style="enable-background:new 0 0 181.21 225.29;" xml:space="preserve">
+            <style type="text/css">
+              .st0 {
+                font-family: 'Roboto-Bold';
+              }
+
+              .st1 {
+                font-size: 200px;
+              }
+            </style>
+            <text transform="matrix(1 0 0 1 34.5996 167.0938)" class="st2 st3">n</text>
+          </svg>
+        </div>
+        <div class="company--bg__y bgAnim">
+          <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+            width="320px" height="397px" y="0px" viewBox="0 0 181.21 225.29"
+            style="enable-background:new 0 0 181.21 225.29;" xml:space="preserve">
+            <style type="text/css">
+              .st0 {
+                font-family: 'Roboto-Bold';
+              }
+
+              .st1 {
+                font-size: 200px;
+              }
+            </style>
+            <text transform="matrix(1 0 0 1 40.4102 167.0938)" class="st2 st3">y</text>
+          </svg>
+        </div>
+      </div>
+      <div class="wrapper">
+        <h2 class="company--header headAnim">
+          <span class="text">Company</span>
+          <span class="line"></span>
+        </h2>
+        <div class="company--inner">
+          <ul class="company--list">
+            <li class="company--item">
+              <h3 class="company--item__head">商号</h3>
+              <p class="company--item__text">株式会社Gotcha Gotcha Games</p>
+            </li>
+            <li class="company--item">
+              <h3 class="company--item__head">本店所在地</h3>
+              <p class="company--item__text">東京都千代田区富士見二丁目13 番 3 号</p>
+            </li>
+            <li class="company--item">
+              <h3 class="company--item__head">代表者</h3>
+              <p class="company--item__text">代表取締役社長　成田 聖</p>
+            </li>
+            <li class="company--item">
+              <h3 class="company--item__head">事業内容</h3>
+              <p class="company--item__text">ゲームソフト・デジタルコンテンツの企画・開発・販売<br>ゲームソフト・デジタルコンテンツの制作者の育成等</p>
+            </li>
+            <li class="company--item">
+              <h3 class="company--item__head">資本金</h3>
+              <p class="company--item__text">100百万円</p>
+            </li>
+            <li class="company--item">
+              <h3 class="company--item__head">設立年月日</h3>
+              <p class="company--item__text">2020年9月1日</p>
+            </li>
+            <li class="company--item">
+              <h3 class="company--item__head">株主</h3>
+              <p class="company--item__text">株式会社KADOKAWA　100.0%</p>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <!-- company / -->
+
+    <!-- / recruit -->
+    <div class="recruit" id="recruit">
+
+      <div class="recruit--bg rellax" data-rellax-speed="-2">
+        <div class="recruit--bg__r bgAnim">
+          <svg version="1.1" id="レイヤー_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+            x="0px" y="0px" width="500px" height="621px" viewBox="0 0 181.2 225.3"
+            style="enable-background:new 0 0 181.2 225.3;" xml:space="preserve">
+            <style type="text/css">
+              .st2 {
+                font-family: Roboto;
+                font-weight: bold;
+              }
+
+              .st3 {
+                font-size: 200px;
+              }
+            </style>
+            <text transform="matrix(1 0 0 1 29.1895 171.0938)" class="st2 st3">R</text>
+          </svg>
+        </div>
+        <div class="recruit--bg__e bgAnim">
+          <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+            width="270px" height="335px" y="0px" viewBox="0 0 181.21 225.29"
+            style="enable-background:new 0 0 181.21 225.29;" xml:space="preserve">
+            <style type="text/css">
+              .st2 {
+                font-family: Roboto;
+                font-weight: bold;
+              }
+
+              .st3 {
+                font-size: 200px;
+              }
+            </style>
+            <text transform="matrix(1 0 0 1 36.5527 171.0938)" class="st2 st3">e</text>
+          </svg>
+        </div>
+        <div class="recruit--bg__c bgAnim">
+          <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+            width="290px" height="360px" y="0px" viewBox="0 0 181.21 225.29"
+            style="enable-background:new 0 0 181.21 225.29;" xml:space="preserve">
+            <style type="text/css">
+              .st2 {
+                font-family: Roboto;
+                font-weight: bold;
+              }
+
+              .st3 {
+                font-size: 200px;
+              }
+            </style>
+            <text transform="matrix(1 0 0 1 54.1309 171.0938)" class="st2 st3">c</text>
+          </svg>
+        </div>
+        <div class="recruit--bg__r2 bgAnim">
+          <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+            width="410px" height="509px" y="0px" viewBox="0 0 181.21 225.29"
+            style="enable-background:new 0 0 181.21 225.29;" xml:space="preserve">
+            <style type="text/css">
+              .st0 {
+                font-family: 'Roboto-Bold';
+              }
+
+              .st1 {
+                font-size: 200px;
+              }
+            </style>
+            <text transform="matrix(1 0 0 1 40.0684 171.0938)" class="st2 st3">r</text>
+          </svg>
+        </div>
+        <div class="recruit--bg__u bgAnim">
+          <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+            width="310px" height="385px" y="0px" viewBox="0 0 181.21 225.29"
+            style="enable-background:new 0 0 181.21 225.29;" xml:space="preserve">
+            <style type="text/css">
+              .st0 {
+                font-family: 'Roboto-Bold';
+              }
+
+              .st1 {
+                font-size: 200px;
+              }
+            </style>
+            <text transform="matrix(1 0 0 1 64.0918 171.0938)" class="st2 st3">u</text>
+          </svg>
+        </div>
+        <div class="recruit--bg__i bgAnim">
+          <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+            width="310px" height="385px" y="0px" viewBox="0 0 181.21 225.29"
+            style="enable-background:new 0 0 181.21 225.29;" xml:space="preserve">
+            <style type="text/css">
+              .st0 {
+                font-family: 'Roboto-Bold';
+              }
+
+              .st1 {
+                font-size: 200px;
+              }
+            </style>
+            <text transform="matrix(1 0 0 1 38.457 171.0938)" class="st2 st3">i</text>
+          </svg>
+        </div>
+        <div class="recruit--bg__t bgAnim">
+          <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+            width="210px" height="261px" y="0px" viewBox="0 0 181.21 225.29"
+            style="enable-background:new 0 0 181.21 225.29;" xml:space="preserve">
+            <style type="text/css">
+              .st2 {
+                font-family: Roboto;
+                font-weight: bold;
+              }
+
+              .st3 {
+                font-size: 200px;
+              }
+            </style>
+            <text transform="matrix(1 0 0 1 36.5527 171.0938)" class="st2 st3">t</text>
+          </svg>
+        </div>
+      </div>
+
+      <div class="wrapper">
+        <h2 class="recruit--header headAnim">
+          <span class="line"></span>
+          <span class="text">Recruit</span>
+        </h2>
+        <div class="recruit--inner">
+          <div class="recruit--box off textAnim">
+            <div class="recruit--orange"></div>
+            <img src="./assets/images/top/recruit_img.png" alt="recruit" class="recruit--img">
+            <div class="recruit--black"></div>
+          </div>
+        </div>
+        <h3 class="recruit--lead textAnim">新たなキャリアステージに挑戦して、<br>ＵＧＣ・インディゲームの新しい歴史を私たちと一緒に作ってみませんか？</h3>
+        <a href="recruit.html" class="recruit--link" target="_blank">
+          <p class="recruit--link__text">
+            READ MORE
+          </p>
+        </a>
+      </div>
+    </div>
+    <!-- recruit / -->
+
+    <!-- / contact -->
+    <div class="contact" id="contact">
+      <div class="wrapper">
+        <div class="contact--wrapper">
+          <h2 class="contact--header">Contact</h2>
+          <a href="mailto:info@gotchagotcha.jp" class="contact--link">
+            <p class="contact--img"><img src="./assets/images/top/mail.svg" alt=""></p>
+            <p class="contact--text fz40">info@gotchagotcha.jp</p>
+          </a>
+        </div>
+      </div>
+    </div>
+    <!-- contact / -->
+  </main>
+  <!-- MAIN / -->
+  <!-- / footer -->
+  <footer class="footer">
+    <div class="footer--link">
+      <a href="./policy.html" class="footer--link__item">
+        <p class="footer--link__text">サイトポリシー</p>
+      </a>
+      <a href="./privacy_index.html" class="footer--link__item">
+        <p class="footer--link__text">個人情報保護の方針</p>
+      </a>
+      <a href="./customer_harassment_policy.html" class="footer--link__item">
+        <p class="footer--link__text">カスタマーハラスメントポリシー</p>
+      </a>
+      <a href="./posting_guidelines.html" class="footer--link__item">
+        <p class="footer--link__text">動画、静止画等の投稿ガイドライン</p>
+      </a>
+    </div>
+    <p class="footer--copy">
+      &copy;Gotcha Gotcha Games Inc.
+    </p>
+  </footer>
+  <!-- footer / -->
+  <script>
+    var rellax = new Rellax('.rellax');
+  </script>
+</body>
+
+</html>

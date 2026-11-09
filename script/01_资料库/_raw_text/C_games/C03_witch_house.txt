@@ -1,0 +1,241 @@
+SOURCE: https://en.wikipedia.org/wiki/The_Witch%27s_House
+TITLE: 魔女之家（英文维基）
+FETCHED: 2026-10-21 17:20:21
+============================================================
+
+The Witch's House - Wikipedia
+
+Jump to content
+
+From Wikipedia, the free encyclopedia
+
+2012 video game
+
+For other uses, see Witch house (disambiguation) .
+
+2012 video game
+
+The Witch's House
+
+The Witch's House: The Diary of Ellen, Vol. 2 cover
+
+Developer Fummy
+
+Publishers
+
+Orig. : Fummy
+
+Rem. : Dangen Entertainment
+
+Engine RPG Maker VX
+
+RPG Maker MV (Remake)
+
+Platforms Microsoft Windows , iOS , Android macOS , Nintendo Switch , PlayStation 4 , Xbox One
+
+Release
+
+Windows
+
+JP : 3 October 2012
+
+iOS, Android
+
+JP : 1 May 2020
+
+The Witch's House MV
+
+Windows, macOS
+
+WW : 31 October 2018
+
+Switch, PlayStation 4, Xbox One
+
+WW : 13 October 2022
+
+Genre Adventure horror
+
+Mode Single-player
+
+The Witch's House [ a ] is a 2012 adventure game created by Japanese developer Fummy. Developed in the RPG Maker VX engine, it was released on October 3, 2012 for Windows as freeware . A remake titled The Witch's House MV was created in the newer RPG Maker MV engine. It was published by Dangen Entertainment and released for Windows and macOS on October 31, 2018, with a port to Nintendo Switch , PlayStation 4 and Xbox One following in October 2022.
+
+A prequel novel titled The Witch's House: The Diary of Ellen was released in 2013. It serves as the in-game diary of the game's antagonist Ellen. [ 1 ] Starting in 2017, the novel was adapted into a nine-part manga series of the same name illustrated by Yuna Kagesaki , and then condensed into two tankōbon volumes. [ 2 ]
+
+Gameplay
+[ edit ]
+
+The game is a survival horror game in which the main goal is to solve all puzzles correctly and escape the witch's house. It contains a creepy atmosphere, complex riddles and jump scares . This game is played from bird's-eye view using ornate 16-bit graphics, and controlled via keyboard. [ 3 ] [ 4 ]
+
+A black, talking cat can be met at various places in the house, serving as a save point, as well as something of a companion. Throughout the vast majority of the game, the cat is the only source of conversation, usually talking in a casual, nonchalant manner. [ 3 ] [ 4 ] The player's character, however, does not have any response until the ending of the game.
+
+Plot
+[ edit ]
+
+Viola, a 13-year-old girl, awakens in the middle of a forest. As the only way out of the woods is blocked by a wall of thorns, Viola looks for another way out of the forest. On her search she finds an old mansion. As night draws close, Viola decides to enter the house.
+
+When she enters the mansion, Viola finds that the entrance has vanished. Now trapped, Viola tries to find a way to leave the old mansion, which is filled with lethal dangers. She is accompanied throughout the mansion by a black cat with the ability to speak. Throughout the game, the history of the mansion is revealed through interactable objects and conversation with the cat. The house belongs to the witch Ellen, who was originally a young girl affected by an unknown illness and neglected by her parents. The black cat turns out to be a demon who gave Ellen her magic powers, promising her that if she lured people to the mansion for him to eat, she would be cured of her illness.
+
+The game has several endings which can be achieved based on the decisions and the actions of the player throughout the game. In two of these endings, it is revealed that the "Viola" the player has been controlling is Ellen after stealing Viola's body. The "Ellen" visible in the game is thus Viola using Ellen's magical powers, trying to trap Ellen inside the mansion to regain her original body.
+
+Development and release
+[ edit ]
+
+Fummy has stated they were influenced by Ib , another RPG Maker game released in 2012. [ 5 ] [ 6 ] The game was developed in the RPG Maker VX engine. [ 7 ] The Witch's House was released on October 3, 2012 for Windows as freeware . [ 3 ] In May 2020, Goodroid published iOS and Android ports based on the freeware version. It was only released in Japan. [ 8 ]
+
+A remake was announced in October 2018, titled The Witch’s House MV , developed by Fummy themselves. It was developed in RPG Maker MV engine and remade all graphics in the game, which took five times as much to develop as the original version. The remake has two new difficulty levels , which add new events and dialogue. It was published by Dangen Entertainment and released on October 31 for Windows via Steam . [ 9 ] The remake was later ported to Nintendo Switch , PlayStation 4 , and Xbox One and released on October 13, 2022. [ 10 ] [ 11 ]
+
+Reception
+[ edit ]
+
+The Witch's House has received positive reviews. [ 12 ] [ 13 ] [ 14 ] Jay Is Games gave the original release a positive review, saying it "combines the surreal creepiness of Ib with tricks, traps, and a whole lot of gore", calling it a "gory, moody, fantastic little adventure to spend an evening with", though they criticised some of the puzzles as vague and complicated. [ 15 ]
+
+By the end of 2013, it was reported the game had been downloaded over 200,000 times. [ 16 ]
+
+Legacy
+[ edit ]
+
+The Witch's House , along with Ao Oni , Yume Nikki and Ib have been credited for popularising horror games made with RPG Maker. [ 17 ] Indie development teams AstralShiftPro and Buriki Clock have cited The Witch’s House as a source of inspiration for their games Pocket Mirror and Cloé's Requiem [ it ; ja ] respectively. [ 18 ] [ 19 ] A haunted attraction primarily based on Ao Oni , entitled "Super Horror Game Haunted House", featured motifs from The Witch's House along with fellow indie horror games Cloé's Requiem , Death Forest [ ja ] and Moonlight Yokai was staged at the Niconico Super Conference in 2015. Another attraction was staged at the 2016 conference, in addition to Ao Oni and The Witch's House returning, it also featured Angels of Death , 7 Ways to Die and Tsugunohi [ ja ] . [ 20 ]
+
+Other media
+[ edit ]
+
+Fummy, who developed and published the original game, wrote a light novel which tells the backstory of Ellen before meeting the demon and becoming a witch. The book was released on October 31, 2013 via Japanese publisher Enterbrain under the name 魔女の家 エレンの日記 ( Majo no Ie: Ellen no Nikki ) with illustrations done by Oguchi. [ 21 ] A Chinese-language localization was published via Chingwing Publishing . [ 22 ]
+
+In May 2017, mangaka Yuna Kagesaki started a manga based on the novel. [ 23 ] It was first released in the Dragon Age magazine of publisher Kadokawa Shoten and was collected in two tankōbon volumes. [ 24 ] American publisher Yen Press licensed the manga for an English release. [ 25 ]
+
+Notes
+[ edit ]
+
+↑ Japanese : 魔女の家 , Hepburn : Majo no ie
+
+References
+[ edit ]
+
+↑ Fummy (31 December 2019). The Witch's House: The Diary of Ellen . Translated by vgperson (2nd ed.). Fummy.
+
+↑ "The Witch's House" . www.amazon.com . Retrieved 13 October 2021 .
+
+1 2 3 Fummy. "Majo no Ie Gēmu Gaiyō" 魔女の家 ゲーム概要 [ Witch's House Game Overview ] . The Witch's House (in Japanese). Archived from the original on 23 July 2020 . Retrieved 28 April 2019 .
+
+1 2 Dora (17 November 2012). "The Witch's House" . JayIsGames . Archived from the original on 23 July 2019 . Retrieved 28 April 2019 .
+
+↑ "The Witch's House MV - Fummy Interview Answers! - Steam News" . store.steampowered.com . 7 May 2019. Archived from the original on 8 July 2026 . Retrieved 18 September 2022 .
+
+↑ "Exploring The Motherlike: Or, The Genre That Never Was" . pastemagazine.com . Archived from the original on 16 September 2017 . Retrieved 15 April 2026 .
+
+↑ "TheFreeBundle proudly presents..." www.thefreebundle.com . Archived from the original on 31 March 2013 . Retrieved 27 May 2026 .
+
+↑ さがさん (1 May 2020). "ホラーゲーム「魔女の家」リメイク版の事前登録受付がスタート。配信時期は2020年5月中旬を予定" . 4Gamer.net . Retrieved 29 April 2026 .
+
+↑ "Japanese horror RPG The Witch's House MV launches October 31" . Gematsu . 16 October 2018. Archived from the original on 9 October 2024 . Retrieved 9 October 2024 .
+
+↑ Romano, Sal (20 September 2022). "The Witch's House MV for PS4, Xbox One, and Switch launches October 13" . Gematsu . Retrieved 29 April 2026 .
+
+↑ Fuller, Alex (29 September 2022). "The Witch's House MV Hitting Consoles in October" . RPGamer . Retrieved 29 April 2026 .
+
+↑ "Game Review: The Witch's House - The Grim Tower" . The Grim Tower . 12 April 2014. Archived from the original on 23 October 2020 . Retrieved 1 May 2026 .
+
+↑ "The Witch's House Review" . www.scaredtoplay.com . Archived from the original on 25 November 2015 . Retrieved 1 May 2026 .
+
+↑ freepcgamers.com. "The Witch's House" . www.freepcgamers.com . Archived from the original on 22 February 2014 . Retrieved 17 May 2026 .
+
+↑ "The Witch's House - Walkthrough, Tips, Review" . Jay is games . Archived from the original on 23 July 2019 . Retrieved 6 February 2026 .
+
+↑ "『魔女の家 エレンの日記』＆『幼女戦記』の小説が本日(10月31日)2冊同時発売 - ファミ通.com" . www.famitsu.com (in Japanese). Archived from the original on 2 November 2013 . Retrieved 2 May 2026 .
+
+↑ "RPGツクールで作ったゲームが2010年代日本で人気の不思議 - エキサイトニュース(4/7)" . エキサイトニュース (in Japanese). 12 September 2016. Archived from the original on 6 May 2023 . Retrieved 2 May 2026 .
+
+↑ "『クロエのレクイエム』を手掛けた同人ゲーム制作サークル"ブリキの時計"インタビュー なぜ彼女たちは表現手段として"ゲーム"を選択したのか？" . ファミ通.com (in Japanese). 17 September 2014. Archived from the original on 8 September 2025 . Retrieved 2 May 2026 .
+
+↑ Romano, Sal (14 February 2022). "Mystery horror RPG remaster Pocket Mirror: GoldeneTraum announced for PC" . Gematsu . Archived from the original on 30 April 2026 . Retrieved 2 May 2026 .
+
+↑ "【動画】ニコニコ超会議のお化け屋敷がリアルガチで怖かった件" . KAI-YOU.net | POP is Here . (in Japanese). Archived from the original on 3 May 2016 . Retrieved 2 May 2026 .
+
+↑ "『魔女の家 エレンの日記』＆『幼女戦記』の小説が本日(10月31日)2冊同時発売" . Famitsu (in Japanese). 31 October 2013. Archived from the original on 20 August 2024 . Retrieved 20 August 2024 .
+
+↑ "魔女之家 艾蓮日記" . Chingwing Publishing (in Chinese). Archived from the original on 6 September 2017 . Retrieved 20 August 2024 .
+
+↑ Rafael Antonio Pineda (10 May 2017). "Chibi Vampire's Kagesaki Launches Manga Based on The Witch's House Prequel Novel" . Anime News Network . Archived from the original on 20 August 2024 . Retrieved 20 August 2024 .
+
+↑ Rafael Antonio Pineda (8 February 2018). "Yuna Kagesaki's The Witch's House Manga Ends" . Anime News Network . Retrieved 20 August 2024 .
+
+↑ Karen Ressler (8 July 2018). "Yen Press Licenses Happy Sugar Life, Kakegurui Twins Manga, Penguin Highway, Walk on Girl, Mirai Novels (Updated)" . Anime News Network . Archived from the original on 29 November 2020 . Retrieved 20 August 2024 .
+
+External links
+[ edit ]
+
+The Witch's House official website (in Japanese)
+
+The Witch's House MV official website
+
+Retrieved from " https://en.wikipedia.org/w/index.php?title=The_Witch%27s_House&oldid=1369945938 "
+
+Categories :
+2010s horror video games
+
+2012 video games
+
+2018 video games
+
+Dangen Entertainment games
+
+Dark fantasy games
+
+Doujin video games
+
+Fiction about body swapping
+
+Nintendo Switch games
+
+RPG Maker games
+
+Single-player video games
+
+Video games about cats
+
+Video games about demons
+
+Video games about magic (supernatural)
+
+Video games about talking animals
+
+Video games about witchcraft
+
+Video games developed in Japan
+
+Video games featuring female protagonists
+
+Video games set in country houses
+
+Video games with multiple endings
+
+Windows games
+
+Yen Press titles
+
+Hidden categories:
+Articles with short description
+
+Short description matches Wikidata
+
+Use dmy dates from April 2019
+
+Articles using Infobox video game using locally defined parameters
+
+Articles using Wikidata infoboxes with locally defined images
+
+Articles containing Japanese-language text
+
+CS1 uses Japanese-language script (ja)
+
+CS1 Japanese-language sources (ja)
+
+CS1 Chinese-language sources (zh)
+
+Official website different in Wikidata and Wikipedia
+
+Search
+
+The Witch's House
+
+8 languages Add topic

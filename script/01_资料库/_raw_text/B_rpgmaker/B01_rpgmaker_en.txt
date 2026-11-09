@@ -1,0 +1,999 @@
+SOURCE: https://en.wikipedia.org/wiki/RPG_Maker
+TITLE: RPG Maker 系列（英文维基）
+FETCHED: 2026-10-21 17:19:20
+============================================================
+
+RPG Maker - Wikipedia
+
+Jump to content
+
+From Wikipedia, the free encyclopedia
+
+Video game creation system software series
+
+This article is about the series. For the first entry for the PlayStation, see RPG Maker (video game) .
+
+This article has multiple issues. Please help improve it or discuss these issues on the talk page . ( Learn how and when to remove these messages )
+
+This article needs more citations . Please help improve this article by adding citations to reliable sources . Unsourced material may be challenged and removed .
+
+Find sources: "RPG Maker" – news · newspapers · books · scholar · JSTOR ( April 2026 ) ( Learn how and when to remove this message )
+
+This article may be in need of reorganization to comply with Wikipedia's layout guidelines . Please help by editing the article to make improvements to the overall structure. ( April 2026 ) ( Learn how and when to remove this message )
+
+( Learn how and when to remove this message )
+
+RPG Maker
+
+Original author ASCII
+
+Developers
+
+Enterbrain
+
+Gotcha Gotcha Games
+
+Release December 17, 1992 ; 33 years ago ( 1992-12-17 ) ( RPG Tsukūru Dante 98 )
+
+Stable release
+RPG Maker With / April 11, 2024 ; 2 years ago ( 2024-04-11 )
+
+Written in JavaScript , HTML5 , Ruby (programming language)
+
+Platform
+
+PlayStation
+
+PlayStation 2
+
+PlayStation 3
+
+PlayStation 4
+
+Super Famicom
+
+Game Boy Color
+
+Game Boy Advance
+
+Nintendo DS
+
+Nintendo 3DS
+
+Nintendo Switch
+
+Sega Saturn
+
+PC-8801
+
+PC-9801
+
+MSX2
+
+Microsoft Windows
+
+macOS
+
+Linux
+
+Available in Japanese , English , Korean , Chinese , Russian
+
+Type Game creation software
+
+License Proprietary
+
+Website www .rpgmakerweb .com
+
+RPG Maker , known in Japan as RPG Tsukūru ( RPGツクール ; sometimes romanized as RPG Tkool ) , is a series of programs for the development of video games generally for role-playing game (RPGs) and adventure game genres, originally created by the Japanese group ASCII . The Japanese name, Tsukūru , is a pun mixing the Japanese word tsukuru ( 作る ) , which means "make" or "create", with tsūru ( ツール ) , the Japanese transliteration of the English word "tool". [ 1 ]
+
+The RPG Maker series was originally released primarily in Japan, but it was translated by fans [ 2 ] in Taiwan, South Korea, China, Russia, and North America with RPG Maker 2000 and RPG Maker 2003 . [ 3 ] Most of the later engines have been officially translated to English and created by successors, Enterbrain and Gotcha Gotcha Games .
+
+PC versions
+[ edit ]
+
+RPG Maker is a program that allows users to create their own role-playing video games . Most versions include a tile set-based map editor (tilesets are called chipsets in pre-XP versions), a simple scripting language for scripting events, and a battle editor. All versions include initial premade tilesets, characters, and events, which can be used in creating new games. One feature of the PC versions of RPG Maker programs is that a user can create new tilesets and characters, and add any new graphics the user wants.
+
+Despite being geared towards creating role-playing video games , the engine also has the capability to create games of other genres, such as adventure games (like Yume Nikki ), story-driven games, or visual novels with minimal tweaking.
+
+RPG Tsukūru Dante 98
+[ edit ]
+
+According to Enterbrain, RPG Tsukūru Dante 98 , released on December 17, 1992, was the first software of the RPG Maker series, [ 4 ] [ 5 ] although there were a few versions of RPG making software by ASCII preceding it, dating back to 1988. [ 6 ] This, along with its follow-up RPG Tsukūru Dante 98 II , was made for NEC PC-9801 , and games created with these programs can be played on a Windows computer with emulators called Dante for Windows and D2win, respectively. [ 7 ] RPG Maker was a product that came from various programs that ASCII Corporation had included in ASCII along with other users' code submitted to it, which the company decided to expand and publish into the standalone game-making toolkit. [ 8 ]
+
+RPG Maker 95
+[ edit ]
+
+This section does not cite any sources . Please help improve this section by adding citations to reliable sources . Unsourced material may be challenged and removed . ( August 2026 ) ( Learn how and when to remove this message )
+
+RPG Maker 95 was the first Microsoft Windows -based RPG Maker software. Despite being an early version, RPG Maker 95 has both a higher screen resolution and higher sprite and tile resolution than the following versions.
+
+However, RM95 retains a prominent flaw: The protagonist-sprite always appears to be walking (due to automatic alternating between two frames), even when it is not going anywhere. This flaw was fixed in all subsequent versions of RPG Maker . Additionally, the sprites of subsequent RPG Maker versions have three frames for each orientation, rather than only two per orientation as in RM95, because the subsequent versions include sprite-frames for when the sprite is standing still.
+
+RM95 also has two basic flaws in its "event"-editing system: The first flaw is that once an event is created, it is not possible to directly delete it. The second flaw is that once a sprite-graphic is added to an event, it is not possible to delete that sprite-graphic from the event. Both of those flaws were fixed in subsequent versions of RPG Maker .
+
+RPG Maker 2000 and 2003
+[ edit ]
+
+RPG Maker 2000 (also referred to as RM2k) was the second release of RPG Maker for Microsoft Windows and is the most popular and used RPG Maker so far. [ citation needed ] While it is possible to do more with RM2k, it uses lower resolution sprites and tiles than RPG Maker 95 , but it does not have a noticeable limit of 'sprites'. Unlike RM95, which can only use one 'set', RM2k can use an unlimited number of sprite sheets with specific sizes for each type. The tilesets also have a similar non-limitation, but because tiles must be entered into a database, there is a limit on the number of tiles. This limit, however, is rarely a problem (normally 5000), and even when it is, an unofficial patch exists which can bump most limits much higher at the risk of potential game corruption. It does not support text output and can program only two buttons, Z and X. There is text in dialog boxes, by means of overlaying sprites, or maps laid with text, but not plainly on the screen.
+
+As a result of an oversight, RM2K contains a flaw in its message-editing options, in that it is not possible to edit the message that is shown when an enemy is killed or destroyed. In the subsequent version, RM2K3, that problem was eliminated by removing the enemy-kill message.
+
+RPG Maker 2003 (also referred to as RM2k3) is largely an improvement of RM2k. RM2k games can be ported to RM2k3 (but not back to RM2k; the conversion is permanent), and most resources are interchangeable. The main difference is the introduction of a side-view battle system similar to that found in the Final Fantasy games on the Super NES and the Sony PlayStation . This was the first version made by Enterbrain , which had previously been a part of ASCII. The popularity of this version among the Japanese RPG Maker community has led to it getting a notable unofficial patch known as the Maniacs Patch, [ 9 ] which adds new features and functionality to the engine.
+
+RPG Maker XP
+[ edit ]
+
+RPG Maker XP (also referred to as RMXP) was released on 16 September 2005. [ 10 ] It is the first RPG Maker which can use RGSS (Ruby Game Scripting System) based on Ruby , making it far more powerful than previous versions programming-wise. Many normal, simplified features present in RM2k(3), however, have been removed. Most of these features have been programmed with RGSS and distributed online. RMXP runs at 1024x768 resolution (though games made in it run at 640x480), while offering four times the playable area of its predecessors. By default, games run at 40 frames per second, though the game's scripts can be modified to set the framerate to any value. Additionally, it allows greater user control over sprite size (there is no specific image size regulation for sprite sheets) and other aspects of game design. This more open-ended arrangement, coupled with the inclusion of RGSS, makes RPG Maker XP more versatile than older versions in the series, at the cost of a steeper learning curve. This was named after Windows XP , which was active from 2001 to 2014.
+
+The Pokémon Essentials pack, one of the main methods of making Pokémon fan games , was exclusive to RPG Maker XP and never ported to any later engine, causing XP to be widely used for such games more than a decade later, such as in making Pokémon Uranium . It was taken down in 2018 due to a cease and desist order by Nintendo , though it continues to circulate on the internet. [ 11 ]
+
+RPG Maker VX and VX Ace
+[ edit ]
+A screenshot of a user-created map in RPG Maker VX
+RPG Maker VX was released in Japan on December 27, 2007, and in the West on February 29, 2008. The frame rate was increased to 60 frames per second, providing smoother animation. The engine still used RGSS, but the game's default programming was overhauled to allow more freedom for scripting in new features. A new editor and RTP were included, this time in a much simpler "blocky" style. The default battle system is comparable to that of the Dragon Quest series or its predecessor RM2k, with a head-on view of the battlefield and detailed text descriptions of each action taken.
+
+The lack of support for multiple tilesets when mapping, however, represented a notable downgrade from the engine's predecessor, leaving the player with only a finite number of unique tiles with which to depict all the game's environments. Multiple player-made workarounds were created.
+
+RPG Maker VX Ace was released in Japan on December 15, 2011, [ 12 ] and the West on March 15, 2012. It was later made available through Steam , and is also available physically. [ 13 ] VX Ace , an upgraded version of VX , addressed the tileset issue. Battle backgrounds were reintroduced and are separated into top and bottom halves. Spells, skills, and items can all now have their own damage and recovery formulas, although a quick calculation method reminiscent of the older RPG Maker versions is available. The VX RTP was redesigned for VX Ace , and a new soundtrack featuring higher quality techno-pop tracks was included. With VX Ace came a large quantity of DLC Resource Packages offered by Enterbrain, also available through Steam.
+
+RPG Maker MV and MZ
+[ edit ]
+
+Released by Degica on October 23, 2015, RPG Maker MV includes a large number of changes over previous versions, with multiplatform support, side-view battles, and high-resolution features. [ 14 ] It is the first engine in the series to use JavaScript instead of RGSS, with the addition of plugins. Completed games can be played on PC and mobile devices. RPG Maker MV also goes back to layered tilesets, a feature that was removed in RPG Maker VX and VX Ace . Unlike RPG Maker XP , which allowed users to manually choose which layers to build on, MV automatically stacks tiles on top of other tiles. [ 15 ] It also came out on consoles under the name RPG Tsukūru MV Trinity . It was originally announced to only be on PlayStation 4 and Nintendo Switch , but was later announced to also be on Xbox One . This release was later cancelled. [ 16 ] It was released on Nintendo Switch and PlayStation 4 in Japan on November 15, 2018, and was released in North America and Europe in September 2020. [ 17 ] [ 18 ]
+
+RPG Maker MZ was released worldwide on August 20, 2020. [ 19 ] MZ ' s new features include the Effekseer particle system, an autosave function, and often-requested XP -style autolayer mechanics. Like MV , it allows users to develop plugins using JavaScript. RPG Maker MZ received mostly positive feedback from users, who praised its additional features and the return of the XP layer mechanics, though its similarity to RPG Maker MV drew a mixed response. [ citation needed ]
+
+RPG Maker Unite
+[ edit ]
+
+RPG Maker Unite is an asset for the Unity game engine based on RPG Maker . [ 20 ] It was released on the Unity store in May 2023 and on Epic Games Store in February 2024. [ 21 ]
+
+RPG Maker U2U
+[ edit ]
+
+RPG Maker U2U , developed and published by Gotcha Gotcha Games, [ 22 ] is an upcoming successor to RPG Maker Unite . [ 23 ] One of the main features of RPG Maker U2U is that Maps can now be made using P2D (Perspective 2D). [ 24 ] U2U also supports existing RPG Maker MV and MZ 2-D tiles, as they both use the same tile standard in P2D maps. [ 25 ] Unlike Unite , U2U is a standalone application, but it is still built on top of the Unity Game Engine. [ 26 ]
+
+Console versions
+[ edit ]
+
+RPG Tsukūru Super Dante
+[ edit ]
+
+The first console RPG Maker , RPG Tsukūru Super Dante , debuted in 1995 for the Super Famicom , as a port of RPG Tsukūru Dante 98 . [ 5 ] RPG Tsukūru Super Dante was later broadcast via the Super Famicom's Satellaview accessory.
+
+RPG Maker GB is the first handheld system [ 27 ] version of RPG Maker .
+
+RPG Maker
+[ edit ]
+
+Main article: RPG Maker (video game)
+
+In 2000, RPG Maker was released for the Sony PlayStation , but only a limited number of copies were made for releases outside of Japan. The software allowed user-made characters and monsters through Anime Maker, which was separate from the RPG Maker, which required saving to an external memory card, but there was a limit to how many user-made sprites and monsters could be used in RPG Maker . Also, in Anime Maker, the user could create larger sprites for a theater-type visual novel in which the player could animate and control characters, but these sprites were much larger and unusable in RPG Maker .
+
+The RPG Maker interface was somewhat user-friendly, and battles were front-view style only. Items, Monsters, Skill/Magic, and Dungeons had a small limit cap, as did the effects of any given Item, Magic, or Skill (9,999). Items were all inclusive; Weapons and Armors were created in the Items interface. The types of items were as follows: None (mainly used for Key Items), Weapon, Armor, Key (up to eight sub types), Magic (for binding Magic created in the Magic interface to an item), Healing, and Food (which raises stats and EXP, or experience points in which this particular software is the only one of the series to do so natively).
+
+Events were a separate save file from the System file, and are referred to as Scenario files. This is how the user could make multiple parts to one game, provided the user had enough memory cards and card space to create the files.
+
+RPG Maker Fes
+[ edit ]
+
+A version for the Nintendo 3DS was released by NIS America on June 27, 2017. While it remains portable on a small screen, users can create games on the go and also download games to play as well. The game received some criticism, with NintendoWorldReport saying that the title would be more suitable for hardcore RPG fans, who want to create their own game, rather than for every type of player. [ 28 ] Games completed can be uploaded to the RPG Maker Fes Player app for those to download and play on their own systems. It is the second RPG Maker version to receive a limited edition (the previous one being RPG Tsukūru DS ), which includes a CD soundtrack in a jewel case containing all the soundtracks in the game, and a full-color paperback artbook. It is the first RPG Maker on consoles/handhelds to receive a digital release.
+
+RPG Maker With
+[ edit ]
+
+In 2024, Gotcha Gotcha Games and NIS America released RPG Maker WITH for Nintendo Switch on October 11, 2024, and PlayStation 4 and 5 on February 21, 2025. [ 29 ] It was called RPG Maker WITH due to letting users make an RPG with other people.
+
+English versions
+[ edit ]
+
+Historically, few early RPG Maker versions had official English releases. Each Windows version has, however, been subject to unlicensed distribution through the internet in some form or other. [ 30 ] RPG Maker 95 , as well as translation patches for the Super Famicom titles RPG Maker Super Dante and RPG Maker 2 , were translated and distributed by a group called KanjiHack. In 1999, KanjiHack closed upon receiving a cease and desist e-mail from ASCII's lawyers. RPG Maker 95 was re-released with a more complete translation under the name RPG Maker 95+ by a Russian programmer, under the alias of Don Miguel, [ 31 ] who later translated and released RPG Maker 2000 . Later versions, RPG Maker 2003 , and RPG Maker XP , were similarly translated and distributed by a programmer under the alias of RPG Advocate.
+
+The first official English release of the PC series was of RPG Maker XP on September 16, 2005. The next two versions of the software, RPG Maker VX and RPG Maker VX Ace both received official English releases. Since 2010, English versions of RPG Maker have been published by Degica, who have also officially released English versions of the older titles RPG Maker 2000 and RPG Maker 2003 .
+
+The first official English language console version was the PlayStation version in 2000, simply called RPG Maker , by Agetec . Agetec also localized RPG Maker 2 and 3 .
+
+RPG Maker variants are re-implemented by the open-source Open RPG Maker, MKXP and EasyRPG editors and interpreters. [ 32 ] [ 33 ]
+
+Reception and legacy
+[ edit ]
+
+By August 2005, the series had sold more than two million copies worldwide. [ 4 ] Later Steam releases are estimated to have sold nearly 1 million units by April 2018, according to Steam Spy . [ 34 ] Since its first release, the series has been used to create numerous titles, both free and commercial. According to PC Gamer , it has become "the go-to tool for aspiring developers who want to make a game and sell it", due to being "the most accessible game engine around". [ 35 ] In addition to games, the series has been used for other purposes, such as studies involving students learning mathematics through the creation of role-playing games, [ 36 ] and programming. [ 37 ]
+
+One of the earliest notable RPG Maker games was Super Columbine Massacre RPG! , an art game that generated controversy among audiences and Columbine victims. [ 38 ] The 2012 video game Ib has been credited with helping popularize its engine's use in developing story-driven and horror games. [ citation needed ] Some RPG Maker video games have been adapted into multimedia franchises, including Angels of Death , Ao Oni and Corpse Party . [ 39 ] [ 40 ]
+
+Use in media
+[ edit ]
+
+The RPG Maker engine is sometimes used for films as a part of the animation and video game medium. Prominent works made in RPG Maker engine include the web-series Slimey (2011), and Studio Moonchalk's Distortion (2023) and Love and Friendship (2024), all released exclusively on YouTube . Second Love (2025), also produced by Studio Moonchalk, was selected as a part of the Best Animated Film entry at the inaugural Science and Technology Film Festival in September 2025, the first RPG Maker animated film ever to be selected at any international film festivals. [ 41 ]
+
+RPG Maker series timeline
+[ edit ]
+
+Japanese title English title Developer Platform(s) Japanese release date English release date Publisher(s)
+
+Mamirin PC-8801 1988 ASCII
+
+Dungeon Manjirou [ 42 ] MSX2 1988 ASCII
+
+RPG Construction Tool: Dante [ 43 ] MSX2 February 8, 1990 ASCII
+
+Dante 2 [ 44 ] MSX2 February 8, 1992 ASCII
+
+Chimes Quest [ 45 ] PC-9801 1992 ASCII
+
+RPG Tsukūru Dante 98 [ 5 ] PC-9801 December 19, 1992 ASCII
+
+Dungeon RPG Tsukūru Dan-Dan Dungeon [ 46 ] PC-9801 April 28, 1994 ASCII
+
+RPG Tsukūru: Super Dante Kuusou Kagaku Super Famicom , Satellaview March 31, 1995 (Super Famicom)
+
+April 4, 1996 (Satellaview) ASCII
+
+RPG Tsukūru Dante 98 II [ 5 ] PC-9801 July 14, 1996 ASCII
+
+RPG Tsukūru 2 Kuusou Kagaku Super Famicom, Satellaview January 31, 1996 (Super Famicom)
+
+April 22, 1996 (Satellaview) ASCII
+
+RPG Tsukūru 95 Microsoft Windows March 28, 1997 ASCII
+
+RPG Tsukūru 95 Value! Microsoft Windows November 21, 2001 Enterbrain
+
+Simulation RPG Tsukūru Pegasus Japan Sega Saturn , PlayStation September 17, 1998 ASCII
+
+Enterbrain Collection: Simulation RPG Tsukūru Pegasus Japan PlayStation November 29, 2001 Enterbrain
+
+Simulation RPG Tsukūru 95 Microsoft Windows May 29, 1998 ASCII
+
+Simulation RPG Tsukūru 95 Value! Microsoft Windows November 21, 2001 Enterbrain
+
+RPG Tsukūru 3 RPG Maker Kuusou Kagaku PlayStation November 27, 1997 October 2, 2000 ASCII (Japan)
+
+Agetec (North America)
+
+PlayStation the Best: RPG Tsukūru 3 Kuusou Kagaku PlayStation November 19, 1998 ASCII
+
+RPG Tsukūru GB Kuusou Kagaku Game Boy Color March 17, 2000 ASCII
+
+RPG Tsukūru 2000 RPG Maker 2000 Microsoft Windows April 5, 2000 ASCII
+
+RPG Tsukūru 2000 Value! Microsoft Windows May 14, 2003 July 7, 2015 Enterbrain (Japan)
+
+Degica (worldwide)
+
+RPG Tsukūru 4 Agenda [ 47 ] PlayStation December 7, 2000 Enterbrain
+
+Uchūjin Tanaka Tarou de RPG Tsukūru GB 2 Game Boy Color July 20, 2001 Enterbrain
+
+RPG Tsukūru 5 RPG Maker 2 Kuusou Kagaku PlayStation 2 August 8, 2002 October 28, 2003 Enterbrain (Japan)
+
+Agetec (North America)
+
+RPG Tsukūru 2003 RPG Maker 2003 Microsoft Windows December 18, 2002 April 24, 2015 Enterbrain (Japan)
+
+Degica (worldwide)
+
+RPG Tsukūru α [ 48 ] Microsoft Windows, Mobile phone December 18, 2002 Enterbrain
+
+RPG Tsukūru Advance Game Boy Advance April 25, 2003 Enterbrain
+
+RPG Tsukūru XP RPG Maker XP Microsoft Windows July 22, 2004 September 16, 2005 Enterbrain (worldwide)
+
+Degica (worldwide)
+
+RPG Tsukūru RPG Maker 3 Run Time PlayStation 2 December 16, 2004 September 20, 2005 Enterbrain (Japan)
+
+Agetec (North America)
+
+RPG Tsukūru for Mobile Mobile phone April 17, 2006 Enterbrain
+
+RPG Tsukūru VX RPG Maker VX Microsoft Windows December 27, 2007 February 29, 2008 Enterbrain (worldwide)
+
+Degica (worldwide)
+
+RPG Tsukūru DS [ 49 ] Nintendo DS March 11, 2010 Enterbrain
+
+RPG Tsukūru VX Ace RPG Maker VX Ace Microsoft Windows December 15, 2011 March 15, 2012 Enterbrain (worldwide)
+
+Degica (worldwide)
+
+RPG Tsukūru DS Plus Nintendo DS December 15, 2011 Enterbrain
+
+RPG Tsukūru MV RPG Maker MV Microsoft Windows, macOS , Linux , HTML5 , Android , iOS [ 50 ] December 17, 2015 October 23, 2015 Kadokawa Games
+
+Degica (worldwide)
+
+RPG Tsukūru Fes RPG Maker Fes Nintendo 3DS November 24, 2016 June 23, 2017 Kadokawa Games
+
+NIS America (worldwide)
+
+RPG Tsukūru MV Trinity RPG Maker MV PlayStation 4 , Nintendo Switch November 15, 2018 September 8, 2020 Kadokawa Games
+
+NIS America (worldwide)
+
+RPG Tsukūru MZ RPG Maker MZ Microsoft Windows, macOS, Linux, HTML5, Android, iOS [ 51 ] August 20, 2020 August 20, 2020 Kadokawa Games
+
+Degica (worldwide)
+
+RPG Maker With RPG Maker With PlayStation 4, PlayStation 5 , Nintendo Switch April 11, 2024 October 11, 2024 Gotcha Gotcha Games
+
+NIS America (worldwide)
+
+Works
+[ edit ]
+
+Main article: List of RPG Maker games
+
+See also
+[ edit ]
+
+Fighter Maker
+
+Game Maker
+
+Sim RPG Maker
+
+Sound Novel Tsukūru
+
+RPG creation software
+
+References
+[ edit ]
+
+↑ Outline of Tsukūru Archived 2012-02-27 at the Wayback Machine at the official Tsukūru website (in Japanese) (Retrieved on 2010-3-6)
+
+↑ Zavarise, Giada (2018-09-01). "Are RPG Maker games as bad as people think?" . Eurogamer . Retrieved 2021-06-30 .
+
+↑ "International Licensing Business" Archived 2007-09-23 at the Wayback Machine at Enterbrain's website
+
+1 2 "『RPGツクールXP』英語版 海外サイトにてダウンロード販売を開始" (PDF) . Enterbrain (in Japanese). 2005-08-16. Archived from the original (PDF) on 2006-12-08 . Retrieved March 27, 2024 .
+
+1 2 3 4 "Maker web - History of RPG Maker" (in Japanese). 2004. Archived from the original on 2009-02-18 . Retrieved March 27, 2024 .
+
+↑ Griliopoulos, Daniel (December 2016). "Engines of Creation". Maximum PC . 21 (12): 48– 53.
+
+↑ (in Japanese) at Digital Famitsu Homepage
+
+↑ Ito, Kenji (2005). Possibilities of Non-Commercial Games: The Case of Amateur Role Playing Games Designers in Japan . Proceedings of DiGRA 2005 Conference: Changing Views – Worlds in Play. Digital Games Research Association .
+
+↑ "Steam2003 Maniacs" . bingshan1024.github.io . Retrieved 2025-03-09 .
+
+↑ "RPG Maker XP on Steam" .
+
+↑ O'Connor, Alice (2018-08-29). "Nintendo's lawyers shut down tool used to make Pokémon fan games" . Rock Paper Shotgun . Retrieved 2023-11-02 .
+
+↑
+
+↑ "RPG Maker VX Ace Release | The Official RPG Maker Blog" . Retrieved 2012-08-10 .
+
+↑ "RPG Maker MV announced for PC, Mac" . Gematsu . August 4, 2015.
+
+↑ "RPG Maker MV | RPG Maker | Make Your Own Video Games!" . www.rpgmakerweb.com . Retrieved 2016-05-21 .
+
+↑ "RPG Maker MV cancelled for Xbox One" . 11 March 2019.
+
+↑ "RPG Maker MV for PS4, Xbox One, and Switch launches November 15 in Japan" . Gematsu . 25 July 2018 . Retrieved 25 July 2018 .
+
+↑ "RPG Maker MV for PS4 and Switch launches September 8 in North America, September 11 in Europe" . Gematsu . July 2020 . Retrieved July 1, 2020 .
+
+↑ "On top of unveiling new features like the Event List, the mouse-optimized game UI, and many System options, it is finally time to announce the RELEASE DATE AND PRICE!" . Twitter . Retrieved 2023-07-13 .
+
+↑ Romano, Sal (15 February 2022). "RPG Maker Unite announced for PC" . Gematsu . Retrieved 19 September 2022 .
+
+↑ Tolentino, Josh (8 May 2023). "RPG Maker Unite released on Unity Asset Store" . RPG Site . Retrieved 20 April 2026 .
+
+↑ Romano, Sal (21 May 2026). "RPG Maker U2U announced for PC" . Gematsu . Retrieved 5 September 2026 .
+
+↑ "RPG MAKER U2U Official Website" . RPG Maker Official . Gotcha Gotcha Games . Retrieved 5 September 2026 .
+
+↑ "RPG Maker U2U - Official Overview Trailer" . GameTrailers . 2 September 2026 . Retrieved 5 September 2026 .
+
+↑ "RPG MAKER U2U Official Website" . RPG Maker Official . Gotcha Gotcha Games . Retrieved 5 September 2026 .
+
+↑ Ichinose (2 September 2026). "Even Easier to Use: A New Direction For RPG MAKER U2U" . Steam . Gotcha Gotcha Games . Retrieved 5 September 2026 .
+
+↑ "ツクールweb - RPGツクールの歴史" . August 25, 2007. Archived from the original on 2007-08-25.
+
+↑ "RPG Maker FES Review – Review. (2017, June 20). Retrieved December 05, 2017" .
+
+↑ "RPG Maker WITH" . IGN . Retrieved 2025-10-06 .
+
+↑ "Sad Fact" at Enterbrain's website
+
+↑ A look at RPGmaker 2000, translated by Don Miguel at gfxartist.com (archived copy)
+
+↑ Larabel, Michael (2014-01-08). "MKXP: Open-Source, Linux Engine To RPG Maker XP" . Phoronix . Retrieved 2023-09-16 .
+
+↑ Schaff, Tobias (July 2016). "EasyRPG - An RPG Maker 2000 and 2003 engine" . ODROID Magazine . Retrieved 2023-02-06 .
+
+↑ "KADOKAWA – Company Stats" . Steam Spy . Archived from the original on 12 April 2018 . Retrieved 12 April 2018 .
+
+↑ Sayer, Matt (April 12, 2017). "The surprising explosion of RPG Maker on Steam" . PC Gamer .
+
+↑ Maltempi, Marcus Vinicius; Rosa, Maurício. "Learning Vortex, Games and Technologies: A New Approach to the Teaching of Mathematics" (PDF) . International Congress on Mathematical Education . Universidade Estadual Paulista . Archived from the original (PDF) on 2007-10-09 . Retrieved 2007-06-09 .
+
+↑ Ralph, Tiffany; Barnes, Tiffany. "The Catacombs: A study on the usability of games to teach" (PDF) . Unknown . Colorado State University , University of North Carolina at Charlotte . Archived from the original (PDF) on 2007-09-27 . Retrieved 2007-06-09 . One of the versions was developed using RPG Maker XP and provides students with a more exploratory gaming experience than the other, which was created using the BioWare Aurora Neverwinter Nights Toolset and has the user follow linear stages of game play.
+
+↑ Whiting, Mark. "Slamdance Judge Speaks Out Against Censorship: News from" . 1UP.com. Archived from the original on November 8, 2012 . Retrieved November 15, 2012 .
+
+↑ "RPG Maker Inspired More Anime Than Fans Realize" . CBR . 2023-09-14. Archived from the original on 2025-10-23 . Retrieved 2026-07-03 .
+
+↑ "From Tool to Subgenre to Anime: The Mysterious Journey of RPG Maker" . Crunchyroll . Archived from the original on 2022-10-12 . Retrieved 2026-03-17 .
+
+↑ "OFFICIAL SELECTION – SCIENCE & TECHNOLOGY FILM FESTIVAL" (in Polish) . Retrieved 2025-09-15 .
+
+↑ Dungeon Manjiro at Generation MSX
+
+↑ Dante at Generation MSX
+
+↑ Dante II at Generation MSX
+
+↑ "ゲームを作ろう！（２）RPGツクールでつくーる" . www.uraken.net .
+
+↑ "yananayika" (The Tsukūru Museum) Archived 2007-08-23 at the Wayback Machine at the official Tsukūru website (in Japanese)
+
+↑ Agenda-Game: Products Archived 2010-07-25 at the Wayback Machine (in Japanese) . Retrieved on 2010-11-10.
+
+↑ RPGツクール2003製品情報 at Enterbrain's website (in Japanese)
+
+↑ RPGツクールDS Archived 2015-03-17 at the Wayback Machine (in Japanese) Retrieved on 2010-1-12.
+
+↑ It can build games for HTML5, Android, and iOS, but it cannot be used on them.
+
+↑ It can build games for Linux, HTML5, Android, and iOS, but it cannot be used on them.
+
+External links
+[ edit ]
+
+Official website
+
+v
+
+t
+
+e
+
+RPG Maker series
+
+Console titles
+
+RPG Maker
+
+RPG Maker 2
+
+RPG Maker 3
+
+Related titles
+
+Fighter Maker
+
+Sim RPG Maker
+
+Others
+
+List of RPG Maker games
+
+ASCII Corporation
+
+Enterbrain
+
+Gotcha Gotcha Games
+
+v
+
+t
+
+e
+
+Kadokawa Corporation
+
+Publishing
+
+ASCII Media Works
+
+Enterbrain
+
+Fujimi Shobo
+
+Kadokawa Shoten
+
+Media Factory
+
+Other
+
+Anime Festival Asia
+
+Anime News Network
+
+Doga Kobo
+
+Dwango
+BookWalker
+
+Niconico
+
+GeeXPlus
+GeeXProduction
+
+ENGI
+
+Glovision
+
+Kadokawa Gempak Starz
+
+Kadokawa Daiei Studio
+
+Tokorozawa Sakura Town
+
+Yen Press (51%)
+
+J-Novel Club
+
+Kinema Citrus (31.8%)
+
+Video games
+
+Developers
+
+Acquire
+
+FromSoftware (69.6%)
+
+Gotcha Gotcha Games
+
+Spike Chunsoft
+
+Franchises
+
+Akiba's Trip
+
+Armored Core
+
+Class of Heroes
+
+Conception
+
+Danganronpa
+
+Derby Stallion
+
+Echo Night
+
+Elden Ring
+
+Fire Pro Wrestling
+
+King's Field
+
+Lost Kingdoms
+
+Mystery Dungeon
+
+Otogi
+
+Panzer Front
+
+RPG Maker
+
+Shadow Tower
+
+Shinobido
+
+Tenchu
+
+Twilight Syndrome
+
+Way of the Samurai
+
+Zero Escape
+
+Defunct
+
+ASCII Corporation
+
+Chunsoft
+
+Daiei Film
+
+MediaWorks
+
+Niwango
+
+Spike
+
+Former subsidiaries
+
+Asmik Ace
+
+Mages
+
+Related items
+OpenToonz
+
+Other
+2024 cyberattack on Kadokawa and Niconico
+
+v
+
+t
+
+e
+
+Game engines ( list )
+
+Source port
+
+First-person shooter engine
+List of first-person shooter engines
+
+Game engine recreation
+List of game engine recreations
+
+Game creation system
+
+Game IDE
+
+List of visual novel engines
+
+id Tech
+
+Proprietary
+
+1980s
+
+Adventure Game Interpreter
+
+Cobra
+
+Filmation
+
+Freescape
+
+Gold Box
+
+Sierra Creative Interpreter
+
+SCUMM
+
+1990s
+
+3D GameStudio
+
+Clickteam
+
+Dark Engine
+
+GameMaker
+
+Genie Engine
+
+GoldSrc
+
+Infinity Engine
+
+Jedi
+
+LithTech
+
+Mugen
+
+Pie in the Sky
+
+Reality Lab
+
+RenderWare
+
+RPG Maker
+
+Sim RPG Maker
+
+Unreal Engine 1
+
+Virtools
+
+Virtual Theatre
+
+Voxel Space
+
+Zillions of Games
+
+2000s
+
+Anvil
+
+C4 Engine
+
+CryEngine
+
+Crystal Tools
+
+Euphoria
+
+Flare3D
+
+Frostbite
+
+Gamebryo
+
+GameSalad
+
+HeroEngine
+
+IW
+
+Leadwerks
+
+Marmalade
+
+MT Framework
+
+PhyreEngine
+
+Q
+
+RAGE
+
+Shark 3D
+
+Source
+
+Unigine
+
+Unity
+
+Unreal Engine 2
+
+Unreal Engine 3
+
+Virtools 2.5
+
+Vicious Engine
+
+Vision
+
+Visual3D Game Engine
+
+2010s
+
+4A Engine
+
+Amazon Lumberyard
+
+Bitsquid
+
+Buildbox
+
+Construct
+
+Creation Engine
+
+Decima
+
+Defold
+
+Felgo
+
+ForgeLight
+
+Fox Engine
+
+id Tech 5
+
+id Tech 6
+
+Ignite
+
+Katana Engine
+
+Luminous Engine
+
+Messiah Engine
+
+Pixel Game Maker MV
+
+RE Engine
+
+Snowdrop
+
+Stencyl
+
+Source 2
+
+UbiArt Framework
+
+Unreal Engine 4
+
+2020s
+
+id Tech 7
+
+Unreal Engine 5
+
+Free and
+
+open-source
+
+1970s
+
+Z-machine
+
+1990s
+
+Adventure Game Studio
+
+Build
+
+Crystal Space
+
+Doom engine
+
+Game-Maker
+
+OHRRPGCE
+
+Quake engine
+
+Quake II engine
+
+Stratagus
+
+2000s
+
+Away3D
+
+Blender Game Engine
+
+Bork3D Game Engine
+
+Cocos2d
+
+Dim3
+
+Game Editor
+
+GDevelop
+
+id Tech 3
+
+id Tech 4
+
+Irrlicht Engine
+
+jMonkeyEngine
+
+Lightweight Java Game Library
+
+Löve
+
+OGRE
+
+Open Wonderland
+
+Panda3D
+
+Papervision3D
+
+Plasma
+
+Platinum Arts Sandbox
+
+Pygame
+
+Ren'Py
+
+Scratch
+
+Solar2D
+
+Thousand Parsec
+
+Torque
+
+Vassal Engine
+
+Wintermute Engine
+
+2010s
+
+Dæmon Engine
+
+Delta3D
+
+Godot
+
+GPUOpen
+
+Horde3D
+
+libGDX
+
+Luanti
+
+Moai
+
+OpenFL
+
+ORX
+
+PlayCanvas
+
+Raylib
+
+Snap!
+
+Stencyl
+
+Stride
+
+2020s
+
+Open 3D Engine
+
+S&box
+
+Retrieved from " https://en.wikipedia.org/w/index.php?title=RPG_Maker&oldid=1373409571 "
+
+Categories :
+RPG Maker
+
+1992 software
+
+Video game IDE
+
+Video game engines
+
+PlayStation (console) games
+
+PlayStation 2 games
+
+Satellaview games
+
+Kadokawa Corporation franchises
+
+Windows software
+
+Top-down video games
+
+Xbox One games
+
+Video game franchises introduced in 1992
+
+Hidden categories:
+Articles with short description
+
+Short description is different from Wikidata
+
+Articles needing additional references from April 2026
+
+All articles needing additional references
+
+Wikipedia articles needing reorganization from April 2026
+
+Articles with multiple maintenance issues
+
+Articles containing Japanese-language text
+
+Webarchive template wayback links
+
+Articles with Japanese-language sources (ja)
+
+CS1 Japanese-language sources (ja)
+
+Articles needing additional references from August 2026
+
+All articles with unsourced statements
+
+Articles with unsourced statements from February 2024
+
+Articles with unsourced statements from June 2025
+
+Articles with unsourced statements from May 2026
+
+CS1 Polish-language sources (pl)
+
+Search
+
+RPG Maker
+
+27 languages Add topic

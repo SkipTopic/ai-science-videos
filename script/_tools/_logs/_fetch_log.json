@@ -1,0 +1,344 @@
+[
+ {
+  "group": "A_company",
+  "slug": "A01_ascii_corp_en",
+  "title": "ASCII Corporation 公司（英文维基）",
+  "url": "https://en.wikipedia.org/wiki/ASCII_Corporation",
+  "status": "OK 200",
+  "bytes": 208002,
+  "chars": 14027
+ },
+ {
+  "group": "A_company",
+  "slug": "A02_ascii_corp_ja",
+  "title": "アスキー 公司（日文维基）",
+  "url": "https://ja.wikipedia.org/wiki/アスキー_(企業)",
+  "status": "OK 200",
+  "bytes": 259652,
+  "chars": 12886
+ },
+ {
+  "group": "A_company",
+  "slug": "A03_nishi_kazuhiko_en",
+  "title": "西和彦 生平（英文维基）",
+  "url": "https://en.wikipedia.org/wiki/Kazuhiko_Nishi",
+  "status": "OK 200",
+  "bytes": 155936,
+  "chars": 12556
+ },
+ {
+  "group": "A_company",
+  "slug": "A04_nishi_kazuhiko_ja",
+  "title": "西和彦 生平（日文维基）",
+  "url": "https://ja.wikipedia.org/wiki/西和彦",
+  "status": "OK 200",
+  "bytes": 202475,
+  "chars": 12711
+ },
+ {
+  "group": "A_company",
+  "slug": "A05_enterbrain_en",
+  "title": "Enterbrain（英文维基）",
+  "url": "https://en.wikipedia.org/wiki/Enterbrain",
+  "status": "OK 200",
+  "bytes": 158570,
+  "chars": 9565
+ },
+ {
+  "group": "A_company",
+  "slug": "A06_enterbrain_ja",
+  "title": "エンターブレイン（日文维基）",
+  "url": "https://ja.wikipedia.org/wiki/エンターブレイン",
+  "status": "OK 200",
+  "bytes": 233525,
+  "chars": 11398
+ },
+ {
+  "group": "A_company",
+  "slug": "A07_kadokawa_ja",
+  "title": "KADOKAWA 沿革（日文维基）",
+  "url": "https://ja.wikipedia.org/wiki/KADOKAWA",
+  "status": "OK 200",
+  "bytes": 919519,
+  "chars": 71970
+ },
+ {
+  "group": "A_company",
+  "slug": "A08_msx_ja",
+  "title": "MSX 标准（日文维基）",
+  "url": "https://ja.wikipedia.org/wiki/MSX",
+  "status": "OK 200",
+  "bytes": 653639,
+  "chars": 58926
+ },
+ {
+  "group": "A_company",
+  "slug": "A09_msx_en",
+  "title": "MSX 标准（英文维基）",
+  "url": "https://en.wikipedia.org/wiki/MSX",
+  "status": "OK 200",
+  "bytes": 406509,
+  "chars": 48001
+ },
+ {
+  "group": "A_company",
+  "slug": "A10_ascii_microsoft",
+  "title": "ASCII Microsoft（英文维基）",
+  "url": "https://en.wikipedia.org/wiki/ASCII_Microsoft",
+  "status": "OK 200",
+  "bytes": 208309,
+  "chars": 14063
+ },
+ {
+  "group": "B_rpgmaker",
+  "slug": "B01_rpgmaker_en",
+  "title": "RPG Maker 系列（英文维基）",
+  "url": "https://en.wikipedia.org/wiki/RPG_Maker",
+  "status": "OK 200",
+  "bytes": 332440,
+  "chars": 32917
+ },
+ {
+  "group": "B_rpgmaker",
+  "slug": "B02_rpgmaker_ja",
+  "title": "RPGツクール（日文维基）",
+  "url": "https://ja.wikipedia.org/wiki/RPGツクール",
+  "status": "OK 200",
+  "bytes": 312389,
+  "chars": 30046
+ },
+ {
+  "group": "B_rpgmaker",
+  "slug": "B03_rpgmaker_fandom",
+  "title": "RPG Maker Wiki（Fandom）",
+  "url": "https://rpgmaker.fandom.com/wiki/RPG_Maker",
+  "status": "FAIL HTTPError: HTTP Error 403: Forbidden",
+  "bytes": 0,
+  "chars": 0
+ },
+ {
+  "group": "B_rpgmaker",
+  "slug": "B04_dante98_fandom",
+  "title": "Dante 98 专页（Fandom）",
+  "url": "https://rpgm.fandom.com/wiki/RPG_Tsuk%C5%ABru_Dante_98",
+  "status": "FAIL HTTPError: HTTP Error 403: Forbidden",
+  "bytes": 0,
+  "chars": 0
+ },
+ {
+  "group": "B_rpgmaker",
+  "slug": "B05_official_en",
+  "title": "RPG Maker 官方站（全球）",
+  "url": "https://www.rpgmakerweb.com/",
+  "status": "OK 200",
+  "bytes": 58986,
+  "chars": 5151
+ },
+ {
+  "group": "B_rpgmaker",
+  "slug": "B06_official_ja",
+  "title": "RPG Maker 官方站（日本）",
+  "url": "https://tkool.jp/",
+  "status": "OK 200",
+  "bytes": 56223,
+  "chars": 1038
+ },
+ {
+  "group": "B_rpgmaker",
+  "slug": "B07_unite",
+  "title": "RPG Maker Unite 官网",
+  "url": "https://rpgmakerunite.com/",
+  "status": "OK 200",
+  "bytes": 184949,
+  "chars": 3794
+ },
+ {
+  "group": "B_rpgmaker",
+  "slug": "B08_ggg",
+  "title": "Gotcha Gotcha Games 官网",
+  "url": "https://www.gotchagotcha.jp/",
+  "status": "OK 200",
+  "bytes": 58271,
+  "chars": 2264
+ },
+ {
+  "group": "C_games",
+  "slug": "C01_yume_nikki",
+  "title": "梦日记 Yume Nikki（英文维基）",
+  "url": "https://en.wikipedia.org/wiki/Yume_Nikki",
+  "status": "OK 200",
+  "bytes": 236414,
+  "chars": 16744
+ },
+ {
+  "group": "C_games",
+  "slug": "C02_ib",
+  "title": "Ib（英文维基）",
+  "url": "https://en.wikipedia.org/wiki/Ib_(video_game)",
+  "status": "OK 200",
+  "bytes": 173187,
+  "chars": 12324
+ },
+ {
+  "group": "C_games",
+  "slug": "C03_witch_house",
+  "title": "魔女之家（英文维基）",
+  "url": "https://en.wikipedia.org/wiki/The_Witch%27s_House",
+  "status": "OK 200",
+  "bytes": 176629,
+  "chars": 11714
+ },
+ {
+  "group": "C_games",
+  "slug": "C04_ao_oni",
+  "title": "青鬼 Ao Oni（英文维基）",
+  "url": "https://en.wikipedia.org/wiki/Ao_Oni",
+  "status": "OK 200",
+  "bytes": 226948,
+  "chars": 18907
+ },
+ {
+  "group": "C_games",
+  "slug": "C05_to_the_moon",
+  "title": "去月球 To the Moon（英文维基）",
+  "url": "https://en.wikipedia.org/wiki/To_the_Moon_(video_game)",
+  "status": "OK 200",
+  "bytes": 248932,
+  "chars": 20613
+ },
+ {
+  "group": "C_games",
+  "slug": "C06_omori",
+  "title": "OMORI（英文维基）",
+  "url": "https://en.wikipedia.org/wiki/Omori_(video_game)",
+  "status": "OK 200",
+  "bytes": 368148,
+  "chars": 33844
+ },
+ {
+  "group": "C_games",
+  "slug": "C07_corpse_party",
+  "title": "尸体派对（英文维基）",
+  "url": "https://en.wikipedia.org/wiki/Corpse_Party",
+  "status": "OK 200",
+  "bytes": 360754,
+  "chars": 32835
+ },
+ {
+  "group": "C_games",
+  "slug": "C08_lisa",
+  "title": "Lisa: The Painful（英文维基）",
+  "url": "https://en.wikipedia.org/wiki/Lisa:_The_Painful",
+  "status": "OK 200",
+  "bytes": 235833,
+  "chars": 24303
+ },
+ {
+  "group": "C_games",
+  "slug": "C09_oneshot",
+  "title": "OneShot（英文维基）",
+  "url": "https://en.wikipedia.org/wiki/OneShot",
+  "status": "OK 200",
+  "bytes": 264692,
+  "chars": 21485
+ },
+ {
+  "group": "C_games",
+  "slug": "C10_off",
+  "title": "OFF（英文维基）",
+  "url": "https://en.wikipedia.org/wiki/Off_(video_game)",
+  "status": "OK 200",
+  "bytes": 165318,
+  "chars": 13668
+ },
+ {
+  "group": "D_articles",
+  "slug": "D01_pcgamer_secret_history",
+  "title": "PC Gamer：RPG Maker 秘史",
+  "url": "https://www.pcgamer.com/the-secret-history-of-underdog-game-engine-rpg-maker-and-how-it-got-its-bad-reputation/",
+  "status": "OK 200",
+  "bytes": 2064104,
+  "chars": 14320
+ },
+ {
+  "group": "D_articles",
+  "slug": "D02_otherstrangeness_donmiguel",
+  "title": "Other Strangeness：Don Miguel 与西方传播",
+  "url": "https://www.otherstrangeness.com/2024/07/09/rpgmaker-2000",
+  "status": "OK 200",
+  "bytes": 100036,
+  "chars": 3088
+ },
+ {
+  "group": "D_articles",
+  "slug": "D03_gematsu_ggg_interview",
+  "title": "Gematsu：Gotcha Gotcha Games 采访",
+  "url": "https://www.gematsu.com/2021/07/gotcha-gotcha-games-interview-with-producer-yusuke-morino",
+  "status": "OK 200",
+  "bytes": 102697,
+  "chars": 6813
+ },
+ {
+  "group": "D_articles",
+  "slug": "D04_gamersky_history",
+  "title": "游民星空：RPG 制作大师简史",
+  "url": "https://wap.gamersky.com/gl/Content-1315926.html",
+  "status": "FAIL URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1032)>",
+  "bytes": 0,
+  "chars": 0
+ },
+ {
+  "group": "D_articles",
+  "slug": "D05_baidu_nishi",
+  "title": "百度百科：西和彦",
+  "url": "https://baike.baidu.com/item/西和彦/6517770",
+  "status": "FAIL URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1032)>",
+  "bytes": 0,
+  "chars": 0
+ },
+ {
+  "group": "D_articles",
+  "slug": "D06_baidu_heian",
+  "title": "百度百科：黑暗圣剑传说",
+  "url": "https://baike.baidu.com/item/黑暗圣剑传说/8680629",
+  "status": "FAIL URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1032)>",
+  "bytes": 0,
+  "chars": 0
+ },
+ {
+  "group": "D_articles",
+  "slug": "D07_baidu_rpgmaker",
+  "title": "百度百科：RPG Maker 版本参数",
+  "url": "https://baike.baidu.com/view/513945.htm",
+  "status": "FAIL URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1032)>",
+  "bytes": 0,
+  "chars": 0
+ },
+ {
+  "group": "D_articles",
+  "slug": "D08_sina_heian",
+  "title": "新浪游戏：黑暗圣剑传说发布页（2005）",
+  "url": "https://games.sina.com.cn/downgames/demo/pcgames/2005-09-29/113293752.shtml",
+  "status": "FAIL URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1032)>",
+  "bytes": 0,
+  "chars": 0
+ },
+ {
+  "group": "D_articles",
+  "slug": "D09_square_enix_dq",
+  "title": "Square Enix：勇者斗恶龙系列指南",
+  "url": "https://www.square-enix.com/asia/dragonquest-series-guide/zh-CHT_tw/",
+  "status": "OK 200",
+  "bytes": 7114,
+  "chars": 24
+ },
+ {
+  "group": "D_articles",
+  "slug": "D10_moegirl_enterbrain",
+  "title": "萌娘百科：Enterbrain 沿革",
+  "url": "https://zh.moegirl.org.cn/zh/Enterbrain",
+  "status": "FAIL URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1032)>",
+  "bytes": 0,
+  "chars": 0
+ }
+]

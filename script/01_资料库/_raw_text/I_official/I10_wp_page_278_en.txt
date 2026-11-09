@@ -1,0 +1,19 @@
+SOURCE: https://rpgmakerofficial.com/en/wp-json/wp/v2/pages/278
+TITLE: WordPress REST API dump
+============================================================
+
+
+## History of Tkool
+URL: https://rpgmakerofficial.com/en/contents/history/
+
+History of Tkool
+
+ALL
+
+PC
+
+CS
+
+※Here you would find a list of our past products that have been phased out, including titles that were never sold overseas! We are unfortunately unable to answer inquiries about demands to release them again.
+
+※PC-9801 (aka PC-98) were the now colloquial names of a series of x86-based computers / OS developed and sold in Japan domestically by NEC Corporation around 1980s~1990s.

@@ -1,0 +1,268 @@
+SOURCE: https://en.wikipedia.org/wiki/Off_(video_game)
+TITLE: OFF（英文维基）
+FETCHED: 2026-10-21 17:20:37
+============================================================
+
+Off (video game) - Wikipedia
+
+Jump to content
+
+From Wikipedia, the free encyclopedia
+
+2008 video game
+
+This article needs more citations . Please help improve this article by adding citations to reliable sources . Unsourced material may be challenged and removed .
+
+Find sources: "Off" video game – news · newspapers · books · scholar · JSTOR ( November 2025 ) ( Learn how and when to remove this message )
+
+2008 video game
+
+OFF
+
+Developers Unproductive Fun Time
+
+Fangamer (Remake)
+
+Publishers Unproductive Fun Time
+
+Fangamer (Remake)
+
+Designers Martin Georis Azertip Lithrem
+
+Fangamer (Remake)
+
+Dawdling Dog, ltd. (Remake)
+
+Composers Alias Conrad Coldwood
+
+Nightmargin (Remake) [ ‡ 1 ]
+
+Morusque (Remake)
+
+James Roach (Remake)
+
+Camellia (Remake)
+
+Exaha (Remake)
+
+Toby Fox (Remake) [ ‡ 2 ]
+
+Banshee Beat (Remake)
+
+Engine RPG Maker 2003
+
+Unity (Remake)
+
+Platforms Microsoft Windows
+
+Mac OS X
+
+Nintendo Switch (Remake)
+
+Release
+
+14 May 2008
+
+Remake
+
+15 August 2025
+
+Genre Role-playing
+
+Mode Single-player
+
+Off (stylized in all caps ) is a 2008 role-playing video game developed and published by Belgian team Unproductive Fun Time, consisting of Martin Georis ("Mortis Ghost") and Alias Conrad Coldwood. [ 1 ] [ 2 ] [ 3 ] It is about an enigmatic humanoid entity known as the Batter, who is described as being on a "sacred mission" to " purify " the world of Off . The Batter travels through four bizarre Zones in the world, revealing more about the world as the game goes on.
+
+It has garnered a cult following for its story, characters and atmosphere, particularly after its officially sanctioned fan translation into English in 2011.
+
+A remake with new content developed by Fangamer was released on 15 August, 2025, on Windows and Nintendo Switch . [ 4 ] [ 5 ] A physical and a special edition of the Nintendo Switch version was released on 27 March 2026. [ ‡ 3 ]
+
+Gameplay
+[ edit ]
+Gameplay screenshot of Off , in which the main character, the Batter, alongside two of his Add-Ons, is fighting a secret boss named Sugar
+The gameplay of Off is similar to that of classic RPGs . The Batter advances by leveling up, acquiring new party members, and upgrading his statistics, such as attack and defense, as well as gaining special abilities termed "competences". Unlike similar games that function in a turn based system, OFF uses a system in which a character is able to attack once a cooldown has passed, meaning enemies and players are able to attack each other at the same time. This system serves to encourage players to make fast decisions in combat. The player can allow combat to take place automatically by selecting the "Auto" option during encounters, which will make the Batter and his Add-Ons act without player input. The battle system also features an unorthodox element system, where rather than "classic" elements often found in RPGs, such as fire or ice, Off uses bizarre elements more commonly thought of as materials: smoke , metal , plastic , meat , and sugar .
+
+There are four numbered Zones, labeled 0–3, along with a fifth zone, The Room, in which the final act of the game takes place. The Zones are only accessible once the player obtains their associated "Zodiac-Cards", which are acquired from the previous Zone's Guardian upon death, and the player traverses between them via a map termed the "nothingness".
+
+One notable feature of Off is its unusual number of puzzles, which include finding a multi-digit password and entering it into a giant keypad, locating missing book pages, or "repeating room" puzzles where players walk through multiple instances of the same room in the right order to escape.
+
+Plot
+[ edit ]
+Gameplay screenshot of the original French version of Off , in which the Judge is explaining a block puzzle to The Batter
+The player (who is referred to directly ) controls The Batter, a man in a baseball uniform on a mission to "purify the world". After receiving guidance from a talking cat called The Judge, The Batter makes his way through four Zones, killing malevolent spectres in order to purify the Zone. Each Zone is under the administration of a Zone Guardian. To purify the Zone, The Batter kills the Guardians as he progresses. After each Zone is purified, scenes of a sick boy named Hugo are shown, implying a connection to the Zone.
+
+The first Zone consists of towns ruled by a vulgar, imposing creature named Dedan. The Batter purifies the spectres within the smoke mines in the first town, the metal farms in the second, and a post office in the third. At the highest floor of the post office, The Batter encounters Dedan, who escapes to his office in the final town in the zone. The Batter advances through the Zone and confronts Dedan, defeating him and claiming that the Zone is purified.
+
+In the second Zone, centered around a towering library , The Batter encounters the Zone Guardian, Japhet, who appears to be a cat like The Judge. Progressing through a shopping mall , an amusement park , and a residential area , The Batter encounters The Judge again, who explains that his brother, Valerie, has been "calling himself Japhet". Accompanied by The Judge, The Batter returns to the library's roof and fights Japhet, who reveals his true form—a hulking phoenix who was inhabiting Valerie's corpse. The Batter dispatches Japhet, purifying the Zone.
+
+In the third Zone stands a gigantic sugar factory , which refines sugar from the corpses of the Zones' residents. The Batter progresses to the director's office, meeting the Zone Guardian: a giant man named Enoch. The Batter flees the battle with Enoch and maneuvers through the office building to exhaust him before defeating him, successfully purifying the three Zones.
+
+The last Zone, The Room, consists of abstract, non-linear puzzles all centered around a room that is implied to belong to Hugo. It is revealed that Hugo has an unspecified illness and resents his father for leaving him behind. The Batter meets the Zone Guardians again, now referred to as the Tall Mister (Dedan), The Bird (Japhet), and the Big Mister (Enoch), who now treat The Batter with kindness. The Batter finally encounters The Queen, the Zone Guardians' commander, and the two argue over their "son", implied to be Hugo. The Batter kills her and Hugo before proceeding to a final purified room with a single switch, only to be confronted by The Judge, angry at The Batter and Player for deceiving him and destroying the Zones, effectively wiping his people out of existence. The Judge requests the player's help in defeating The Batter.
+
+In the Special Ending, the player sides with The Judge and kills The Batter, and, during the credits, The Judge is seen sadly walking alone through the now-empty and lifeless purified Zones. In the Official Ending, the player sides with The Batter and kills The Judge, allowing him to flip the switch. Doing so displays the text, "The switch is now OFF", and the world fades to black.
+
+A third joke ending revolves around "Space Apes" in a war against brain-like aliens. The Space Apes describe their plan to construct factories in the now-lifeless world of Off to produce robots capable of killing the aliens. This is a nod to Silent Hill ' s dog endings.
+
+Development and releases
+[ edit ]
+
+This section needs expansion . You can help by adding missing information . ( May 2020 )
+
+Off was developed using the RPG Maker 2003 engine by Mortis and a few of his friends while he was living in a flat. [ ‡ 4 ] Georis went with RPG Maker 2003 as it was the only program in which he felt that he had the "mastery" of. [ ‡ 5 ] Georis lists Killer7 , Silent Hill 2 , Final Fantasy , Metal Gear Solid 2: Sons Of Liberty , Agatha Christie ’s novel And Then There Were None , and Myst as inspirations for Off . [ 1 ] [ ‡ 6 ] Georis describes the development of Off as being very spontaneous. Georis viewed Off as a small side project made to work on for fun after focusing on his main discipline of comic creation. There was only vague concepts for the overall plot of Off during the start of development. [ ‡ 7 ] After publishing a demo on a small internet forum and getting approval from a lot of players, he decided to release a full game in 2008. [ ‡ 4 ] English translations were later released by fans with the first (called v1.0 by fans) in September 8, 2011. [ ‡ 6 ]
+
+For the remake of Off announced in 2025, Alias Conrad Coldwood, the original composer of the 2008 release, revealed he would not be involved in the development of the remake. Although the remake's publisher, Fangamer , offered to reuse Coldwood's music for the new release, Coldwood refused due to being "nervous about signing". [ 6 ] Consequently, a new soundtrack was used for the remake instead, composed by seven composers. It includes tracks created by Toby Fox , Nightmargin, Camellia , and Morusque, and also included Lee Morse 's rendition of "If You Want the Rainbow". [ ‡ 8 ] [ ‡ 9 ] [ ‡ 2 ]
+
+Reception
+[ edit ]
+
+This section needs expansion . You can help by adding missing information . ( December 2024 )
+
+Off has been praised for its story, characters, and atmosphere. [ 7 ] Heidi Kemps of PC Gamer described it as "a memorable and haunting RPG, filled with tricky puzzles, bizarre symbolism, and challenging thematic elements." [ 8 ] Adam Smith of Rock, Paper, Shotgun compared it to Space Funeral . [ 9 ] Off has been compared to the Mother series, though Georis has stated that the resemblance is coincidental as he had never played any of the games until after finishing development. [ 1 ]
+
+Legacy
+[ edit ]
+
+A large fanbase for the game developed on Tumblr ; Off became the sixth most reblogged game of 2013, with the first five being AAA games . [ 3 ]
+
+References
+[ edit ]
+
+1 2 3 Nizam, Adam (8 November 2016). "Exploring The Motherlike: Or, The Genre That Never Was" . Paste . Archived from the original on 17 January 2025 . Retrieved 9 April 2023 .
+
+↑ Iwant (30 November 2013). "Hardcore Gaming 101: OFF" . Hardcore Gaming 101 . Archived from the original on 29 December 2017.
+
+1 2 Zavarise, Giada (21 September 2018). "Ten years later, OFF lives ON" . Rock Paper Shotgun . Archived from the original on 30 November 2022 . Retrieved 19 December 2024 .
+
+↑ Valentine, Rebekah (19 December 2024). "Unsettling Cult Classic RPG OFF Gets Surprise Steam and Switch Release in 2025" . IGN . Archived from the original on 24 January 2025 . Retrieved 19 December 2024 .
+
+↑ Brian (6 June 2025). "Off announces Nintendo Switch release date" . Nintendo Everything . Archived from the original on 6 June 2025 . Retrieved 7 June 2025 .
+
+↑ Eby, Bhuster (23 February 2025). "OFF's New Soundtrack is an Amazing Alternative to the Old Soundtrack" . Bhuster's Buzz . Retrieved 3 April 2025 .
+
+↑ Polson, John (28 May 2012). "Freeware Game Pick: OFF [ English Translation ] (Unproductive Fun Time)" . IndieGames.com . Archived from the original on 10 January 2018 . Retrieved 16 September 2017 .
+
+↑ Kemps, Heidi (31 July 2015). "A beginner's guide to JRPGs on PC" . PC Gamer . Archived from the original on 23 January 2025 . Retrieved 2 November 2025 .
+
+↑ Smith, Adam (28 May 2012). "A Bat, A Cat, A World Of Weird: OFF" . Rock, Paper, Shotgun . Archived from the original on 23 June 2018 . Retrieved 16 September 2017 .
+
+Primary sources
+
+In the text, these references are preceded by a double dagger (‡):
+
+↑ Alyea, Ryan (3 April 2025a). "OFF Newsletter #4" . OFF . Fangamer . Retrieved 3 April 2025 .
+
+1 2 Alyea, Ryan (23 January 2025b). "OFF Newsletter #1" . OFF . Fangamer. Archived from the original on 24 January 2025 . Retrieved 24 January 2025 .
+
+↑ "OFF Newsletter #7" . OFF . 15 July 2025. Archived from the original on 24 January 2025 . Retrieved 16 July 2025 .
+
+1 2 Mortis Ghost (30 June 2023). Off 15th anniversary stream . Retrieved 19 December 2024 – via YouTube.
+
+↑ Text For Interview of Mortis Ghost and Alias Conrad Coldwood Tumblr
+
+1 2 "FAQ" . Tumblr . Archived from the original on 17 November 2024 . Retrieved 15 February 2025 .
+
+↑ Creative Block (18 September 2023). MORTIS GHOST | CREATIVE BLOCK #134 . Retrieved 30 March 2025 – via YouTube.
+
+↑ "OFF Newsletter #4" . OFF . 16 August 2025. Archived from the original on 24 January 2025 . Retrieved 19 August 2025 .
+
+↑ "OFF Newsletter #2" . OFF . 16 August 2025. Archived from the original on 24 January 2025 . Retrieved 19 August 2025 .
+
+External links
+[ edit ]
+
+Official website
+
+Official website (Remake)
+
+RPG Maker website page
+
+Portals :
+Belgium
+
+France
+
+Horror
+
+Speculative fiction
+
+Video games
+
+Retrieved from " https://en.wikipedia.org/w/index.php?title=Off_(video_game)&oldid=1376775526 "
+
+Categories :
+2000s horror video games
+
+2008 video games
+
+2020s horror video games
+
+2025 video games
+
+Art games
+
+Dark fantasy video games
+
+Fiction about child murder
+
+Freeware games
+
+Indie games
+
+Linux games
+
+MacOS games
+
+Metafictional video games
+
+Monochrome video games
+
+Nintendo Switch games
+
+Retro-style video games
+
+Role-playing video games
+
+RPG Maker games
+
+Single-player video games
+
+Surrealist video games
+
+Video games about ghosts
+
+Video games about murder
+
+Video games developed in Belgium
+
+Video Games Scored by Nightmargin
+
+Video games scored by Toby Fox
+
+Windows games
+
+Hidden categories:
+Articles with short description
+
+Short description is different from Wikidata
+
+Use dmy dates from April 2019
+
+Articles needing additional references from November 2025
+
+All articles needing additional references
+
+Articles using Infobox video game using locally defined parameters
+
+Articles using Wikidata infoboxes with locally defined images
+
+Articles to be expanded from May 2020
+
+All articles to be expanded
+
+Articles to be expanded from December 2024
+
+Search
+
+Off (video game)
+
+10 languages Add topic

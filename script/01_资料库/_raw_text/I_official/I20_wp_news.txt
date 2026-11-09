@@ -1,0 +1,518 @@
+SOURCE: https://rpgmakerofficial.com/wp-json/wp/v2/news
+TITLE: WordPress custom post type 'news' (34 items)
+============================================================
+
+
+## 『RPGツクールU2U』P2Dマップエディタ体験版を公開！マップ募集企画も同時開催！
+LINK: https://rpgmakerofficial.com/news/4313/
+META: {}
+
+『RPGツクールU2U』のマップ制作を体験できる、「P2Dマップエディタ体験版」を、Steam上にて公開いたしました！
+P2D（Perspective 2D：パースペクティブ・ツーディー）とは、直感的な操作感で、高さや奥行きのあるマップを表現できる『RPGツクールU2U』の新しいマップ制作機能です。
+本体験版では、P2Dマップの作成、各種エフェクトの適用、歩行アニメーションのプレビューなどをお試しいただけます。P2Dマップは保存が可能で、作成したマップデータは製品版への引き継ぎが可能です。こちらからダウンロードしてぜひお試しください。
+
+▼Steamストアページ
+https://store.steampowered.com/app/4856440/RPG_MAKER_U2U/
+
+▼「みんなでツクろう！P2Dマップ」
+募集期間：2026年10月20日（火）～2026年11月16日（月）
+参加方法：
+Steamコミュニティハブから参加
+スレッド「みんなでツクろう！P2Dマップ」（ https://steamcommunity.com/app/4856440/discussions/4/706660344651769664/ ）へスクリーンショットを投稿してください。
+Xから参加
+U2U公式X（ https://x.com/rpgmakeru2u_jp ）をフォローしていただき、ハッシュタグ「#P2Dマップ募集」を付けて、スクリーンショットを投稿してください。
+
+▼プレスリリース
+https://prtimes.jp/main/html/rd/p/000020403.000007006.html
+
+さらなる詳細は、RPGツクールU2U公式アカウントをフォローしてお待ちください！
+https://x.com/rpgmakeru2u_jp
+
+## 「RPG Maker Special Sale 2026」開催！
+LINK: https://rpgmakerofficial.com/news/4253/
+META: {}
+
+「RPG Maker Special Sale 2026」は、ゲームを作りたいという想いを応援する特別なイベントです。
+RPGツクールシリーズや『ACTION GAME MAKER』といったゲーム制作ツールをはじめ、ゲームを魅力的にするDLCやプラグインを特別価格でご購入いただけます。
+便利なツールや素材を使って、あなたのアイディアを形にしてみませんか？
+
+■RPG Maker Special Sale 2026
+https://store.steampowered.com/publisher/gotchagotchagames
+
+■開催期間
+2026年8月28日(金)2:00～9月10日(土) 2:00（JST）
+
+『RPGツクール』シリーズから生まれたゲームを振り返る特別企画「実況で再発見！ツクールゲームワールド」も同時開催いたします。
+Vtuberさんや実況者さんにはご自身の実況動画を、クリエイターさんにはご自身が制作された作品を振り返っていただき、
+RPGツクールシリーズから生まれたゲームの魅力や、RPGツクールシリーズを使ってゲーム制作をするクリエイターさんへの応援の気持ちを語っていただきました。
+
+■「実況で再発見！ツクールゲームワールド」webサイト
+https://rpgmakerofficial.com/rpgmakergameworld/
+
+## 『RPGツクールU2U』Steamストアページを公開！ウィッシュリスト登録受付を開始！
+LINK: https://rpgmakerofficial.com/news/4264/
+META: {}
+
+『RPGツクールU2U』Steamストアページを公開！
+ウィッシュリスト登録の受付を開始しました🎉
+
+さらに、なまにくATK氏描き下ろしのキービジュアル、イベントエディター／データベース画面も初公開！
+
+▼Steamストアページ
+https://store.steampowered.com/app/4856440/RPG_MAKER_U2U/
+
+▼プレスリリース
+https://prtimes.jp/main/html/rd/p/000020001.000007006.html
+
+さらなる詳細はU2U公式アカウントをフォローしてお待ちください！
+https://x.com/rpgmakeru2u_jp
+
+## 『RPG MAKER WITH』ツクラー様の作品募集中！
+LINK: https://rpgmakerofficial.com/news/4247/
+META: {}
+
+『RPG MAKER WITH』公式では、ツクラーの皆様から作品を募集しています。
+現在、2026年7月31日時点で、第4回作品募集「あなたの考えるベストゲーム2026」を開催中です！
+
+インターネットに接続した状態で、『RPG MAKER WITH』の「作品募集」機能からご応募いただけます。
+応募条件などの詳細は、『RPG MAKER WITH』公式Xをご確認ください。
+▶第4回作品募集の詳細はこちら
+
+受賞作品は、『RPG MAKER WITH』公式ページに掲載する予定です。
+過去の受賞作品や、VTuberの皆様によるツクラー作品のゲーム実況アーカイブも、ぜひあわせてご覧ください！
+
+▶第1回作品募集／テーマ「自由」
+▶第2回作品募集／テーマ「短編」
+▶第3回作品募集／テーマ「あなたの考えるベストゲーム」
+▶VTuber様によるゲーム実況アーカイブ
+
+## ツクール公式のドット絵制作ツール『TilesetBuilder』が登場！
+LINK: https://rpgmakerofficial.com/news/4241/
+META: {}
+
+ツクール公式ドット絵制作ツール『TilesetBuilder』をリリースいたしました！
+
+『TilesetBuilder』は、タイルセットとキャラクター画像のドット絵制作に特化した編集ツールです。
+タイルセットの編集、1ピクセル単位の描画、オートタイル確認、キャラクターアニメーションの再生プレビュー、プラグインによる機能拡張まで——RPGツクール素材制作に必要な機能を、ひとつのツールに集約しました。
+
+詳細については『RPG Maker Official Store』ページをご確認ください！
+https://store.rpgmakerofficial.com/ja/products/tileset-builder-rpg-maker-mz
+
+## 出所が不明なゲーム・セーブデータ・素材のお取り扱いについて
+LINK: https://rpgmakerofficial.com/news/4183/
+META: {}
+
+出所が不明なゲーム・セーブデータ・素材のお取り扱いについて
+
+いつも「RPGツクール」シリーズをご利用いただき、誠にありがとうございます。
+
+RPGツクールシリーズで制作されたゲームをより安全にお楽しみいただくため、出所が不明なゲーム、セーブデータ、その他の素材のお取り扱いについてお願いがございます。
+
+ゲームをプレイする際や素材をご利用になる際は、出所が不明なものや信頼できないものは読み込まないようお願いいたします。外部から入手したゲーム、セーブデータ、素材は、内容が改ざんされていたり、ゲームやPCをクラッシュさせたりするおそれがあります。
+
+■ ご利用の皆さまへ
+
+次のようなものは、安全性を確認できないため、特にご注意ください。
+
+・SNS、掲示板、ファイル共有サービス等で配布されている、出所が不明なゲーム、セーブデータ、素材
+
+・作成者や配布元を確認できないもの
+
+・内容や目的が不明なもの
+
+・第三者から個別に送付された、信頼性を確認できないもの
+ゲームのプレイや素材のご利用にあたっては、信頼できる出所のもののみをご利用ください。セーブデータについては、ご自身のプレイで作成したものをご利用ください。
+
+■ 今後の対応について
+
+弊社では、RPGツクールシリーズならびにRPGツクールで制作されたゲームをより安全にご利用いただけるよう、製品本体やマニュアル、SNS等を通じた注意喚起の強化を進めてまいります。
+
+お手数をおかけいたしますが、安全なゲーム制作・プレイ環境の維持のため、ご理解とご協力をお願いいたします。
+
+## シリーズ最新作『RPGツクールU2U』発表！ 直感的に奥行きのあるマップをツクる新機能を公開
+LINK: https://rpgmakerofficial.com/news/4176/
+META: {}
+
+シリーズ最新作『RPGツクールU2U』に関するプレスリリースを公開いたしました！
+PR TIMES： https://prtimes.jp/main/html/rd/p/000019374.000007006.html
+
+さらなる詳細はU2U公式アカウントをフォローしてお待ちください！
+https://x.com/rpgmakeru2u_jp
+
+## 新たな表現の扉を開くRPGツクール新プロジェクトのティザー映像が解禁
+LINK: https://rpgmakerofficial.com/news/4157/
+META: {}
+
+新たな表現の扉を開く、新プロジェクトのティザー映像を公開しました。
+ぜひ皆様の目でお確かめください。
+ティザーサイト： https://rpgmakerofficial.com/rpgmaker-new-project/jp
+ティザー映像　： https://youtu.be/V0xhZUk74e4
+※映像は開発中のもので内容は変更になる可能性があります。
+
+本プロジェクトのさらなる詳細は、本日開設された公式アカウント（X）にて順次公開してまいります。ぜひフォローしてお待ちください！
+日本語： https://x.com/RPGNewProjectJP
+英語　： https://x.com/RPGNewProjectEN
+
+## 「RPG Maker Festival 2026」開幕！
+LINK: https://rpgmakerofficial.com/news/4107/
+META: {}
+
+ゲーム作りの楽しさを広めることを目的に認定された「ツクールの日」（2月15日）。これを記念した、オンラインイベント「RPG Maker Festival 2026」が開幕しました！
+RPG Maker（ツクール）製品やDLCをはじめ、RPG Maker（ツクール）で制作された数々のゲームタイトルも参加する盛大なセールイベントです。
+
+■RPG Maker Festival 2026
+https://store.steampowered.com/sale/rpgmakerfestival2026/
+
+■開催期間
+2026年2月10日(火)3:00～2月24日(火) 3:00（JST）
+
+「RPGツクールMZ」の機能を無料ですべて体験できる「Free Weekend」も実施しています。
+是非ゲーム作りの楽しさに触れ、フェスティバル期間中にお得にご購入ください。
+
+■Free Weekend実施期間
+2026年2月10日(火)3:00～2月17日(火) 3:00（JST）
+
+## 「RPG Maker Award 2026」受賞作品発表！
+LINK: https://rpgmakerofficial.com/news/4106/
+META: {}
+
+初開催となるゲームアワード「RPG Maker Award 2026」の受賞作品が決定しました！
+
+■「RPG Maker Award 2026」受賞作品発表ページ
+https://rpgmakerofficial.com/award2026/
+
+215作品の中から選ばれた「大賞」は『 Artis Impact 』です！
+
+特設ページでは「優秀賞」「特別賞」も発表しています。
+ユーザーからのアツいコメントとともに、是非チェックしてみてください。
+
+## 「RPG Maker Award 2026」の投票受付開始！
+LINK: https://rpgmakerofficial.com/news/4100/
+META: {}
+
+世界のツクール製タイトルを表彰する『RPG Maker Award 2026』の投票受付を開始しました。
+あなたが魅力的だと感じたタイトルに、是非投票してください！
+
+■投票フォーム
+https://script.google.com/macros/s/AKfycbxIYtIUdwTVrf8AdXfyiy9ZonCGORBKdQOPQZcs0GP_zIXksQwdHmufLTWjATSiYaB6/exec
+
+■投票締め切り
+2025年12月23日（火）23:59まで
+
+※受賞作品発表日：「RPG Maker Festival 2026」実施期間中を予定。
+
+「優秀賞」の他、「部門賞」「特別賞」などの授与を予定しております。
+あなたが推したいタイトルに、ご投票ください！
+アツいコメントもお待ちしております！
+
+## 「RPG Maker Festival 2026」開催決定　参加作品募集開始！アワードも実施！
+LINK: https://rpgmakerofficial.com/news/4093/
+META: {}
+
+2026年も『RPG Maker Festival』を開催いたします！
+
+▼『RPG Maker Festival』とは？
+ゲーム制作の楽しさを広めることを目的に制定された「ツクールの日」（2月15日）。
+この日を記念し、毎年2月に開催しているのが「RPG Maker Festival」です。
+
+「RPG Maker Festival」は、ゲーム制作ソフト『RPG Maker（ツクール）』や『アクションゲームツクール』、そしてRPG Makerを活用して制作されたクリエイター様の作品を広く紹介するイベントです。クリエイター様にとってはご自身のタイトルを多くの方に知っていただく機会となり、プレイヤー様にとっては新たなゲームと出会える、クリエイターとプレイヤー双方が楽しめるイベントです。
+
+▼『RPG Maker Festival 2026』参加作品募集中！
+『RPG Maker Festival 2026』では、ご参加いただけるタイトルを募集しています。
+参加条件は下記のフェスティバル参加申し込みフォームをご確認ください。Steamで「Maker（ツクール）」製のゲームをリリースされているみなさん、多くのユーザー様にあなたのタイトルを届けられるチャンスです。ぜひこの機会にご参加ください！
+
+【参加方法】
+下記のフォームに、必要事項を記入してお送りください。
+https://script.google.com/a/macros/gotchagotcha.jp/s/AKfycbyiBJ2t2qlg-QcyXIAiANtH5nF4pb0129bfkDpRn6RpMa-Qqid5snOOMrAPXoKuNwnsjA/exec
+
+【締め切り】
+2025年12月14日(日)23:59まで
+
+▼新企画『RPG Maker Award』を開催！
+近年リリースされた『RPG Maker』シリーズ作品の中から、ユーザー投票と運営による選考を通じて、特に優れたタイトルを表彰いたします。
+リリースから2年以内のタイトルを対象に、後日公開となるWebでのユーザー投票を実施し、投票結果をもとに運営による選考を経て「優秀賞」を発表いたします。
+受賞作品は、イベント特設ページにて紹介し、制作者の皆さまの創作活動を広く発信してまいります。
+
+アワードへの投票対象としての自薦でのノミネートご参加は、『RPG Maker Festival 2026』への参加と併せて、フェスティバル参加申込フォームより受け付けております。
+詳しくは、フェスティバル参加申し込みフォームをご確認ください。
+
+対象条件を満たすタイトルをお持ちの皆さまのご参加を、心よりお待ちしております。
+
+## 『RPG MAKER UNITE』ゲームジャム受賞作品発表！ Mac版配信開始・75%OFFセール実施
+LINK: https://rpgmakerofficial.com/news/4073/
+META: {}
+
+標記の件、PR TIMESにてプレスリリースを発刊しましたので詳細は下記をご確認ください。 https://prtimes.jp/main/html/rd/p/000017564.000007006.html ※外部サイト『株式会社 PR TIMES』のプレスリリースに飛びます。
+
+本プレスリリースまとめ
+●本年3月より開催のゲームジャム・アセットコンテストの受賞作品が決定！
+●UNITE Mac版（Epic Gmaes Store）配信開始！
+●UNITE 75％OFF 期間限定セール実施！
+
+## 『RPG MAKER UNITE』公式ゲームジャムによる作品募集＆アセットコンテストを開催！ 2回目となる本体70％OFFセールもスタート
+LINK: https://rpgmakerofficial.com/news/4021/
+META: {}
+
+標記の件、お知らせいたします。詳細につきましてはプレスリリースをご確認下さい！
+https://prtimes.jp/main/html/rd/p/000016543.000007006.html
+※外部サイト『株式会社 PR TIMES』のプレスリリースに飛びます。
+
+## 『RPG MAKER UNITE』ゲームジャム開催決定！70％OFFの記念セールやメジャーアップデートも実施！
+LINK: https://rpgmakerofficial.com/news/4004/
+META: {}
+
+標記の件、お知らせいたします。詳細につきましてはプレスリリースをご確認下さい！
+https://prtimes.jp/main/html/rd/p/000016190.000007006.html
+※外部サイト『株式会社 PR TIMES』のプレスリリースに飛びます。
+
+また、PDF版はこちらをご確認下さい。
+https://www.gotchagotcha.jp/assets/pdf/rpg_maker_unite_gamejam_ja_20250116.pdf
+
+## Nintendo Switch™向けのゲーム開発機能およびパブリッシュサービスの段階的な縮小についてのお知らせ
+LINK: https://rpgmakerofficial.com/news/3987/
+META: {}
+
+Nintendo Switch™向けのゲーム開発機能およびパブリッシュサービスの段階的な縮小についてのお知らせ
+
+いつも『アクションゲームツクールMV』をご利用いただき誠にありがとうございます。
+Nintendo Switch™向けのゲームを開発し、Gotcha Gotcha Games(以下、弊社)を通して開発したタイトルをパブリッシュさせていただくサービスにつきまして重要なお知らせとなります。
+本サービスは、2021年5月15日の提供開始以降、2024年11月時点において50作品以上がNintendo Switch™向けに配信されるなど、多くのクリエイターの皆様にご利用いただいています。本サービスをご利用いただき、また、『アクションゲームツクールMV』で魅力的なゲームを制作いただき誠にありがとうございます。
+●『アクションゲームツクールMV』製Nintendo Switch™タイトル『ツクールシリーズ』一覧
+https://rpgmakerofficial.com/act_game/
+
+しかしながら、『アクションゲームツクールMV』もリリースから7年目を迎えました。PCの高機能化が進み、コンシューマでも次世代機の開発が発表される等、ゲーム制作ツールに求められる機能はより高いものとなっております。
+そのため、弊社ではより高機能な後継ツールである『ACTION GAME MAKER』の発売を2025年に予定しております。
+『ACTION GAME MAKER』でもNintendo Switch™をはじめ、各コンソールへのポート機能を提供予定です。
+
+●『ACTION GAME MAKER』でのコンソールポート機能について詳しくはこちら
+https://store.steampowered.com/news/app/2987180/view/4687773573366304993
+
+そのため、『アクションゲームツクールMV』でのNintendo Switch™向けゲーム開発機能・パブリッシュサービスを2025年4月1日より段階的に縮小させていただきます。なお、本機能以外の変更はございません。Windows PC向けの開発/出力機能やカスタマーサポートは引き続きご利用いただけます。
+Nintendo Switch™向けパブリッシュをご希望の方は、2025年3月31日までに「販売申請」をいただき、2026年3月31日までに任天堂様のロットチェックを完了すべく開発を進めていただくようお願いいたします。なお、実際に、弊社と契約を締結し、ゲームが完成した場合であっても、ロットチェック合格までには、最短でも約10週間の期間が必要です。余裕を持った開発進行をお願いいたします。
+■縮小スケジュール
+※1 新規受付は終了しますが、審査に合格し、弊社と契約を締結した方は2026年3月31日までこれまで通りの開発機能が利用可能です。
+※2 当日をもって、『アクションゲームツクールMV』用Nintendo Switch™向け開発機能は全て利用できなくなりますが、開発が完了し、リリース済みの作品の販売は継続されます。
+
+●ゲームの完成からロットチェック合格までの目安
+手順8 「ロットチェック合格」までを2026/3/31までに完了いただく必要がございます。
+
+ゲームの完成から、ロットチェック合格までは短くともおよそ10週間必要となります。本表はあくまでも目安であり、ゲームのボリュームやチェック状況により進行は前後します。7.のロットチェックは、提出1回で通過した場合の目安日数です。不備やバグにより不合格になった場合には、修正および再審査が必要となり、大きく時間がかかる可能性がございます。余裕を持った計画を立てていただけるとありがたいです。
+
+●「販売申請」手順
+https://rpgmakerofficial.com/application/action_tkool/
+なお、期間内にNintendo Switch™向けに開発しているタイトルの開発完了が難しい方は、『ACTION GAME MAKER』へのプロジェクト移行についてもご検討ください。ただし、この場合『アクションゲームツクールMV』とはサポートされるファイル形式が異なる等、直接のプロジェクト引き継ぎができないことにご注意ください。
+
+■『ACTION GAME MAKER』へのプロジェクト移行について
+『ACTION GAME MAKER』では『アクションゲームツクールMV』とは異なるエンジン「Godot Engine」を採用しているため、プロジェクトそのものを引き継ぎ、インポートすることはできません。
+しかし、『アクションゲームツクールMV』のヴィジュアルスクリプトの遷移条件、実行アクションおよびパラメーターはほぼ全て実装されており、アクション作成のノウハウをご利用いただけます。ただし、エンジンの変更に伴い一部のアクションの挙動が異なる可能性があることを予めご了承ください。また、再設定が必要なものの多くの素材は再利用いただけます。
+
+◯そのまま利用できる素材の例。
+・BGM/SE等の楽曲データ
+・スプライト/タイルチップ/背景/フォント等の画像データ
+◯変換が必要だが、再利用できる素材の例。
+・動画データ：Ogg Theora形式に変換することでご利用いただけます。
+
+◯ご利用いただけない素材の例。
+・OPTPiX Sprite Studioで制作されたsspj形式、及びgif形式のアニメーションデータ：類似のアニメーション制作機能としてGodot Engineの「Animation Player」がご利用いただけます。
+・パーティクルデータ：類似機能として、Godot Engineの「GPUParticles2D」「CPUParticles2D」がご利用いただけます。
+
+より詳しい情報については、以下の『ACTION GAME MAKER』ストアページやプロデューサーレターをご確認ください。
+https://store.steampowered.com/app/2987180/ACTION_GAME_MAKER/
+
+現在『アクションゲームツクールMV』で、Nintendo Switch™向けタイトルを開発中のクリエイターの皆様にはご不便をおかけしますが、何卒ご理解とご協力のほどよろしくお願いいたします。
+
+本資料についてのお問い合わせは
+pgmmv-support@gotchagotcha.jp までご連絡ください。
+
+## RPGツクールMZで『カンデミーナ ストレスフルRPG 魔王ムキ～の挑戦状』を制作いただきま した！
+LINK: https://rpgmakerofficial.com/news/2736/
+META: {}
+
+「新商品発売＆リニューアル記念、カンデミーナ ストレスを噛みとばせ」キャンペーンにおいて、RPGツクールMZを使用して『カンデミーナ ストレスフルRPG 魔王ムキ～の挑戦状』を制作していただきました！
+ぜひプレイしてみてください！
+https://x.com/kanro_pr/status/1841674554747585011
+
+## Official Store RPG Maker Official Store オープンのお知らせ
+LINK: https://rpgmakerofficial.com/news/2724/
+META: {}
+
+「RPG Maker」シリーズの開発運営を行う、Gotcha Gotcha Gamesが新たに手掛ける公式ストア『RPG Maker Official Store』をオープンいたします。
+「RPG Maker」シリーズはもちろん、DLCやパブリッシュゲームタイトルを販売いたします。公式ストアならではのイベントやプロモーションを企画検討しております。
+RPG Maker Official Store： https://store.rpgmakerofficial.com/ja
+
+## Maker(ツクール)シリーズ最新作『ACTION GAME MAKER』ストア公開！
+LINK: https://rpgmakerofficial.com/news/2706/
+META: {}
+
+『ACTION GAME MAKER』は『アクションゲームツクールMV』の後継作品で、2Dアクションゲームを制作可能なゲーム開発ツールです。
+「RPG Maker(ツクール)」同様にノンプログラムで、同梱のサンプル素材を使ってすぐに制作に取り掛かることが可能です。
+ベースエンジンとして「Godot Engine」を採用したことで、グラフィックや拡張性も大幅にパワーアップしています！
+詳しくは以下の『ACTION GAME MAKER』Steamストアページをご確認ください。
+https://store.steampowered.com/app/2987180/ACTION_GAME_MAKER/
+
+## 『RPG MAKER WITH』Nintendo Switch版 発売のお知らせ
+LINK: https://rpgmakerofficial.com/news/2677/
+META: {}
+
+『RPG MAKER WITH』、Nintendo Switch版を発売いたしました！
+https://with.rpgmakerofficial.com/
+
+## 『アクションゲームツクールMV』 規約改定のお知らせ
+LINK: https://rpgmakerofficial.com/news/2653/
+META: {}
+
+弊社が現在発売中のゲーム制作ソフトウェア『アクションゲームツクールMV』につきまして、 規約の改定を行わせていただきます。
+
+改定の目的は、
+
+「社名」や「ネットワーク認証」等現状にそぐわない表記の更新。
+
+2023年5月で実施のツクールシリーズ利用規約改定同様、『アクションゲームツクールMV』の製品本体同梱素材を弊社製品以外でも利用可能であることを明記。
+
+収録素材の有償利用が認められないサンプルゲームの追加。
+
+ユーザーゲームへの権利表記指定の変更。
+
+の4点が主な目的となります。
+
+新規約は本日2023/12/27(水)より1ヶ月後、2024/1/27(水)より適用されます。
+
+詳しい変更内容につきましては、以下対照表をご確認ください。
+
+ダウンロード： アクツクMV規約対照表20231227
+
+## 『アリス・ギア・アイギス』×『RPG Maker』シリーズコラボ記念Webゲーム配信中！
+LINK: https://rpgmakerofficial.com/news/2605/
+META: {}
+
+武装カスタマイズアクションゲーム『アリス・ギア・アイギス』と『RPG Maker』シリーズとのコラボ記念として、実際に『RPGツクールMZ』で制作されたWebゲームが配信中です。
+PC・スマートフォンのどちらでもお気軽にお楽しみいただけますので、ぜひプレイしてみてください。
+
+「クリクエオンラインMOBILE クローズドβ」配信ページはこちら
+
+## RPG Maker Unite発売のお知らせ
+LINK: https://rpgmakerofficial.com/news/1278/
+META: {}
+
+2023年5月8日、RPG Maker UniteがUnity Asset Storeにて販売開始されました！
+プレスリリース
+Unity Asset Store
+
+## RPG Maker利用規約更新のお知らせ
+LINK: https://rpgmakerofficial.com/news/1270/
+META: {}
+
+RPG Maker利用規約「GGG製品利用規約」を更新いたしました。
+素材利用条件の収録素材の改変利用等について、更新しております。
+
+詳細は利用規約ページをご覧ください。
+https://rpgmakerofficial.com/support/rule/
+
+## 二次創作大歓迎！みんなとシェアできる世界観『ISEKAI CREATORS』の公式HPを公開しました。
+LINK: https://rpgmakerofficial.com/news/1209/
+META: {}
+
+RPGや物語の制作時、世界観の制作は難しいことです。株式会社Gotcha Gotcha Games(以下、弊社）では悩めるクリエイターをサポートするため、誰でも自由に、無償で利用できる世界観として『ISEKAI CREATORS』を提供させていただきます。
+世界観制作は、TRPGの制作やRPGの世界観設定を手掛ける有限会社F.E.A.R.の「遠藤卓司」氏に依頼。「異世界転移・異世界転生」をベースとした本格的な世界観構築でありながら、クリエイターの自由な発想を妨げない設計となっています。
+本世界観は、本日2023年3月8日(水)より『ISEKAI CREATORS』公式サイトにて公開し、ゲーム制作はもちろん、動画やイラスト、小説等、様々なコンテンツの制作にご利用いただけます。また、クリエイター個人の方がゼロから作り上げた素材を使用した『ISEKAI CREATORS』の二次創作物は、ゲーム作品、イラスト等どのような形式であっても商用利用が可能です。また、ゼロからイラストやゲーム素材を用意するのが難しい、という方のためのハイクオリティなゲーム制作用アセットを後日発売予定です。
+
+『ISEKAI CREATORS』公式サイト
+https://ggg.rpgmakerofficial.com/isekaicraetors
+
+## ユーザー作品紹介・第５回『Ib』
+LINK: https://rpgmakerofficial.com/news/1208/
+META: {}
+
+Maker(ツクール)シリーズで制作されたゲームを紹介するコンテンツ
+「ユーザー作品紹介」
+
+第５回では、Kouriさんの『Ib』をご紹介します。
+
+『Ib』
+
+## 3Dキャラクターコンバーターリリース！
+LINK: https://rpgmakerofficial.com/news/1182/
+META: {}
+
+RPG Maker Uniteの関連製品である「RPG Maker 3D Character Converter」がリリースされました！
+3DのVRMモデルをRPG Maker Uniteや従来のMakerシリーズの規格に合わせた2D画像素材に変換できるツールとなっております！
+詳細は こちら
+
+## ユーザー作品紹介・第４回『ミスチックリーチャー ～Mystic Creature～』
+LINK: https://rpgmakerofficial.com/news/1069/
+META: {}
+
+Maker(ツクール)シリーズで制作されたゲームを紹介するコンテンツ
+「ユーザー作品紹介」
+
+第４回では、ニコニコ自作ゲーム文化祭・受賞作品
+ねつしさんの『ミスチックリーチャー ～Mystic Creature～』をご紹介します。
+
+『ミスチックリーチャー ～Mystic Creature～』
+
+## ユーザー作品紹介・第３回『ムツアナ』
+LINK: https://rpgmakerofficial.com/news/826/
+META: {}
+
+Maker(ツクール)シリーズで制作されたゲームを紹介するコンテンツ
+「ユーザー作品紹介」
+
+第３回では、ニコニコ自作ゲーム文化祭・受賞作品
+莞爾の草さんの『ムツアナ』をご紹介します。
+
+『ムツアナ』
+
+## ユーザー作品紹介・第２回『EmptyEnd』
+LINK: https://rpgmakerofficial.com/news/800/
+META: {}
+
+Maker(ツクール)シリーズで制作されたゲームを紹介するコンテンツ
+「ユーザー作品紹介」
+
+第２回では、ニコニコ自作ゲーム文化祭・受賞作品
+蒼間なぎさんの『EmptyEnd』をご紹介します。
+
+『EmptyEnd』
+
+## Makerシリーズの歩み・紹介タイトルを追加
+LINK: https://rpgmakerofficial.com/news/774/
+META: {}
+
+コレを見ればツクールの歴史がわかる！
+「Makerシリーズの歩み」に紹介タイトルを追加しました。
+
+Makerシリーズの歩み
+
+## 事例紹介・第１回 『良いコード／悪いコードで学ぶ設計入門 ―保守しやすい 成長し続けるコードの書き方』
+LINK: https://rpgmakerofficial.com/news/756/
+META: {}
+
+Maker(ツクール)シリーズの活用事例を紹介するコンテンツ
+「事例紹介」をオープンしました。
+
+第１回・書籍『良いコード／悪いコードで学ぶ設計入門 ―保守しやすい 成長し続けるコードの書き方』
+
+第１回
+
+## ユーザー作品紹介・第１回『レベッカと機械ノ洋館』
+LINK: https://rpgmakerofficial.com/news/670/
+META: {}
+
+Maker(ツクール)シリーズで制作されたゲームを紹介するコンテンツ
+「ユーザー作品紹介」をオープンしました。
+
+第１回では、真島ヒロさんの『レベッカと機械ノ洋館』をご紹介します。
+
+『レベッカと機械ノ洋館』
+
+## RPG Maker Official本日オープン！
+LINK: https://rpgmakerofficial.com/news/592/
+META: {}
+
+RPG Makerシリーズオフィシャルサイト「ツクールWeb」が、
+このたび「RPG Maker Official」にリニューアル！
+
+本日発表となった「RPG Maker Unite」を始めとしたシリーズ情報はもちろん、
+様々なコンテンツを今後お届けしていきます。
+
+皆さま、ぜひご期待ください！

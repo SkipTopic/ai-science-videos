@@ -1,0 +1,547 @@
+SOURCE: https://en.wikipedia.org/wiki/ASCII_Microsoft
+TITLE: ASCII Microsoft（英文维基）
+FETCHED: 2026-10-21 17:19:19
+============================================================
+
+ASCII Corporation - Wikipedia
+
+Jump to content
+
+From Wikipedia, the free encyclopedia
+
+(Redirected from ASCII Microsoft )
+
+Publishing company based in Tokyo, Japan
+
+This article is about the company. For the American Standard Code for Information Interchange, see ASCII .
+
+ASCII Corporation
+
+Native name
+株式会社アスキー
+
+Romanized name
+Kabushiki-gaisha Asukī
+
+Formerly ASCII Publishing Co., Ltd. (1977—1982)
+
+Type Subsidiary
+
+Industry Video games
+
+Founded May 24, 1977 ; 49 years ago ( 1977-05-24 )
+
+Founder
+
+Kazuhiko Nishi
+
+Akio Gunji
+
+Keiichiro Tsukamoto
+
+Defunct March 31, 2008 ; 18 years ago ( 2008-03-31 )
+
+Fate Merged with MediaWorks
+
+Successor
+
+Microsoft Japan
+
+ASCII Media Works
+
+Headquarters Chiyoda, Tokyo , Japan
+
+Area served
+Japan
+
+Key people
+
+Kiyoshi Takano (president)
+
+Tatsuo Sato (chairman)
+
+Products
+
+Derby Stallion series
+
+RPG Maker series
+
+Monthly ASCII
+
+MSX
+
+Revenue ¥ 433 million (2006)
+
+Number of employees
+197 (2006)
+
+Parent
+
+Sega (1997–2004)
+
+Kadokawa Group Holdings (2004–2008)
+
+Subsidiaries
+
+Astro Arts
+
+Soft Wing
+
+Website ascii .jp ascii.jp (archived)
+
+Footnotes
+
+"Company Profile" (in Japanese). ASCII Corporation. 2006. Archived from the original on February 17, 2008 . Retrieved August 5, 2020 .
+
+ASCII Corporation, Ltd. [ a ] was a Japanese publishing company based in Chiyoda, Tokyo . It was founded in 1977, originating as the Japanese sales office of Microsoft , though its partnership with the company ended in 1986 upon the formation of Microsoft Japan .
+
+The company then became a subsidiary of Kadokawa Group Holdings in 2004, and merged with another Kadokawa subsidiary MediaWorks on April 1, 2008, becoming ASCII Media Works . [ 1 ] [ 2 ] The company published Monthly ASCII as the main publication. ASCII is best known for creating the Derby Stallion video game series, the MSX computer, and the RPG Maker line of programming software.
+
+History
+[ edit ]
+
+1977–1990: Founding and first projects
+[ edit ]
+
+ASCII was founded in 1977 by Kazuhiko Nishi , Akio Gunji and Keiichiro Tsukamoto. The name was taken from the ASCII code that was referred to a computer character set. [ 3 ] Originally the publisher of a magazine with the same name, ASCII , talks between Bill Gates and Nishi led to the creation of Microsoft 's first overseas sales office, ASCII Microsoft , in 1978. [ 4 ] [ 5 ] In 1980, ASCII made 1.2 billion yen of sales from licensing Microsoft BASIC . It was 40 percent of Microsoft's sales, and Nishi became Microsoft's Vice President of Sales for Far East. [ 6 ] In 1983, ASCII and Microsoft introduced the MSX , a standardized specification for 8-bit home computers. In 1984, ASCII entered the semiconductor business, followed by a further expansion into commercial online service in 1985 under the brand of ASCII-NET. As the popularity of home video game systems soared in the 1980s, ASCII became active in the development and publishing of software and peripherals for popular consoles such as the Family Computer and Mega Drive . After Microsoft's public stock offering in 1986, Microsoft founded its own Japanese subsidiary, Microsoft Co., Ltd. , traded as Microsoft Kabushiki Kaisha (MSKK), and dissolved its partnership with ASCII. [ 4 ] At around the same time, the company was also obliged to reform itself as a result of its aggressive diversification in the first half of the 1980s. [ 7 ] The company went public in 1989.
+
+1989–2000: Satellites and later projects
+[ edit ]
+
+ASCII's revenue in its fiscal year ending March 1996 was 56 billion yen, broken down by sectors: publications (52.5% or 27.0 billion yen), game entertainment (27.8% or 14.3 billion yen), systems and semiconductors (10.8% or 6 billion yen) and others. [ 7 ] Despite its struggles to remain focused on its core businesses, the company continued to suffer from accumulated debts, until an arrangement was made that CSK Corporation would execute a major investment into ASCII in 1997. [ 8 ]
+
+In the mid-1990s, ASCII acquired the company Something Good, and renamed it to ASCII Something Good , through which it developed three Sega Saturn games: AI Shogi (1995), AI Igo (1997), AI Shogi 2 (1998).
+Controller for the PS1 releases of Beatmania, released by ASCII Corporation in 1998
+In 1998, ASCII signed an exclusive agreement with Konami to produce third-party controllers for the PlayStation releases of the arcade rhythm game Beatmania . The controllers, known as the ASC-0515BM were often bundled alongside the game. With Konami's official controller for the game, the DJ Station Pro positioned as a more premium option. [ 9 ]
+
+ASCII originally used the name Nexoft on early American releases. In 1991, it renamed Nexoft to ASCII Entertainment , although releases around this time used the Asciiware name. To focus on supporting the interactive entertainment channel in America, startup company Agetec (for "Ascii Game Entertainment Technology") was spun off as an independent corporation in 1998 and later became a fully independent publisher one year later. Co-founder Tsukamoto had left ASCII to create a company of his own in 1992, named Impress . [ 10 ]
+
+2000–2008: Ownership changes and dissolution
+[ edit ]
+
+On November 26, 2001, CSK Corporation and Unison Capital Partners L.P. announced the approval of transferring the control of its subsidiary ASCII to Unison Capital Partners L.P., effective on March 30, 2002, as part of a strategy to focus CSK's operations on B2B enterprises. [ 11 ] [ 12 ] The transfer was approved on December 21, 2001. [ 13 ] As a part of deal, ASCII's outstanding debt owed to CSK was forgiven, and under Unison's control, the ASCII's Enterbrain and IT publishing divisions would maintain autonomy, while ASCII was restructured to concentrate on PC and IT publishing businesses.
+
+On May 28, 2002, Unison Media Partners announced ASCII became a fully owned subsidiary of via share exchange, and ASCII would be delisted, effective on October 1, 2002. [ 14 ] On November 18, 2002, the Astroarts subsidiary was renamed to ASCII, while ASCII was renamed to MediaLeaves. [ 15 ] The former Astroarts subsidiary would inherit the publishing business of the former ASCII. On January 29, 2004, Unison Capital Partners, L.P. announced the sale of ASCII's parent company MediaLeaves to Kadokawa Group Holdings , to be completed in March 2004. [ 16 ] [ 17 ]
+
+On September 27, 2007, Kadokawa Group Holdings announced the merger between subsidiaries MediaWorks and ASCII under the name ASCII Media Works , effective on April 1, 2008. [ 1 ] [ 2 ] The merger was approved in 2008. [ 18 ] On January 10, 2010, the formerly named ASCII company MediaLeaves was merged into Enterbrain, dissolving the last of the ASCII entity. [ 19 ]
+
+Products
+[ edit ]
+
+MSX
+[ edit ]
+
+Main article: MSX
+
+MSX is a standardized home computer architecture, announced by Microsoft and ASCII on June 16, 1983. [ 20 ] [ 21 ] It was conceived and marketed by Kazuhiko Nishi, then vice-president at Microsoft Japan and director at ASCII Corporation. Nishi conceived the project as an attempt to create unified standards among various home computing system manufacturers of the period. [ 22 ] [ 23 ] MSX systems were popular in Japan and several other countries. It is difficult to determine how many MSX computers were sold worldwide, but eventually, 5 million MSX-based units were sold in Japan alone. Despite Microsoft's involvement, few MSX-based machines were released in the United States. [ 24 ] Before the great success of Nintendo 's Family Computer , MSX was the platform for which major Japanese game studios such as Konami and Hudson Soft produced video games. The Metal Gear series , for example, was first written for MSX hardware. [ 25 ]
+
+See also
+[ edit ]
+
+List of magazines published by ASCII Media Works
+
+Notes
+[ edit ]
+
+↑ Japanese : 株式会社アスキー , Hepburn : Kabushiki kaisha Asukī
+
+References
+[ edit ]
+
+1 2 子会社の合併に関するお知らせ (PDF) (in Japanese). Kadokawa Group Holdings . Archived from the original (PDF) on November 8, 2007 . Retrieved December 8, 2007 .
+
+1 2 "Kadokawa Group to Merge ASCII, MediaWorks Subsidiaries" . Anime News Network . October 2, 2007. Archived from the original on April 7, 2008 . Retrieved March 30, 2008 .
+
+↑ Nishi, Kazuhiko (September 19, 2020). "伝説的ベンチャー「アスキー」を生み出した"大喧嘩"とは？" . ダイヤモンド・オンライン (in Japanese) . Retrieved June 8, 2025 .
+
+1 2 Allan, Roy A. (2001). A History of the Personal Computer . Allan Publishing. pp. 31, 65. ISBN 0-9689108-0-7 .
+
+↑ Quote from Bill Gates' The Road Ahead , found in Lessem, Ronnie (1998). Management development through cultural diversity . Routledge. pp. 160– 161. ISBN 0-415-17875-4 .
+
+↑ コンピュータ・ニュース社, ed. (1988). "「パソコン産業史」年表". 100万人の謎を解く ザ・PCの系譜 (in Japanese). コンピュータ・ニュース社. p. 45. ISBN 4-8061-0316-0 .
+
+1 2 Toda, Satoru (戸田覚) (1997). A quick map to Information and Telecommunications makrket (情報・通信業界早わかりマップ) . Kō Shobō (こう書房). pp. 130– 135. ISBN 4-7696-0606-0 .
+
+↑ "Ascii to join CSK group" . The Japan Times . December 25, 1997 . Retrieved April 22, 2009 .
+
+↑ "Consolevariations - Ascii PlayStation Beatmania Controller" . Consolevariations . Retrieved May 16, 2026 .
+
+↑ Impress Holdings website Archived February 16, 2009, at the Wayback Machine
+
+↑ "CSK Corporation to Transfer ASCII to Unison Capital Partners L.P." CSK. November 26, 2001. Archived from the original on December 1, 2008 . Retrieved April 22, 2009 .
+
+↑ "アスキーの経営権取得に関する基本合意書締結について" (PDF) . November 26, 2001. Archived from the original (PDF) on April 25, 2012 . Retrieved November 12, 2011 .
+
+↑ "CSK Corporation Formalizes Contract to Transfer ASCII to Unison Capital Partners L.P." CSK. December 21, 2001. Archived from the original on December 1, 2008.
+
+↑ "株式会社アスキーとの株式交換契約締結について" (PDF) . Unison. May 28, 2002. Archived from the original (PDF) on March 4, 2016 . Retrieved November 12, 2011 .
+
+↑ "アスキーが社名変更" . November 18, 2002.
+
+↑ "株式会社メディアリーヴス株式の公開買付への応募について" (PDF) . Unison. January 29, 2004. Archived from the original (PDF) on April 25, 2012 . Retrieved November 12, 2011 .
+
+↑ " Kadokawa buys ASCII (アスキー、角川が買収へ)" . IT Media, Inc. (in Japanese). January 29, 2004. Archived from the original on March 27, 2009 . Retrieved April 22, 2009 .
+
+↑ 子会社の合併に関する経過のお知らせ (PDF) (in Japanese). Kadokawa Group Holdings . Retrieved February 8, 2008 .
+
+↑ "MediaLeaves, Inc. announcement" (in Japanese). Archived from the original on October 28, 2010.
+
+↑ Laing, Gordon (2004). Digital Retro: The Evolution and Design of the Personal Computer . Ilex Press. ISBN 9781904705390 .
+
+↑ "ASCII Express : 新しいホームパーソナルコンピュータ仕様 MSX". ASCII . 7 (8). ASCII . 1983. ISSN 0287-9506 .
+
+↑ "MSX: The Japanese are coming! The Japanese are coming!" . The Register . June 27, 2013.
+
+↑ Kazuhiko Nishi - eNotes.com Reference .
+
+↑ Faceoff: will MSX be a success in the United States .
+
+↑ "Kojima Productions" . Konami.jp . Retrieved June 22, 2011 .
+
+External links
+[ edit ]
+
+Archived ASCII Corporation page (in Japanese)
+
+v
+
+t
+
+e
+
+Kadokawa Corporation
+
+Publishing
+
+ASCII Media Works
+
+Enterbrain
+
+Fujimi Shobo
+
+Kadokawa Shoten
+
+Media Factory
+
+Other
+
+Anime Festival Asia
+
+Anime News Network
+
+Doga Kobo
+
+Dwango
+BookWalker
+
+Niconico
+
+GeeXPlus
+GeeXProduction
+
+ENGI
+
+Glovision
+
+Kadokawa Gempak Starz
+
+Kadokawa Daiei Studio
+
+Tokorozawa Sakura Town
+
+Yen Press (51%)
+
+J-Novel Club
+
+Kinema Citrus (31.8%)
+
+Video games
+
+Developers
+
+Acquire
+
+FromSoftware (69.6%)
+
+Gotcha Gotcha Games
+
+Spike Chunsoft
+
+Franchises
+
+Akiba's Trip
+
+Armored Core
+
+Class of Heroes
+
+Conception
+
+Danganronpa
+
+Derby Stallion
+
+Echo Night
+
+Elden Ring
+
+Fire Pro Wrestling
+
+King's Field
+
+Lost Kingdoms
+
+Mystery Dungeon
+
+Otogi
+
+Panzer Front
+
+RPG Maker
+
+Shadow Tower
+
+Shinobido
+
+Tenchu
+
+Twilight Syndrome
+
+Way of the Samurai
+
+Zero Escape
+
+Defunct
+
+ASCII Corporation
+
+Chunsoft
+
+Daiei Film
+
+MediaWorks
+
+Niwango
+
+Spike
+
+Former subsidiaries
+
+Asmik Ace
+
+Mages
+
+Related items
+OpenToonz
+
+Other
+2024 cyberattack on Kadokawa and Niconico
+
+v
+
+t
+
+e
+
+Sega Sammy Holdings
+
+Sega ᐧ Sammy Corporation
+
+Video game development
+
+Atlus
+
+Creative Assembly
+Sofia
+
+Hardlight
+
+Rovio Entertainment
+
+Ryu Ga Gotoku Studio
+
+Sega AM1
+
+Sega AM2
+
+Sonic Team
+
+Sports Interactive
+
+Two Point Studios
+
+Other industries
+
+ENGI
+
+Marza Animation Planet
+
+TMS Entertainment
+Telecom Animation Film
+
+Sega Fave
+
+Former subsidiaries
+
+Amplitude Studios
+
+ASCII Corporation
+
+CA Sega Joypolis
+Joypolis
+
+Demiurge Studios
+
+Index Corporation
+
+Relic Entertainment
+
+Sammy Studios
+
+SIMS Co., Ltd.
+
+Sonic! Software Planning
+
+Visual Concepts
+
+Key people
+
+Hajime Satomi (Chairman)
+
+Hisao Oguchi
+
+Defunct
+
+Amusement Vision
+
+Career Soft
+
+Sega AM3
+
+Sega Racing Studio
+
+SegaSoft
+
+Sega Studios San Francisco
+
+Sega Sports R&D
+
+Technosoft
+
+Three Rings Design
+
+v
+
+t
+
+e
+
+RPG Maker series
+
+Console titles
+
+RPG Maker
+
+RPG Maker 2
+
+RPG Maker 3
+
+Related titles
+
+Fighter Maker
+
+Sim RPG Maker
+
+Others
+
+List of RPG Maker games
+
+ASCII Corporation
+
+Enterbrain
+
+Gotcha Gotcha Games
+
+Authority control databases
+
+International
+
+VIAF
+
+National
+
+United States
+
+Japan
+
+Israel
+
+Other
+
+MusicBrainz label
+
+Yale LUX
+
+Retrieved from " https://en.wikipedia.org/w/index.php?title=ASCII_Corporation&oldid=1373294491 "
+
+Categories :
+ASCII Media Works
+
+Book publishing companies in Tokyo
+
+Video game companies of Japan
+
+Former Kadokawa Corporation subsidiaries
+
+Magazine publishing companies of Japan
+
+MSX
+
+Defunct video game companies of Japan
+
+Publishing companies established in 1977
+
+Publishing companies disestablished in 2008
+
+Mass media in Tokyo
+
+Japanese companies established in 1977
+
+Japanese companies disestablished in 2008
+
+Video game companies established in 1977
+
+Video game companies disestablished in 2008
+
+Video game development companies
+
+Video game publishers
+
+1989 initial public offerings
+
+1980s initial public offerings
+
+Companies formerly listed on the Tokyo Stock Exchange
+
+Hidden categories:
+Articles with short description
+
+Short description matches Wikidata
+
+Use mdy dates from October 2020
+
+Articles containing Japanese-language text
+
+CS1 Japanese-language sources (ja)
+
+CS1 uses Japanese-language script (ja)
+
+Webarchive template wayback links
+
+Articles with Japanese-language sources (ja)
+
+Search
+
+ASCII Corporation
+
+20 languages Add topic

@@ -1,0 +1,60 @@
+SOURCE: https://www.gematsu.com/2021/07/gotcha-gotcha-games-interview-with-producer-yusuke-morino
+TITLE: Gematsu：Gotcha Gotcha Games 采访
+FETCHED: 2026-10-21 17:20:45
+============================================================
+
+Gotcha Gotcha Games interview with producer Yusuke Morino - Gematsu
+
+Gematsu recently spoke to Yusuke Morino, a producer at Gotcha Gotcha Games to discuss the Kadokawa Corporation subsidiary’s recent launch and Maker -based publishing initiatives.
+
+In the email interview, Morino discussed the company’s establishment, its publishing goals for the future, utilizing Kadokawa Coporation intellectual property, and more.
+
+Get the full interview below.
+
+Gematsu: Gotcha Gotcha Games was established in September 2020 to publish user-generated content / indie games. What spurred the launch of this new subsidiary?
+
+Yusuke Morino, Producer at Gotcha Gotcha Games: “User-generated content (UGC), indies, and consumer-generated media (CGM) are important in the Kadokawa Group’s IP creation strategy. The Maker series embodies this, but in general, Kadokawa is mainly recognized for book publishing and animation, and not so much for games. The game business of Kadokawa Group is centered on group companies with strong brands like FromSoftware and Spike Chunsoft . As a result of considering both the strategy of the Kadokawa Group and the games business, we decided to try to run the Maker series business separately from the games business of Kadokawa itself. The creation of Gotcha Gotcha Games as an organization dedicated to the Maker series has dramatically accelerated the pace of our operations.”
+
+Since launch, Gotcha Gotcha Games has published six games created via Kadokawa Corporation’s Pixel Game Maker engine. What goes into determining which games get the greenlight for publishing?
+
+Morino: “Gotcha Gotcha Games has obtained the rights and business of RPG Maker and Pixel Game Maker from Kadokawa. To let user creators know what kind of games they can make with Pixel Game Maker , we asked the developers to produce these six titles. However, in the future many of our publishing titles will be user-generated content titles, such as Buraigun Galaxy Storm and Block Slime Cave , which are scheduled for release in July. These titles were found through creators’ posts on social networks, as well as via the Game Development Challenge —a contest run by us and AGM. In addition, since May, creators are now able to apply to sell their games on Switch directly from Gotcha Gotcha Games through Pixel Game Maker MV , so we think that some titles may be published.”
+
+Two games— Dungeon of Nazarick and the newly launched Isekai Quartet Adventure: Action Game —utilize Kadokawa Corporation-owned intellectual property. How do you determine whether a user-created game meets the quality level of these IPs required to be recognized in an official capacity?
+
+Morino: “These titles were developed by Gotcha Gotcha Games and were released by combining the power of Kadokawa’s IP with the ease of creating games with Pixel Game Maker .”
+
+Other than the Pixel Game Maker series, Kadokawa Games also distributes its older sister engine RPG Maker . Does Gotcha Gotcha Games have any plans to publish RPG Maker -created content in the future?
+
+Morino: “Yes. We are planning to release four-to-five user-generated content titles created in RPG Maker by the end of 2021. Soaring Machinariae , which is on sale now, is a modern take on the action RPG of recent times. Reality Minds , which is scheduled for release in the fall, is a traditional-style RPG with appealing illustrations and dynamic cut-in effects. Please look forward to those as well.”
+
+The Maker series has been somewhat of a novelty engine up until recent years with breakout hits like To The Moon and Mad Father . Do you foresee the Maker series becoming a more prominent engine among developers in the future? Or are there steps being taken to get more developers to utilize the engine?
+
+Morino: “Of course. RPG Maker is an excellent tool for the fast development of games with 2D graphics. There are more than 4,000 plugins available for RPG Maker MV and RPG Maker MZ , and more than 300 assets are officially available. In the future, we will increase the variety and quantity of assets so that you can create an even greater variety of games. We are also actively upgrading the editor based on user feedback. Please keep an eye on the future release.”
+
+Gotcha Gotcha Games’ goal is to support small creators and spread their content to the world. That being said, is there any chance we’ll see Gotcha Gotcha Games publish non- Maker -created content? If so, are there any specific independent creators Gotcha Gotcha Games is interested in working with (or already plans to work with) in the future?
+
+Morino: “Possibly yes. However, we are currently focusing on publishing with the Maker series. There are many masterpieces and famous creators who have used the Maker series. We focus on them, but we want work on all indie creators.”
+
+Are Gotcha Gotcha Games’ publishing and distribution services limited to Japanese creators, or is it possible we’ll also see the company publish games from other Asian and western developers?
+
+Morino: “We want to work with developers all over the world.”
+
+So far, Gotcha Gotcha Games has only published titles for Switch and PC . Are there any plans to expand to additional platforms such as PlayStation or Xbox ?
+
+Morino: “We can’t go into specifics, but Gotcha Gotcha Games’ business concept is to develop without being limited by a platform.”
+
+How has the reception been to your current lineup of releases? Is there a favorite among the staff?
+
+Morino: “We enjoy everything that was made! We want to bring these work to the world with love and care.”
+
+What are Gotcha Gotcha Games’ plans or goals for the company going forward?
+
+Morino: “It’s been 30 years since the Maker series was born, and we’re looking for a Maker series for the next 30 years. In other words, our plan is to continue as Gotcha Gotcha Games for at least 30 years. On top of that, we want to support indie creators and publish indie titles, and make sure that both of those things run smoothly.”
+
+What would you like fans in the west to know about Gotcha Gotcha Games?
+
+Morino: “Gotcha Gotcha Games has a brand called Maker series. By publishing attractive Maker series titles in conjunction with that brand, we hope to appeal to user-generated content and indie creators as supporters. We know the road ahead it will be bumpy, but we will take our time.”
+
+Is there anything else you’d like to add before we sign off, Morino-san?
+
+Morino: “At Gotcha Gotcha Games, we play the RPG Maker and Pixel Game Maker games made by the community every day. We constantly present these creations within the company to decide which ones are the most unique and designed to be played by many people. Please keep an eye on Gotcha Gotcha Games’ upcoming releases. And if you’re interested in game creation, please try the free trial version of RPG Maker .”

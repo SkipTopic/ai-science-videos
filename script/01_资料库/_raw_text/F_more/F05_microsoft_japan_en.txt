@@ -1,0 +1,672 @@
+SOURCE: https://en.wikipedia.org/wiki/Microsoft_Japan
+TITLE: Microsoft Japan（英文维基）
+FETCHED: 2026-10-21 17:25:26
+============================================================
+
+Microsoft Japan - Wikipedia
+
+Jump to content
+
+From Wikipedia, the free encyclopedia
+
+Japanese subsidiary of Microsoft
+
+Microsoft Japan Co., Ltd.
+
+Headquarters in Minato, Tokyo
+
+Trade name
+Microsoft Japan
+
+Native name
+日本マイクロソフト株式会社
+
+Romanized name
+Kabushiki-gaisha Nihon Maikurosofuto (K.K. Microsoft Japan Company)
+
+Formerly Microsoft Company, Ltd. (1986–2011)
+
+Type Subsidiary
+
+Industry
+
+Technology
+
+Computer hardware
+
+Consumer electronics
+
+Video games
+
+Predecessors ASCII Microsoft
+
+Founded February 1986 ; 40 years ago ( 1986-02 ) [ a ] in Yoyogi , Shibuya
+
+Founder
+
+Susumu Furukawa
+
+Bill Gates
+
+Headquarters
+Kōnan , Minato, Tokyo
+,
+Japan
+
+Key people Susumu Furukawa, President (1986–1992) [ 2 ]
+
+Takuya Hirano, President & CEO (2015–2023) [ 3 ]
+
+Miki Tsusaka, President (2023–present) [ 4 ]
+
+Revenue ¥ 1.51 trillion ( US$ 9.54 billion) (2025)
+
+Number of employees
+2,225 (2013) [ 5 ]
+
+Parent Microsoft
+
+Website www.microsoft.com/ja-jp/
+
+Microsoft Japan's former head office in Odakyu Southern Tower
+Microsoft Japan Co., Ltd. [ b ] (also known as MSKK ) is a Japanese subsidiary of Microsoft headquartered in Minato, Tokyo . It develops both hardware and software technologies for consumers and business partners. [ 6 ]
+
+Microsoft Japan was founded in February 1986 as Microsoft Company, Ltd. [ c ] by Susumu Furukawa and Bill Gates after partnership between ASCII Corporation and Microsoft ended, with the remaining ASCII Microsoft operations being merged into ASCII.
+
+History
+[ edit ]
+
+In 1978, Kazuhiko Nishi , co-founder of ASCII Publisher , partnered with Bill Gates and founded ASCII Microsoft ( 株式会社アスキー・マイクロソフト , Kabushiki Gaisha Asukī Maikurosofuto ) as the sole dealer of Microsoft's products in Japan. [ 7 ] In 1980, ASCII made 1.2 billion yen of sales from licensing Microsoft BASIC . It was 40 percent of Microsoft's sales, and Nishi became Microsoft's Vice President of Sales for Far East. [ 8 ] In 1983, ASCII and Microsoft announced MSX . In 1984, ASCII Microsoft was merged to ASCII.
+
+However, Microsoft founded its own Japan subsidiary, Microsoft Company, Limited ( マイクロソフト株式会社 , Maikurosofuto Kabushiki Gaisha ) often shortened to MSKK , and dissolved partnership with ASCII in 1986. It was because Gates wanted Microsoft to go public in the New York Stock Exchange , and also he opposed Nishi and ASCII's diversification. Susumu Furukawa ( 古川 享 ) , who was also a member of ASCII, officially became the first president of Microsoft Kabushiki Gaisha. ASCII, which was later ultimately owned by Kadokawa Group in later years, retained the rights to MSX. [ 9 ]
+
+In October 1986, Microsoft Japan announced the AX project that was a Japanese computing initiative to allow IBM PCs to handle Japanese text. [ 8 ] The AX couldn't break into the Japanese PC market due to its cost and lack of available software.
+
+In October 1990, IBM Japan announced the DOS/V . Furukawa made an appointment with IBM Japan to share the source code of DOS/V. [ 10 ] Microsoft Japan supplied the OEM adaptation kit (OAK) of DOS/V for PC manufacturers.
+
+For the Japanese adaptation of Windows 3.1 , Microsoft Japan and Ricoh co-developed two Japanese TrueType fonts, MS Gothic and MS Mincho . It took two years, and delayed the release of Japanese Windows 3.1. [ 11 ] However, it became the first successful version of Windows in Japan. [ 12 ]
+
+In 1998, the Japan Fair Trade Commission informed Microsoft of an unfair trade that Microsoft forced personal computer manufacturers to bundle with Excel and Word against the request of a bundle with Excel and Ichitaro . [ 13 ] The company faced another JFTC scrutiny (in midst of European Union actions against Microsoft) when the company was accused of having clauses that hurt the ability of Japanese computer manufacturers to obtain an OEM Windows license in 2004. In 2026, JFTC raided Microsoft on similar monopolistic charges regarding its cloud computing services. [ 14 ]
+
+In 2011, the company changed its name to Microsoft Japan Company, Limited ( 日本マイクロソフト株式会社 , Nihon Maikurosofuto Kabushiki Gaisha ) . [ 15 ]
+
+Microsoft Japan conducted a trial 4-day work week in summer 2019, granting workers paid leave on Fridays. At the same time it cut the length of most meetings from a full hour to half an hour, and capped attendance at five employees. For the duration of the trial, the company reported a 40% increase in productivity and 23% reduction in electricity costs. [ 16 ]
+
+Products
+[ edit ]
+
+Microsoft Hagaki Studio
+[ edit ]
+
+Microsoft Hagaki Studio (マイクロソフト はがきスタジオ, Microsoft Postcard Studio ) is a discontinued postcard software for printing nengajo (New Year's Day postcard). The software was released only in Japan from 1997 to 2006. It provided the upgrade path from other competitors such as Fudemame (筆まめ) and Fudeoh (筆王), [ 17 ] but Microsoft Hagaki Studio 2007 was the last version of the software. [ 18 ]
+
+Events
+[ edit ]
+
+May 13, 2005 - Yoshihiro Maruyama presented the Xbox 360 to the public.
+
+Sponsorship
+[ edit ]
+
+From 2004 to 2009 the company sponsored the Microsoft Cup , a knockout rugby football tournament contested by the best Japanese teams from the Top League .
+
+Notes
+[ edit ]
+
+↑ Originally established as ASCII Microsoft on 1 November 1978. [ 1 ]
+
+↑ Japanese : 日本マイクロソフト株式会社 , Hepburn : Nihon Maikurosofuto Kabushiki-gaisha
+
+↑ Japanese : マイクロソフト株式会社 , Hepburn : Maikurosofuto kabushikigaisha
+
+References
+[ edit ]
+
+↑ "The History of Microsoft - 1978" . Microsoft. 26 February 2009 . Retrieved 14 December 2023 .
+
+↑ "マイクロソフト・古川享最高技術責任者が会見" . 22 April 2004 . Retrieved 15 September 2019 .
+
+↑ "Takuya Hirano - Microsoft Japan President and CEO" . News Center Japan . Retrieved 6 July 2018 .
+
+↑ "Microsoft appoints Miki Tsusaka as new president of Microsoft Japan" . February 2023.
+
+↑ "日本マイクロソフト株式会社 会社概要" . Microsoft. 1 July 2013. Archived from the original on 30 July 2013 . Retrieved 14 December 2023 .
+
+↑ "マイクロソフト日本法人、来年2月に本社を品川駅近くに移転" . 18 March 2010 . Retrieved 4 April 2012 .
+
+↑ "株式会社アスキー: 沿革" . ASCII Corporation. Archived from the original on 2008-02-24 . Retrieved 2021-02-25 .
+
+1 2 コンピュータ・ニュース社, ed. (1988). "「パソコン産業史」年表". 100万人の謎を解く ザ・PCの系譜 (in Japanese). コンピュータ・ニュース社. pp. 40– 57. ISBN 4-8061-0316-0 .
+
+↑ "動きだした米国マイクロソフト社日本法人". ASCII . 10 (6). ASCII . 1986. ISSN 0287-9506 .
+
+↑ Furukawa, Susumu [in Japanese] (2015). 僕が伝えたかったこと、古川享のパソコン秘史 . Japan: Impress R&D. ISBN 978-4-8443-9700-7 .
+
+↑ "リコー、マイクロソフトと提携―パソコン向け漢字ソフトを供給。". Nikkei Sangyo Shimbun . 1993-05-17. p. 1.
+
+↑ Information Processing Society of Japan (2010). 日本のコンピュータ史 (in Japanese). オーム社. pp. 106– 107. ISBN 9784274209338 .
+
+↑ "公正取引委員会、マイクロソフトへの勧告内容をPDFファイルで公開" . Impress PC watch . 1998-11-24 . Retrieved 2019-03-31 .
+
+↑ "Microsoft Japan raided over suspected violation of anti-monopoly law: Reuters" . CNBC . 25 February 2026 . Retrieved 21 April 2026 .
+
+↑ "マイクロソフト、社名を「日本マイクロソフト株式会社」に変更" . CNET Japan (in Japanese). 2010-07-06 . Retrieved 2020-10-26 .
+
+↑ 4-Day Workweek Boosted Workers' Productivity By 40%, Microsoft Japan Says
+
+↑ "Microsoft はがきスタジオ 2003、製品ラインナップ" . Microsoft Japan. Archived from the original on 2003-02-26 . Retrieved 2019-09-20 .
+
+↑ 大河原, 克行 (2007-11-05). "大河原克行の「パソコン業界、東奔西走」" . pc.watch.impress.co.jp . Retrieved 2019-09-20 .
+
+External links
+[ edit ]
+
+Official website (in Japanese)
+
+v
+
+t
+
+e
+
+Microsoft Corporation
+
+History
+
+Outline
+
+People
+
+Founders
+
+Bill Gates
+
+Paul Allen
+
+Board of directors
+
+Satya Nadella (Chairman and CEO)
+
+Reid Hoffman
+
+Hugh Johnston
+
+Teri List
+
+Catherine MacGregor
+
+Mark Mason
+
+Sandi Peterson
+
+Penny Pritzker
+
+Carlos A. Rodriguez
+
+Charles Scharf
+
+John W. Stanton
+
+Emma Walmsley
+
+Senior leadership team
+
+Satya Nadella (CEO)
+
+Takeshi Numoto (CMO)
+
+Scott Guthrie
+
+Carolina Dybeck Happe (COO)
+
+Amy Hood (CFO)
+
+Kevin Scott (CTO)
+
+Brad Smith (CLO)
+
+Harry Shum
+
+Phil Spencer
+
+Kathleen Hogan (CPO)
+
+Corporate VPs
+
+Joe Belfiore
+
+Richard Rashid (SVP)
+
+César Cernuda
+
+Employee groups
+
+Global LGBTQIA+ Employee & Allies at Microsoft
+
+Microsoft and unions
+
+Products
+
+Hardware
+
+Azure Kinect
+
+HoloLens
+
+LifeCam
+
+Surface
+Duo
+
+Go
+
+Hub
+
+Laptop
+
+Laptop Go
+
+Neo
+
+Pro
+
+Studio
+
+Xbox
+
+Software
+
+Clipchamp
+
+Dynamics 365
+
+Havok
+
+Microsoft 365
+Office
+
+Teams
+
+Open source software
+
+Power Platform
+
+Servers
+
+Start
+
+Tay
+
+List of video games
+
+Visual Studio
+
+Visual Studio Code
+
+Windows
+
+Xbox OS
+
+Programming
+
+languages
+
+BASIC
+VB.NET
+
+VBA
+
+VBScript
+
+Visual Basic
+
+C#
+
+C/AL a.k.a. Navision Attain
+
+F#
+
+MVPL
+
+Power Fx
+
+PowerShell
+
+Q#
+
+Transact-SQL
+
+TypeScript
+
+Visual J++
+
+Visual J#
+
+Web properties
+
+Azure
+
+Bing
+
+Copilot
+
+GitHub
+
+Learn
+Channel 9
+
+Developer Network
+
+TechNet
+
+LinkedIn
+LinkedIn Learning
+
+MSN
+
+Outlook.com
+
+Store
+
+Translator
+
+Company
+
+Conferences
+
+Build
+
+Ignite
+
+Inspire
+
+MIX
+
+PDC
+
+WinHEC
+
+Divisions
+
+.NET Foundation
+
+AI
+
+Digital Crimes Unit
+
+Engineering groups
+Mobile
+
+Skype unit
+
+Xbox
+Activision Blizzard
+
+Xbox Game Studios
+
+ZeniMax Media
+
+Garage
+
+Outercurve Foundation
+
+Press
+
+Research
+
+Retail stores
+
+Estates
+
+Microsoft campus
+
+Microsoft India
+
+Microsoft Japan
+
+Campaigns
+
+" Where do you want to go today? " (1994)
+
+" Champagne " (2002)
+
+" Mojave Experiment " (2006)
+
+" I'm a PC " (2008)
+
+" Scroogled " (2012)
+
+Criticism
+
+Bundling of Microsoft Windows
+
+Clippy
+
+iLoo
+
+Internet Explorer
+
+Microsoft Bob
+
+_NSAKEY
+
+Windows
+XP
+
+Vista
+
+10
+
+Litigation
+
+Apple v. Microsoft (1994)
+
+United States v. Microsoft (2001)
+
+Microsoft v. Lindows (2004)
+
+Microsoft v. MikeRoweSoft (2004)
+
+Microsoft v. Commission (2007)
+
+Alcatel-Lucent v. Microsoft (2009)
+
+Microsoft v. Shah (2011)
+
+Microsoft v. United States (2018)
+
+FTC v. Microsoft (2022)
+
+Acquisitions
+
+6Wunderkinder
+
+Access Software
+
+Acompli
+
+Activision Blizzard
+acquisition
+
+Altamira Software
+
+AltspaceVR
+
+aQuantive
+
+Azyxxi
+
+Beam
+
+The Blue Ribbon SoundWorks
+
+Bungie
+
+Clipchamp
+
+Colloquis
+
+Compulsion Games
+
+Connectix
+
+Consumers Software
+
+Danger
+
+Double Fine
+
+Farecast
+
+FASA Studio
+
+Fast Search & Transfer
+
+Firefly
+
+Forethought
+
+GIANT Company Software
+
+GitHub
+
+Great Plains Software
+
+GreenButton
+
+Groove Networks
+
+Havok Group
+
+High Heat Major League Baseball
+
+Hotmail
+
+inXile Entertainment
+
+Jellyfish.com
+
+LinkedIn
+
+LinkExchange
+
+Lionhead Studios
+
+Maluuba
+
+Massive Incorporated
+
+Metaswitch
+
+Mobile Data Labs
+
+Mojang Studios
+
+Ninja Theory
+
+Nokia Devices and Services
+
+npm
+
+Nuance Communications
+
+Obsidian Entertainment
+
+Onfolio
+
+Pando Networks
+
+Perceptive Pixel
+
+PlaceWare
+
+Playground Games
+
+Powerset
+
+Press Play
+
+ProClarity
+
+Rare
+
+Revolution Analytics
+
+RiskIQ
+
+Simplygon
+
+Skype
+
+Sunrise Atelier
+
+SwiftKey
+
+TakeLessons
+
+Tellme Networks
+
+Twisted Pixel Games
+
+Undead Labs
+
+Vermeer Technologies
+
+Visio Corporation
+
+Vivaty
+
+VoloMetrix
+
+VXtreme
+
+WebTV Networks
+
+Winternals Software
+
+Xamarin
+
+Xandr
+AppNexus
+
+Yammer
+
+Yupi
+
+ZeniMax Media
+
+Category
+
+Authority control databases
+
+VIAF
+
+Retrieved from " https://en.wikipedia.org/w/index.php?title=Microsoft_Japan&oldid=1371918343 "
+
+Categories :
+Microsoft local divisions
+
+Japanese subsidiaries of foreign companies
+
+Hidden categories:
+Articles with short description
+
+Short description is different from Wikidata
+
+Articles containing Japanese-language text
+
+CS1 Japanese-language sources (ja)
+
+CS1 interwiki-linked names
+
+CS1 uses Japanese-language script (ja)
+
+Official website different in Wikidata and Wikipedia
+
+Articles with Japanese-language sources (ja)
+
+Search
+
+Microsoft Japan
+
+10 languages Add topic

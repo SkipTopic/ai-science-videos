@@ -1,0 +1,65 @@
+SOURCE: https://rpgmaker.fandom.com/wiki/RPG_Maker
+TITLE: RPG Maker Wiki（Fandom）
+FETCHED: 2026-10-21 17:23:13
+============================================================
+
+RPG Maker | RPG Maker Wiki | Fandom
+
+RPG Maker Wiki
+
+Sign In
+
+Don't have an account?
+Create a Free Account Sign In
+
+Create a Free Account
+
+Advertisement
+
+Skip to content
+
+in: Article Stubs , RPG Makers
+
+RPG Maker
+
+Sign In to Save Save Edit
+
+History
+
+Purge
+
+Talk (0)
+
+The Steam banner for RPG Maker MZ, the newest Windows program in the series.
+
+RPG Maker is a series of development programs used to create video games. They are designed to allow game developers to create 2D role-playing video games, and have a collection of features to assist with them.
+
+Common features [ ]
+
+The various RPG Maker programs on PC have features that appear in multiple programs in the series. The database , a feature that allows editing of things such as actor (player character) and enemy stats, Skills , and more, is one such thing.
+
+Actors are the playable characters of the game, and can be customized with lots of options. Their sprites can be changed to differentiate your humanoid cast of characters, or create a party full of monsters and animals. Their names can also be modified. The skills they learn and what levels they learn them in, as well as the battle stats they have, can be adjusted. In battle modifiers such as the ability to regenerate MP in battle can also be set for the characters.
+
+The power, descriptions, and abilities of skills can be customized. For example, a skill can be added that revives a dead actor, another one can poison all enemies, a third one can be made to damage enemies similar to a more powered up version of the regular attack, and a fourth one can even act as a warp to a previously visited map.
+
+Maps can be easily edited with a built in map editor, which allows users to assemble maps using tiles from a tileset . The map editor also allows placement of Events , which act as event scripts, interactable characters and objects, and warps to other maps. They can be programmed using event commands to make them talk, move around when interacted with, or start up cutscenes fully customizable by the creator.
+
+A built in turn based battle system is included. Generally, it is a first person front view battle system, though some programs have a third person side view instead. Actors take turns attacking their enemies in the battle.
+
+Starting in RPG Maker XP , the game's scripts can be edited. This allows the user to more easily customize features of the game, and add more features such as a new battle system, modified menus, and more advanced map options. Since RPG Maker MV , this has been replaced with Plugins , a more accessible version of the same thing.
+
+History [ ]
+
+RPG Makers have been around for a long time, but it was with the advent of Don Miguel 's illegally translated version of the Japan-only release RPG Maker 2000 that a stable community based around RPG Makers was formed. RPG Maker was always intended to be a paid product, but the unauthorized release of RPG Maker 2000 stopped RPG Maker 2000 and 2003 from getting official English translations for a while. RPG Maker XP received an official English translation, and started the trend of PC RPG Makers being officially translated.
+
+See also [ ]
+
+List of RPG Maker releases
+
+This article is a stub . You can help RPG Maker Wiki by expanding it .
+
+Categories
+
+Community content is available under CC-BY-SA unless otherwise noted.
+
+Advertisement

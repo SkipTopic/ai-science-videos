@@ -1,0 +1,113 @@
+SOURCE: https://rpgm.fandom.com/wiki/RPG_Tsuk%C5%ABru_Dante_98
+TITLE: Dante 98 专页（Fandom）
+FETCHED: 2026-10-21 17:23:14
+============================================================
+
+RPG Tsukūru Dante 98 | RPG Maker Wiki | Fandom
+
+RPG Maker Wiki
+
+Sign In
+
+Don't have an account?
+Create a Free Account Sign In
+
+Create a Free Account
+
+Advertisement
+
+Skip to content
+
+in: Programs , Released in 1990s
+
+RPG Tsukūru Dante 98
+
+Sign In to Save Save Edit
+
+History
+
+Purge
+
+Talk (0)
+
+CREATOR: ASCII Corporation
+
+PLATFORMS: NEC PC-9801
+
+RELEASED: December 17, 1992
+
+RESOLUTION: 320x240
+
+AUDIO TYPE: .midi
+
+IMAGE TYPE: .bmp
+
+RPG Tsukūru Dante 98 (RPGツクールダンテ98 RPG tsukūrudante 98) is a precursor and "early forefather" of the RPG Maker series released on December 17, 1992, although there were a few versions of RPG making software by ASCII preceding it, dating back to 1988 as Mamirin.
+
+Contents
+
+1 Description
+
+2 Features
+
+3 History
+
+4 Reception
+
+5 References
+
+6 Navigation
+
+Description [ ]
+
+The first to use the name 'RPG Tsukuru', the name by which the franchise is known as in Japan, after the conception of an official name RPG Construction Tool: Dante . [ 1 ]
+
+Unlike the future installments, it was made for NEC PC-9801, shared with its follow-up RPG Tsukūru Dante 98 II, but most games created with these programs can be played on a Windows computer, from 95 to Vista, with possibility of such emulators called Dante for Windows and D2win, respectively.
+
+Features [ ]
+
+The software allowed users to create their own role-playing game with a tile-based map editor and two scripting programs for in-game events and battles. This system allowed players to create their own games or iterate on similar styled RPGs of the time, such as the NES mainline trilogy of Final Fantasy series, original playable on the Nintendo Entertainment System. [ 2 ]
+
+History [ ]
+
+On December 17th, 1992, a Japanese publishing group called ASCII Media Works released a program titled RPG Tsukūru Dante 98, the first iteration of the game-making tool "RPG Maker", for the Japanese exclusive home system known as NEC PC-9801, which allowed people to develop their own role-playing games. They further promoted their tool by publishing a monthly magazine titled LOGIN Sofcom where amateur developers could submit their creations.
+
+Dante98's first project was Cock-A-Doodle-Doo (クック・ドゥ・ドゥル・ドゥー, 1995), a comedy RPG where you play as Pal, the pet rooster of a rich boy gone broke. Together with a cat (that calls himself “God of Death”) , you must work to help the kid recover his finances, alternating between the three characters. [ 3 ]
+
+According to the source, over three-thousand of Japanese role-playing games were produced with Dante 98 in Japan in 1995, as an adventure horror game called CORPSE-PARTY was published in the Spring 1996 edition of LOGIN Sofcom No.6 and submitted the game to a 1996 contest for RPG Maker games, which it won second place in the Second Annual ASCII ENTERTAINMENT competition, netting him 5 million yen. [ 4 ]
+
+Reception [ ]
+
+RPG Maker was a product that came from various programs that ASCII Corporation had included in ASCII along with other users' code submitted to it, which the company decided to expand and publish into the standalone game-making toolkit. [ 5 ]
+
+The popularity of Final Fantasy can be linked to the popularity of RPG Tsukūru Dante 98 . To this day, Final Fantasy remakes, iterations, and fan-made sequels are still being made with the latest versions of RPG Maker . [ 2 ]
+
+Corpse Party and Peret em Heru: For the Prisoners were among the forefathers of doujin-developed horror games in RPG Maker industry.
+
+References [ ]
+
+↑ https://www.backloggd.com/games/rpg-tsukuuru-dante-98/
+
+↑ 2.0 2.1 https://crdm704.wordpress.com/history-of-rpg-maker/#:~:text=The%20first%20official%20release%20of,in%2Dgame%20events%20and%20battles.
+
+↑ https://felipepepe.medium.com/the-history-of-rpg-maker-its-games-c93685f41ae6
+
+↑ CORPSE-PARTY (PC-98) - Hardcore Gaming 101
+
+↑ Ito, Kenji (2005). Possibilities of Non-Commercial Games: The Case of Amateur Role Playing Games Designers in Japan . Proceedings of DiGRA 2005 Conference: Changing Views – Worlds in Play. Digital Games Research Association.
+
+Navigation [ ]
+
+RPG Maker Navigation
+
+Microsoft 95 • 2000 • 2003 • XP • VX • VX Ace • MV • MZ • Unite
+
+Consoles/Handhelds Super Dante • RT2 • PS1 • GBA • DS
+
+Others Dante 98 • Sim • Wolf • 2009 Ultimate
+
+Categories
+
+Community content is available under CC-BY-SA unless otherwise noted.
+
+Advertisement

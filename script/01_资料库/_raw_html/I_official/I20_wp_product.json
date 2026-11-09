@@ -1,0 +1,683 @@
+[
+ {
+  "id": 4168,
+  "date": "2026-06-08T15:54:51",
+  "date_gmt": "2026-06-08T06:54:51",
+  "guid": {
+   "rendered": "https://rpgmakerofficial.com/?post_type=product&#038;p=4168"
+  },
+  "modified": "2026-06-09T18:24:44",
+  "modified_gmt": "2026-06-09T09:24:44",
+  "slug": "rpg%e3%83%84%e3%82%af%e3%83%bc%e3%83%abu2u",
+  "status": "publish",
+  "type": "product",
+  "link": "https://rpgmakerofficial.com/product/4168/",
+  "title": {
+   "rendered": "RPGツクールU2U"
+  },
+  "content": {
+   "rendered": "直感でツクる、奥行きある世界。",
+   "protected": false
+  },
+  "featured_media": 0,
+  "template": "",
+  "class_list": [
+   "post-4168",
+   "product",
+   "type-product",
+   "status-publish",
+   "hentry"
+  ],
+  "acf": [],
+  "aioseo_notices": [],
+  "_links": {
+   "self": [
+    {
+     "href": "https://rpgmakerofficial.com/wp-json/wp/v2/product/4168",
+     "targetHints": {
+      "allow": [
+       "GET"
+      ]
+     }
+    }
+   ],
+   "collection": [
+    {
+     "href": "https://rpgmakerofficial.com/wp-json/wp/v2/product"
+    }
+   ],
+   "about": [
+    {
+     "href": "https://rpgmakerofficial.com/wp-json/wp/v2/types/product"
+    }
+   ],
+   "wp:attachment": [
+    {
+     "href": "https://rpgmakerofficial.com/wp-json/wp/v2/media?parent=4168"
+    }
+   ],
+   "curies": [
+    {
+     "name": "wp",
+     "href": "https://api.w.org/{rel}",
+     "templated": true
+    }
+   ]
+  }
+ },
+ {
+  "id": 4066,
+  "date": "2025-08-21T11:24:27",
+  "date_gmt": "2025-08-21T02:24:27",
+  "guid": {
+   "rendered": "https://rpgmakerofficial.com/?post_type=product&#038;p=4066"
+  },
+  "modified": "2025-08-21T11:24:27",
+  "modified_gmt": "2025-08-21T02:24:27",
+  "slug": "gamejam-2025",
+  "status": "publish",
+  "type": "product",
+  "link": "https://rpgmakerofficial.com/product/4066/",
+  "title": {
+   "rendered": "GameJam 2025"
+  },
+  "content": {
+   "rendered": "ゲームジャム受賞作品 決定！<br>奇想天外（テーマ）なゲーム作品はどれも無料で遊べます！",
+   "protected": false
+  },
+  "featured_media": 0,
+  "template": "",
+  "class_list": [
+   "post-4066",
+   "product",
+   "type-product",
+   "status-publish",
+   "hentry"
+  ],
+  "acf": [],
+  "aioseo_notices": [],
+  "_links": {
+   "self": [
+    {
+     "href": "https://rpgmakerofficial.com/wp-json/wp/v2/product/4066",
+     "targetHints": {
+      "allow": [
+       "GET"
+      ]
+     }
+    }
+   ],
+   "collection": [
+    {
+     "href": "https://rpgmakerofficial.com/wp-json/wp/v2/product"
+    }
+   ],
+   "about": [
+    {
+     "href": "https://rpgmakerofficial.com/wp-json/wp/v2/types/product"
+    }
+   ],
+   "wp:attachment": [
+    {
+     "href": "https://rpgmakerofficial.com/wp-json/wp/v2/media?parent=4066"
+    }
+   ],
+   "curies": [
+    {
+     "name": "wp",
+     "href": "https://api.w.org/{rel}",
+     "templated": true
+    }
+   ]
+  }
+ },
+ {
+  "id": 2710,
+  "date": "2024-07-12T18:04:25",
+  "date_gmt": "2024-07-12T09:04:25",
+  "guid": {
+   "rendered": "https://rpgmakerofficial.com/?post_type=product&#038;p=2710"
+  },
+  "modified": "2026-10-02T10:17:09",
+  "modified_gmt": "2026-10-02T01:17:09",
+  "slug": "action-game-maker",
+  "status": "publish",
+  "type": "product",
+  "link": "https://rpgmakerofficial.com/product/2710/",
+  "title": {
+   "rendered": "ACTION GAME MAKER"
+  },
+  "content": {
+   "rendered": "Godot Engine採用のアクツク最新作！",
+   "protected": false
+  },
+  "featured_media": 0,
+  "template": "",
+  "class_list": [
+   "post-2710",
+   "product",
+   "type-product",
+   "status-publish",
+   "hentry"
+  ],
+  "acf": [],
+  "aioseo_notices": [],
+  "_links": {
+   "self": [
+    {
+     "href": "https://rpgmakerofficial.com/wp-json/wp/v2/product/2710",
+     "targetHints": {
+      "allow": [
+       "GET"
+      ]
+     }
+    }
+   ],
+   "collection": [
+    {
+     "href": "https://rpgmakerofficial.com/wp-json/wp/v2/product"
+    }
+   ],
+   "about": [
+    {
+     "href": "https://rpgmakerofficial.com/wp-json/wp/v2/types/product"
+    }
+   ],
+   "wp:attachment": [
+    {
+     "href": "https://rpgmakerofficial.com/wp-json/wp/v2/media?parent=2710"
+    }
+   ],
+   "curies": [
+    {
+     "name": "wp",
+     "href": "https://api.w.org/{rel}",
+     "templated": true
+    }
+   ]
+  }
+ },
+ {
+  "id": 2622,
+  "date": "2023-10-19T17:04:34",
+  "date_gmt": "2023-10-19T08:04:34",
+  "guid": {
+   "rendered": "https://rpgmakerofficial.com/?post_type=product&#038;p=2622"
+  },
+  "modified": "2023-10-19T17:04:34",
+  "modified_gmt": "2023-10-19T08:04:34",
+  "slug": "with",
+  "status": "publish",
+  "type": "product",
+  "link": "https://rpgmakerofficial.com/product/2622/",
+  "title": {
+   "rendered": "WITH"
+  },
+  "content": {
+   "rendered": "家庭用ゲーム機向けに最適化したRPG Makerシリーズ最新作！",
+   "protected": false
+  },
+  "featured_media": 0,
+  "template": "",
+  "class_list": [
+   "post-2622",
+   "product",
+   "type-product",
+   "status-publish",
+   "hentry"
+  ],
+  "acf": [],
+  "aioseo_notices": [],
+  "_links": {
+   "self": [
+    {
+     "href": "https://rpgmakerofficial.com/wp-json/wp/v2/product/2622",
+     "targetHints": {
+      "allow": [
+       "GET"
+      ]
+     }
+    }
+   ],
+   "collection": [
+    {
+     "href": "https://rpgmakerofficial.com/wp-json/wp/v2/product"
+    }
+   ],
+   "about": [
+    {
+     "href": "https://rpgmakerofficial.com/wp-json/wp/v2/types/product"
+    }
+   ],
+   "wp:attachment": [
+    {
+     "href": "https://rpgmakerofficial.com/wp-json/wp/v2/media?parent=2622"
+    }
+   ],
+   "curies": [
+    {
+     "name": "wp",
+     "href": "https://api.w.org/{rel}",
+     "templated": true
+    }
+   ]
+  }
+ },
+ {
+  "id": 61,
+  "date": "2022-03-13T17:16:31",
+  "date_gmt": "2022-03-13T08:16:31",
+  "guid": {
+   "rendered": "https://rpgmakerofficial.com/?post_type=product&#038;p=61"
+  },
+  "modified": "2022-04-14T15:37:05",
+  "modified_gmt": "2022-04-14T06:37:05",
+  "slug": "dlc",
+  "status": "publish",
+  "type": "product",
+  "link": "https://rpgmakerofficial.com/product/61/",
+  "title": {
+   "rendered": "DLC"
+  },
+  "content": {
+   "rendered": "ツクールの素材ならこちら！",
+   "protected": false
+  },
+  "featured_media": 34,
+  "template": "",
+  "class_list": [
+   "post-61",
+   "product",
+   "type-product",
+   "status-publish",
+   "has-post-thumbnail",
+   "hentry"
+  ],
+  "acf": [],
+  "aioseo_notices": [],
+  "_links": {
+   "self": [
+    {
+     "href": "https://rpgmakerofficial.com/wp-json/wp/v2/product/61",
+     "targetHints": {
+      "allow": [
+       "GET"
+      ]
+     }
+    }
+   ],
+   "collection": [
+    {
+     "href": "https://rpgmakerofficial.com/wp-json/wp/v2/product"
+    }
+   ],
+   "about": [
+    {
+     "href": "https://rpgmakerofficial.com/wp-json/wp/v2/types/product"
+    }
+   ],
+   "wp:featuredmedia": [
+    {
+     "embeddable": true,
+     "href": "https://rpgmakerofficial.com/wp-json/wp/v2/media/34"
+    }
+   ],
+   "wp:attachment": [
+    {
+     "href": "https://rpgmakerofficial.com/wp-json/wp/v2/media?parent=61"
+    }
+   ],
+   "curies": [
+    {
+     "name": "wp",
+     "href": "https://api.w.org/{rel}",
+     "templated": true
+    }
+   ]
+  }
+ },
+ {
+  "id": 60,
+  "date": "2022-03-13T17:15:15",
+  "date_gmt": "2022-03-13T08:15:15",
+  "guid": {
+   "rendered": "https://rpgmakerofficial.com/?post_type=product&#038;p=60"
+  },
+  "modified": "2022-05-10T18:48:19",
+  "modified_gmt": "2022-05-10T09:48:19",
+  "slug": "rpg%e3%83%84%e3%82%af%e3%83%bc%e3%83%ab%e3%82%b2%e3%83%bc%e3%83%a0%e3%81%a7%e9%81%8a%e3%81%bc%e3%81%86",
+  "status": "publish",
+  "type": "product",
+  "link": "https://rpgmakerofficial.com/product/60/",
+  "title": {
+   "rendered": "RPGツクールゲームで遊ぼう"
+  },
+  "content": {
+   "rendered": "ツクール製ゲームで遊ぼう！",
+   "protected": false
+  },
+  "featured_media": 41,
+  "template": "",
+  "class_list": [
+   "post-60",
+   "product",
+   "type-product",
+   "status-publish",
+   "has-post-thumbnail",
+   "hentry"
+  ],
+  "acf": [],
+  "aioseo_notices": [],
+  "_links": {
+   "self": [
+    {
+     "href": "https://rpgmakerofficial.com/wp-json/wp/v2/product/60",
+     "targetHints": {
+      "allow": [
+       "GET"
+      ]
+     }
+    }
+   ],
+   "collection": [
+    {
+     "href": "https://rpgmakerofficial.com/wp-json/wp/v2/product"
+    }
+   ],
+   "about": [
+    {
+     "href": "https://rpgmakerofficial.com/wp-json/wp/v2/types/product"
+    }
+   ],
+   "wp:featuredmedia": [
+    {
+     "embeddable": true,
+     "href": "https://rpgmakerofficial.com/wp-json/wp/v2/media/41"
+    }
+   ],
+   "wp:attachment": [
+    {
+     "href": "https://rpgmakerofficial.com/wp-json/wp/v2/media?parent=60"
+    }
+   ],
+   "curies": [
+    {
+     "name": "wp",
+     "href": "https://api.w.org/{rel}",
+     "templated": true
+    }
+   ]
+  }
+ },
+ {
+  "id": 59,
+  "date": "2022-03-13T17:14:30",
+  "date_gmt": "2022-03-13T08:14:30",
+  "guid": {
+   "rendered": "https://rpgmakerofficial.com/?post_type=product&#038;p=59"
+  },
+  "modified": "2022-04-14T15:35:21",
+  "modified_gmt": "2022-04-14T06:35:21",
+  "slug": "%e3%82%a2%e3%82%af%e3%83%84%e3%82%af",
+  "status": "publish",
+  "type": "product",
+  "link": "https://rpgmakerofficial.com/product/59/",
+  "title": {
+   "rendered": "アクツク"
+  },
+  "content": {
+   "rendered": "アクションを作ろう！",
+   "protected": false
+  },
+  "featured_media": 33,
+  "template": "",
+  "class_list": [
+   "post-59",
+   "product",
+   "type-product",
+   "status-publish",
+   "has-post-thumbnail",
+   "hentry"
+  ],
+  "acf": [],
+  "aioseo_notices": [],
+  "_links": {
+   "self": [
+    {
+     "href": "https://rpgmakerofficial.com/wp-json/wp/v2/product/59",
+     "targetHints": {
+      "allow": [
+       "GET"
+      ]
+     }
+    }
+   ],
+   "collection": [
+    {
+     "href": "https://rpgmakerofficial.com/wp-json/wp/v2/product"
+    }
+   ],
+   "about": [
+    {
+     "href": "https://rpgmakerofficial.com/wp-json/wp/v2/types/product"
+    }
+   ],
+   "wp:featuredmedia": [
+    {
+     "embeddable": true,
+     "href": "https://rpgmakerofficial.com/wp-json/wp/v2/media/33"
+    }
+   ],
+   "wp:attachment": [
+    {
+     "href": "https://rpgmakerofficial.com/wp-json/wp/v2/media?parent=59"
+    }
+   ],
+   "curies": [
+    {
+     "name": "wp",
+     "href": "https://api.w.org/{rel}",
+     "templated": true
+    }
+   ]
+  }
+ },
+ {
+  "id": 57,
+  "date": "2022-03-13T17:12:26",
+  "date_gmt": "2022-03-13T08:12:26",
+  "guid": {
+   "rendered": "https://rpgmakerofficial.com/?post_type=product&#038;p=57"
+  },
+  "modified": "2022-04-14T15:34:33",
+  "modified_gmt": "2022-04-14T06:34:33",
+  "slug": "mz",
+  "status": "publish",
+  "type": "product",
+  "link": "https://rpgmakerofficial.com/product/57/",
+  "title": {
+   "rendered": "MZ"
+  },
+  "content": {
+   "rendered": "スタンドアロンな正当進化のRPGツクール",
+   "protected": false
+  },
+  "featured_media": 0,
+  "template": "",
+  "class_list": [
+   "post-57",
+   "product",
+   "type-product",
+   "status-publish",
+   "hentry"
+  ],
+  "acf": [],
+  "aioseo_notices": [],
+  "_links": {
+   "self": [
+    {
+     "href": "https://rpgmakerofficial.com/wp-json/wp/v2/product/57",
+     "targetHints": {
+      "allow": [
+       "GET"
+      ]
+     }
+    }
+   ],
+   "collection": [
+    {
+     "href": "https://rpgmakerofficial.com/wp-json/wp/v2/product"
+    }
+   ],
+   "about": [
+    {
+     "href": "https://rpgmakerofficial.com/wp-json/wp/v2/types/product"
+    }
+   ],
+   "wp:attachment": [
+    {
+     "href": "https://rpgmakerofficial.com/wp-json/wp/v2/media?parent=57"
+    }
+   ],
+   "curies": [
+    {
+     "name": "wp",
+     "href": "https://api.w.org/{rel}",
+     "templated": true
+    }
+   ]
+  }
+ },
+ {
+  "id": 56,
+  "date": "2022-03-13T17:11:21",
+  "date_gmt": "2022-03-13T08:11:21",
+  "guid": {
+   "rendered": "https://rpgmakerofficial.com/?post_type=product&#038;p=56"
+  },
+  "modified": "2024-01-30T16:32:25",
+  "modified_gmt": "2024-01-30T07:32:25",
+  "slug": "unite",
+  "status": "publish",
+  "type": "product",
+  "link": "https://rpgmakerofficial.com/product/56/",
+  "title": {
+   "rendered": "UNITE"
+  },
+  "content": {
+   "rendered": "今度のRPG <ruby>Maker<rt>ツクール</rt></ruby>はUnityで動く！",
+   "protected": false
+  },
+  "featured_media": 0,
+  "template": "",
+  "class_list": [
+   "post-56",
+   "product",
+   "type-product",
+   "status-publish",
+   "hentry"
+  ],
+  "acf": [],
+  "aioseo_notices": [],
+  "_links": {
+   "self": [
+    {
+     "href": "https://rpgmakerofficial.com/wp-json/wp/v2/product/56",
+     "targetHints": {
+      "allow": [
+       "GET"
+      ]
+     }
+    }
+   ],
+   "collection": [
+    {
+     "href": "https://rpgmakerofficial.com/wp-json/wp/v2/product"
+    }
+   ],
+   "about": [
+    {
+     "href": "https://rpgmakerofficial.com/wp-json/wp/v2/types/product"
+    }
+   ],
+   "wp:attachment": [
+    {
+     "href": "https://rpgmakerofficial.com/wp-json/wp/v2/media?parent=56"
+    }
+   ],
+   "curies": [
+    {
+     "name": "wp",
+     "href": "https://api.w.org/{rel}",
+     "templated": true
+    }
+   ]
+  }
+ },
+ {
+  "id": 1222,
+  "date": "2020-03-08T14:56:15",
+  "date_gmt": "2020-03-08T05:56:15",
+  "guid": {
+   "rendered": "https://rpgmakerofficial.com/?post_type=product&#038;p=1222"
+  },
+  "modified": "2023-03-09T10:10:10",
+  "modified_gmt": "2023-03-09T01:10:10",
+  "slug": "%ef%bd%84",
+  "status": "publish",
+  "type": "product",
+  "link": "https://rpgmakerofficial.com/product/1222/",
+  "title": {
+   "rendered": "様々なクリエイターが参加して作り上げる、固有の世界観を持った新しい素材集です。"
+  },
+  "content": {
+   "rendered": "様々なクリエイターが参加して作り上げる、固有の世界観を持った新しい素材集です。",
+   "protected": false
+  },
+  "featured_media": 0,
+  "template": "",
+  "class_list": [
+   "post-1222",
+   "product",
+   "type-product",
+   "status-publish",
+   "hentry"
+  ],
+  "acf": [],
+  "aioseo_notices": [],
+  "_links": {
+   "self": [
+    {
+     "href": "https://rpgmakerofficial.com/wp-json/wp/v2/product/1222",
+     "targetHints": {
+      "allow": [
+       "GET"
+      ]
+     }
+    }
+   ],
+   "collection": [
+    {
+     "href": "https://rpgmakerofficial.com/wp-json/wp/v2/product"
+    }
+   ],
+   "about": [
+    {
+     "href": "https://rpgmakerofficial.com/wp-json/wp/v2/types/product"
+    }
+   ],
+   "wp:attachment": [
+    {
+     "href": "https://rpgmakerofficial.com/wp-json/wp/v2/media?parent=1222"
+    }
+   ],
+   "curies": [
+    {
+     "name": "wp",
+     "href": "https://api.w.org/{rel}",
+     "templated": true
+    }
+   ]
+  }
+ }
+]

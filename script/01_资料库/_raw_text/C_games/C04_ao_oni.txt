@@ -1,0 +1,721 @@
+SOURCE: https://en.wikipedia.org/wiki/Ao_Oni
+TITLE: 青鬼 Ao Oni（英文维基）
+FETCHED: 2026-10-21 17:20:23
+============================================================
+
+Ao Oni - Wikipedia
+
+Jump to content
+
+From Wikipedia, the free encyclopedia
+
+2004 Japanese role-playing horror game
+
+Ao Oni
+
+Title screen
+
+青鬼
+
+Video game
+
+Developer noprops
+
+Publisher LiTMUS (2024 remaster)
+
+Genre Survival Horror
+
+Engine RPG Maker XP
+
+Platform Microsoft Windows
+
+Released 2004
+
+Ao Oni ( 青鬼 ; lit. 'Blue Demon') , occasionally spelt as Aooni is a freeware horror game developed by noprops. [ 1 ] [ 2 ] It was first released in Japan in 2004. The game's plot focuses on a boy named Hiroshi and his friends investigating and becoming trapped in an old mansion said to house a monster, with him having to escape as the monster hunts him down. [ 3 ]
+
+Ao Oni gained a cult following in Japan and overseas due to livestreams and playthroughs. [ 4 ] Ao Oni has received multiple sequels and spin-offs, and has been adapted into a variety of media , including three feature-length movies, a series of light novels, a manga and an anime series. [ 5 ] [ 4 ] [ 6 ] A remaster was released on Steam and Nintendo Switch in 2024 and on Playstation 5 in 2026. [ 7 ] [ 8 ] [ 9 ] [ 10 ] [ 11 ]
+
+Gameplay
+[ edit ]
+The in-game sprite for the Ao Oni
+The player controls Hiroshi as he explores the locked mansion, gathering items and solving puzzles in order to escape. [ 5 ] [ 12 ] The oni will begin to chase the player at both random and at certain scripted moments throughout the game. [ 13 ] [ 14 ]
+
+Plot
+[ edit ]
+
+A teenage boy named Hiroshi, along with his classmates Takuro, Takeshi, and Mika, investigates a mansion on the outskirts of town that is rumored to house a monster. They discover the Ao Oni, described as a naked, blueberry-colored giant who pursues the group. One by one, each of Hiroshi's classmates dies in the mansion, becoming infected with a virus that transforms them into another oni. [ 15 ] Hiroshi continues to explore the mansion, solving puzzles and evading the onis as he seeks a way to escape.
+
+Development
+[ edit ]
+
+Ao Oni was first developed in 2004 by Japanese indie developer noprops with RPG Maker XP . [ 7 ] [ 5 ] [ 4 ] noprops had developed various puzzle games during and after Ao Oni 's development such as Escape from the Haunted Room and White Room . [ 1 ] [ 16 ] [ 17 ] Four versions of the game were released until the game's final release in 2011; these versions differ drastically in terms of plot, map layout and puzzles. [ 4 ] [ 1 ] [ 18 ] A spider-like Oni was planned to be added as an enemy in the third released version, but was scrapped due to difficulty in giving it an natural-looking walk animation. [ 19 ]
+
+Reception and legacy
+[ edit ]
+
+Ao Oni has received mixed-to-positive reviews. Chloi Rad of Indie Statik gave the game a positive review, praising the "solid puzzle design" and the Oni's scare factor, but she criticised the graphics and the story as simplistic, although she said the graphics "[didn't] add or remove anything from the game, really, and [were just] a mere functionality". [ 12 ] Italian website Horrormoth gave the game a negative review, but said it would be "nice way to pass the time". [ 20 ] Anastasia Wilds of Screen Rant included Ao Oni in her "Top 15 Best RPG Maker Horror Games" list, calling the titular demon "an extremely frightful enemy that is hard to forget and even tougher to beat". [ 21 ] Christine Angelica Mendoza of Game Rant ranked the titular demon in second place in the list "8 Strangest Villains In Horror Games", saying "his bizarre appearance makes him a bit more laughable than scary!". [ 15 ]
+
+Ao Oni has been dubbed "probably the most famous horror game created with [RPG Maker]". [ 4 ] The popularity of Ao Oni revolves around the effectiveness of its horror aspects despite its simplistic nature, with the background music cited as a key contributor to the game's chilling atmosphere used to incite fear. [ 2 ] It gained a cult following online in Japan, gaining notoriety through websites such as Niconico and YouTube where Ao Oni -related videos had exceeded 50 million views by 2013. [ 5 ] Ao Oni gained international popularity when western YouTubers such as PewDiePie and Markiplier posted playthroughs online. [ 5 ] [ 4 ] [ 22 ] Ao Oni games have collectively culminated over 34 million downloads. [ 23 ] Many fangames have also spawned in the wake of the game's popularity. [ 1 ] [ 21 ]
+
+Ao Oni has been credited for both popularising and influencing horror games made with RPG Maker . [ 24 ] [ 25 ] Makoto Sanada (known online as Hoshikuzu KRNKRN), creator of Angels of Death and The Forest of Drizzling Rain [ ja ] was inspired to make freeware games after learning of Ao Oni and its success. [ 26 ]
+
+Adaptations
+[ edit ]
+
+Main articles: Ao Oni (franchise) and Ao Oni (film)
+
+Ao Oni has been adapted into a variety of media, including novels, two live-action films , anime and manga. [ 21 ] [ 27 ]
+
+References
+[ edit ]
+
+1 2 3 4 "Spoopy Saturday N°3 - Walkthrough Guides, Reviews, Discussion, Hints and Tips at Jay is games" . Jay is games . Retrieved 6 February 2026 .
+
+1 2 "Horāgēmu 'Ao Oni' Kōshiki Noberu no PV ga YouTube to Niconico Dōga de Kōkai ni" ホラーゲーム「青鬼」公式ノベルのPVがYouTubeとニコニコ動画で公開に [ Horror Game "Ao Oni" Official Novel PV Released on YouTube and Niconico ] . 4Gamer (in Japanese). Aetas. 19 February 2013. Archived from the original on 8 May 2022 . Retrieved 28 April 2019 .
+
+↑ "50 Free Indie Horror Games To Play On Halloween - Indie Statik" . indiestatik.com . Archived from the original on 2 November 2013 . Retrieved 27 May 2026 .
+
+1 2 3 4 5 6 Pepe, Felipe (1 August 2024). "The history of RPG Maker & its games" . Medium . Archived from the original on 3 March 2026 . Retrieved 2 May 2026 .
+
+1 2 3 4 5 Sakurai, Akihiro (8 April 2024). "Legendary Japanese horror game Ao Oni gets first-person 3D reboot on Steam" . Automaton Media . Archived from the original on 25 April 2024 . Retrieved 25 April 2024 .
+
+↑ "Best Games Made In RPG Maker" . ScreenRant . 10 August 2021. Archived from the original on 3 October 2023 . Retrieved 30 June 2026 .
+
+1 2 V, Amber. "Ao Oni to launch on Steam and Nintendo Switch on July 26 with new modes - AUTOMATON WEST" . automaton-media.com . Archived from the original on 5 July 2024 . Retrieved 1 July 2026 .
+
+↑ "7月26日（金）に『青鬼』Nintendo Switch™/Steam®版が発売決定！" . プレスリリース・ニュースリリース配信シェアNo.1｜PR TIMES (in Japanese). 5 July 2024 . Retrieved 7 February 2025 .
+
+↑ Romano, Sal (5 July 2024). "Ao Oni coming to Switch, Steam on July 26" . Gematsu . Retrieved 6 July 2026 .
+
+↑ Romano, Sal (29 June 2026). "Ao Oni coming to PS5 on July 3" . Gematsu . Retrieved 6 July 2026 .
+
+↑ 逆道 (5 July 2024). "不朽の人気ホラーゲーム『青鬼』がNintendo SwitchとSteam向けに発売決定！新ゲームモードの追加や公式倍速モードも実装、最大15倍速の青鬼から逃げ切れるか" . Denfaminico Gamer (in Japanese) . Retrieved 7 July 2026 .
+
+1 2 "Spooky Statik October – Day 24: Ao Oni - Indie Statik" . indiestatik.com . Archived from the original on 31 March 2014 . Retrieved 27 May 2026 .
+
+↑ "Cult Horror Game Is Getting A Live-Action Film" . Kotaku Australia . 24 April 2014. Archived from the original on 19 May 2022 . Retrieved 16 February 2026 .
+
+↑ "Best Horror RPG Maker Games" . Game Rant . 2 October 2021. Archived from the original on 5 August 2024 . Retrieved 3 May 2026 .
+
+1 2 "8 Strangest Villains In Horror Games" . Game Rant . 7 April 2023. Archived from the original on 8 April 2023 . Retrieved 29 June 2026 .
+
+↑ "Escape from the Haunted Room - Walkthrough, Tips, Review" . Jay is games . Archived from the original on 17 March 2015 . Retrieved 2 May 2026 .
+
+↑ "White Room - Walkthrough, Tips, Review" . Jay is games . Archived from the original on 16 March 2015 . Retrieved 2 May 2026 .
+
+↑ "26 Short (But Scary) Horror Games Worth Playing" . TheGamer . 26 January 2020. Archived from the original on 8 May 2024 . Retrieved 29 June 2026 .
+
+↑ "ボツ - 日記" . ichinichiippai.lolipop.jp (in Japanese). Archived from the original on 2 August 2011 . Retrieved 1 May 2026 .
+
+↑ "Il triste mostro blu nella grande casa vuota (Recensione "Ao Oni")" . www.horrormoth.com (in Italian). Archived from the original on 17 November 2025 . Retrieved 1 May 2026 .
+
+1 2 3 Wilds, Anastasia (18 September 2021). "15 Best RPG Maker Horror Games" . ScreenRant . Retrieved 6 February 2026 .
+
+↑ "なぜこの夏「ホラーゲーム」を総力特集？ いま電ファミ編集部が覚える"危機感"について" . Denfaminico Gamer (in Japanese). Archived from the original on 20 August 2016 . Retrieved 11 July 2026 .
+
+↑ "シリーズ累計3,400万DL突破の大人気ホラーゲーム『青鬼』、2025年5月23日(金)にRoblox・Fortniteで2タイトル同時公開！" . プレスリリース・ニュースリリース配信シェアNo.1｜PR TIMES (in Japanese). Archived from the original on 12 May 2025 . Retrieved 16 February 2026 .
+
+↑ "RPGツクールで作ったゲームが2010年代日本で人気の不思議 - エキサイトニュース(4/7)" . エキサイトニュース (in Japanese). 12 September 2016. Archived from the original on 6 May 2023 . Retrieved 2 May 2026 .
+
+↑ "ホラゲにゲームデザインの常識は通用しない!? Jホラーゲームの第一人者『零』×『SIREN』開発者が語り合うホラーの摩訶不思議（柴田誠×外山圭一郎）【ゲームの企画書第八回】" . Denfaminico Gamer (in Japanese). Archived from the original on 3 October 2016 . Retrieved 17 May 2026 .
+
+↑ "インタビュー：殺戮の天使（作者：星屑KRNKRN（真田まこと））公式サイト｜無料で遊べるゲームマガジン" . Denfaminico Gamer (in Japanese). Archived from the original on 2 April 2018 . Retrieved 2 May 2026 .
+
+↑ "From Tool to Subgenre to Anime: The Mysterious Journey of RPG Maker" . Crunchyroll . Archived from the original on 12 October 2022 . Retrieved 12 March 2026 .
+
+External links
+[ edit ]
+
+Game official website at noprops (in Japanese)
+
+Light novel official website (in Japanese)
+
+Anime official website (in Japanese)
+
+v
+
+t
+
+e
+
+Studio Deen television series
+
+1980s
+
+Urusei Yatsura (1984–1986, #107–195)
+
+Maison Ikkoku (1986–1988)
+
+F (1988)
+
+Ranma ½ (1989)
+
+Ranma ½ Nettōhen (1989–1992)
+
+1990s
+
+DNA² (1994)
+
+Zenki (1995)
+
+You're Under Arrest (1996–1997)
+
+Violinist of Hameln (1996–1997)
+
+Rurouni Kenshin (1997–1998, #67–95)
+
+Eat-Man (1997)
+
+Haunted Junction (1997)
+
+Don't Leave Me Alone, Daisy (1997)
+
+Ehrgeiz (1997)
+
+AWOL (1998)
+
+Super Radical Gag Family (1998)
+
+Shadow Skill: Eigi (1998)
+
+Eat-Man '98 (1998)
+
+Eden's Bowy (1999)
+
+Hoshin Engi (1999)
+
+You're Under Arrest (1999)
+
+2000s
+
+Mon Colle Knights (2000)
+
+Gravitation (2000–2001)
+
+You're Under Arrest (2001)
+
+Star Ocean EX (2001)
+
+Fruits Basket (2001)
+
+Kokoro Library (2001)
+
+Sadamitsu the Destroyer (2001)
+
+Rave Master (2001–2002)
+
+Samurai Deeper Kyo (2002)
+
+Bomberman Jetters (2002–2003)
+
+Full Moon o Sagashite (2002–2003)
+
+GetBackers (2002–2003)
+
+Jing: King of Bandits (2002)
+
+The Mythical Detective Loki Ragnarok (2003)
+
+Mouse (2003)
+
+Yami to Bōshi to Hon no Tabibito (2003)
+
+Diamond Daydreams (2004)
+
+Maria-sama ga Miteru (2004)
+
+Maria-sama ga Miteru: Printemps (2004)
+
+Yumeria (2004)
+
+AM Driver (2004–2005)
+
+Tactics (2004–2005)
+
+Zipang (2004–2005)
+
+Kyo Kara Maoh! (2004–2006)
+
+Amaenaide yo!! (2005)
+
+Ginga Densetsu Weed (2005–2006)
+
+Hell Girl (2005–2006)
+
+The Law of Ueki (2005–2006)
+
+Amaenaide yo!! Katsu!! (2006)
+
+Binchō-tan (2006)
+
+Fate/stay night (2006)
+
+Higurashi no Naku Koro ni (2006)
+
+Hell Girl: Two Mirrors (2006–2007)
+
+Princess Princess (2006)
+
+Simoun (2006)
+
+Shōnen Onmyōji (2006–2007)
+
+Higurashi no Naku Koro ni Kai (2007)
+
+Shining Tears X Wind (2007)
+
+Tōka Gettan (2007)
+
+You're Under Arrest: Full Throttle (2007–2008)
+
+Code-E (2007)
+
+Shion no Ō (2007–2008)
+
+Fantastic Detective Labyrinth (2007–2008)
+
+Gag Manga Biyori 3 (2008)
+
+Mission-E (2008)
+
+Amatsuki (2008)
+
+Hatenkō Yūgi (2008)
+
+Junjo Romantica (2008)
+
+Vampire Knight (2008)
+
+Hell Girl: Three Vessels (2008–2009)
+
+Junjo Romantica 2 (2008)
+
+Vampire Knight Guilty (2008)
+
+Kyo Kara Maoh! Third Series (2008–2009)
+
+Maria-sama ga Miteru (2009)
+
+07-Ghost (2009)
+
+Student Council's Discretion (2009)
+
+Umineko no Naku Koro ni (2009)
+
+2010s
+
+Gag Manga Biyori + (2010)
+
+Giant Killing (2010)
+
+Hakuoki: Demon of the Fleeting Blossom (2010)
+
+Nura: Rise of the Yokai Clan (2010)
+
+Hakuoki: Record of the Jade Blood (2010)
+
+Starry Sky (2010–2011)
+
+Dragon Crisis! (2011)
+
+Is This a Zombie? (2011)
+
+Sekai-ichi Hatsukoi (2011)
+
+Nura: Rise of the Yokai Clan: Demon Capital (2011)
+
+Sekai-ichi Hatsukoi 2 (2011)
+
+Poyopoyo Kansatsu Nikki (2012)
+
+Hakuoki: Dawn of the Shinsengumi (2012)
+
+Hiiro no Kakera: The Tamayori Princess Saga (2012)
+
+Is This a Zombie? of the Dead (2012)
+
+Sankarea: Undying Love (2012)
+
+Hiiro no Kakera: The Tamayori Princess Saga 2 ' (2012)
+
+Hakkenden: Tōhō Hakken Ibun (2013)
+
+Rozen Maiden: Zurückspulen (2013)
+
+Gifu Dodo!! Kanetsugu to Keiji (2013)
+
+Meganebu! (2013)
+
+Pupa (2014)
+
+Sakura Trick (2014)
+
+Meshimase Lodoss-tō Senki: Sorette Oishii no? (2014)
+
+Always! Super Radical Gag Family (2014)
+
+Samurai Jam: Bakumatsu Rock (2014)
+
+Log Horizon 2 (2014–2015)
+
+Jewelpet: Magical Change (2015)
+
+Junjo Romantica 3 (2015)
+
+Descending Stories: Showa Genroku Rakugo Shinju (2016–2017)
+
+Reikenzan: Hoshikuzu-tachi no Utage (2016)
+
+KonoSuba (2016–2017)
+
+Rilu Rilu Fairilu: Yōsei no Door (2016–2017)
+
+Super Lovers (2016–2017)
+
+Haven't You Heard? I'm Sakamoto (2016)
+
+Tonkatsu DJ Agetarō (2016)
+
+First Love Monster (2016)
+
+Ao Oni: The Animation (2016–2017)
+
+Reikenzan: Eichi e no Shikaku (2017)
+
+Kabukibu! (2017)
+
+Rilu Rilu Fairilu: Mahō no Kagami (2017–2018)
+
+Hell Girl: The Fourth Twilight (2017)
+
+The Reflection (2017)
+
+Hozuki's Coolheadedness 2 (2017–2018)
+
+Junji Ito Collection (2018)
+
+Gurazeni (2018)
+
+Ongaku Shōjo (2018)
+
+Oshiete Mahō no Pendulum: Rilu Rilu Fairilu (2018–2019)
+
+Agū: Tensai Ningyō (2018)
+
+Muhyo & Roji's Bureau of Supernatural Investigation (2018–2020)
+
+Xuan Yuan Sword Luminary (2018)
+
+Bakumatsu (2018–2019)
+
+Kochoki (2019)
+
+Outburst Dreamer Boys (2019)
+
+The Seven Deadly Sins: Wrath of the Gods (2019–2020)
+
+2020s
+
+Sorcerous Stabber Orphen (2020)
+
+Log Horizon: Destruction of the Round Table (2021)
+
+The Seven Deadly Sins: Dragon's Judgement (2021)
+
+Sorcerous Stabber Orphen: Battle of Kimluck (2021)
+
+Sasaki and Miyano (2022)
+
+Sorcerous Stabber Orphen: Chaos in Urbanrama (2023)
+
+Sorcerous Stabber Orphen: Doom of Dragon's Sanctuary (2023)
+
+Power of Hope: PreCure Full Bloom (2023)
+
+Re:Monster (2024)
+
+The Banished Former Hero Lives as He Pleases (2024)
+
+Welcome Home (2024)
+
+Days with My Stepsister (2024)
+
+Twilight Out of Focus (2024)
+
+Yakuza Fiancé: Raise wa Tanin ga Ii (2024)
+
+I'm a Noble on the Brink of Ruin, So I Might as Well Try Mastering Magic (2025)
+
+Magic Maker: How to Make Magic in Another World (2025)
+
+Witchy Pretty Cure!! Mirai Days (2025)
+
+Gag Manga Biyori Go (2025)
+
+Binan Kōkō Chikyū Bōei-bu Haikara! (2025)
+
+Ninja vs. Gokudo (2025)
+
+The Dark History of the Reincarnated Villainess (2025)
+
+Isekai Office Worker: The Other World's Books Depend on the Bean Counter (2026)
+
+Shiboyugi: Playing Death Games to Put Food on the Table (2026)
+
+The Villainess Is Adored by the Prince of the Neighbor Kingdom (2026)
+
+Recommendations from Iwamoto-senpai (2026)
+
+Victoria of Many Faces (2026)
+
+From Far Away (2026)
+
+Multi-Mind Mayhem (2027)
+
+Dengeki Daisy (2027)
+
+Higurashi When They Cry (TBA)
+
+Category
+
+v
+
+t
+
+e
+
+Studio Deen theatrical features, OVAs , and ONAs
+
+Films
+
+Urusei Yatsura 3: Remember My Love (1985)
+
+Angel's Egg (1985)
+
+Urusei Yatsura 4: Lum the Forever (1986)
+
+Patlabor: The Movie (1989)
+
+Ranma ½: Big Trouble in Nekonron, China (1991)
+
+Ranma ½: Nihao My Concubine (1992)
+
+Ranma ½: Super Indiscriminate Decisive Battle! Team Ranma vs. the Legendary Phoenix (1994)
+
+You're Under Arrest: The Movie (1999)
+
+Mon Colle Knights the Movie: The Legendary Fire Dragon and The Mysterious Tatari-chan (2000)
+
+Initial D Third Stage (2001)
+
+Fate/Stay Night: Unlimited Blade Works (2010)
+
+Hetalia: Axis Powers - Paint it, White! (2010)
+
+Hakuoki: Wild Dance of Kyoto (2013)
+
+Hakuoki: Warrior Spirit of the Blue Sky (2014)
+
+The World's Greatest First Love: The Case of Takafumi Yokozawa (2014)
+
+Ongaku Shōjo (2015)
+
+Gekijōban Meiji Tokyo Renka: Yumihari no Serenade (2015)
+
+Gekijōban Meiji Tokyo Renka: Hana Kagami no Fantasia (2016)
+
+Ao Oni: The Animation (2017)
+
+The World's Greatest First Love: Proposal arc (2020)
+
+Sailor Moon Eternal (2021)
+
+The Seven Deadly Sins: Cursed by Light (2021)
+
+Sasaki and Miyano: Graduation (2023)
+
+Gekijōban Collar × Malice Deep Cover (2023)
+
+Sailor Moon Cosmos (2023)
+
+Shiboyugi: Playing Death Games to Put Food on the Table – 44: Cloudy Beach (2026)
+
+OVAs/
+
+ONAs
+
+Urusei Yatsura (1985–1986, #1–2)
+
+Making of Urusei Yatsura 4: Lum the Forever (1986)
+
+Mystery Article File 538 (1987)
+
+Patlabor: The Early Days (1988–1989)
+
+Judo-bu Monogatari (1991)
+
+Ranma ½ (1993–1994)
+
+You're Under Arrest (1994–1995)
+
+The Irresponsible Captain Tylor (1994–1996, #2–10)
+
+Ranma ½ Special (1994–1995)
+
+DNA² (1995)
+
+Ranma ½ Super (1995–1996)
+
+Kishin Dōji Zenki Gaiden: Anki Kitan (1997)
+
+Tekken: The Motion Picture (1998)
+
+Rurouni Kenshin: Trust & Betrayal (1999)
+
+Rurouni Kenshin: Reflection (2001)
+
+Read or Die (2001)
+
+You're Under Arrest (2002)
+
+Jing: King of Bandits: Seventh Heaven (2004)
+
+Maria-sama ni wa Naisho (2004–2009)
+
+Maria-sama ga Miteru (2006–2007)
+
+Kyo Kara Maoh! R (2007–2008)
+
+Ranma ½: Nightmare! Incense of Spring Sleep (2008)
+
+Higurashi no Naku Koro ni Rei (2009)
+
+Hetalia: Axis Powers (2009–2010)
+
+Hetalia: World Series (2010–2011)
+
+Rurouni Kenshin: New Kyoto Arc (2011–2012)
+
+Higurashi no Naku Koro ni Kira (2011–2012)
+
+Hakuoki: A Memory of Snow Flowers (2011–2012)
+
+Sekai-ichi Hatsukoi: No love's like to the first. (2011)
+
+Sekai-ichi Hatsukoi: Hatori Yoshiyuki no Baai (2011)
+
+Junjo Romantica (2012)
+
+Hetalia: The Beautiful World (2013)
+
+Higurashi no Naku Koro ni Kaku: Outbreak (2013)
+
+Hiiro no Kakera Taizen: Totsugeki! Tonari no Ikemens (2012)
+
+Hybrid Child (2014–2015)
+
+Descending Stories: Showa Genroku Rakugo Shinju (2015)
+
+Hetalia: The World Twinkle (2015)
+
+Haven't You Heard? I'm Sakamoto (2016)
+
+Hozuki's Coolheadedness (2017)
+
+Neo Yokio (2017)
+
+Hetalia: World Stars (2021)
+
+Hakuoki (2021–2022)
+
+Sasaki and Miyano (2022)
+
+Junji Ito Maniac: Japanese Tales of the Macabre (2023)
+
+Ōoku: The Inner Chambers (2023)
+
+Category
+
+Retrieved from " https://en.wikipedia.org/w/index.php?title=Ao_Oni&oldid=1377843627 "
+
+Categories :
+2004 video games
+
+2013 Japanese novels
+
+Anime television series based on video games
+
+Doujin video games
+
+Windows games
+
+Nintendo Switch games
+
+PlayStation 5 games
+
+2000s horror video games
+
+Light novels
+
+J-Novel Club books
+
+Manga based on video games
+
+RPG Maker games
+
+Studio Deen
+
+TV Tokyo original programming
+
+Video games about demons
+
+Video games adapted into films
+
+Video games adapted into novels
+
+Video games developed in Japan
+
+Video games set in country houses
+
+Puzzle video games
+
+Video games about urban legends
+
+Survival horror video games
+
+Video games adapted into television shows
+
+Video games adapted into comics
+
+Ao Oni
+
+Media franchises introduced in 2004
+
+Hidden categories:
+Articles with short description
+
+Short description is different from Wikidata
+
+Use dmy dates from July 2024
+
+Articles containing Japanese-language text
+
+Anime and manga articles with missing genre parameters
+
+CS1 uses Japanese-language script (ja)
+
+CS1 Japanese-language sources (ja)
+
+CS1: unfit URL
+
+CS1 Italian-language sources (it)
+
+Official website different in Wikidata and Wikipedia
+
+Articles with Japanese-language sources (ja)
+
+Search
+
+Ao Oni
+
+8 languages Add topic

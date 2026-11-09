@@ -1,0 +1,109 @@
+{
+ "id": 278,
+ "date": "2022-03-13T14:24:01",
+ "date_gmt": "2022-03-13T05:24:01",
+ "guid": {
+  "rendered": "https://rpgmakerofficial.com/contents/history/"
+ },
+ "modified": "2022-03-22T13:06:54",
+ "modified_gmt": "2022-03-22T04:06:54",
+ "slug": "history",
+ "status": "publish",
+ "type": "page",
+ "link": "https://rpgmakerofficial.com/en/contents/history/",
+ "title": {
+  "rendered": "History of Tkool"
+ },
+ "content": {
+  "rendered": "  <h2 class=\"common--title\">History of Tkool</h2>\r\n  <div class=\"cat-list\">\r\n    <p class=\"cat-list__item current\" data-cat=\"all\">ALL</p>\r\n    <p class=\"cat-list__item cat-pc\" data-cat=\"cat-pc\">PC</p>\r\n    <p class=\"cat-list__item cat-cs\" data-cat=\"cat-cs\">CS</p>\r\n  </div>\r\n  <ul class=\"history-list\" id=\"history-list\" data-lang=\"en\">\r\n  </ul>\r\n  <div class=\"history-attention\">\r\n    <p class=\"history-attention__text\">\r\n      ※Here you would find a list of our past products that have been phased out, including titles that were never sold overseas! We are unfortunately unable to answer inquiries about demands to release them again.\r\n    </p>\r\n    <p class=\"history-attention__text\">\r\n      ※PC-9801 (aka PC-98) were the now colloquial names of a series of x86-based computers / OS developed and sold in Japan domestically by NEC Corporation around 1980s~1990s. \r\n    </p>\r\n  </div>",
+  "protected": false
+ },
+ "excerpt": {
+  "rendered": "<p>History of Tkool ALL PC CS ※Here you …</p>\n",
+  "protected": false
+ },
+ "author": 1,
+ "featured_media": 0,
+ "parent": 277,
+ "menu_order": 25,
+ "comment_status": "closed",
+ "ping_status": "closed",
+ "template": "",
+ "meta": {
+  "_acf_changed": false,
+  "footnotes": ""
+ },
+ "class_list": [
+  "post-278",
+  "page",
+  "type-page",
+  "status-publish",
+  "hentry"
+ ],
+ "acf": [],
+ "aioseo_notices": [],
+ "_links": {
+  "self": [
+   {
+    "href": "https://rpgmakerofficial.com/wp-json/wp/v2/pages/278",
+    "targetHints": {
+     "allow": [
+      "GET"
+     ]
+    }
+   }
+  ],
+  "collection": [
+   {
+    "href": "https://rpgmakerofficial.com/wp-json/wp/v2/pages"
+   }
+  ],
+  "about": [
+   {
+    "href": "https://rpgmakerofficial.com/wp-json/wp/v2/types/page"
+   }
+  ],
+  "author": [
+   {
+    "embeddable": true,
+    "href": "https://rpgmakerofficial.com/wp-json/wp/v2/users/1"
+   }
+  ],
+  "replies": [
+   {
+    "embeddable": true,
+    "href": "https://rpgmakerofficial.com/wp-json/wp/v2/comments?post=278"
+   }
+  ],
+  "version-history": [
+   {
+    "count": 1,
+    "href": "https://rpgmakerofficial.com/wp-json/wp/v2/pages/278/revisions"
+   }
+  ],
+  "predecessor-version": [
+   {
+    "id": 642,
+    "href": "https://rpgmakerofficial.com/wp-json/wp/v2/pages/278/revisions/642"
+   }
+  ],
+  "up": [
+   {
+    "embeddable": true,
+    "href": "https://rpgmakerofficial.com/wp-json/wp/v2/pages/277"
+   }
+  ],
+  "wp:attachment": [
+   {
+    "href": "https://rpgmakerofficial.com/wp-json/wp/v2/media?parent=278"
+   }
+  ],
+  "curies": [
+   {
+    "name": "wp",
+    "href": "https://api.w.org/{rel}",
+    "templated": true
+   }
+  ]
+ }
+}

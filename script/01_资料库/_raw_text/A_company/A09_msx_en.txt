@@ -1,0 +1,744 @@
+SOURCE: https://en.wikipedia.org/wiki/MSX
+TITLE: MSX 标准（英文维基）
+FETCHED: 2026-10-21 17:19:16
+============================================================
+
+MSX - Wikipedia
+
+Jump to content
+
+From Wikipedia, the free encyclopedia
+
+Family of standardized home computer architectures released between 1983 and 1992
+
+For other uses, see MSX (disambiguation) .
+
+MSX
+
+Sony MSX, Model HitBit 10-P
+
+Developer ASCII Corporation
+
+Microsoft Japan
+
+Manufacturer National , Sony , Pioneer , Panasonic , Samsung , Sharp , Philips , Canon , Yamaha , Toshiba , Mitsubishi , Sanyo , JVC , Fujitsu , Spectravideo , GoldStar , Hitachi , Kyocera , Yashica , Daewoo , Dragon MSX , Casio
+
+Type Home computer
+
+Released October 21, 1983 (MSX)
+
+Discontinued 1993 (MSX turboR)
+
+Operating system
+MSX BASIC , MSX-DOS
+
+CPU
+
+Zilog Z80 or equivalent (MSX1, MSX2, MSX2+)
+
+R800 (Turbo R)
+
+Memory
+
+8–64 KB maximum (MSX1)
+
+64-512 KB , expandable to up to 4 MB via memory mapper cartridge (MSX2 and higher)
+
+Graphics
+
+TMS9918 or equivalent (MSX1)
+
+Yamaha V9938 (MSX2)
+
+Yamaha V9958 (MSX2+ and Turbo R)
+
+MSX is a standardized home computer and video game system architecture, announced by ASCII Corporation on June 16, 1983. [ 1 ] [ 2 ] It was initially conceived by Microsoft as a product for the Japanese market, and jointly marketed by Kazuhiko Nishi , the director at ASCII Corporation. [ 3 ] Microsoft conceived the project as an attempt to create unified standards among various home computing system manufacturers of the period, in the same fashion as the VHS standard for home video tape machines. [ 4 ] [ 5 ] The first MSX computer sold to the public was a Mitsubishi ML-8000, released on October 21, 1983, thus marking its official release date. [ 6 ]
+
+MSX systems were most popular in Japan , and were relatively popular in several other countries. The Sony MSX soon became the most popular manufacturer in Japan after its initial release. [ 7 ] There are differing accounts of MSX sales worldwide. One source claims 9 million MSX units were sold, including 7 million in Japan alone, [ 8 ] whereas ASCII Corporation founder Kazuhiko Nishi claims that 3 million were sold in Japan, and 1 million overseas. [ 9 ] Despite Microsoft's involvement, few MSX-based machines were released in the United States. [ 10 ]
+
+The meaning of the acronym MSX remains a matter of debate. In 2001, Kazuhiko Nishi recalled that many assumed that it was derived from "Microsoft Extended", referring to the built-in Microsoft Extended BASIC ( MSX BASIC ). Others believed that it stood for "Matsushita-Sony". Nishi said that the team's original definition was "Machines with Software eXchangeability", [ 11 ] although in 1985 he said it was named after the MX missile . [ 12 ] According to his book in 2020, he considered the name of the new standard should consist of three letters, like VHS . He felt "MSX" was fit because it means "the next of Microsoft", and it also contains the first letters of Matsushita ( Panasonic ) and Sony. [ 13 ]
+
+Before the success of Nintendo 's Family Computer , the MSX was the platform that major Japanese game studios such as Konami and Hudson Soft developed for. The first two games in the Metal Gear series were originally released for MSX hardware. [ 14 ]
+
+History
+[ edit ]
+The Spectravideo SV-328 is the predecessor of the MSX standard. Many MSX programs were unofficially ported to the SV-328 by home programmers.
+In the early 1980s, most home computers manufactured in Japan such as the NEC PC-6001 and PC-8000 series, Fujitsu 's FM-7 and FM-8 , and Hitachi 's Basic Master featured a variant of the Microsoft BASIC interpreter integrated into their on-board ROMs . The hardware design of these computers and the various dialects of their BASICs were incompatible. [ 15 ] Other Japanese consumer electronics firms such as Panasonic , Canon , Casio , Yamaha , Pioneer , and Sanyo were searching for ways to enter the new home computer market.
+
+Major Japanese electronics companies entered the computer market in the 1960s, and Panasonic (Matsushita Electric Industrial) was also developing mainframe computers . The Japanese economy was facing a recession after the 1964 Summer Olympics and Panasonic decided to exit the computer business and focus on home appliances. The decision was a huge success, and Panasonic grew to become one of the largest electronics companies. In the late 1970s, the company investigated other business areas outside of home appliances. Panasonic also saw potential in the recent microcomputer revolution . One of Panasonic's distributors, Yamagata National, told Panasonic's president, Toshihiko Yamashita:
+
+Recently, NEC 's personal computers sell well in Yamagata too, and our dealers also request merchandise. However, we must purchase not only personal computers, but also home appliances from NEC. I think Matsushita also need develop personal computers.
+
+Yamashita ordered the vice president, Shunkichi Kisaka, to develop a personal computer, and Kisaka called on Kazuyasu Maeda of Matsushita R&D Center. [ 16 ]
+
+Maeda requested Nishi to assist with the development. They were already close to each other. When they met at a seminar held by NEC, they noticed both were from Kobe and had graduated from the same university. They often talked to each other about home computers. At the same time, Spectravideo contacted Microsoft in order to obtain software for their new home computer. Nishi went to Hong Kong to meet with Spectravideo, and suggested some improvements to its prototype. Spectravideo's president, Harry Fox, was willing to accept Nishi's proposals. Nishi conceived to create a unified standard based on its machine, and Maeda agreed with his idea. [ 13 ] Nishi wanted to involve Panasonic and Sony in the development of home computers. While they were competing for videotape formats , Nobuyuki Idei of Sony accepted his proposal. Idei thought Sony should cooperate with Panasonic on its development because the SMC-70 , Sony's first personal computer, faced difficulty in the market when Sony started their computer business. Maeda also wanted to invite NEC, but NEC chose to go its own way. [ 16 ]
+
+Nishi proposed MSX as an attempt to create a single industry-standard for home computers. Inspired by the success of VHS as a standard for video cassette recorders , many electronics manufacturers selling into the Japanese market (including GoldStar , Philips and Spectravideo ) built and promoted MSX computers. Any piece of hardware or software with the MSX logo on it was compatible with MSX products from other manufacturers. In particular, the expansion cartridge format was part of the standard; any MSX expansion or game cartridge would work in any MSX computer.
+
+Nishi's standard was built around the Spectravideo SV-328 computer. [ 17 ] The standard consisted primarily of several off-the-shelf parts; the main CPU was a 3.58 MHz Zilog Z80 , [ 18 ] the Texas Instruments TMS9918 graphics chip with 16 KB of dedicated VRAM , sound and partial I/O support was provided by the AY-3-8910 chip manufactured by General Instrument (GI), and an Intel 8255 Programmable Peripheral Interface (PPI) chip was used for parallel I/O such as the keyboard. The choice of these components was shared by many other home computers and games consoles of the period, such as the ColecoVision and Sega SG-1000 video game systems. To reduce overall system cost, many MSX models used a custom IC known as " MSX-Engine ", which integrated glue logic , 8255 PPI, YM2149 compatible sound chip and more, sometimes even the Z80 CPU. However, almost all MSX systems used a professional keyboard instead of a chiclet keyboard , driving up the price compared to the original SV-328. Consequently, these components alongside Microsoft's MSX BASIC made the MSX a competitive, though somewhat expensive, home computer package.
+
+Debut
+[ edit ]
+Yamaha YIS503II MSX Personal Computer designed for Soviet schools—the abbreviature "КУВТ" means "Class of Teaching Computing Equipment)" The Canon V-20 has 64 KB of RAM and the V-10 has 16 KB.
+On June 27, 1983, [ 19 ] the MSX was formally announced during a press conference, and a slew of big firms declared their plans to introduce the machines. These companies avoided the intensely competitive U.S. home computer market, which was in the throes of a Commodore -led price war . Only Spectravideo and Yamaha briefly marketed MSX machines in the U.S. Spectravideo's MSX enjoyed very little success, and Yamaha's CX5M model, built to interface with various types of MIDI equipment, was billed more as a digital music tool than a standard personal computer.
+
+Evolution & the downfall of the MSX system
+[ edit ]
+
+"MSX2" redirects here. For the protein, see Msh homeobox 2 .
+
+MSX spawned four generations. The first three, MSX (1983), MSX2 (1985), [ 20 ] and MSX2+ (1988), were all 8-bit computers based on the Z80 microprocessor. The MSX2+ was exclusively released in Japan.
+
+A new MSX3 was originally scheduled to be released in 1990, but delays in the development of its Yamaha-designed VDP caused it to miss its time to market deadline. [ 21 ] In its place, the MSX TurboR was released, which used the new custom 16-bit R800 microprocessor developed by ASCII Corporation intended for the MSX3, but features such as DMA and 24-bit addressing were disabled.
+
+But also the problems with ASCII and the break-up with Microsoft early in 1986 were causing some more troubles. Nishi and Gates fell out, and Microsoft in 1986 disclosed the end of the partnership. Stating that Nishi owed the company more than $500,000, Microsoft set up its own Japanese subsidiary. [ 22 ] But ASCII Corporation continued to thrive.
+
+Nishi was also inclined to make important decisions on impulse and to spend without restraint, which led Microsoft to break with Ascii in 1986. One of the straws that broke the camel’s back was when Nishi spent $1 million to get a huge mechanical dinosaur to build in Tokyo as an advertising device. The break between Gates and Nishi was bitter, though the two now speak periodically. [ 23 ]
+
+In 1991, the other two co-founders of Ascii, Akio Gunji, president, and Keiichiro Tsukamoto, vice president, resigned abruptly, ostensibly in protest against rapid expansion. “They couldn’t keep up with me because I was accelerating too much,” Nishi said at a press conference at the time. [ 23 ]
+
+Like the MSX2+, the MSX TurboR was exclusively released in Japan. By the time the MSX TurboR standard was announced in 1990, only Panasonic was manufacturing MSX computers. Its initial model FS-A1ST met with moderate success, but the upgraded model FS-A1GT introduced in 1991 sold poorly due to its high retail cost of 99800 yen (about 740 USD at the time). Production of the TurboR ended in 1993. [ citation needed ] The VDP was eventually delivered in 1992, two years after its planned deadline, by which time the market had moved on. In an attempt to reduce its financial loss, Yamaha stripped nearly all V9958 compatibility and marketed the resulting V9990 E-VDP III as a video-chipset for PC VGA graphic cards, with moderate success.
+
+Impact
+[ edit ]
+The Hotbit , developed by Sharp 's Epcom home computer division, was a hit in Brazil . Talent TPC-310 MSX2 computer, made in Argentina by Telematica (1988), based on a Daewoo design. Dynadata DPC 200 MSX computer with a Dynadata DPF-550 disk drive, manufactured in Korea for Daewoo and sold in Spain by Dynadata Informática MSX Sakhr AX150 ( صخر ), made in Japan by Yamaha for the Kuwaiti company Al Alamiah, sold in Egypt and the Gulf Cooperation Council states
+In Japan, South Korea, Argentina, and Brazil, the MSX was the preeminent home computer system of the 1980s. It was also fairly popular in continental Europe , especially in the Netherlands and Spain. Classrooms full of networked Yamaha MSX computers were used for teaching informatics in schools in some Arab countries, the Soviet Union , and Cuba , where they were widely used in schools. [ 24 ] In total, 9 million MSX computers were sold in Japan, making it relatively popular. However, the MSX did not become the worldwide standard envisioned because of limited adoption in other markets. Before the MSX's lack of success in these markets became apparent, US manufacturer Commodore Business Machines overhauled its product line in the early 1980s and introduced models such as the Plus/4 and Commodore 16 , that were intended to better compete with the features of MSX computers.
+
+In comparison with rival 8-bit computers, the Commodore 64 is estimated to have sold 12.5–17 million units worldwide, [ 25 ] [ 26 ] the Apple II sold 6 million units, [ 27 ] the ZX Spectrum over 5 million units, the Atari 8-bit computers sold at least 4 million units, the Amstrad CPC sold 3 million units, and the Tandy TRS-80 Model 1 sold 250,000 units. [ citation needed ]
+
+A Sony MSX2 machine was launched into space to the Russian Mir space station. [ 28 ]
+
+Similar systems
+[ edit ]
+
+The system MSX most closely resembled was the Spectravideo SV-328 home computer (Spectravideo even claimed to be "MSX compatible" in advertisements before the actual launch of MSX systems, but it was not completely compatible with it). This led to a new and short-lived kind of software cracking : converting . Since the MSX games were unplayable on the SV-328 computer, SV-328 crackers developed a method of modifying the (MSX) games to make them work on the SV-328. In most cases, this included downloading the MSX BIOS to the SV-328 from tape or floppy disk. Spectravideo later launched the SVI-728 which completely adhered to the MSX standard.
+
+The Sega SG-1000 , the Memotech MTX , the Tatung Einstein , and the ColecoVision all have many similarities with the MSX1 standard, but none are fully compatible with it. Porting games between those systems is somewhat easy, but is tricky due to the lack of RAM and differing sound hardware. Due to the former, many RAM adapters were created and sold in areas such as Taiwan to make the conversion process easier. [ 29 ] It was also very common to port games from the ZX Spectrum to the MSX, since both have the same CPU, the Spectrum 128 had the same soundchip, and the ZX Spectrum's graphic mode could be easily emulated on the MSX's screen-2 mode.
+
+Many Roland S-series audio/music digital sampler/synthesizer keyboards and rack module units are based on the MSX operating system. This includes the earlier 12-bit sample resolution models S-50, S-330, S-550, W-30, and later 16-bit sample resolution models S-770, S-750, SP-700, and S-760. Most of these models included (or could be expanded with) color video outputs to display monitors, as well as MSX-compatible mouse ports.
+
+Localization
+[ edit ]
+
+By default, MSX machines have a hardcoded character set and keyboard scan code handling algorithm . While MSX has full application software compatibility at the firmware (BIOS) level, due to minor hardware differences, replacement of the BIOS with another from a different computer may return incorrect scan code translations and result in incorrect behaviour of the keyboard subsystem for the application software.
+
+In 2011, AGE Labs introduced Language Pack firmware, aiming to make each model support several localizations. In AGE Labs' GR8BIT kit , the Language Pack is installed by default in place of the Kanji -ROM. It allows changing the character set and keyboard layout of the machine at startup between Japanese, Russian, International and Portuguese locales. It also gives the ability to change locales during machine operation using the newly introduced LANG command in BASIC. [ 30 ] The selected locale setting is stored into the unused RTC NVRAM memory space.
+
+Developments for MSX
+[ edit ]
+
+Konami SCC
+[ edit ]
+
+The SCC chip was conceived by Japanese video game company Konami in February 1986, with the development teams split between working on the MSX, Famicom and arcade games at the time. [ 31 ] Before development of the SCC began, the Konami team used the programmable sound generator (PSG), which allowed only three types of sounds to be outputted. Due to the lack of sound ports, Konami's MSX team sound creator Kazuhiko Uehara, who had worked on the previous iteration, used the cartridge slot of the MSX as an additional source of sound. [ 32 ] [ 33 ] Upon submitting this idea to the company President Kagemasa Kozuki , development of the SCC chip subsequently followed, in collaboration with Toshiba . [ 31 ] [ 34 ]
+
+Before the development of the SCC, there was reportedly disappointment at Konami that MSX did not have the same capability of sound as Nintendo 's Famicom , despite the two systems being from the same generation of console. [ 32 ] SCC added five additional channels with toggle capability controlled by an on/off bit , on top of the three already provided by PSG, allowing for further developed sound production. [ 31 ] [ 33 ] The chip also has independent memory mapping . [ 35 ] While the SCC chip was originally developed for the first F-1 Spirit , due to changes in scheduling, Nemesis 2 was released first, becoming the first videogame to use the chip. [ 32 ] [ 36 ] In the November 1987 edition of the Konami Software Club monthly newsletter, the Konami SCC was officially revealed as Konami's Large Scale Integration Sound Creative Chip. [ 37 ] Fifteen releases went on to use the SCC chip for some MSX releases between 1987 and 1989, including Nemesis 2 , F-1 Spirit, The Way to Formula 1 , Salamander , Parodius , King's Valley II , Contra , Nemesis 3: The Eve of Destruction , Metal Gear 2: Solid Snake , Space Manbow and Quarth . [ 31 ] [ 33 ] [ 38 ]
+
+Games
+[ edit ]
+
+Several popular video game franchises were established on the MSX:
+
+Antarctic Adventure and Penguin Adventure
+
+Aleste and Zanac (the latter developed and released alongside the original FDS version)
+
+Bomberman
+
+Eggerland
+
+Metal Gear
+
+Parodius
+
+Puyo Puyo (released alongside the FDS version)
+
+Others received various installments on the MSX, including several titles unique to the system or largely reworked versions of games on other formats:
+
+Castlevania (known as Vampire Killer in Europe)
+
+Contra
+
+Dragon Quest
+
+Dragon Slayer
+
+Final Fantasy
+
+Gradius ( Nemesis )
+
+R-Type
+
+Wizardry
+
+Xak
+
+Xevious: Fardraut Saga
+
+Manufacturers
+[ edit ]
+The Yashica YC-64 computer at the Computer and Video Game Console Museum of Helsinki in 2012 MSX Spectravideo , Philips , Al Alamiah, Sony , Sanyo , Mitsubishi , Toshiba , Hitachi , National / Panasonic , Canon , Casio , Pioneer , Fujitsu General , Yamaha , JVC , Yashica- Kyocera , GoldStar , Samsung /Fenner, Daewoo/Yeno , Gradiente , Sharp /Epcom, Talent/Telemática, Vestel . MSX2 Philips , Sony , Sanyo , Mitsubishi , Victor (a.k.a. JVC ), Toshiba , National / Panasonic , Canon , Yamaha , ACVS/CIEL*, DDX*, Daewoo/Yeno , NTT , Talent, AGE Labs , Talent/Telemática. MSX2+ Sony , Sanyo , Panasonic , ACVS/CIEL*, DDX*. MSX TurboR Panasonic .
+* Clones or unlicensed equipment.
+
+Legacy
+[ edit ]
+
+2001
+[ edit ]
+1chipMSX
+In 2001, Kazuhiko Nishi initiated an MSX revival around an official MSX emulator called MSXPLAYer. This is the only official MSX emulator as all MSX copyrights are maintained by the MSX Association. In 2004, a Dutch company Bazix announced they had become the representatives of MSX Association in Europe , being the English contact for any questions regarding the MSX trademarks, copyrights, and licensing. On October 17, 2006, Bazix launched WOOMB.Net, a website selling MSX games in English and other languages, with a selection of 14 games. In Japan, game sales began earlier, through Project EGG. WOOMB.Net was the English counterpart of this and other Japanese services offered by D4 Enterprise , which also announced in August 2006 the launch of a new MSX2 compatible system called the " one chip-MSX ", a system based on an Altera Cyclone EP1C12Q240C8 FPGA . [ 39 ] The one chip-MSX" is similar in concept to the C-One , a Commodore 64 clone also built on the basis of a single FPGA chip. The new MSX system is housed in a box made out of transparent blue plastic, and can be used with a standard monitor (or TV) and a PC keyboard. It has two MSX cartridge slots and supports the audio extensions MSX-MUSIC and SCC+. A SD/MMC-flashcard can be used as an external storage medium, emulating a disk drive and can be used to boot MSX-DOS . Due to its VHDL programmable hardware, it is possible to give the device new hardware extensions simply by running a reconfiguration program under MSX-DOS. The "one chip-MSX" also has two USB connectors that can be used after adding some supporting VHDL code.
+
+2011
+[ edit ]
+Assembled GR8BIT kit
+In 2011, AGE Labs announced [ 40 ] GR8BIT, a do-it-yourself kit for building an MSX computer. The kit, licensed by the MSX Licensing Corporation, is targeted to those wanting to learn about computer hardware. It includes all the necessary components to assemble a working MSX2-compatible computer except for an ATX chassis, power supply, floppy drive, hard disk, PS/2 keyboard, and monitor.
+
+2014
+[ edit ]
+SymbOS , an alternative operating system Phillips Music Module
+Some of the Korean forum members who made Zemmix Neo created a new MSX-compatible called Mini IQ3000 Cutie, which has similar features to Daewoo Electronics' Korean-made MSX2 model, the IQ-2000. It is based on 1ChipMSX but has some special features like "Scan Line Generator", which improves the quality of the video display, and "Multi Language Support" that allows it to support two languages. By default, the machine operates using the Korean version of MSX displaying the Korean font, but if the "del" key is pressed during booting it will operate in Japanese mode. Even though the default mode is Korean, the default font allocation table is Japanese, and will show Japanese characters when executing Japanese version software programs. [ 41 ]
+
+2019
+[ edit ]
+MSX Philips VG8020
+In 2019, a group of fans developed the MSX Mini Replica. [ 42 ] It is a 1:2 scale reproduction of the Philips VG-8020 computer compatible with the software of the MSX, MSX2, MSX2+, and TurboR generations. It incorporates 2 USB ports, an HDMI video output and internally uses the same hardware as the C64 Mini . Connecting an additional peripheral called MSX Player allows it to run original games on ROM cartridges.
+
+2020
+[ edit ]
+
+The MSXVR [ 43 ] is a computer released in 2020 and compatible with the MSX family of computers. Like the latest Zemmix game consoles, it is also based on a Raspberry Pi card with additional circuitry to connect the original MSX peripherals.
+
+2023
+[ edit ]
+
+In 2022, Nishi announced an official revival of the MSX computer standard dubbed the MSX3, to be implemented in multiple configurations, including an upgrade cartridge to existing MSX computers. Later, in 2023 following a successful crowdfunding campaign, an IoT device resembling a Game Boy with a keyboard, the MSX0, was revealed, intended for IoT uses, alongside the base MSX3 unit. Plans also call for a supercomputer, the MSX Turbo X 128, based around the concept of clusters. [ 44 ] The project was halted following Nishi's bankruptcy. [ 45 ] [ 46 ]
+
+System specifications
+[ edit ]
+
+MSX [ 47 ] MSX2 MSX2+ MSX TurboR
+
+Release Worldwide (1983) Worldwide (1985) Only officially in Japan (1988)
+
+(available in Europe and Brazil via upgrades) Only Japan (1990)
+
+Processor Zilog Z80 A running at 3.58 MHz Zilog Z80A running at 3.58 MHz
+
+(the HC-90 and HC-95 models from JVC have a 6.144 MHz HD64180 CPU, but this is not part of the standard) Zilog Z80-compatible running at 3.58 MHz
+
+(the MSX2+ models from Panasonic can be set to run on 5.37 MHz by software, but this is not part of the standard)
+R800 running at 7.16 MHz (instructions use about 4× less clock ticks than the Z80, so often quoted as 28.6 MHz when comparing with the Z80)
+
+Zilog Z80A-compatible (embedded in the T9769C MSX-Engine ) running at 3.58 MHz for backward compatibility
+
+ROM 32 KB 48 KB 64 KB 96 KB
+
+BIOS (16 KB)
+
+MSX BASIC V1.0 (16 KB)
+
+BIOS + Extended BIOS (32 KB)
+
+MSX BASIC V2.0 or V2.1 (16 KB)
+
+DiskROM (16 KB) (optional, common)
+
+MSX-Audio BIOS (32 KB) (optional, no machines are known with this BIOS built in)
+
+BIOS + extended BIOS (32 KB)
+
+MSX BASIC V3.0 (16 KB)
+
+DiskROM (16 KB) (optional, very common)
+
+Kun-BASIC (16 KB) (optional)
+
+Kanji ROM (optional)
+
+BIOS + Extended BIOS (48 KB)
+
+MSX BASIC V4.0 (16 KB)
+
+DiskROM (16 KB)
+
+Kun-BASIC (16 KB)
+
+Kanji ROM (256 KB)
+
+Firmware (4 MB)
+
+RAM 8 KB minimum, most machines provided either 32 or 64 KB; machines with 128 KB exist 64 KB minimum, commonly 128 KB in Europe, 64 KB on Japanese computers, machines with up to 512 KB were made. Normally memory mapped (4 MB per slot maximum, 48 MB max total) Commonly 64 KB (on Japanese computers), normally memory mapped (4 MB per slot maximum, 48 MB max total) 256 KB (FS-A1ST) or 512 KB (FS-A1GT)
+Memory-mapped (4 MB/slot max, 44 MB max total)
+
+Additionally 16 KB (FS-A1ST) or 32 KB (FS-A1GT) of SRAM (battery-powered)
+
+Video display processor Texas Instruments TMS9918 family
+Video RAM: 16 KB
+
+Text modes: 40×24 and 32×24
+
+Resolution: 256×192 or 64x48 (16 colours). In reality, there are just 15 colour tints available, because, just like the ZX Spectrum there are two codes for black. Unlike the Spectrum, however, one of the blacks is actually " transparent ", so the MSX video picture could be overlaid on another video signal, for example one from a video disk .
+
+Sprites: 32 sprites with 8x8 or 16x16 resolution, 1 colour, max 4 per horizontal line
+Yamaha V9938 (a.k.a. MSX-Video) Supports all MSX video modes
+Increased video RAM: 128 KB (sometimes 64 KB)
+
+New text mode: 80×24 or 80x26.5
+
+New bitmapped video modes without the attribute clash of MSX1, with modes for 4, 16 or 256 simultaneous colors
+
+New resolutions: 256x212p, 512x212p, 256x424i and 512x424i
+
+Increased number of, and more advanced sprites: 32 sprites with 8x8 or 16x16 resolution, max 8 per horizontal line. Each sprite line can have 1 or 3 different colors.
+
+Hardware acceleration for copy, line, fill, etc.
+
+Interlacing to double vertical resolution
+
+A full-screen vertical scroll register
+
+Vertical and horizontal display offset register
+Yamaha V9958
+The minimal video RAM is now 128 KB. Up to 192 KB is supported.
+
+a new 256×212p or 256x424i YJK video mode with 19268 simultaneous colors
+
+a new 256×212p or 256x424i mixed-YJK/RGB video mode with 12499 simultaneous colors
+
+horizontal scroll register with either full-screen or dual-page support
+Yamaha V9958 (aka MSX-Video), so the same capabilities as MSX2+
+
+Sound chip General Instrument AY-3-8910 (PSG)
+Yamaha YM2149 (PSG)
+
+Optional: Yamaha Y8950 (OPL1) (MSX-Audio)
+
+Yamaha YM2149 (PSG)
+
+Optional: Yamaha Y8950 (OPL1) (MSX-Audio)
+
+Optional: Yamaha YM2413 (OPLL) (MSX-Music)
+
+Yamaha YM2149 (PSG)
+
+Yamaha YM2413 (OPLL) (MSX-Music)
+
+Optional: Yamaha Y8950 (OPL1) (MSX-Audio)
+
+PCM
+8-bit single channel (no DMA), 16 kHz max using BIOS routines
+
+Microphone built-in
+
+(FS-A1GT only): MIDI in/out
+
+Clock chip (Not installed.) Ricoh RP5C01 (or compatible)
+
+Interfaces
+1 cartridge slot (usually 2, up to 16)
+
+1 or 2 General Purpose ports (aka joystick ports)
+
+Optional: Parallel Printer port
+
+1 cartridge slot (usually 2, up to 16)
+
+2 General Purpose ports (aka joystick ports)
+
+Parallel Printer port
+
+Optional: Light pen interface
+
+Optional: Video superimposer
+
+Optional: Video Digitizer
+
+Media
+Standard
+Cartridge
+
+Cassette tape (1200bps or 2400bps)
+
+Floppy disk (diskless models require a floppy controller cartridge)
+
+Mass storage (originally hard disk , later extended to flash drives , requires a controller cartridge)
+
+Proprietary
+Bee Card (requires an adapter cartridge)
+
+Quick Disk (requires a controller cartridge)
+
+Laserdisc (requires a controller cartridge and superimposer)
+
+Peripherals
+[ edit ]
+The effect of attribute clash when using the 256×192 high-resolution mode on MSX-1. To avoid it, the TMS9918 provides up to 32 sprites that can be superimposed over the main graphic screen. MSX2+ computer: a Panasonic FS-A1WSX
+
+Keyboard
+[ edit ]
+
+The keyboard is a functionally separate unit which could be connected by non-multiplexed and multiplexed interfaces. Multiplexed keyboard units feature additional data direction line, allowing sending scan line number to the keyboard using same data lines used for return scan code, decreasing overall number of wires between keyboard and machine. Non-multiplexed interface is usually used for internal keyboards (and some external keyboards, like Panasonic CF-3300); multiplexed interface is used for external keyboards (e.g. in Yamaha YIS805 model).
+
+The keyboard is organized as a matrix with maximum 11 input lines and 8 output lines, accounting for maximum 88 keys (including all control, numerical and alphanumerical keys). Each scan line is regularly queried to identify the state of the keys on the line; query speed is identified by the system interrupt frequency. Such organization allows system to sense state of each key, not exhibiting notorious problem with 8042 microcontroller -based keyboards when pressing several keys simultaneously (usually more than 3) generates wrong input characters, or renders inability to sense the press of more keys.
+
+Due to the keyboard scan being controlled by the system interrupts, one of the troubleshooting hints when an MSX machine does not display any image (assuming power is present) is to press the CAPS key to see if the respective LED toggles. If it does not toggle, the system is likely suffering a more serious problem than just lack of image on the screen (i.e. the problem with video cable or video display interface in overall).
+
+In 2009, Kamil Karimov designed the adapter board [ 48 ] to connect a PS/2 keyboard to the multiplexed MSX keyboard interface. The firmware embedded into its ATTiny chip was tailored for Daewoo CPC machines.
+
+In 2011, AGE Labs embedded a PS/2 keyboard controller unit, based on Microchip microcontroller, into its GR8BIT do-it-yourself machine. Its firmware is developed to directly convert PS/2 scan codes to the MSX keyboard scan codes. Thus it is fully transparent to the applications, allowing use of the controller unit with different MSX-compatible machines and for different localization setups. [ 30 ]
+
+Cartridges
+[ edit ]
+
+MSX standard requires at least 1 cartridge slot, most MSX models have 2. These slots [ 49 ] are interchangeable, so in most cases it makes no difference in which slot a cartridge is inserted. The physical connector is a 50 pin (2 × 25 contacts), standard 2.54 mm (0.1 inch) pitch edge connector . Using these cartridge slots, a wide variety of peripherals could be connected.
+
+Regular game cartridges are about the size of an audio cassette (so-called "Konami size"). Despite their higher cost, this was a popular format due to its reliability and ease of use.
+
+Around 1985, Hudson Soft released the credit card-sized Bee Card , which was meant as a cheaper and more convenient alternative to ROM cartridges. But it was a commercial failure, and very few titles were released on the format.
+
+Source files [ 50 ] for development of the MSX cartridges are available from AGE Labs for EAGLE .
+
+Floppy disk drives
+[ edit ]
+
+Early MSX models did not have a built-in disk drive, so software were initially published on cartridge and cassette tape. [ 15 ]
+
+Mitsumi QuickDisks were originally launched as a proprietary extension for the MSX in early 1984, [ 51 ] but they never really caught on, as they were quickly surpassed by the standard floppy disk interface released a few months later. Only a handful of titles were released in this format.
+
+Sony also created a battery backed RAM cartridge the HBI-55 "data cartridge" in 1984 for some computers in their "Hit-Bit" line of MSX systems, that could be used to store programs or data as an alternative to cassette tapes. [ 52 ] Many Yamaha Music software are also compatible with this cartridge.
+
+Traditional floppy disk drives were made available for MSX in 1984, either built-in or in the form of a cartridge containing the disk interface electronics and a BIOS extension ROM (the floppy disk drive interface), connected to an external case with the drive. In South America, many of these systems used a 5.25 in (133 mm) floppy disk drive, but in Europe, 3.5 in (89 mm) drives were more popular. In Japan, some MSX1 systems included a built-in 3.5-inch disk drive, like the Panasonic (previously named National) CF-3300. In Europe, a range of Philips MSX2 systems NMS 8230, 8235, 8245, NMS-8250 and above featured either 360 or 720 KB 3.5-inch floppy drives.
+
+In 1985, the MSX2 was released, and these systems often (but not always) also included a built-in 3.5-inch disk drive. Consequently, the popular media for games and other software shifted to floppy disks.
+
+The MSX-DOS disk operating system had binary compatibility with CP/M , but used the same FAT file system as MS-DOS . Its user commands were also similar to early MS-DOS versions. In this way, Microsoft could promote MSX for home use while promoting MS-DOS based personal computers in office environments. [ 53 ]
+
+The MSX 3.5-inch floppy disks are directly compatible with MS-DOS (although some details like file undeletion and boot sector code were different). Like MS-DOS 1, MSX disks (formatted) under MSX-DOS 1 have no support for subdirectories . [ 54 ]
+
+In September 2012, AGE Labs extended the standard by including support for the 1.44MB 3.5-inch format. The 1.44MB diskette size goes in two configurations: Standard (1 sector per cluster, 9 FAT sectors), and Compatible (4 sectors per cluster, 3 FAT sectors). [ 55 ]
+
+MSX-Audio
+[ edit ]
+
+Yamaha Y8950 , commercially released as:
+Panasonic: MSX-Audio FS-CA1 (32 KB of SampleRAM, 32 KB of AudioROM)
+
+Philips: Music Module NMS-1205 (32 KB of SampleRAM, no MSX-Audio BIOS)
+
+Toshiba: MSX FM-synthesizer Unit HX-MU900 (no sample RAM, no MSX-Audio BIOS)
+
+9 channels FM or 6 channels FM + 5 drums. YM3526 compatible.
+
+ADPCM record and play, with Hardware acceleration
+
+Can be upgraded to 256 KB of SampleRAM
+
+MSX-Music
+[ edit ]
+
+Yamaha YM2413 (OPLL) , also known as:
+MSX-Music (standard name)
+
+Panasonic : FM-PAC
+
+Zemina : Music Box
+
+Checkmark: FM-Stereo-Pak
+
+DDX: FMX
+
+Tecnobytes: FM Sound Stereo (contains the compatible U3567 chip)
+
+9 channels FM or 6 channels FM + 5 drums
+
+15 pre-set instruments, 1 custom
+
+Built-in on most MSX2+ and as standard on MSX TurboR computers
+
+Emulation
+[ edit ]
+
+Main article: List of MSX emulators
+
+MSX computers are emulated on many platforms today. Early MSX emulators were often based on the code of the pioneer fMSX , a portable MSX emulator by Marat Fayzullin. Many emulators removed Fayzullin's Z80 emulation code entirely in later versions to avoid legal problems, as at the time fMSX was not free software . Somewhat later fMSX source code became free for non-profit use; however a license was still required for commercial use. On December 31, 2013, the Windows version of fMSX 3.7 was released, free for anyone to use. [ 56 ]
+
+The official MSX emulator MSXPLAYer (in Japanese) is produced by the MSX Association, of which the inventor of the MSX standard, Kazuhiko Nishi , is the president.
+
+As of version 0.146.u, MESS currently supports 90% of all MSX versions.
+
+Virtual Console
+[ edit ]
+
+In February 2007, Nintendo of Japan announced that MSX games will be available for the Wii 's Virtual Console emulator. It was confirmed that the games would cost 700 Wii Points and will become available from the middle of 2007. It also became available for the Wii U on December 25, 2013. Ultimately 13 games, mainly Konami titles, for the Wii, plus one for the Wii U, were released for the service in Japan only.
+
+List of MSX emulators
+[ edit ]
+
+Name Current version Date System Platform License Website
+
+blueMSX 2.8.2 August 14, 2009 MSX, MSX2, MSX2+, MSX TurboR, SpectraVideo SVI318/328, ColecoVision, Sega SG-1000 Windows GPL [ 57 ]
+
+openMSX 20.0 September 22, 2024 MSX, MSX2, MSX2+, MSX TurboR, SpectraVideo SVI318/328, ColecoVision, Sega SG-1000 Multiplatform GPL [ 58 ]
+
+Clock Signal 2022-11-25 November 11, 2022 Diverse computers and consoles; MSX 1 only. macOS Open source [ 59 ]
+
+CocoaMSX 3.5.41 October 23, 2013 MSX, MSX2, MSX2+, MSX TurboR macOS GPL [ 60 ]
+
+fMSX 6.0 February 24, 2021 MSX, MSX2, MSX2+ Multiplatform Commercial [ 61 ]
+
+fMSX PSP 3.5.41 March 17, 2010 MSX, MSX2, MSX2+ Sony PSP Open source [ 62 ]
+
+jsMSX 0.9.2 April 19, 2013 MSX JavaScript GPL [ 63 ]
+
+MAME 0.251 December 31, 2022 Diverse computers and consoles Multiplatform GPL [ 64 ]
+
+meisei 1.3.1 February 9, 2010 MSX Windows Open source [ 65 ]
+
+MSKISS 0.2.4 March 13, 2000 MSX, MSX2, MSX2+ MS-DOS , Windows Freeware [ 66 ]
+
+MSX Emulator 0.10b October 26, 2006 MSX Atari ST Freeware [ 67 ] [ 68 ]
+
+MSX Emulator 1.8 August 16, 2010 MSX, MSX2 UNIX GPL [ 69 ] [ 70 ]
+
+msxDS 0.93 January 1, 2012 MSX, MSX2, MSX2+ Nintendo DS Freeware [ 71 ]
+
+NLMSX 0.48 June 12, 2003 MSX, MSX2, MSX2+, MSX TurboR Windows Freeware [ 72 ]
+
+NO$MSX 1.5 May 1, 2003 MSX, MSX2 Windows , MS-DOS Shareware [ 73 ]
+
+paraMSX 0.50b October 8, 2009 MSX, MSX2, MSX2+, MSX TurboR Windows Freeware
+
+RuMSX 0.84 July 13, 2022 MSX, MSX2, MSX2+, MSX TurboR Windows Freeware [ 74 ]
+
+WebMSX 6.0.3 June 2, 2020 MSX, MSX2, MSX2+, MSX turbo R JavaScript ?
+
+Source
+
+on GitHub [ 75 ] [ 76 ]
+
+See also
+[ edit ]
+
+MSX character sets
+
+List of MSX games
+
+List of MSX computers
+
+History of computing hardware
+
+Moonsound
+
+References
+[ edit ]
+
+↑ Laing, Gordon (2004). Digital Retro: The Evolution and Design of the Personal Computer . Ilex Press. ISBN 9781904705390 – via Google Books .
+
+↑ "ASCII Express: 新しいホームパーソナルコンピュータ仕様 MSX". ASCII (in Japanese). 7 (8). ASCII . 1983. ISSN 0287-9506 .
+
+↑ Wood, Robert (1983). "Japanese Seek to Dominate Home Market" . InfoWorld . 5 (49): 158. Archived from the original on April 7, 2022 . Retrieved September 16, 2019 – via Google Books .
+
+↑ "MSX: The Japanese Are Coming! the Japanese Are Coming!" . The Register . June 27, 2013. Archived from the original on January 12, 2020 . Retrieved November 17, 2018 .
+
+↑ "Kazuhiko Nishi" . eNotes.com .
+
+↑ "The First MSX" . ascii.jp . Archived from the original on October 25, 2022.
+
+↑ "8ビットパソコン資料倉庫 -1984年度の各社パソコンの出荷台数・シェア-" . 8ビットパソコン資料倉庫 -1984年度の各社パソコンの出荷台数・シェア- (in Japanese) . Retrieved August 14, 2026 .
+
+↑ Loguidice, Bill (April 14, 2017). "The Bright Life of the MSX, Japan's Underdog PC" . PC Gamer . Archived from the original on November 27, 2021 . Retrieved November 27, 2021 .
+
+↑ "【伝説のパソコンMSX】仕掛け人がついに明かす「失敗の本質」" . ダイヤモンド・オンライン (in Japanese). December 26, 2020. Archived from the original on July 19, 2023 . Retrieved May 25, 2023 .
+
+↑ Root, Howard; Williams, Brian (August 1984). "Faceoff: Will MSX Be a Success in the United States" . Creative Computing . Vol. 10, no. 8. p. 198. Archived from the original on February 7, 2019 . Retrieved August 25, 2011 .
+
+↑ Nishi, Kazuhiko (April 21, 2001). MSX Fair Tilburg 2001 – by Totally Chaos (video). Event occurs at 14:40. Archived from the original on December 11, 2021 . Retrieved February 1, 2019 .
+
+↑ Watt, Peggy (February 4, 1985). "Japan's MSX Poised for the US" . InfoWorld . Vol. 7, no. 5. InfoWorld Media Group, Inc. pp. 19– 20. Archived from the original on April 7, 2022 . Retrieved October 3, 2020 – via Google Books .
+
+1 2 Nishi, Kazuhiko (December 5, 2020). "ついに明かされる！ 伝説のパソコン「MSX」誕生の驚くべき"舞台裏" " . Diamond Online (in Japanese). Archived from the original on January 21, 2021 . Retrieved February 22, 2021 .
+
+↑ "Kojima Productions" . Konami.jp . Archived from the original on October 26, 2007 . Retrieved June 22, 2011 .
+
+1 2 Dvorak, John C. (November 28, 2006). "Whatever Happened to MSX Computers?" . Dvorak Uncensored . Archived from the original on December 18, 2008 . Retrieved June 22, 2011 .
+
+1 2 Sekiguchi, Waichi (2000). パソコン革命の旗手たち (in Japanese). Nihon Keizai Shimbun . pp. 186– 190. ISBN 4-532-16331-5 .
+
+↑ "The History of Spectravideo" . Samdal.com . Archived from the original on January 22, 2013 . Retrieved December 20, 2012 .
+
+↑ Dvorak, John C. (January 7–14, 1985). "MSX: The Pong of the 1980s". InfoWorld . 7 ( 1– 2). InfoWorld Media Group: 88. ISSN 0199-6649 .
+
+↑ "The Toshiba MSX (HX-10) 64K" . RetroVideoGameSystems.com . September 8, 2010. Archived from the original on September 9, 2011 . Retrieved August 25, 2011 .
+
+↑ "MSX2" . Old-Computers.com : The Museum . Archived from the original on September 4, 2014 . Retrieved September 2, 2014 .
+
+↑ MSX-FAN Magazine (February 1995 issue, p. 90)
+
+↑ Forbes, Jim (February 10, 1986). "Microsoft Files With SEC for Spring Stock Offering" . InfoWorld . Vol. 8, no. 6. p. 6. Archived from the original on March 20, 2022 . Retrieved October 29, 2021 .
+
+1 2 Pollack, Andrew (August 24, 1992). "Computer Pioneer's Moment of Truth" . The New York Times .
+
+↑ "Distance education in the Cuban context" . July 22, 2012. {{ cite web }} : CS1 maint: deprecated archival service ( link )
+
+↑ Steil, Michael (February 1, 2011). "How many Commodore 64 computers were really sold?" . Pagetable.com . Archived from the original on March 6, 2016 . Retrieved March 18, 2017 .
+
+↑ Reimer, Jeremy. "Personal Computer Market Share: 1975–2004" . Archived from the original on June 6, 2012 . Retrieved July 17, 2009 .
+
+↑ "5 to 6 million Apple IIs sold" . Mac Daily News . June 5, 2007. Archived from the original on June 7, 2007 . Retrieved June 22, 2011 .
+
+↑ "MSX IN SPAAAACCCEE" . msx.gnu-linux.net . Archived from the original on August 4, 2020 . Retrieved August 25, 2011 .
+
+↑ "8kB RAM Adapter" . segaretro.org . Retrieved January 30, 2026 .
+
+1 2 Brychkov, Eugeny (2012). KB0004: Using GR8BIT Language Pack and PS2 Keyboard (PDF) . AGE Labs. Archived (PDF) from the original on September 21, 2013 . Retrieved December 21, 2016 .
+
+1 2 3 4 Gdx. "Konami 051649" . MSX Resource Center . Retrieved September 28, 2025 .
+
+1 2 3 Uehara, Kazuhiko (2005). "SCC上原和彦氏 インタビュー" . MSX Magazine (in Japanese). ASCII Corporation . pp. 155– 157 . Retrieved September 27, 2025 . Original interview published in Japanese: Part 1: imgur.com/wY4ouOt, Part 2: imgur.com/9j1uMm5, Part 3: imgur.com/eIneYXp. English translation: tumblr.com/thearkhound/185434872193/kazuhiko-uehara-interview-with-msx-magazine-2005
+
+1 2 3 Badra, Eli (September 2020). Surrender to the Flow: Psychedelia in Videogame Music (PDF) . Vol. NACVGM 2020. The Unofficial Convention Archive. pp. 12– 13.
+
+↑ "Profile of Directors" . Konami . Retrieved September 28, 2025 .
+
+↑ "SCC" . MSX Blue . Retrieved September 27, 2025 .
+
+↑ Yamashita, Akira (September 1988). コナミMSXゲームの秘密をさぐる . Micom BASIC Magazine. Vol. September 1988. Micom . pp. 278– 281 . Retrieved September 29, 2025 . English translation: tumblr.com/thearkhound/187958078198/exploring-the-secret-behind-konamis-msx-games
+
+↑ Konami Software Club November 1987 Monthly Newsletter Issue No. 4 (PDF) . Vol. 4. Konami . November 1987. p. 1 . Retrieved September 28, 2025 .
+
+↑ Kalata, Kurt (September 11, 2017). "Space Manbow (スペースマンボウ) - MSX2, Mobile phone, Wii Virtual Console, Wii U Virtual Console (1989)" . Hardcore Gaming 101 . Retrieved September 28, 2025 .
+
+↑ MSX Resource Center. "One Chip MSX MKII" . Msx.org. Archived from the original on April 15, 2012 . Retrieved June 22, 2011 .
+
+↑ "The birth of a GR8BIT – The do it yourself MSX 2" . MSX Resource Center . January 18, 2012. Archived from the original on July 19, 2013 . Retrieved April 13, 2013 .
+
+↑ Center, MSX Resource. "Mini IQ3000 (Temporarily name for small project) – MSX Resource Center (페이지 1/9)" . www.msx.org . Archived from the original on August 4, 2020 . Retrieved December 21, 2016 .
+
+↑ "The MSX Mini Replica ya disponible, Crónicas de Lars XXVIII | Retroinvaders" . retroinvaders.com . Archived from the original on January 21, 2021 . Retrieved May 12, 2025 .
+
+↑ "Juega aprende y programa" . MSXVR (in Spanish) . Retrieved May 12, 2025 .
+
+↑ "MSX Co-Creator Kazuhiko Nishi Reveals "Every MSX Can Be An MSX3" " . www.timeextension.com . January 30, 2023. Archived from the original on September 24, 2023 . Retrieved September 11, 2023 .
+
+↑ @nishikazuhiko (April 23, 2025). "西和彦破産手続き終了のご報告。" . X (formerly Twitter) .
+
+↑ "MSX Co-Creator Aims to Devote Life to Education, Following End of Bankruptcy Proceedings" . April 25, 2025.
+
+↑ "Portar MSX Tech Doc" . problemkaputt.de . Archived from the original on January 2, 2015 . Retrieved January 2, 2015 .
+
+↑ Karimov, Kamil (February 14, 2010). "Контроллер PS/2 клавиатуры для MSX (Russian)" . MSX Resource Center. Archived from the original on December 22, 2016 . Retrieved September 20, 2013 .
+
+↑ "2 standard MSX cartridge slots" . Archived from the original on April 26, 2012.
+
+↑ "MSX breadboard schematic, board and library" . AGE Labs . Archived from the original on December 1, 2013 . Retrieved June 23, 2013 .
+
+↑ Category:QuickDisk BASIC - MSX Wiki Archived February 23, 2023, at the Wayback Machine Mitsumi QuickDisk BASIC Copyright screen
+
+↑ picture of HBI-55 data cartridge Archived 2013-10-29 at the Wayback Machine
+
+↑ "MSX Technical Data Book" . May 12, 1984 – via Internet Archive.
+
+↑ "MSX-DOS 2 section" . The Ultimate MSX FAQ . Faq.msxnet.org. Archived from the original on August 12, 2019 . Retrieved June 22, 2011 .
+
+↑ "Storage subsystem v.3.0 Manual" (PDF) . AGE Labs . Archived from the original (PDF) on November 9, 2013 . Retrieved June 23, 2013 .
+
+↑ "fMSX: Portable MSX Emulator" . Fms.komkon.org. December 31, 2013. Archived from the original on March 1, 2012 . Retrieved March 31, 2014 .
+
+↑ "blueMSX World Wide Website" . www.bluemsx.com . Archived from the original on March 12, 2006 . Retrieved May 12, 2025 .
+
+↑ "openMSX » Home" . openmsx.org . Retrieved May 12, 2025 .
+
+↑ Harte, Thomas (May 12, 2025), TomHarte/CLK , retrieved May 12, 2025
+
+↑ CocoaMSX/CocoaMSX , CocoaMSX, August 4, 2024 , retrieved May 12, 2025
+
+↑ "fMSX: Portable MSX Emulator" . fms.komkon.org . Retrieved May 12, 2025 .
+
+↑ "fMSX PSP" . psp.akop.org . Retrieved May 12, 2025 .
+
+↑ Marty, Guillaume C. (September 15, 2020), gmarty/jsMSX , retrieved May 12, 2025
+
+↑ "MAMEdev.org | Home of The MAME Project" . www.mamedev.org . Retrieved May 12, 2025 .
+
+↑ "meisei - Microsoft - MSX Emulators - Zophar's Domain" . www.zophar.net . Retrieved May 12, 2025 .
+
+↑ "Isaac Santaolalla MSX Page (English)" . users.salleurl.edu . Archived from the original on September 1, 2015 . Retrieved May 12, 2025 .
+
+↑ "MSX emulation in GFA-BASIC" . vanheusden.com . Retrieved May 12, 2025 .
+
+↑ "Atari ST software MSX Emulator" . Archived from the original on November 11, 2020 . Retrieved December 11, 2022 .
+
+↑ "MSX emulation in C" . vanheusden.com . Retrieved May 12, 2025 .
+
+↑ "MSX emulator" . Archived from the original on October 23, 2019 . Retrieved December 11, 2022 .
+
+↑ "msxDS Homepage" . www.alternate-fmsxds.webs.com . Archived from the original on January 1, 2010 . Retrieved May 12, 2025 .
+
+↑ "NLMSX - MSX Emulator" . nlmsx.generation-msx.nl . Retrieved May 12, 2025 .
+
+↑ "NO$MSX" . problemkaputt.de . Retrieved May 12, 2025 .
+
+↑ "LexLechz.at Software" . www.lexlechz.at . Retrieved June 22, 2026 .
+
+↑ "WebMSX - The online MSX emulator" . webmsx.org . Retrieved May 12, 2025 .
+
+↑ ppeccin (May 12, 2025), ppeccin/WebMSX , retrieved May 12, 2025
+
+External links
+[ edit ]
+
+Wikimedia Commons has media related to MSX .
+
+The MSX Resource Center
+
+The MSX Files
+
+SCROLL Issue 12: Introducing MSX
+
+MsxToday – Community dedicated to MSX standard computers.
+
+MSX.bas – Website dedicated to preserve and make available software written in MSX BASIC.
+
+Retrieved from " https://en.wikipedia.org/w/index.php?title=MSX&oldid=1379453314 "
+
+Categories :
+MSX
+
+Computer-related introductions in 1983
+
+Home computers
+
+Z80-based home computers
+
+Hidden categories:
+Articles with short description
+
+Short description is different from Wikidata
+
+Use mdy dates from August 2021
+
+CS1 Japanese-language sources (ja)
+
+All articles with unsourced statements
+
+Articles with unsourced statements from November 2009
+
+Articles containing Arabic-language text
+
+CS1 maint: deprecated archival service
+
+CS1: long volume value
+
+CS1 Spanish-language sources (es)
+
+Webarchive template wayback links
+
+Articles with Japanese-language sources (ja)
+
+Commons category link from Wikidata
+
+Search
+
+MSX
+
+31 languages Add topic

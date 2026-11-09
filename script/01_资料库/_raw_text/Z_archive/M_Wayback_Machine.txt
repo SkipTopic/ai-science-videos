@@ -1,0 +1,41 @@
+SOURCE: Wayback Machine.mhtml（本地 mhtml，用户手动从 Wayback Machine 保存）
+TITLE: Wayback Machine
+ENCODING: utf-8 (jp_ratio=0.00)
+============================================================
+
+[IMG:Wayback Machine]
+
+955 captures
+2 Feb 1997 - 1 Jun 2023
+
+Oct
+
+Dec
+
+Jan
+
+16
+
+1999
+
+2000
+
+2002
+
+success
+
+fail
+
+About this capture
+
+COLLECTED BY
+
+Organization: Alexa Crawls
+
+Collection: Alexa Crawl ARC
+
+TIMESTAMPS
+
+[IMG:loading]
+
+The Wayback Machine - https://web.archive.org/web/20001216092600/http://www.ascii.co.jp:80/

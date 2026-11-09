@@ -1,0 +1,2702 @@
+{
+  "source": "..\\..\\交接文档\\rpgmaker解说\\02_文案\\解说文案_全片_v5.md",
+  "chapters": [
+    {
+      "id": "00",
+      "title": "序章 · 小鲸鱼",
+      "start": 0,
+      "end": 105,
+      "blocks": [
+        {
+          "index": 0,
+          "start": 0,
+          "end": 6,
+          "narration": [
+            "00-01"
+          ]
+        },
+        {
+          "index": 1,
+          "start": 6,
+          "end": 10,
+          "narration": [
+            "00-02"
+          ]
+        },
+        {
+          "index": 2,
+          "start": 10,
+          "end": 14,
+          "narration": [
+            "00-03"
+          ]
+        },
+        {
+          "index": 3,
+          "start": 14,
+          "end": 20,
+          "narration": [
+            "00-04"
+          ]
+        },
+        {
+          "index": 4,
+          "start": 20,
+          "end": 24,
+          "narration": [
+            "00-05"
+          ]
+        },
+        {
+          "index": 5,
+          "start": 24,
+          "end": 30,
+          "narration": [
+            "00-06"
+          ]
+        },
+        {
+          "index": 6,
+          "start": 30,
+          "end": 34,
+          "narration": [
+            "00-07"
+          ]
+        },
+        {
+          "index": 7,
+          "start": 34,
+          "end": 40,
+          "narration": [
+            "00-08"
+          ]
+        },
+        {
+          "index": 8,
+          "start": 40,
+          "end": 52,
+          "narration": []
+        },
+        {
+          "index": 9,
+          "start": 52,
+          "end": 65,
+          "narration": [
+            "00-09"
+          ]
+        },
+        {
+          "index": 10,
+          "start": 65,
+          "end": 70,
+          "narration": [
+            "00-10"
+          ]
+        },
+        {
+          "index": 11,
+          "start": 70,
+          "end": 84,
+          "narration": [
+            "00-11",
+            "00-12",
+            "00-13"
+          ]
+        },
+        {
+          "index": 12,
+          "start": 84,
+          "end": 105,
+          "narration": [
+            "00-14",
+            "00-15",
+            "00-16",
+            "00-17"
+          ]
+        }
+      ],
+      "lines": [
+        {
+          "id": "00-01",
+          "text": "我在迷宫走着。",
+          "block": 0,
+          "blockStart": 0,
+          "blockEnd": 6
+        },
+        {
+          "id": "00-02",
+          "text": "遇到了小鲸鱼。",
+          "block": 1,
+          "blockStart": 6,
+          "blockEnd": 10
+        },
+        {
+          "id": "00-03",
+          "text": "我对小鲸鱼使用了攻击。",
+          "block": 2,
+          "blockStart": 10,
+          "blockEnd": 14
+        },
+        {
+          "id": "00-04",
+          "text": "小鲸鱼受到了 5 点伤害。",
+          "block": 3,
+          "blockStart": 14,
+          "blockEnd": 20
+        },
+        {
+          "id": "00-05",
+          "text": "小鲸鱼对我使用了拳击。",
+          "block": 4,
+          "blockStart": 20,
+          "blockEnd": 24
+        },
+        {
+          "id": "00-06",
+          "text": "我受到了 999 点伤害。",
+          "block": 5,
+          "blockStart": 24,
+          "blockEnd": 30
+        },
+        {
+          "id": "00-07",
+          "text": "我死了。",
+          "block": 6,
+          "blockStart": 30,
+          "blockEnd": 34
+        },
+        {
+          "id": "00-08",
+          "text": "小鲸鱼太厉害了。",
+          "block": 7,
+          "blockStart": 34,
+          "blockEnd": 40
+        },
+        {
+          "id": "00-09",
+          "text": "刚刚你看到的，是我用 RPG Maker 做的游戏。",
+          "block": 9,
+          "blockStart": 52,
+          "blockEnd": 65
+        },
+        {
+          "id": "00-10",
+          "text": "全程，没有写一行代码。",
+          "block": 10,
+          "blockStart": 65,
+          "blockEnd": 70
+        },
+        {
+          "id": "00-11",
+          "text": "这不是奇迹。",
+          "block": 11,
+          "blockStart": 70,
+          "blockEnd": 84
+        },
+        {
+          "id": "00-12",
+          "text": "这是一个 1977 年成立的公司，在 1988 年的一本杂志附录里，塞进去的一个小程序。",
+          "block": 11,
+          "blockStart": 70,
+          "blockEnd": 84
+        },
+        {
+          "id": "00-13",
+          "text": "它花了三十八年，长成今天这个样子。",
+          "block": 11,
+          "blockStart": 70,
+          "blockEnd": 84
+        },
+        {
+          "id": "00-14",
+          "text": "全世界有几百万个这样的游戏。",
+          "block": 12,
+          "blockStart": 84,
+          "blockEnd": 105
+        },
+        {
+          "id": "00-15",
+          "text": "它们大多没有做完。",
+          "block": 12,
+          "blockStart": 84,
+          "blockEnd": 105
+        },
+        {
+          "id": "00-16",
+          "text": "但它们都从同一件事开始——",
+          "block": 12,
+          "blockStart": 84,
+          "blockEnd": 105
+        },
+        {
+          "id": "00-17",
+          "text": "一个人，想让另一个世界存在。",
+          "block": 12,
+          "blockStart": 84,
+          "blockEnd": 105
+        }
+      ]
+    },
+    {
+      "id": "01",
+      "title": "出生 · 300 万日元和一本杂志",
+      "start": 105,
+      "end": 290,
+      "blocks": [
+        {
+          "index": 0,
+          "start": 105,
+          "end": 125,
+          "narration": [
+            "01-01",
+            "01-02"
+          ]
+        },
+        {
+          "index": 1,
+          "start": 125,
+          "end": 140,
+          "narration": [
+            "01-03",
+            "01-04"
+          ]
+        },
+        {
+          "index": 2,
+          "start": 140,
+          "end": 165,
+          "narration": [
+            "01-05",
+            "01-06",
+            "01-07"
+          ]
+        },
+        {
+          "index": 3,
+          "start": 165,
+          "end": 185,
+          "narration": [
+            "01-08",
+            "01-09",
+            "01-10",
+            "01-11"
+          ]
+        },
+        {
+          "index": 4,
+          "start": 185,
+          "end": 210,
+          "narration": [
+            "01-12",
+            "01-13",
+            "01-14",
+            "01-15",
+            "01-16"
+          ]
+        },
+        {
+          "index": 5,
+          "start": 210,
+          "end": 240,
+          "narration": [
+            "01-17",
+            "01-18",
+            "01-19",
+            "01-20",
+            "01-21"
+          ]
+        },
+        {
+          "index": 6,
+          "start": 240,
+          "end": 260,
+          "narration": [
+            "01-22",
+            "01-23",
+            "01-24",
+            "01-25"
+          ]
+        },
+        {
+          "index": 7,
+          "start": 260,
+          "end": 275,
+          "narration": [
+            "01-26",
+            "01-27",
+            "01-28",
+            "01-29"
+          ]
+        },
+        {
+          "index": 8,
+          "start": 275,
+          "end": 290,
+          "narration": [
+            "01-30",
+            "01-31",
+            "01-32",
+            "01-33",
+            "01-34",
+            "01-35"
+          ]
+        }
+      ],
+      "lines": [
+        {
+          "id": "01-01",
+          "text": "1977 年 5 月，东京。",
+          "block": 0,
+          "blockStart": 105,
+          "blockEnd": 125
+        },
+        {
+          "id": "01-02",
+          "text": "三个人成立了一家公司，叫 ASCII 出版。",
+          "block": 0,
+          "blockStart": 105,
+          "blockEnd": 125
+        },
+        {
+          "id": "01-03",
+          "text": "启动资金，300 万日元。",
+          "block": 1,
+          "blockStart": 125,
+          "blockEnd": 140
+        },
+        {
+          "id": "01-04",
+          "text": "这笔钱，是西和彦从他父亲那里拿的。",
+          "block": 1,
+          "blockStart": 125,
+          "blockEnd": 140
+        },
+        {
+          "id": "01-05",
+          "text": "他那年 21 岁。早稻田大学理工学部，还没毕业。",
+          "block": 2,
+          "blockStart": 140,
+          "blockEnd": 165
+        },
+        {
+          "id": "01-06",
+          "text": "他考过两次东京大学。两次都没考上。",
+          "block": 2,
+          "blockStart": 140,
+          "blockEnd": 165
+        },
+        {
+          "id": "01-07",
+          "text": "第三次，他没考。他去创业了。",
+          "block": 2,
+          "blockStart": 140,
+          "blockEnd": 165
+        },
+        {
+          "id": "01-08",
+          "text": "一个月后，他们办了一本杂志，叫《月刊 ASCII》。",
+          "block": 3,
+          "blockStart": 165,
+          "blockEnd": 185
+        },
+        {
+          "id": "01-09",
+          "text": "ASCII。美国信息交换标准代码。",
+          "block": 3,
+          "blockStart": 165,
+          "blockEnd": 185
+        },
+        {
+          "id": "01-10",
+          "text": "一个听起来跟游戏毫无关系的名字。",
+          "block": 3,
+          "blockStart": 165,
+          "blockEnd": 185
+        },
+        {
+          "id": "01-11",
+          "text": "因为那时候，他们想做的根本不是游戏。",
+          "block": 3,
+          "blockStart": 165,
+          "blockEnd": 185
+        },
+        {
+          "id": "01-12",
+          "text": "1978 年 6 月，西和彦飞到美国，见到了一个比他小一岁的年轻人。",
+          "block": 4,
+          "blockStart": 185,
+          "blockEnd": 210
+        },
+        {
+          "id": "01-13",
+          "text": "比尔·盖茨。",
+          "block": 4,
+          "blockStart": 185,
+          "blockEnd": 210
+        },
+        {
+          "id": "01-14",
+          "text": "第二年，微软的第一家海外销售办公室，开在了东京。",
+          "block": 4,
+          "blockStart": 185,
+          "blockEnd": 210
+        },
+        {
+          "id": "01-15",
+          "text": "开在西和彦的公司里。",
+          "block": 4,
+          "blockStart": 185,
+          "blockEnd": 210
+        },
+        {
+          "id": "01-16",
+          "text": "那家公司叫 ASCII Microsoft。",
+          "block": 4,
+          "blockStart": 185,
+          "blockEnd": 210
+        },
+        {
+          "id": "01-17",
+          "text": "1983 年，西和彦想做一件更大的事。",
+          "block": 5,
+          "blockStart": 210,
+          "blockEnd": 240
+        },
+        {
+          "id": "01-18",
+          "text": "他想统一日本的电脑。",
+          "block": 5,
+          "blockStart": 210,
+          "blockEnd": 240
+        },
+        {
+          "id": "01-19",
+          "text": "那个标准叫 MSX。索尼、NEC、松下，都跟着他做。",
+          "block": 5,
+          "blockStart": 210,
+          "blockEnd": 240
+        },
+        {
+          "id": "01-20",
+          "text": "一台 MSX 电脑，可以用同一套软件，同一根线，同一个手柄。",
+          "block": 5,
+          "blockStart": 210,
+          "blockEnd": 240
+        },
+        {
+          "id": "01-21",
+          "text": "他想让全日本的电脑，说同一种语言。",
+          "block": 5,
+          "blockStart": 210,
+          "blockEnd": 240
+        },
+        {
+          "id": "01-22",
+          "text": "1986 年，微软上市。",
+          "block": 6,
+          "blockStart": 240,
+          "blockEnd": 260
+        },
+        {
+          "id": "01-23",
+          "text": "同年，盖茨跟他断了。",
+          "block": 6,
+          "blockStart": 240,
+          "blockEnd": 260
+        },
+        {
+          "id": "01-24",
+          "text": "导火索之一，是西和彦花了 100 万美元，在东京竖了一只巨型机械恐龙，用来做广告。",
+          "block": 6,
+          "blockStart": 240,
+          "blockEnd": 260
+        },
+        {
+          "id": "01-25",
+          "text": "一个人如果跑得太快，他会把同伴甩下，也会把自己甩出去。",
+          "block": 6,
+          "blockStart": 240,
+          "blockEnd": 260
+        },
+        {
+          "id": "01-26",
+          "text": "1991 年，另外两个创始人辞职了。",
+          "block": 7,
+          "blockStart": 260,
+          "blockEnd": 275
+        },
+        {
+          "id": "01-27",
+          "text": "西和彦在记者会上说了一句话。",
+          "block": 7,
+          "blockStart": 260,
+          "blockEnd": 275
+        },
+        {
+          "id": "01-28",
+          "text": "\"他们跟不上我，因为我加速得太快了。\"",
+          "block": 7,
+          "blockStart": 260,
+          "blockEnd": 275
+        },
+        {
+          "id": "01-29",
+          "text": "第二年，公司负债，股价崩盘。",
+          "block": 7,
+          "blockStart": 260,
+          "blockEnd": 275
+        },
+        {
+          "id": "01-30",
+          "text": "但这家公司没有倒。",
+          "block": 8,
+          "blockStart": 275,
+          "blockEnd": 290
+        },
+        {
+          "id": "01-31",
+          "text": "1997 年 12 月 11 日，它的官网首页，头条是这样的：",
+          "block": 8,
+          "blockStart": 275,
+          "blockEnd": 290
+        },
+        {
+          "id": "01-32",
+          "text": "\"So-net 获得多媒体大奖\"。\"冲电气开发 ISDN 芯片\"。\"IBM 开年末恳亲会\"。",
+          "block": 8,
+          "blockStart": 275,
+          "blockEnd": 290
+        },
+        {
+          "id": "01-33",
+          "text": "没有一条，和游戏有关。",
+          "block": 8,
+          "blockStart": 275,
+          "blockEnd": 290
+        },
+        {
+          "id": "01-34",
+          "text": "要理解它为什么会在 1988 年，往一本杂志里塞一个做游戏的程序——",
+          "block": 8,
+          "blockStart": 275,
+          "blockEnd": 290
+        },
+        {
+          "id": "01-35",
+          "text": "得先看看，那时候的它，到底在忙什么。",
+          "block": 8,
+          "blockStart": 275,
+          "blockEnd": 290
+        }
+      ]
+    },
+    {
+      "id": "02",
+      "title": "附录 · 一个没人署名的程序",
+      "start": 290,
+      "end": 470,
+      "blocks": [
+        {
+          "index": 0,
+          "start": 290,
+          "end": 310,
+          "narration": [
+            "02-01",
+            "02-02",
+            "02-03",
+            "02-04"
+          ]
+        },
+        {
+          "index": 1,
+          "start": 310,
+          "end": 340,
+          "narration": [
+            "02-05",
+            "02-06",
+            "02-07",
+            "02-08",
+            "02-09"
+          ]
+        },
+        {
+          "index": 2,
+          "start": 340,
+          "end": 365,
+          "narration": [
+            "02-10",
+            "02-11",
+            "02-12",
+            "02-13",
+            "02-14",
+            "02-15"
+          ]
+        },
+        {
+          "index": 3,
+          "start": 365,
+          "end": 390,
+          "narration": [
+            "02-16",
+            "02-17",
+            "02-18",
+            "02-19",
+            "02-20",
+            "02-21",
+            "02-22"
+          ]
+        },
+        {
+          "index": 4,
+          "start": 390,
+          "end": 405,
+          "narration": [
+            "02-23",
+            "02-24",
+            "02-25"
+          ]
+        },
+        {
+          "index": 5,
+          "start": 405,
+          "end": 470,
+          "narration": [
+            "02-26",
+            "02-27",
+            "02-28",
+            "02-29",
+            "02-30",
+            "02-31",
+            "02-32",
+            "02-33",
+            "02-34",
+            "02-35",
+            "02-36",
+            "02-37",
+            "02-38",
+            "02-39",
+            "02-40",
+            "02-41",
+            "02-42",
+            "02-43",
+            "02-44",
+            "02-45",
+            "02-46"
+          ]
+        }
+      ],
+      "lines": [
+        {
+          "id": "02-01",
+          "text": "但在那之前，1988 年，发生了一件很小的事。",
+          "block": 0,
+          "blockStart": 290,
+          "blockEnd": 310
+        },
+        {
+          "id": "02-02",
+          "text": "小到当时没有人在意。",
+          "block": 0,
+          "blockStart": 290,
+          "blockEnd": 310
+        },
+        {
+          "id": "02-03",
+          "text": "ASCII 的杂志，每期都会附一张软盘。",
+          "block": 0,
+          "blockStart": 290,
+          "blockEnd": 310
+        },
+        {
+          "id": "02-04",
+          "text": "软盘里，是读者投稿的小程序。",
+          "block": 0,
+          "blockStart": 290,
+          "blockEnd": 310
+        },
+        {
+          "id": "02-05",
+          "text": "那一期，有一个程序，能让人做 RPG。",
+          "block": 1,
+          "blockStart": 310,
+          "blockEnd": 340
+        },
+        {
+          "id": "02-06",
+          "text": "署名栏是空的。",
+          "block": 1,
+          "blockStart": 310,
+          "blockEnd": 340
+        },
+        {
+          "id": "02-07",
+          "text": "没有人知道作者是谁。",
+          "block": 1,
+          "blockStart": 310,
+          "blockEnd": 340
+        },
+        {
+          "id": "02-08",
+          "text": "这个程序，叫 Mamirin。",
+          "block": 1,
+          "blockStart": 310,
+          "blockEnd": 340
+        },
+        {
+          "id": "02-09",
+          "text": "它是 RPG Maker 真正的祖先。",
+          "block": 1,
+          "blockStart": 310,
+          "blockEnd": 340
+        },
+        {
+          "id": "02-10",
+          "text": "1990 年，它变成了一个正式的软件，叫 Dante。",
+          "block": 2,
+          "blockStart": 340,
+          "blockEnd": 365
+        },
+        {
+          "id": "02-11",
+          "text": "1992 年 12 月 17 日，它有了一个新名字。",
+          "block": 2,
+          "blockStart": 340,
+          "blockEnd": 365
+        },
+        {
+          "id": "02-12",
+          "text": "RPG ツクール Dante 98。",
+          "block": 2,
+          "blockStart": 340,
+          "blockEnd": 365
+        },
+        {
+          "id": "02-13",
+          "text": "运行在 PC-9801 上。",
+          "block": 2,
+          "blockStart": 340,
+          "blockEnd": 365
+        },
+        {
+          "id": "02-14",
+          "text": "分辨率 320×240。",
+          "block": 2,
+          "blockStart": 340,
+          "blockEnd": 365
+        },
+        {
+          "id": "02-15",
+          "text": "官方后来认定，这一天，是 RPG Maker 的生日。",
+          "block": 2,
+          "blockStart": 340,
+          "blockEnd": 365
+        },
+        {
+          "id": "02-16",
+          "text": "ASCII 办了一本杂志，叫《LOGIN Sofcom》。",
+          "block": 3,
+          "blockStart": 365,
+          "blockEnd": 390
+        },
+        {
+          "id": "02-17",
+          "text": "专门刊登读者用 Dante 98 做的游戏。",
+          "block": 3,
+          "blockStart": 365,
+          "blockEnd": 390
+        },
+        {
+          "id": "02-18",
+          "text": "1995 年，日本用它做出了三千多款 RPG。",
+          "block": 3,
+          "blockStart": 365,
+          "blockEnd": 390
+        },
+        {
+          "id": "02-19",
+          "text": "1996 年春天，一个 22 岁的大学生，在上面连载了一个恐怖游戏。",
+          "block": 3,
+          "blockStart": 365,
+          "blockEnd": 390
+        },
+        {
+          "id": "02-20",
+          "text": "他叫祁答院慎。",
+          "block": 3,
+          "blockStart": 365,
+          "blockEnd": 390
+        },
+        {
+          "id": "02-21",
+          "text": "第二年，这个游戏拿了 ASCII 的奖，第二名。",
+          "block": 3,
+          "blockStart": 365,
+          "blockEnd": 390
+        },
+        {
+          "id": "02-22",
+          "text": "奖金 500 万日元。",
+          "block": 3,
+          "blockStart": 365,
+          "blockEnd": 390
+        },
+        {
+          "id": "02-23",
+          "text": "那个游戏叫《Corpse Party》。",
+          "block": 4,
+          "blockStart": 390,
+          "blockEnd": 405
+        },
+        {
+          "id": "02-24",
+          "text": "尸体派对。",
+          "block": 4,
+          "blockStart": 390,
+          "blockEnd": 405
+        },
+        {
+          "id": "02-25",
+          "text": "一个做游戏的工具，开始造星了。",
+          "block": 4,
+          "blockStart": 390,
+          "blockEnd": 405
+        },
+        {
+          "id": "02-26",
+          "text": "但它还有一个更大的野心。",
+          "block": 5,
+          "blockStart": 405,
+          "blockEnd": 470
+        },
+        {
+          "id": "02-27",
+          "text": "PC-9801 是一台电脑。而 1992 年的日本，家里有电脑的，不到三成。",
+          "block": 5,
+          "blockStart": 405,
+          "blockEnd": 470
+        },
+        {
+          "id": "02-28",
+          "text": "所以 1995 年 3 月 31 日，它上了超级任天堂。",
+          "block": 5,
+          "blockStart": 405,
+          "blockEnd": 470
+        },
+        {
+          "id": "02-29",
+          "text": "名字叫 Super Dante。Dante 98 的移植版。",
+          "block": 5,
+          "blockStart": 405,
+          "blockEnd": 470
+        },
+        {
+          "id": "02-30",
+          "text": "插卡带，接电视，一个小孩就能做游戏。",
+          "block": 5,
+          "blockStart": 405,
+          "blockEnd": 470
+        },
+        {
+          "id": "02-31",
+          "text": "不需要买电脑。",
+          "block": 5,
+          "blockStart": 405,
+          "blockEnd": 470
+        },
+        {
+          "id": "02-32",
+          "text": "第二年，出了第二代。",
+          "block": 5,
+          "blockStart": 405,
+          "blockEnd": 470
+        },
+        {
+          "id": "02-33",
+          "text": "再后来是 PlayStation。1997 年的 RPG ツクール 3，2000 年的 4。",
+          "block": 5,
+          "blockStart": 405,
+          "blockEnd": 470
+        },
+        {
+          "id": "02-34",
+          "text": "在电脑还没有普及的年代，客厅成了这个工具的第一个大众入口。",
+          "block": 5,
+          "blockStart": 405,
+          "blockEnd": 470
+        },
+        {
+          "id": "02-35",
+          "text": "但它有一个致命的缺陷。",
+          "block": 5,
+          "blockStart": 405,
+          "blockEnd": 470
+        },
+        {
+          "id": "02-36",
+          "text": "你做完的游戏，传不出去。",
+          "block": 5,
+          "blockStart": 405,
+          "blockEnd": 470
+        },
+        {
+          "id": "02-37",
+          "text": "主机版尤其明显。卡带里是你的存档，你的进度，你的一切。",
+          "block": 5,
+          "blockStart": 405,
+          "blockEnd": 470
+        },
+        {
+          "id": "02-38",
+          "text": "想让别人玩，你得把整台机器搬过去。",
+          "block": 5,
+          "blockStart": 405,
+          "blockEnd": 470
+        },
+        {
+          "id": "02-39",
+          "text": "或者把游戏机借给他，连同存档一起。",
+          "block": 5,
+          "blockStart": 405,
+          "blockEnd": 470
+        },
+        {
+          "id": "02-40",
+          "text": "如果他家没有这台机器，那就更没办法了。",
+          "block": 5,
+          "blockStart": 405,
+          "blockEnd": 470
+        },
+        {
+          "id": "02-41",
+          "text": "所以那时候做游戏，基本上是自己做给自己玩。",
+          "block": 5,
+          "blockStart": 405,
+          "blockEnd": 470
+        },
+        {
+          "id": "02-42",
+          "text": "这个问题，一直等到网络普及，才被真正解决。",
+          "block": 5,
+          "blockStart": 405,
+          "blockEnd": 470
+        },
+        {
+          "id": "02-43",
+          "text": "到 RPG Maker 2003 的时候，论坛和网络，让分享第一次变得容易。",
+          "block": 5,
+          "blockStart": 405,
+          "blockEnd": 470
+        },
+        {
+          "id": "02-44",
+          "text": "一个小孩做的东西，可以被另一个城市的人下载、打开、玩完。",
+          "block": 5,
+          "blockStart": 405,
+          "blockEnd": 470
+        },
+        {
+          "id": "02-45",
+          "text": "而这件东西，到底是怎么做出来的？",
+          "block": 5,
+          "blockStart": 405,
+          "blockEnd": 470
+        },
+        {
+          "id": "02-46",
+          "text": "秘密，只有两个词。",
+          "block": 5,
+          "blockStart": 405,
+          "blockEnd": 470
+        }
+      ]
+    },
+    {
+      "id": "03",
+      "title": "工具 · 一台只会说\"是\"和\"不是\"的机器",
+      "start": 470,
+      "end": 630,
+      "blocks": [
+        {
+          "index": 0,
+          "start": 470,
+          "end": 485,
+          "narration": [
+            "03-01",
+            "03-02",
+            "03-03"
+          ]
+        },
+        {
+          "index": 1,
+          "start": 485,
+          "end": 510,
+          "narration": [
+            "03-04",
+            "03-05",
+            "03-06",
+            "03-07"
+          ]
+        },
+        {
+          "index": 2,
+          "start": 510,
+          "end": 525,
+          "narration": [
+            "03-08",
+            "03-09",
+            "03-10",
+            "03-11"
+          ]
+        },
+        {
+          "index": 3,
+          "start": 525,
+          "end": 540,
+          "narration": [
+            "03-12",
+            "03-13",
+            "03-14"
+          ]
+        },
+        {
+          "index": 4,
+          "start": 540,
+          "end": 580,
+          "narration": [
+            "03-15",
+            "03-16",
+            "03-17",
+            "03-18",
+            "03-19",
+            "03-20",
+            "03-21"
+          ]
+        },
+        {
+          "index": 5,
+          "start": 580,
+          "end": 605,
+          "narration": [
+            "03-22",
+            "03-23",
+            "03-24",
+            "03-25",
+            "03-26"
+          ]
+        },
+        {
+          "index": 6,
+          "start": 605,
+          "end": 630,
+          "narration": [
+            "03-27",
+            "03-28",
+            "03-29",
+            "03-30"
+          ]
+        }
+      ],
+      "lines": [
+        {
+          "id": "03-01",
+          "text": "那么，这个东西，到底是怎么运作的？",
+          "block": 0,
+          "blockStart": 470,
+          "blockEnd": 485
+        },
+        {
+          "id": "03-02",
+          "text": "它只有三个东西。",
+          "block": 0,
+          "blockStart": 470,
+          "blockEnd": 485
+        },
+        {
+          "id": "03-03",
+          "text": "一张格子纸。一堆事件。一个数据库。",
+          "block": 0,
+          "blockStart": 470,
+          "blockEnd": 485
+        },
+        {
+          "id": "03-04",
+          "text": "格子纸，叫地图编辑器。",
+          "block": 1,
+          "blockStart": 485,
+          "blockEnd": 510
+        },
+        {
+          "id": "03-05",
+          "text": "每一个格子，叫一个图块。",
+          "block": 1,
+          "blockStart": 485,
+          "blockEnd": 510
+        },
+        {
+          "id": "03-06",
+          "text": "RPG Maker 2000 的图块，是 16×16 像素。",
+          "block": 1,
+          "blockStart": 485,
+          "blockEnd": 510
+        },
+        {
+          "id": "03-07",
+          "text": "你的整个游戏世界，就是这些 16×16 的小方块拼出来的。",
+          "block": 1,
+          "blockStart": 485,
+          "blockEnd": 510
+        },
+        {
+          "id": "03-08",
+          "text": "事件，是地图上的一个点。",
+          "block": 2,
+          "blockStart": 510,
+          "blockEnd": 525
+        },
+        {
+          "id": "03-09",
+          "text": "它可以是一扇门，一个宝箱，一个 NPC，一段剧情。",
+          "block": 2,
+          "blockStart": 510,
+          "blockEnd": 525
+        },
+        {
+          "id": "03-10",
+          "text": "数据库，是这个世界所有的规则。",
+          "block": 2,
+          "blockStart": 510,
+          "blockEnd": 525
+        },
+        {
+          "id": "03-11",
+          "text": "角色有多少血，怪物有多强，武器加多少攻击。",
+          "block": 2,
+          "blockStart": 510,
+          "blockEnd": 525
+        },
+        {
+          "id": "03-12",
+          "text": "但真正让这个东西成立的，是两个词。",
+          "block": 3,
+          "blockStart": 525,
+          "blockEnd": 540
+        },
+        {
+          "id": "03-13",
+          "text": "开关。和变量。",
+          "block": 3,
+          "blockStart": 525,
+          "blockEnd": 540
+        },
+        {
+          "id": "03-14",
+          "text": "我做给你看。",
+          "block": 3,
+          "blockStart": 525,
+          "blockEnd": 540
+        },
+        {
+          "id": "03-15",
+          "text": "放一扇门。新建一个事件。",
+          "block": 4,
+          "blockStart": 540,
+          "blockEnd": 580
+        },
+        {
+          "id": "03-16",
+          "text": "插入指令。条件分支。",
+          "block": 4,
+          "blockStart": 540,
+          "blockEnd": 580
+        },
+        {
+          "id": "03-17",
+          "text": "如果，\"钥匙\"这个开关，是 ON。",
+          "block": 4,
+          "blockStart": 540,
+          "blockEnd": 580
+        },
+        {
+          "id": "03-18",
+          "text": "那么，播放开门音效，然后，暂时消除这个事件。",
+          "block": 4,
+          "blockStart": 540,
+          "blockEnd": 580
+        },
+        {
+          "id": "03-19",
+          "text": "否则，显示文字：\"门锁着。\"",
+          "block": 4,
+          "blockStart": 540,
+          "blockEnd": 580
+        },
+        {
+          "id": "03-20",
+          "text": "再放一把钥匙。",
+          "block": 4,
+          "blockStart": 540,
+          "blockEnd": 580
+        },
+        {
+          "id": "03-21",
+          "text": "玩家碰到它，\"钥匙\"这个开关，设为 ON。然后钥匙消失。",
+          "block": 4,
+          "blockStart": 540,
+          "blockEnd": 580
+        },
+        {
+          "id": "03-22",
+          "text": "现在试一下。",
+          "block": 5,
+          "blockStart": 580,
+          "blockEnd": 605
+        },
+        {
+          "id": "03-23",
+          "text": "门锁着。",
+          "block": 5,
+          "blockStart": 580,
+          "blockEnd": 605
+        },
+        {
+          "id": "03-24",
+          "text": "门开了。",
+          "block": 5,
+          "blockStart": 580,
+          "blockEnd": 605
+        },
+        {
+          "id": "03-25",
+          "text": "一扇门，就是一个开关。",
+          "block": 5,
+          "blockStart": 580,
+          "blockEnd": 605
+        },
+        {
+          "id": "03-26",
+          "text": "门开没开，就是 ON，还是 OFF。",
+          "block": 5,
+          "blockStart": 580,
+          "blockEnd": 605
+        },
+        {
+          "id": "03-27",
+          "text": "一个人死没死，也是 ON 还是 OFF。",
+          "block": 6,
+          "blockStart": 605,
+          "blockEnd": 630
+        },
+        {
+          "id": "03-28",
+          "text": "一个世界存不存在，也是 ON 还是 OFF。",
+          "block": 6,
+          "blockStart": 605,
+          "blockEnd": 630
+        },
+        {
+          "id": "03-29",
+          "text": "RPG Maker 没有让你写代码。",
+          "block": 6,
+          "blockStart": 605,
+          "blockEnd": 630
+        },
+        {
+          "id": "03-30",
+          "text": "它让你用\"是\"和\"不是\"，去描述一整个世界。",
+          "block": 6,
+          "blockStart": 605,
+          "blockEnd": 630
+        }
+      ]
+    },
+    {
+      "id": "04",
+      "title": "口音",
+      "start": 630,
+      "end": 670,
+      "blocks": [
+        {
+          "index": 0,
+          "start": 630,
+          "end": 650,
+          "narration": [
+            "04-01",
+            "04-02",
+            "04-03",
+            "04-04"
+          ]
+        },
+        {
+          "index": 1,
+          "start": 650,
+          "end": 670,
+          "narration": [
+            "04-05",
+            "04-06",
+            "04-07",
+            "04-08"
+          ]
+        }
+      ],
+      "lines": [
+        {
+          "id": "04-01",
+          "text": "1992 年，它的画面是 320×240。",
+          "block": 0,
+          "blockStart": 630,
+          "blockEnd": 650
+        },
+        {
+          "id": "04-02",
+          "text": "2004 年，XP，640×480。",
+          "block": 0,
+          "blockStart": 630,
+          "blockEnd": 650
+        },
+        {
+          "id": "04-03",
+          "text": "2015 年，MV，816×624。",
+          "block": 0,
+          "blockStart": 630,
+          "blockEnd": 650
+        },
+        {
+          "id": "04-04",
+          "text": "但大部分人记得的，还是 320×240。",
+          "block": 0,
+          "blockStart": 630,
+          "blockEnd": 650
+        },
+        {
+          "id": "04-05",
+          "text": "那个蓝头发的骑士。那片草地。那个蓝底白字的对话框。",
+          "block": 1,
+          "blockStart": 650,
+          "blockEnd": 670
+        },
+        {
+          "id": "04-06",
+          "text": "后来有人管这个叫\"RM 味\"。",
+          "block": 1,
+          "blockStart": 650,
+          "blockEnd": 670
+        },
+        {
+          "id": "04-07",
+          "text": "它不是一种风格。",
+          "block": 1,
+          "blockStart": 650,
+          "blockEnd": 670
+        },
+        {
+          "id": "04-08",
+          "text": "它是一种口音。",
+          "block": 1,
+          "blockStart": 650,
+          "blockEnd": 670
+        }
+      ]
+    },
+    {
+      "id": "05",
+      "title": "溢出 · 当它被用来做不该做的事",
+      "start": 670,
+      "end": 870,
+      "blocks": [
+        {
+          "index": 0,
+          "start": 670,
+          "end": 710,
+          "narration": [
+            "05-01",
+            "05-02",
+            "05-03",
+            "05-04",
+            "05-05",
+            "05-06",
+            "05-07",
+            "05-08",
+            "05-09",
+            "05-10",
+            "05-11",
+            "05-12",
+            "05-13",
+            "05-14",
+            "05-15"
+          ]
+        },
+        {
+          "index": 1,
+          "start": 710,
+          "end": 760,
+          "narration": [
+            "05-16",
+            "05-17",
+            "05-18",
+            "05-19",
+            "05-20",
+            "05-21",
+            "05-22",
+            "05-23",
+            "05-24",
+            "05-25",
+            "05-26",
+            "05-27",
+            "05-28",
+            "05-29"
+          ]
+        },
+        {
+          "index": 2,
+          "start": 760,
+          "end": 780,
+          "narration": [
+            "05-30",
+            "05-31",
+            "05-32",
+            "05-33",
+            "05-34",
+            "05-35",
+            "05-36",
+            "05-37"
+          ]
+        },
+        {
+          "index": 3,
+          "start": 780,
+          "end": 800,
+          "narration": [
+            "05-38",
+            "05-39",
+            "05-40"
+          ]
+        },
+        {
+          "index": 4,
+          "start": 800,
+          "end": 820,
+          "narration": [
+            "05-41",
+            "05-42",
+            "05-43",
+            "05-44",
+            "05-45",
+            "05-46",
+            "05-47"
+          ]
+        },
+        {
+          "index": 5,
+          "start": 820,
+          "end": 840,
+          "narration": [
+            "05-48",
+            "05-49",
+            "05-50",
+            "05-51",
+            "05-52",
+            "05-53"
+          ]
+        },
+        {
+          "index": 6,
+          "start": 840,
+          "end": 870,
+          "narration": [
+            "05-54",
+            "05-55",
+            "05-56",
+            "05-57",
+            "05-58",
+            "05-59",
+            "05-60",
+            "05-61",
+            "05-62"
+          ]
+        }
+      ],
+      "lines": [
+        {
+          "id": "05-01",
+          "text": "2000 年，有两件事同时发生。",
+          "block": 0,
+          "blockStart": 670,
+          "blockEnd": 710
+        },
+        {
+          "id": "05-02",
+          "text": "第一件：RPG Maker 2000 在日本发售。",
+          "block": 0,
+          "blockStart": 670,
+          "blockEnd": 710
+        },
+        {
+          "id": "05-03",
+          "text": "一个俄罗斯学生，把它翻译成英文，免费传到网上。",
+          "block": 0,
+          "blockStart": 670,
+          "blockEnd": 710
+        },
+        {
+          "id": "05-04",
+          "text": "他叫 Don Miguel。他没有得到授权。",
+          "block": 0,
+          "blockStart": 670,
+          "blockEnd": 710
+        },
+        {
+          "id": "05-05",
+          "text": "ASCII 给他发了律师函。他关了网站。",
+          "block": 0,
+          "blockStart": 670,
+          "blockEnd": 710
+        },
+        {
+          "id": "05-06",
+          "text": "但文件已经传出去了。",
+          "block": 0,
+          "blockStart": 670,
+          "blockEnd": 710
+        },
+        {
+          "id": "05-07",
+          "text": "第二件：同一年 10 月，一家叫 Agetec 的公司，在北美发行了 PlayStation 版的 RPG Maker。",
+          "block": 0,
+          "blockStart": 670,
+          "blockEnd": 710
+        },
+        {
+          "id": "05-08",
+          "text": "那是这个系列，第一个官方英文版。",
+          "block": 0,
+          "blockStart": 670,
+          "blockEnd": 710
+        },
+        {
+          "id": "05-09",
+          "text": "比电脑版的官方英文版，早了五年。",
+          "block": 0,
+          "blockStart": 670,
+          "blockEnd": 710
+        },
+        {
+          "id": "05-10",
+          "text": "一个盗版，一个正版。",
+          "block": 0,
+          "blockStart": 670,
+          "blockEnd": 710
+        },
+        {
+          "id": "05-11",
+          "text": "一个在电脑上，一个在电视上。",
+          "block": 0,
+          "blockStart": 670,
+          "blockEnd": 710
+        },
+        {
+          "id": "05-12",
+          "text": "西方人第一次玩到它，是从这两个口子同时进来的。",
+          "block": 0,
+          "blockStart": 670,
+          "blockEnd": 710
+        },
+        {
+          "id": "05-13",
+          "text": "接下来的十五年，电脑上那一个，赢了。",
+          "block": 0,
+          "blockStart": 670,
+          "blockEnd": 710
+        },
+        {
+          "id": "05-14",
+          "text": "赢的方式，不太光彩。",
+          "block": 0,
+          "blockStart": 670,
+          "blockEnd": 710
+        },
+        {
+          "id": "05-15",
+          "text": "RPG Maker 在西方的前十五年，是一个不存在版权的人类共同体。",
+          "block": 0,
+          "blockStart": 670,
+          "blockEnd": 710
+        },
+        {
+          "id": "05-16",
+          "text": "2004 年 6 月 26 日。",
+          "block": 1,
+          "blockStart": 710,
+          "blockEnd": 760
+        },
+        {
+          "id": "05-17",
+          "text": "日本的一个论坛上，有人上传了一个压缩包。",
+          "block": 1,
+          "blockStart": 710,
+          "blockEnd": 760
+        },
+        {
+          "id": "05-18",
+          "text": "二十多 MB。",
+          "block": 1,
+          "blockStart": 710,
+          "blockEnd": 760
+        },
+        {
+          "id": "05-19",
+          "text": "打开以后，是一个女孩的房间。",
+          "block": 1,
+          "blockStart": 710,
+          "blockEnd": 760
+        },
+        {
+          "id": "05-20",
+          "text": "她不能出门。",
+          "block": 1,
+          "blockStart": 710,
+          "blockEnd": 760
+        },
+        {
+          "id": "05-21",
+          "text": "只能睡觉。",
+          "block": 1,
+          "blockStart": 710,
+          "blockEnd": 760
+        },
+        {
+          "id": "05-22",
+          "text": "睡着以后，她会进入一个走廊。",
+          "block": 1,
+          "blockStart": 710,
+          "blockEnd": 760
+        },
+        {
+          "id": "05-23",
+          "text": "走廊里有十二扇门。",
+          "block": 1,
+          "blockStart": 710,
+          "blockEnd": 760
+        },
+        {
+          "id": "05-24",
+          "text": "每扇门后面，是一个梦。",
+          "block": 1,
+          "blockStart": 710,
+          "blockEnd": 760
+        },
+        {
+          "id": "05-25",
+          "text": "没有战斗。没有对话。没有目标。",
+          "block": 1,
+          "blockStart": 710,
+          "blockEnd": 760
+        },
+        {
+          "id": "05-26",
+          "text": "甚至没有 Game Over。",
+          "block": 1,
+          "blockStart": 710,
+          "blockEnd": 760
+        },
+        {
+          "id": "05-27",
+          "text": "你要做的，只是走。",
+          "block": 1,
+          "blockStart": 710,
+          "blockEnd": 760
+        },
+        {
+          "id": "05-28",
+          "text": "收集二十四个\"效果\"。",
+          "block": 1,
+          "blockStart": 710,
+          "blockEnd": 760
+        },
+        {
+          "id": "05-29",
+          "text": "然后，走到阳台。",
+          "block": 1,
+          "blockStart": 710,
+          "blockEnd": 760
+        },
+        {
+          "id": "05-30",
+          "text": "这个游戏叫《梦日记》。",
+          "block": 2,
+          "blockStart": 760,
+          "blockEnd": 780
+        },
+        {
+          "id": "05-31",
+          "text": "作者叫 Kikiyama。",
+          "block": 2,
+          "blockStart": 760,
+          "blockEnd": 780
+        },
+        {
+          "id": "05-32",
+          "text": "没有人知道他是谁。",
+          "block": 2,
+          "blockStart": 760,
+          "blockEnd": 780
+        },
+        {
+          "id": "05-33",
+          "text": "他做完这个游戏，就消失了。",
+          "block": 2,
+          "blockStart": 760,
+          "blockEnd": 780
+        },
+        {
+          "id": "05-34",
+          "text": "2011 到 2018 年，他没有任何回应。",
+          "block": 2,
+          "blockStart": 760,
+          "blockEnd": 780
+        },
+        {
+          "id": "05-35",
+          "text": "有人猜他死在了地震里。",
+          "block": 2,
+          "blockStart": 760,
+          "blockEnd": 780
+        },
+        {
+          "id": "05-36",
+          "text": "后来角川确认，他还活着。",
+          "block": 2,
+          "blockStart": 760,
+          "blockEnd": 780
+        },
+        {
+          "id": "05-37",
+          "text": "但他没有出来说过一句话。",
+          "block": 2,
+          "blockStart": 760,
+          "blockEnd": 780
+        },
+        {
+          "id": "05-38",
+          "text": "它把 RPG 的三个字母，一个一个拆掉了。",
+          "block": 3,
+          "blockStart": 780,
+          "blockEnd": 800
+        },
+        {
+          "id": "05-39",
+          "text": "没有 Role。没有 Playing。",
+          "block": 3,
+          "blockStart": 780,
+          "blockEnd": 800
+        },
+        {
+          "id": "05-40",
+          "text": "最后，连 Game 都不太算。",
+          "block": 3,
+          "blockStart": 780,
+          "blockEnd": 800
+        },
+        {
+          "id": "05-41",
+          "text": "2011 年，加拿大。",
+          "block": 4,
+          "blockStart": 800,
+          "blockEnd": 820
+        },
+        {
+          "id": "05-42",
+          "text": "一个人，做了一个游戏，叫《去月球》。",
+          "block": 4,
+          "blockStart": 800,
+          "blockEnd": 820
+        },
+        {
+          "id": "05-43",
+          "text": "没有战斗系统。",
+          "block": 4,
+          "blockStart": 800,
+          "blockEnd": 820
+        },
+        {
+          "id": "05-44",
+          "text": "没有装备。没有升级。",
+          "block": 4,
+          "blockStart": 800,
+          "blockEnd": 820
+        },
+        {
+          "id": "05-45",
+          "text": "只有两个医生，走进一个将死的人的记忆里，帮他完成最后一个愿望。",
+          "block": 4,
+          "blockStart": 800,
+          "blockEnd": 820
+        },
+        {
+          "id": "05-46",
+          "text": "它卖的不是玩法。",
+          "block": 4,
+          "blockStart": 800,
+          "blockEnd": 820
+        },
+        {
+          "id": "05-47",
+          "text": "它卖的是一段你没法跳过的人生。",
+          "block": 4,
+          "blockStart": 800,
+          "blockEnd": 820
+        },
+        {
+          "id": "05-48",
+          "text": "2012 年，日本。",
+          "block": 5,
+          "blockStart": 820,
+          "blockEnd": 840
+        },
+        {
+          "id": "05-49",
+          "text": "两个恐怖游戏，同年出现。",
+          "block": 5,
+          "blockStart": 820,
+          "blockEnd": 840
+        },
+        {
+          "id": "05-50",
+          "text": "一个叫《Ib》，一个叫《魔女之家》。",
+          "block": 5,
+          "blockStart": 820,
+          "blockEnd": 840
+        },
+        {
+          "id": "05-51",
+          "text": "它们都没有战斗。",
+          "block": 5,
+          "blockStart": 820,
+          "blockEnd": 840
+        },
+        {
+          "id": "05-52",
+          "text": "你能做的，只有跑，和躲。",
+          "block": 5,
+          "blockStart": 820,
+          "blockEnd": 840
+        },
+        {
+          "id": "05-53",
+          "text": "当引擎给不了你光影，你只能靠\"不给你看\"来吓人。",
+          "block": 5,
+          "blockStart": 820,
+          "blockEnd": 840
+        },
+        {
+          "id": "05-54",
+          "text": "2020 年 12 月 25 日。",
+          "block": 6,
+          "blockStart": 840,
+          "blockEnd": 870
+        },
+        {
+          "id": "05-55",
+          "text": "《OMORI》发售。",
+          "block": 6,
+          "blockStart": 840,
+          "blockEnd": 870
+        },
+        {
+          "id": "05-56",
+          "text": "它用的是 RPG Maker MV。",
+          "block": 6,
+          "blockStart": 840,
+          "blockEnd": 870
+        },
+        {
+          "id": "05-57",
+          "text": "一个可以在浏览器里跑的引擎。",
+          "block": 6,
+          "blockStart": 840,
+          "blockEnd": 870
+        },
+        {
+          "id": "05-58",
+          "text": "两年后，它卖出了一百万份。",
+          "block": 6,
+          "blockStart": 840,
+          "blockEnd": 870
+        },
+        {
+          "id": "05-59",
+          "text": "它做出来的东西，让一百万人不敢关灯。",
+          "block": 6,
+          "blockStart": 840,
+          "blockEnd": 870
+        },
+        {
+          "id": "05-60",
+          "text": "这些游戏有一个共同点。",
+          "block": 6,
+          "blockStart": 840,
+          "blockEnd": 870
+        },
+        {
+          "id": "05-61",
+          "text": "它们都不是 RPG。",
+          "block": 6,
+          "blockStart": 840,
+          "blockEnd": 870
+        },
+        {
+          "id": "05-62",
+          "text": "它们只是借了 RPG 的壳，装了自己的东西。",
+          "block": 6,
+          "blockStart": 840,
+          "blockEnd": 870
+        }
+      ]
+    },
+    {
+      "id": "06",
+      "title": "中国 · 一个论坛和一款游戏",
+      "start": 870,
+      "end": 945,
+      "blocks": [
+        {
+          "index": 0,
+          "start": 870,
+          "end": 895,
+          "narration": [
+            "06-01",
+            "06-02",
+            "06-03",
+            "06-04",
+            "06-05"
+          ]
+        },
+        {
+          "index": 1,
+          "start": 895,
+          "end": 915,
+          "narration": [
+            "06-06",
+            "06-07"
+          ]
+        },
+        {
+          "index": 2,
+          "start": 915,
+          "end": 930,
+          "narration": [
+            "06-08",
+            "06-09",
+            "06-10",
+            "06-11",
+            "06-12"
+          ]
+        },
+        {
+          "index": 3,
+          "start": 930,
+          "end": 945,
+          "narration": [
+            "06-13",
+            "06-14",
+            "06-15",
+            "06-16"
+          ]
+        }
+      ],
+      "lines": [
+        {
+          "id": "06-01",
+          "text": "2005 年，中国。",
+          "block": 0,
+          "blockStart": 870,
+          "blockEnd": 895
+        },
+        {
+          "id": "06-02",
+          "text": "一个玩家，做了一个游戏，叫《黑暗圣剑传说》。",
+          "block": 0,
+          "blockStart": 870,
+          "blockEnd": 895
+        },
+        {
+          "id": "06-03",
+          "text": "他叫柳柳。",
+          "block": 0,
+          "blockStart": 870,
+          "blockEnd": 895
+        },
+        {
+          "id": "06-04",
+          "text": "这个游戏有十个小时的剧情。",
+          "block": 0,
+          "blockStart": 870,
+          "blockEnd": 895
+        },
+        {
+          "id": "06-05",
+          "text": "它把 RPG Maker XP 的底层，全部改了一遍。",
+          "block": 0,
+          "blockStart": 870,
+          "blockEnd": 895
+        },
+        {
+          "id": "06-06",
+          "text": "但它最厉害的地方，不是它做得多好。",
+          "block": 1,
+          "blockStart": 895,
+          "blockEnd": 915
+        },
+        {
+          "id": "06-07",
+          "text": "是它在第二年，把整个工程文件，公开了。",
+          "block": 1,
+          "blockStart": 895,
+          "blockEnd": 915
+        },
+        {
+          "id": "06-08",
+          "text": "那不是盗版资源。",
+          "block": 2,
+          "blockStart": 915,
+          "blockEnd": 930
+        },
+        {
+          "id": "06-09",
+          "text": "那是一本教材。",
+          "block": 2,
+          "blockStart": 915,
+          "blockEnd": 930
+        },
+        {
+          "id": "06-10",
+          "text": "一个中学生，下载它，打开它。",
+          "block": 2,
+          "blockStart": 915,
+          "blockEnd": 930
+        },
+        {
+          "id": "06-11",
+          "text": "第一次看见——",
+          "block": 2,
+          "blockStart": 915,
+          "blockEnd": 930
+        },
+        {
+          "id": "06-12",
+          "text": "原来门是这么做出来的。",
+          "block": 2,
+          "blockStart": 915,
+          "blockEnd": 930
+        },
+        {
+          "id": "06-13",
+          "text": "同年，柳柳办了一个网站，叫 66RPG。",
+          "block": 3,
+          "blockStart": 930,
+          "blockEnd": 945
+        },
+        {
+          "id": "06-14",
+          "text": "中国第一批用 RPG Maker 做游戏的人，都在那里。",
+          "block": 3,
+          "blockStart": 930,
+          "blockEnd": 945
+        },
+        {
+          "id": "06-15",
+          "text": "在中国，RPG Maker 从来不是开发工具。",
+          "block": 3,
+          "blockStart": 930,
+          "blockEnd": 945
+        },
+        {
+          "id": "06-16",
+          "text": "它是表达工具。",
+          "block": 3,
+          "blockStart": 930,
+          "blockEnd": 945
+        }
+      ]
+    },
+    {
+      "id": "07",
+      "title": "转手 · 三个人走散了，公司换了四次主人",
+      "start": 945,
+      "end": 1070,
+      "blocks": [
+        {
+          "index": 0,
+          "start": 945,
+          "end": 985,
+          "narration": [
+            "07-01",
+            "07-02",
+            "07-03",
+            "07-04",
+            "07-05",
+            "07-06",
+            "07-07",
+            "07-08",
+            "07-09",
+            "07-10"
+          ]
+        },
+        {
+          "index": 1,
+          "start": 985,
+          "end": 1020,
+          "narration": [
+            "07-11",
+            "07-12",
+            "07-13",
+            "07-14",
+            "07-15",
+            "07-16",
+            "07-17",
+            "07-18",
+            "07-19",
+            "07-20",
+            "07-21"
+          ]
+        },
+        {
+          "index": 2,
+          "start": 1020,
+          "end": 1070,
+          "narration": [
+            "07-22",
+            "07-23",
+            "07-24",
+            "07-25",
+            "07-26",
+            "07-27",
+            "07-28",
+            "07-29",
+            "07-30",
+            "07-31",
+            "07-32",
+            "07-33",
+            "07-34",
+            "07-35",
+            "07-36",
+            "07-37"
+          ]
+        }
+      ],
+      "lines": [
+        {
+          "id": "07-01",
+          "text": "在看这家公司怎么散架之前，先看一张 2001 年的网页。",
+          "block": 0,
+          "blockStart": 945,
+          "blockEnd": 985
+        },
+        {
+          "id": "07-02",
+          "text": "那是 enterbrain 的首页。",
+          "block": 0,
+          "blockStart": 945,
+          "blockEnd": 985
+        },
+        {
+          "id": "07-03",
+          "text": "排在最前面的，是两个游戏制作软件：《2D 格斗ツクール》和《恋爱模拟ツクール》。",
+          "block": 0,
+          "blockStart": 945,
+          "blockEnd": 985
+        },
+        {
+          "id": "07-04",
+          "text": "再往下，是《周刊 Fami 通》，350 日元。",
+          "block": 0,
+          "blockStart": 945,
+          "blockEnd": 985
+        },
+        {
+          "id": "07-05",
+          "text": "《新世纪福音战士》绫波丽的养成攻略本。",
+          "block": 0,
+          "blockStart": 945,
+          "blockEnd": 985
+        },
+        {
+          "id": "07-06",
+          "text": "Fami 通文库。一个叫\"えんため大赏\"的选秀比赛。",
+          "block": 0,
+          "blockStart": 945,
+          "blockEnd": 985
+        },
+        {
+          "id": "07-07",
+          "text": "还有六款 3800 日元的廉价版，叫\"ツクールVALUE\"。",
+          "block": 0,
+          "blockStart": 945,
+          "blockEnd": 985
+        },
+        {
+          "id": "07-08",
+          "text": "RPG Maker 只是货架上的一格。",
+          "block": 0,
+          "blockStart": 945,
+          "blockEnd": 985
+        },
+        {
+          "id": "07-09",
+          "text": "这家公司，从来就不是\"做游戏工具的\"。",
+          "block": 0,
+          "blockStart": 945,
+          "blockEnd": 985
+        },
+        {
+          "id": "07-10",
+          "text": "它是一个媒体集团。",
+          "block": 0,
+          "blockStart": 945,
+          "blockEnd": 985
+        },
+        {
+          "id": "07-11",
+          "text": "而一个媒体集团，是很容易被卖掉的。",
+          "block": 1,
+          "blockStart": 985,
+          "blockEnd": 1020
+        },
+        {
+          "id": "07-12",
+          "text": "1991 年，两个创始人走了。",
+          "block": 1,
+          "blockStart": 985,
+          "blockEnd": 1020
+        },
+        {
+          "id": "07-13",
+          "text": "1992 年，负债，股价崩盘。",
+          "block": 1,
+          "blockStart": 985,
+          "blockEnd": 1020
+        },
+        {
+          "id": "07-14",
+          "text": "1997 年，卖给世嘉的母公司 CSK。",
+          "block": 1,
+          "blockStart": 985,
+          "blockEnd": 1020
+        },
+        {
+          "id": "07-15",
+          "text": "2000 年，拆出 enterbrain。",
+          "block": 1,
+          "blockStart": 985,
+          "blockEnd": 1020
+        },
+        {
+          "id": "07-16",
+          "text": "2002 年，ASCII 改名 MediaLeaves。",
+          "block": 1,
+          "blockStart": 985,
+          "blockEnd": 1020
+        },
+        {
+          "id": "07-17",
+          "text": "2004 年，进角川。",
+          "block": 1,
+          "blockStart": 985,
+          "blockEnd": 1020
+        },
+        {
+          "id": "07-18",
+          "text": "2013 年 10 月 1 日，enterbrain 并入 KADOKAWA。",
+          "block": 1,
+          "blockStart": 985,
+          "blockEnd": 1020
+        },
+        {
+          "id": "07-19",
+          "text": "法人注销。",
+          "block": 1,
+          "blockStart": 985,
+          "blockEnd": 1020
+        },
+        {
+          "id": "07-20",
+          "text": "1977 年那家公司，没有了。",
+          "block": 1,
+          "blockStart": 985,
+          "blockEnd": 1020
+        },
+        {
+          "id": "07-21",
+          "text": "但是软件还在。",
+          "block": 1,
+          "blockStart": 985,
+          "blockEnd": 1020
+        },
+        {
+          "id": "07-22",
+          "text": "2020 年 9 月，角川成立了一家新公司，叫 Gotcha Gotcha Games。",
+          "block": 2,
+          "blockStart": 1020,
+          "blockEnd": 1070
+        },
+        {
+          "id": "07-23",
+          "text": "它接手了 RPG Maker。",
+          "block": 2,
+          "blockStart": 1020,
+          "blockEnd": 1070
+        },
+        {
+          "id": "07-24",
+          "text": "2023 年，他们做了一个决定。",
+          "block": 2,
+          "blockStart": 1020,
+          "blockEnd": 1070
+        },
+        {
+          "id": "07-25",
+          "text": "把 RPG Maker 搬进 Unity。",
+          "block": 2,
+          "blockStart": 1020,
+          "blockEnd": 1070
+        },
+        {
+          "id": "07-26",
+          "text": "那个产品叫 RPG Maker Unite。",
+          "block": 2,
+          "blockStart": 1020,
+          "blockEnd": 1070
+        },
+        {
+          "id": "07-27",
+          "text": "99.99 美元。",
+          "block": 2,
+          "blockStart": 1020,
+          "blockEnd": 1070
+        },
+        {
+          "id": "07-28",
+          "text": "上架第一天，零个五星评价。",
+          "block": 2,
+          "blockStart": 1020,
+          "blockEnd": 1070
+        },
+        {
+          "id": "07-29",
+          "text": "它想长大。",
+          "block": 2,
+          "blockStart": 1020,
+          "blockEnd": 1070
+        },
+        {
+          "id": "07-30",
+          "text": "但它长大的方式，是把自己拆了。",
+          "block": 2,
+          "blockStart": 1020,
+          "blockEnd": 1070
+        },
+        {
+          "id": "07-31",
+          "text": "不过，在另一个战场上，它一直没停。",
+          "block": 2,
+          "blockStart": 1020,
+          "blockEnd": 1070
+        },
+        {
+          "id": "07-32",
+          "text": "2010 年，任天堂 DS。2016 年，3DS 上的 RPG Maker Fes。",
+          "block": 2,
+          "blockStart": 1020,
+          "blockEnd": 1070
+        },
+        {
+          "id": "07-33",
+          "text": "Fes 有一个新东西：你把游戏做完了，可以上传，让别人下载来玩。",
+          "block": 2,
+          "blockStart": 1020,
+          "blockEnd": 1070
+        },
+        {
+          "id": "07-34",
+          "text": "2024 年，Switch。2025 年，PS4 和 PS5。",
+          "block": 2,
+          "blockStart": 1020,
+          "blockEnd": 1070
+        },
+        {
+          "id": "07-35",
+          "text": "新作叫 RPG Maker With。",
+          "block": 2,
+          "blockStart": 1020,
+          "blockEnd": 1070
+        },
+        {
+          "id": "07-36",
+          "text": "WITH，是\"和\"的意思。",
+          "block": 2,
+          "blockStart": 1020,
+          "blockEnd": 1070
+        },
+        {
+          "id": "07-37",
+          "text": "因为这一次，它想让你和别人一起做。",
+          "block": 2,
+          "blockStart": 1020,
+          "blockEnd": 1070
+        }
+      ]
+    },
+    {
+      "id": "08",
+      "title": "未来 · 一句话",
+      "start": 1070,
+      "end": 1115,
+      "blocks": [
+        {
+          "index": 0,
+          "start": 1070,
+          "end": 1080,
+          "narration": [
+            "08-01",
+            "08-02"
+          ]
+        },
+        {
+          "index": 1,
+          "start": 1080,
+          "end": 1092,
+          "narration": [
+            "08-03",
+            "08-04"
+          ]
+        },
+        {
+          "index": 2,
+          "start": 1092,
+          "end": 1102,
+          "narration": [
+            "08-05",
+            "08-06"
+          ]
+        },
+        {
+          "index": 3,
+          "start": 1102,
+          "end": 1115,
+          "narration": [
+            "08-07",
+            "08-08",
+            "08-09",
+            "08-10"
+          ]
+        }
+      ],
+      "lines": [
+        {
+          "id": "08-01",
+          "text": "现在，你可以对一个 AI 说：",
+          "block": 0,
+          "blockStart": 1070,
+          "blockEnd": 1080
+        },
+        {
+          "id": "08-02",
+          "text": "\"做一个 RPG。主角是一个女孩。她住在一间不能出门的房间里，只能睡觉。\"",
+          "block": 0,
+          "blockStart": 1070,
+          "blockEnd": 1080
+        },
+        {
+          "id": "08-03",
+          "text": "几分钟后，它给你一个能玩的东西。",
+          "block": 1,
+          "blockStart": 1080,
+          "blockEnd": 1092
+        },
+        {
+          "id": "08-04",
+          "text": "你也没有写一行代码。",
+          "block": 1,
+          "blockStart": 1080,
+          "blockEnd": 1092
+        },
+        {
+          "id": "08-05",
+          "text": "这个承诺，1992 年就有人许下。",
+          "block": 2,
+          "blockStart": 1092,
+          "blockEnd": 1102
+        },
+        {
+          "id": "08-06",
+          "text": "不用编程，也能做游戏。",
+          "block": 2,
+          "blockStart": 1092,
+          "blockEnd": 1102
+        },
+        {
+          "id": "08-07",
+          "text": "三十四年过去，工具从软盘，变成了对话框。",
+          "block": 3,
+          "blockStart": 1102,
+          "blockEnd": 1115
+        },
+        {
+          "id": "08-08",
+          "text": "变的只是工具。",
+          "block": 3,
+          "blockStart": 1102,
+          "blockEnd": 1115
+        },
+        {
+          "id": "08-09",
+          "text": "AI 可以生成一万个世界。",
+          "block": 3,
+          "blockStart": 1102,
+          "blockEnd": 1115
+        },
+        {
+          "id": "08-10",
+          "text": "但总有人，会为其中一个，熬到凌晨三点。",
+          "block": 3,
+          "blockStart": 1102,
+          "blockEnd": 1115
+        }
+      ]
+    },
+    {
+      "id": "09",
+      "title": "尾声 · 小鲸鱼",
+      "start": 1115,
+      "end": 1165,
+      "blocks": [
+        {
+          "index": 0,
+          "start": 1115,
+          "end": 1135,
+          "narration": [
+            "09-01",
+            "09-02",
+            "09-03",
+            "09-04"
+          ]
+        },
+        {
+          "index": 1,
+          "start": 1135,
+          "end": 1155,
+          "narration": [
+            "09-05",
+            "09-06",
+            "09-07",
+            "09-08",
+            "09-09"
+          ]
+        },
+        {
+          "index": 2,
+          "start": 1155,
+          "end": 1165,
+          "narration": [
+            "09-10",
+            "09-11",
+            "09-12",
+            "09-13"
+          ]
+        }
+      ],
+      "lines": [
+        {
+          "id": "09-01",
+          "text": "回到我的那个游戏。",
+          "block": 0,
+          "blockStart": 1115,
+          "blockEnd": 1135
+        },
+        {
+          "id": "09-02",
+          "text": "小鲸鱼还在那里。",
+          "block": 0,
+          "blockStart": 1115,
+          "blockEnd": 1135
+        },
+        {
+          "id": "09-03",
+          "text": "它一拳打了我 999 点伤害。",
+          "block": 0,
+          "blockStart": 1115,
+          "blockEnd": 1135
+        },
+        {
+          "id": "09-04",
+          "text": "我到现在也没打赢它。",
+          "block": 0,
+          "blockStart": 1115,
+          "blockEnd": 1135
+        },
+        {
+          "id": "09-05",
+          "text": "1977 年，一个 21 岁的年轻人，从父亲那里拿到 300 万日元。",
+          "block": 1,
+          "blockStart": 1135,
+          "blockEnd": 1155
+        },
+        {
+          "id": "09-06",
+          "text": "他想做的是日本的电脑标准。",
+          "block": 1,
+          "blockStart": 1135,
+          "blockEnd": 1155
+        },
+        {
+          "id": "09-07",
+          "text": "他失败了。",
+          "block": 1,
+          "blockStart": 1135,
+          "blockEnd": 1155
+        },
+        {
+          "id": "09-08",
+          "text": "公司没了，标准没了。",
+          "block": 1,
+          "blockStart": 1135,
+          "blockEnd": 1155
+        },
+        {
+          "id": "09-09",
+          "text": "连他自己，2023 年都在走破产程序。",
+          "block": 1,
+          "blockStart": 1135,
+          "blockEnd": 1155
+        },
+        {
+          "id": "09-10",
+          "text": "但他留下的那个东西还在。",
+          "block": 2,
+          "blockStart": 1155,
+          "blockEnd": 1165
+        },
+        {
+          "id": "09-11",
+          "text": "它让本来没有资格做游戏的人，可以做一个自己的世界。",
+          "block": 2,
+          "blockStart": 1155,
+          "blockEnd": 1165
+        },
+        {
+          "id": "09-12",
+          "text": "哪怕那个世界里，只有一只小鲸鱼。",
+          "block": 2,
+          "blockStart": 1155,
+          "blockEnd": 1165
+        },
+        {
+          "id": "09-13",
+          "text": "哪怕你打不过它。",
+          "block": 2,
+          "blockStart": 1155,
+          "blockEnd": 1165
+        }
+      ]
+    }
+  ]
+}

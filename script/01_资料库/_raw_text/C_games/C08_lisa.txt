@@ -1,0 +1,362 @@
+SOURCE: https://en.wikipedia.org/wiki/Lisa:_The_Painful
+TITLE: Lisa: The Painful（英文维基）
+FETCHED: 2026-10-21 17:20:33
+============================================================
+
+Lisa: The Painful - Wikipedia
+
+Jump to content
+
+From Wikipedia, the free encyclopedia
+
+2014 video game
+
+2014 video game
+
+Lisa: The Painful
+
+Developer Dingaling Productions
+
+Publisher Dingaling Productions [ a ]
+
+Designer Austin Jorgensen
+
+Artist Austin Jorgensen
+
+Writer Austin Jorgensen
+
+Composer Austin Jorgensen
+
+Engine RPG Maker VX Ace
+
+Unity (Definitive Edition) [ citation needed ]
+
+Platforms
+
+Linux
+
+OS X
+
+Windows
+
+Nintendo Switch
+
+PlayStation 4
+
+PlayStation 5
+
+Xbox One
+
+Xbox Series X/S
+
+Android
+
+Release
+
+Linux , OS X , Windows
+
+December 15, 2014
+
+PS4 , PS5 , Switch , Xbox One , Xbox Series X/S
+
+July 18, 2023 (Definitive Edition)
+
+Android
+
+April 24, 2025 (Definitive Edition)
+
+Genre Role-playing
+
+Mode Single-player
+
+Lisa: The Painful is a 2014 post-apocalyptic role-playing video game developed and published by American indie studio Dingaling Productions. The game was written, designed, and composed by Austin Jorgensen, and was released for Windows , OS X , and Linux on December 15, 2014. [ 1 ] The Painful is the second instalment in the Lisa trilogy, preceded by Lisa: The First (2012), and followed by Lisa: The Joyful (2015), standalone downloadable content that concludes the series. [ 2 ]
+
+In Lisa: The Painful , the player controls Brad Armstrong, a balding, middle-aged man with a troubled past who journeys through the wasteland of Olathe in search of Buddy, his adoptive daughter. Along the way, he is forced to make choices that permanently affect both his own well-being and that of his party members. The game received generally favorable reviews, with praise for its story, gameplay, darkly comedic writing and soundtrack. Expanded versions of Lisa: The Painful and Lisa: The Joyful , bundled under the title of Lisa: Definitive Edition , were released on July 18, 2023. [ 3 ] [ 4 ]
+
+Gameplay
+[ edit ]
+Brad using the combo-based "Armstrong Style" in combat against an enemy snake
+Lisa features a combination of turn-based role-playing game combat in a 2D side-scrolling overworld . [ 5 ] Several of the game's characters, including the protagonist, Brad, are addicted to a drug named Joy. It is claimed in the game that Joy causes its users to "feel nothing", but drastically increases the power of attacking moves of the player's party members, though gives them serious withdrawals when unused. [ 6 ] The overworld features an assortment of settlements with shops and bars, where potential party members can often be found. [ 5 ] The game includes thirty different possible companions, though all, except for Brad are susceptible to permanent death through either scripted events such as Russian Roulette or against certain enemies, who will occasionally use permanent-kill moves. [ 6 ]
+
+In battle, Brad and some of his companions are able to use combination attacks using the "Dial Combo" system, allowing the player to press a sequence of keys to use powerful attacks like fireballs. [ 5 ] [ 7 ] Other party members use a variety of techniques for both offense and defense, and apply status effects such as stunning or paralysis. [ 7 ] Each party member has a different playstyle; [ 6 ] for example, the anti-Joy crusader Ajeet's standard attacks are various Pokes that do no damage but provide guaranteed status effects on the enemy, and as such his only method of direct damage is through his special moves.
+
+Throughout the game, Brad is forced to make choices that affect the core mechanics of gameplay. Depending on the player's choices, Brad can lose one or both of his arms, or some of his party members. [ 8 ] [ 9 ] The loss of Brad's arms drastically lowers his stats [ 9 ] and increases his Joy withdrawal frequency. Without any arms Brad cannot use his Armstrong Style and can only bite at opponents. [ 10 ]
+
+In Lisa: The Joyful , Buddy, the last female on earth, becomes the new protagonist . While gameplay is similar to its predecessor, Buddy has more traversal options and is generally more powerful than Brad, using timing-based attacks in battle. [ 11 ]
+
+Setting
+[ edit ]
+
+Both The Painful and The Joyful take place in a post-apocalyptic wasteland called Olathe. Once a normal town, following an unseen cataclysm known as "The Flash", all women have perished, and humanity of Olathe [ 12 ] was left with no way to reproduce. Lawlessness ravages most of Olathe, although certain areas are overseen by warlords, the strongest of which is known as the "Rando Army": a group clad in navy blue and red clothing led the titular martial artist "Rando", who always wears a skull-shaped mask and speaks aloud exclusively to a single subordinate.
+
+Many have resorted to Joy, a highly addictive drug spread by a gang leader named Buzzo, that makes people "feel nothing". Unbeknownst to its users, Joy was developed by a man named "Doctor Yado" who appears periodically throughout the game playing a trumpet in several areas. The drug was developed in partnership with the military prior to the events of the game to create super soldiers, though was deemed a failure: as, although effective, it eventually causes users to become deformed, mindless creatures known as Joy Mutants which are controlled exclusively by Yado himself.
+
+Plot
+[ edit ]
+
+Lisa: The First
+[ edit ]
+
+The First is the only game in the series in which the eponymous Lisa is directly seen by the player (although characters will often allude to her and she appears in both visions and flashback sequences experienced by other characters). Although largely unimportant to subsequent entries, it provides backstory on the series antagonist, Marty, and the motivation for the protagonist of The Painful , Brad Armstrong.
+
+One night, Lisa escapes from a decrepit house whilst her abusive father Marty Armstrong watches television on the couch. Despite physically escaping the location, Lisa is unable to move past the abuse inflicted upon her.
+
+The game is unique in that its cast is composed solely of two characters: Lisa herself and various deformed and grotesque manifestations of Marty. Players navigate many environments which shed light upon the relationship between Lisa and Marty: showcasing that, while Marty was once a caring and kindhearted man, an unknown incident (implied to be the departure of Lisa's mother) has left him dejected and sent him into the cycle of alcohol dependency. It is frequently implied that Marty both physically and sexually abused Lisa.
+
+The game concludes with Lisa spiraling into madness, and it is revealed in the title screen of The Painful that she committed suicide by hanging herself.
+
+Lisa: The Painful
+[ edit ]
+
+The game starts during a flashback, in which the player controls a child named Bradley Armstrong. The departure of his mother leads to Bradley and his younger sister, Lisa, to be abused and neglected by their father, Marty. The game then skips forward to the post-apocalyptic future, where Brad, now a middle-aged ex-martial arts instructor, lives with his friends. One day, he discovers a baby girl laying in the wasteland. While his friends plead for him to give the child to Rando, Brad refuses, instead raising the young girl he names "Buddy" in secret. She is seemingly kidnapped, leading Brad to embark on a journey across Olathe to rescue her.
+
+During his quest, Brad meets many different characters, some of whom may be recruited as party members by the player to be used in combat. Throughout the game, flashback scenes depict a pre-apocalyptic Olathe, shedding light on Brad's early life, including his upbringing alongside his younger sister Lisa and their relationship with Marty. Brad also repeatedly encounters Buzzo, who forces him to make serious choices with permanent gameplay consequences.
+
+Brad and Buddy are later reunited, whereupon Brad realizes that Buddy left on her own due to Brad's controlling nature. Brad still decides to take Buddy back to their home, but he is cornered by Buzzo and his gang, who knock him out and force-feed him Joy. Brad has a Joy-induced blackout, and when he wakes up he finds that Buzzo, his group, and Buddy are gone. After hearing that Buddy stole a boat and presumably went out to sea, Brad constructs his own in attempts to reach her, abandoning his party members whilst they sleep.
+
+Brad finds Buddy on a desolate island, being cared for by an aged Marty. The player is given the option to spare Marty, though this is ultimately useless, as he will be fought regardless of player choice. During the fight, Brad is forced to physically assault Buddy in attempts to kill Marty, and he proceeds to black-out. When Buddy escapes yet again, Brad uses a corpse as a flotation device to pursue his adoptive daughter.
+
+When he reaches land, Brad encounters the father of his childhood friend "Sticky": Mr. Angoneli. Angoneli, a former janitor, believes that God has sent Buddy to him: recounting how the apocalypse has allowed him to thrive. Angoneli explains that he must "brand" Buddy's face in order to make his mark on history before raping her. Brad swiftly attacks him, and attempts to console an injured Buddy, who rebuffs him: reiterating that she does not want to be saved before running off, eventually reaching the warlord Rando.
+
+Unexpectedly, Brad's party members arrive to confront him and reveal their true thoughts about Brad, which ranges wildly between characters: the shopping cart racer Frank Minetti reveals he has always hated Brad and intended to backstab him from the beginning, the professional wrestler Shocklord is reluctant to fight and begs his cohorts not to harm Brad, the child magician Jack claims that he had no concept of what a woman was prior to meeting Brad, etc... Brad, obsessed with reuniting with his adoptive daughter, slaughters them and proceeds to massacre Rando's forces, as well as severely crippling Rando.
+
+Brad finally reaches Buddy, as she berates him for ruining her chances at freedom. The player's final decision in the game is whether or not Buddy hugs a dying Brad (though this has no impact on the game's story), who proceeds to ask if he did the right thing. Brad then falls over, apparently dead. The ending the player receives depends on whether they selected to play on Pain Mode or use the drug Joy, though Brad will always transform into a Joy Mutant. Depending on the player's choices, different flashback sequences will play showcasing Brad's life before the Flash: shedding light on the titular Lisa's suicide.
+
+Lisa: The Joyful
+[ edit ]
+
+The game's DLC chapter takes place immediately after the end of the second game. Rando recovers from the fatal injuries inflicted upon him by Brad, and accompanies Buddy as she tries to become the most powerful person in Olathe by killing the warlords ruling it, despite Rando's disapproval.
+
+Following Buddy's slaughter of a village inhabited by pacifists, Rando leaves Buddy, presumably due to his horror at the senselessness of the violence Buddy has unleashed upon Olathe.
+
+Rando is subsequently captured by a man by the name of Bolo Bugaughtiichi, and is found by Buddy hanging from barbed wire as bait in an effort by Bolo to capture and rape Buddy. Buddy grabs on to the wire to prevent Rando falling, but is approached by Bolo. The player is given the choice to continue holding on, or drop Rando so Buddy can defend herself. If Buddy refuses to let go, a mutant named Sweetheart kills Bolo. If this occurs, a horribly injured Rando reveals that he was behind the kidnapping, in an attempt to keep Buddy safe and protected. Buddy, in a violent rage, drops him, then follows him into the pit to confront him, ending with slitting his throat. Afterwards, Buddy suffers from various hallucinations, implied to be the byproduct of taking Joy, such as seeing Brad and Rando watching her from various cliffs and overhangs.
+
+After defeating all of the game's warlords, Buddy confronts Dr. Yado, a trumpet-playing professor who appears in secret locations in The Painful , but cannot be interacted with. Yado, a mad scientist who created Joy claims he caused the Flash and used Buzzo to spread Joy throughout Olathe in an attempt to destroy civilization and rule the world by using his trumpet to control the Joy mutants. Buddy is suddenly ambushed by Sweetheart, but is saved by Buzzo, who informs her that Yado has a vaccine that can prevent her from becoming a Joy Mutant. After Yado's defeat, he begins to verbally confront Buddy, revealing himself to be her biological father, and asserts that he has control over her. He is suddenly killed by a horribly injured Buzzo, who renounced both of their evil actions.
+
+Buzzo explains that he was formerly Lisa's lover, and blamed Brad for failing to prevent his father's abuse, which eventually led to Lisa's suicide. This is what made him torment Brad throughout The Painful . After insisting that Brad was Buddy's true father and a good man, he mutates due to his own secret Joy use, and commits suicide via biting off his own neck. As Buddy is due to mutate regardless of the player's Joy use, the player can either take or refuse the vaccine, which stops Joy's mutagenic effects. Either choice ends the game with a cutscene that changes depending on what was selected.
+
+Development
+[ edit ]
+
+This section needs expansion . You can help by adding missing information . ( May 2026 )
+
+Prior to Lisa: The Painful 's development, developer Austin Jorgensen created his first game called Lisa (retroactively retitled Lisa: The First ) that was released as freeware on October 9, 2012. [ 13 ] [ 14 ] [ 15 ] [ 16 ] [ 17 ] [ 18 ] It focuses on the relationship between the titular Lisa and her father Marty, both of whom appear within future instalments of the series. [ 19 ] [ 20 ] The First differs significantly from The Painful , featuring a much greater emphasis on exploration and horror. [ 19 ] The First has been described by Jorgensen as a " Yume Nikki ripoff", as it borrows significant influence from Yume Nikki in structure. [ 21 ] [ 19 ] [ 22 ] : 12:47–13:07 Upon the 2014 game's release, both games received alternative names, Lisa: The First and Lisa: The Painful respectively, to distinguish them. [ 23 ] According to Jorgensen, The First was inspired by an ex-girlfriend of his describing her experiences of abuse, with the recollection making him ponder over how memories can effect people. [ 19 ]
+
+Lisa: The Painful was funded through Kickstarter with a goal of $7,000. [ 24 ] [ 25 ] The campaign was launched on November 14, 2013 and raised $16,492 from 847 people, reaching both of its stretch goals. [ 25 ] [ additional citation(s) needed ] Dingaling also developed the sequel expansion, Lisa: The Joyful , which features Buddy as its protagonist. [ 26 ] [ 27 ] Jorgensen has cited EarthBound as his main source of inspiration working on Lisa , drawing from both its art style and use of comic relief in a serious setting. [ 10 ] [ 26 ] He has also cited the manga series Fist of the North Star as an inspiration as well. [ 28 ]
+
+Expanded versions of Lisa: The Painful and Lisa: The Joyful , bundled under the title of Lisa: Definitive Edition , were announced on June 6, 2023, for the Nintendo Switch , PlayStation 4 , PlayStation 5 , Xbox One , Xbox Series X/S , and Windows , which introduced various fixes, new content, and a "Painless Mode" for lower difficulty. The rereleases were developed by Dingaling Productions and Serenity Forge , and released on July 18, 2023. [ 3 ] [ 29 ] [ 30 ]
+
+Reception
+[ edit ]
+
+This section needs expansion . You can help by adding missing information . ( May 2026 )
+
+Reception
+
+Aggregate scores
+Aggregator Score
+
+GameRankings 73% [ 31 ]
+
+Metacritic 77/100 [ 32 ]
+
+Review scores
+Publication Score
+
+Gamer.nl 7/10 [ 5 ]
+
+Multiplayer.it 9/10 [ 33 ]
+
+RPGamer 4/5 [ 7 ]
+
+RPGFan 67% [ 34 ]
+
+According to the review aggregate website Metacritic , Lisa: The Painful received "generally favorable reviews". Zach Welhouse of RPGFan praised the gameplay, graphics, story and soundtrack, but had mixed opinions about the game's moral choices, commenting that they "aren't always organically integrated into the plot, but nevertheless make for memorable scenes". Gensuke Okamoto of Kotaku Japan commented on the game, saying "While there have been RPGs with dark and depressing storylines before, it's rare to come across a game that leaves you with such a sense of despair even after winning". [ 35 ] Tom Bowen of Screen Rant called it "a charming and humorous game that tackles some fairly serious issues along the way", saying while it could be "depressing at times" it was ultimately a positive experience. [ 36 ] Mark Sammut of the same site said it "pushes the RPG Maker engine to its limits and shows what's possible with [the] tool with a lot of creativity", commenting on "the sheer amount of love present in the game" as a reason for its success. [ 37 ]
+
+Notes
+[ edit ]
+
+↑ Definitive Edition published by Serenity Forge .
+
+References
+[ edit ]
+
+↑ "LISA on Steam" . Steam . December 15, 2014 . Retrieved December 18, 2015 .
+
+↑ "8 Best Indie Video Game Franchises, Ranked" . Game Rant . January 18, 2025. Archived from the original on August 30, 2025 . Retrieved June 29, 2026 .
+
+1 2 Cripe, Michael (June 6, 2023). "LISA: Definitive Edition Launches in July with Tons of New Sidescrolling RPG Content" . The Escapist . Archived from the original on June 6, 2023 . Retrieved June 29, 2023 .
+
+↑ "Serenity Forge" . serenityforge.com . Retrieved June 3, 2025 .
+
+1 2 3 4 Barnhard, Thijs (February 15, 2015). "LISA: The Painful RPG – Earthbound voor weirdo's" [ Lisa: The Painful RPG – Earthbound for Weirdos ] . Gamer.nl (in Dutch). Sanoma. Archived from the original on July 22, 2017 . Retrieved December 19, 2015 .
+
+1 2 3 Kaharl, Jonathan (September 19, 2017). "Lisa The Painful" . Hardcore Gaming 101 . Archived from the original on June 17, 2022 . Retrieved June 16, 2022 .
+
+1 2 3 Welhouse, Zach. "LISA – Review – Joy to the World" . RPGamer . CraveOnline. Archived from the original on December 22, 2015 . Retrieved December 19, 2015 .
+
+↑ cookieP (December 19, 2025). "「Steamウィンターセール」が始まったので注目タイトル100種類以上をピックアップして紹介してみた。全力おすすめリストを更新【2025年度版】" . 電ファミニコゲーマー – ゲームの面白い記事読んでみない？ (in Japanese) . Retrieved July 6, 2026 .
+
+1 2 Porreca, Ray (March 18, 2015). "Pain, perversion, and choice in Lisa: The painful RPG [ sic ] " . Destructoid . Archived from the original on June 17, 2022 . Retrieved June 16, 2022 .
+
+1 2 Smith, Adam (November 26, 2013). "The Sacrificial Limb: Lisa – The Painful RPG" . Rock Paper Shotgun . Archived from the original on May 14, 2014 . Retrieved July 6, 2014 .
+
+↑ Kaharl, Jonathan (September 19, 2017). "Lisa The Joyful" . Hardcore Gaming 101 . Retrieved March 31, 2023 .
+
+↑ @DingalingGames (March 12, 2016). "@beepmemecreep not in Olathe no :)" ( Tweet ) – via Twitter .
+
+↑ Jorgensen, Austin (October 9, 2012). "Lisa 'The First' " . RPGMaker.net . Archived from the original on September 11, 2016 . Retrieved September 3, 2016 .
+
+↑ "Lisa "The First" (Dingaling)FreeIndieGam.es | FreeIndieGam.es" . www.freeindiegam.es . Archived from the original on July 4, 2013 . Retrieved May 22, 2026 .
+
+↑ "50 Free Indie Horror Games To Play On Halloween - Indie Statik" . indiestatik.com . Archived from the original on November 2, 2013 . Retrieved May 27, 2026 .
+
+↑ "Lisa is Not a Happy Game - Indie Statik" . indiestatik.com . Archived from the original on March 11, 2013 . Retrieved May 27, 2026 .
+
+↑ "20 free horror games you should play on Halloween - Kill Screen" . Kill Screen . October 31, 2016. Archived from the original on November 8, 2020 . Retrieved June 29, 2026 .
+
+↑ TsushimaHiro (March 21, 2024). "カルト的人気を博したRPG『LISA: The First』がSteamにて無料配信。謎の男に監禁されていたリサは脱出した先で不思議な世界に迷い込む。90年代のゲームを彷彿とさせるグラフィックで、サイコな世界が描かれる" . 電ファミニコゲーマー – ゲームの面白い記事読んでみない？ (in Japanese) . Retrieved July 7, 2026 .
+
+1 2 3 4 Kaharl, Jonathan (September 19, 2017). "Lisa The First" . Hardcore Gaming 101 . Archived from the original on June 17, 2022 . Retrieved June 16, 2022 .
+
+↑ "Best Horror RPG Maker Games" . Game Rant . October 2, 2021. Archived from the original on August 5, 2024 . Retrieved May 3, 2026 .
+
+↑ "Best Horror RPG Maker Games" . Game Rant . October 2, 2021. Archived from the original on October 21, 2025 . Retrieved March 17, 2026 .
+
+↑ "Sup, Holmes? Ep 92 w/ Austin Jorgensen (LISA the Painful RPG)" . January 21, 2014 . Retrieved June 25, 2022 – via YouTube .
+
+↑ Lopez, Carlo (September 8, 2015). "LISA is charming, heartbreaking, scary, and fun" . Haogamers . Archived from the original on October 19, 2015 . Retrieved September 3, 2016 .
+
+↑ "A World Without Women Is One Of Survival, Sacrifice And Perverts In LISA - Indie Statik" . indiestatik.com . Archived from the original on November 22, 2013 . Retrieved May 27, 2026 .
+
+1 2 Smith, Adam (October 24, 2014). "Tearing You Apart, Again: Lisa – The Painful RPG" . Rock Paper Shotgun . Archived from the original on June 17, 2022 . Retrieved June 16, 2022 .
+
+1 2 Nizam, Adam (November 8, 2016). "Exploring The Motherlike: Or, The Genre That Never Was" . Paste . Archived from the original on April 12, 2021 . Retrieved March 9, 2021 .
+
+↑ O'Connor, Alice (August 10, 2015). "O Misery! Lisa: The Joyful Expansion Coming This Month" . Rock, Paper, Shotgun . Retrieved July 9, 2026 .
+
+↑ "We Talk To The Creator Of LISA, The Ridiculously Crazy RPG - Hardcore Gamer" . Hardcore Gamer . December 17, 2013. Archived from the original on May 29, 2023 . Retrieved May 2, 2026 .
+
+↑ Life, Nintendo (June 7, 2023). "Cult "Life-Ruining RPG" Lisa: The Painful Gets Definitive Edition On Switch" . Nintendo Life . Archived from the original on June 7, 2023 . Retrieved May 2, 2026 .
+
+↑ "Lisa: Definitive Edition" . IGN . Retrieved June 7, 2026 .
+
+↑ "LISA for PC" . GameRankings . CBS Interactive . Archived from the original on December 9, 2019 . Retrieved December 18, 2015 .
+
+↑ "LISA for PC Reviews" . Metacritic . CBS Interactive . Retrieved December 18, 2015 .
+
+↑ Tagliaferri, Simone (December 31, 2014). "LISA – Redenzione fetida" [ LISA – Fetid Redemption ] . Multiplayer.it (in Italian). Archived from the original on June 25, 2022 . Retrieved June 25, 2022 .
+
+↑ Wilkerson, Zach (December 4, 2019). "LISA: The Painful" . RPGFan . Archived from the original on March 26, 2023 . Retrieved March 26, 2023 .
+
+↑ "女性が絶滅した終末世界でクソ野郎と変態が生き残りを賭けるRPG『LISA』 ｜ コタク・ジャパン" . コタク・ジャパン (in Japanese). October 30, 2014. Archived from the original on December 12, 2024 . Retrieved May 2, 2026 .
+
+↑ "The 18 Best RPG Maker Games Of All Time" . Game Rant . May 29, 2021. Archived from the original on January 6, 2023 . Retrieved March 19, 2026 .
+
+↑ "Best Horror RPG Maker Games" . GameRant . October 2, 2021. Archived from the original on March 12, 2026 . Retrieved March 19, 2026 .
+
+External links
+[ edit ]
+
+Official website
+
+Portal :
+Video games
+
+Retrieved from " https://en.wikipedia.org/w/index.php?title=Lisa:_The_Painful&oldid=1373341527 "
+
+Categories :
+2014 video games
+
+Crowdfunded video games
+
+Fiction about child abuse
+
+Fiction about child sexual abuse
+
+Fiction about incest
+
+Video games about patricide
+
+Fiction about single-gender worlds
+
+Fiction about substance abuse
+
+Indie games
+
+Kickstarter-funded video games
+
+Linux games
+
+MacOS games
+
+Nintendo Switch games
+
+PlayStation 4 games
+
+PlayStation 5 games
+
+Post-apocalyptic video games
+
+Role-playing video games
+
+RPG Maker games
+
+Serenity Forge games
+
+Side-scrolling role-playing video games
+
+Single-player video games
+
+Video games about drugs
+
+Video games about families
+
+Video games about mutants
+
+Video games developed in the United States
+
+Video games set in the United States
+
+Windows games
+
+Xbox One games
+
+Xbox Series X and Series S games
+
+Hidden categories:
+Articles with short description
+
+Short description is different from Wikidata
+
+Use mdy dates from June 2024
+
+All articles with unsourced statements
+
+Articles with unsourced statements from July 2025
+
+Articles using Infobox video game using locally defined parameters
+
+Articles using Wikidata infoboxes with locally defined images
+
+CS1 Japanese-language sources (ja)
+
+Articles to be expanded from May 2026
+
+All articles to be expanded
+
+All articles needing additional references
+
+Articles needing additional references from September 2024
+
+CS1 Dutch-language sources (nl)
+
+CS1 Italian-language sources (it)
+
+Articles using Video game reviews template in single platform mode
+
+Search
+
+Lisa: The Painful
+
+8 languages Add topic

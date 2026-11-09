@@ -1,0 +1,13 @@
+TYPES: post(posts), page(pages), attachment(media), nav_menu_item(menu-items), wp_block(blocks), wp_template(templates), wp_template_part(template-parts), wp_global_styles(global-styles), wp_navigation(navigation), wp_font_family(font-families), wp_font_face(font-families/(?P<font_family_id>[\d]+)/font-faces), news(news), product(product), interview(interview), popular_title(popular_title), case_studies(case_studies), ppwp-section(ppwp-section)
+CANDIDATES: font-families/(?P<font_family_id>[\d]+)/font-faces, news, product, interview, popular_title, case_studies, ppwp-section, history, maker, item, archive
+FAIL font-families/(?P<font_family_id>[\d]+)/font-faces HTTPError: HTTP Error 404: Not Found
+OK news items=34 chars=15447
+OK product items=10 chars=985
+EMPTY interview
+OK popular_title items=5 chars=9548
+OK case_studies items=1 chars=1794
+EMPTY ppwp-section
+FAIL history HTTPError: HTTP Error 404: Not Found
+FAIL maker HTTPError: HTTP Error 404: Not Found
+FAIL item HTTPError: HTTP Error 404: Not Found
+FAIL archive HTTPError: HTTP Error 404: Not Found
