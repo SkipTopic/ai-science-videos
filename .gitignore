@@ -19,3 +19,7 @@ desktop.ini
 .gh_*.json
 .rel_*.json
 .asset.json
+
+# 排查时落在仓库根的临时响应文件
+/*.json
+/*.html
