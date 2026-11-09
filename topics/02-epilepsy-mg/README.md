@@ -19,9 +19,9 @@
 | 规格 | 1920×1080 / H.264 High + AAC 192k 48kHz 立体声 |
 | 大小 | 62,970,719 B（约 60 MiB） |
 | MD5 | `1418d57a507e7907e48ee23052f6d973` |
-| 字幕 | 外挂 SRT，435 条：`preview/癫痫科普_纯MG动画版_字幕.srt` |
+| 字幕 | 外挂 SRT，435 条：`preview/癫痫科普_纯MG动画版_字幕.srt` · [Release 附件](https://github.com/SkipTopic/ai-science-videos/releases/download/epilepsy-mg/Epilepsy_MG_Animation_zh.srt) |
 | 配乐 | 无。只有云扬（`zh-CN-YunyangNeural`）旁白与留白 |
-| 下载 | **[Releases · epilepsy-mg](https://github.com/SkipTopic/ai-science-videos/releases/tag/epilepsy-mg)** |
+| 下载 | **[Releases · epilepsy-mg](https://github.com/SkipTopic/ai-science-videos/releases/tag/epilepsy-mg)** · [直接下载 mp4](https://github.com/SkipTopic/ai-science-videos/releases/download/epilepsy-mg/Epilepsy_MG_Animation_1080p.mp4)（60 MiB，不用登录） |
 
 > 60 MiB 其实没到 GitHub 单文件 100 MB 的硬上限，但仍然放进 Release 而不是 git 历史：视频是二进制、改一版就多存一份，放在 Release 里克隆才不会被拖慢。
 
