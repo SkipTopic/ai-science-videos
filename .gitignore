@@ -17,3 +17,5 @@ desktop.ini
 
 # 本次上传用的临时 API 响应，不进仓库
 .gh_*.json
+.rel_*.json
+.asset.json

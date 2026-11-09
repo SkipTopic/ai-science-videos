@@ -41,8 +41,9 @@
 | MD5 | `c225235575d6d8c682d3624e6040a3f8` |
 | 字幕 | 烧录（数据在 `code/remotion-studio-v3/src/data/film.json` 的 `cues`） |
 | 样片 | `preview/20261021_RPGMaker_序章.mp4`（序章 1:45，24 MB，可直接在 GitHub 预览） |
+| **全片下载** | **[Releases · film-v3](https://github.com/SkipTopic/ai-science-videos/releases/tag/film-v3)** · [直接下载 mp4](https://github.com/SkipTopic/ai-science-videos/releases/download/film-v3/RPGMaker_Dreams_and_Worlds_v3_1080p.mp4)（516 MB，不用登录） |
 
-**为什么仓库里没有全片**：GitHub 单文件上限 100 MB，全片 492 MiB 传不上去。三种正确做法见 [`docs/链接与依赖说明.md`](docs/链接与依赖说明.md) 最后一节（GitHub Releases / Git LFS / 网盘+README 外链）。
+> 全片 492 MiB 超过 git 单文件 100 MB 的硬限制，所以没进代码历史，而是作为 **Release 附件**单独发布：不拖慢 `git clone`，下载也比仓库内文件稳。
 
 ---
 
@@ -207,7 +208,7 @@ QA 脚本：`tools/qa/qa_v3.py`（全片）、`tools/qa/check_static.py`（单�
 | `out/` 渲染中间产物（约 1.6 GB） | 分段 mp4 / 抽帧，可重渲 |
 | `_备份/*.tar.gz`（21 个快照，1.57 GB） | 开发快照，时间线已整理成 `docs/快照时间线.md` |
 | v1 / v2 工程 | 按要求只放最新版 v3；改动记录在 docs 里 |
-| 全片 3 个版本（190 / 518 / 516 MB） | 超过 GitHub 单文件 100 MB；只放 24 MB 的序章样片 |
+| 全片 v1 / v2（190 / 518 MB） | 只发布最新版；v3 在 [Releases](https://github.com/SkipTopic/ai-science-videos/releases/tag/film-v3) 里 |
 
 原始本地工程**一个文件都没删、没移动**，本目录是纯复制出来的发布副本。
 
