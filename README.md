@@ -8,6 +8,17 @@
 
 ---
 
+## ▶ 在线观看
+
+[![在 B 站观看《RPG Maker 的历史》](preview/bilibili_cover.jpg)](https://www.bilibili.com/video/BV1HvHN6gEZU)
+
+**B 站**：[DS生成]RpgMaker的历史 · 11:51 · UP 主「跳过话题」
+
+> 点封面直接跳转 B 站播放。GitHub 只支持图片，不支持内嵌播放器，所以这里放的是可点击的封面。
+> 注：B 站上传版是 11:51；仓库里的工程对应 15:52 的 v3 完整版，两者时长不同。
+
+---
+
 ## 1. 成片
 
 | 项 | 值 |
@@ -42,7 +53,7 @@
 │  ├─ pipeline/               ← v2 的节拍重排、重定时写回、截图抓取、QA 脚本
 │  ├─ qa/                     ← v3 的全片 QA / 静止检测 / 接缝抽帧
 │  └─ blender/                ← 两个 3D 镜头的 .blend + 生成脚本 + 贴图 + Kenney CC0 模型
-└─ preview/                   ← 序章样片
+└─ preview/                   ← 序章样片 + B 站封面（README 顶部的可点击视频卡片）
 ```
 
 各目录的作用、每个脚本原来在本地工程的哪个位置，见 [`docs/链接与依赖说明.md`](docs/链接与依赖说明.md)。
